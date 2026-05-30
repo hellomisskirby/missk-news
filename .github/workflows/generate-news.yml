@@ -1,0 +1,44 @@
+name: Miss K NewsRoom — Daily News Generator
+
+on:
+  schedule:
+    - cron: '0 23 * * *'   # 23:00 UTC = 07:00 HKT
+  workflow_dispatch:
+    inputs:
+      date_override:
+        description: 'Date override (YYYY-MM-DD). Leave blank for today (HKT).'
+        required: false
+        default: ''
+
+jobs:
+  generate-news:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install anthropic
+
+      - name: Generate today's news
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DATE_OVERRIDE: ${{ github.event.inputs.date_override }}
+        run: python scripts/generate_news.py
+
+      - name: Commit and push updated news data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news-data/today.json news-data/archive/
+          git diff --cached --quiet || git commit -m "chore: update news $(date -u +'%Y-%m-%d')"
+          git push
