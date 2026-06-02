@@ -9,7 +9,9 @@ on:
         description: 'Date override (YYYY-MM-DD). Leave blank for today (HKT).'
         required: false
         default: ''
-
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  
 jobs:
   generate-news:
     runs-on: ubuntu-latest
