@@ -18,13 +18,15 @@ import json
 import os
 import re
 import shutil
+import time
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
 MODEL          = "claude-haiku-4-5-20251001"
-MAX_TOKENS     = 4096
+MAX_TOKENS     = 8192
+MAX_RETRIES    = 3
 OUTPUT_FILE    = Path("news-data/today.json")
 ARCHIVE_DIR    = Path("news-data/archive")
 HKT            = timezone(timedelta(hours=8))
@@ -186,16 +188,16 @@ def extract_json(raw: str) -> dict:
     Extract and parse JSON from the model response.
     Handles cases where the model wraps output in markdown code fences.
     """
-    # Strip markdown code fences if present
     cleaned = re.sub(r"^```(?:json)?\s*", "", raw.strip(), flags=re.MULTILINE)
     cleaned = re.sub(r"\s*```$", "", cleaned.strip(), flags=re.MULTILINE)
     cleaned = cleaned.strip()
 
-    # Attempt direct parse
+    if not cleaned:
+        raise ValueError(f"Response was empty after stripping code fences. Raw: {raw[:300]!r}")
+
     try:
         return json.loads(cleaned)
     except json.JSONDecodeError:
-        # Try to find the first { ... } block
         match = re.search(r"\{.*\}", cleaned, re.DOTALL)
         if match:
             return json.loads(match.group())
@@ -203,10 +205,6 @@ def extract_json(raw: str) -> dict:
 
 
 def validate_articles(data: dict, today: str) -> list:
-    """
-    Basic validation: check we have 4 articles with required fields.
-    Returns the validated list or raises ValueError.
-    """
     articles = data.get("articles", [])
     if len(articles) != 4:
         raise ValueError(f"Expected 4 articles, got {len(articles)}")
@@ -230,7 +228,6 @@ def validate_articles(data: dict, today: str) -> list:
 
 
 def save_output(data: dict, today: str) -> None:
-    """Save today.json and an archive copy."""
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -253,53 +250,62 @@ def main() -> None:
 
     client = anthropic.Anthropic(api_key=api_key)
 
-    print("Calling Anthropic API with web search...")
-    response = client.messages.create(
-        model=MODEL,
-        max_tokens=MAX_TOKENS,
-        system=SYSTEM_PROMPT,
-        tools=[
-            {
-                "type": "web_search_20250305",
-                "name": "web_search"
+    last_error = None
+    for attempt in range(1, MAX_RETRIES + 1):
+        print(f"\nAttempt {attempt}/{MAX_RETRIES}: Calling Anthropic API with web search...")
+        try:
+            response = client.messages.create(
+                model=MODEL,
+                max_tokens=MAX_TOKENS,
+                system=SYSTEM_PROMPT,
+                tools=[{"type": "web_search_20250305", "name": "web_search"}],
+                messages=[{"role": "user", "content": build_user_message(today)}]
+            )
+
+            print(f"  stop_reason: {response.stop_reason}")
+            print(f"  content blocks: {[b.type for b in response.content]}")
+
+            raw_text = ""
+            for block in response.content:
+                if block.type == "text":
+                    raw_text += block.text
+
+            if not raw_text.strip():
+                raise ValueError(
+                    f"API returned no text content. "
+                    f"stop_reason={response.stop_reason}, "
+                    f"blocks={[b.type for b in response.content]}"
+                )
+
+            print("  Parsing response...")
+            data = extract_json(raw_text)
+
+            print("  Validating articles...")
+            articles = validate_articles(data, today)
+            print(f"✓ {len(articles)} articles validated")
+            for a in articles:
+                print(f"  [{a['lang'].upper()}] {a['source']} — {a['title'][:60]}...")
+
+            output = {
+                "generated": datetime.now(HKT).isoformat(),
+                "date": today,
+                "count": len(articles),
+                "articles": articles
             }
-        ],
-        messages=[
-            {
-                "role": "user",
-                "content": build_user_message(today)
-            }
-        ]
-    )
 
-    # Extract the final text response (after tool use blocks)
-    raw_text = ""
-    for block in response.content:
-        if block.type == "text":
-            raw_text += block.text
+            save_output(output, today)
+            print("✓ Done!")
+            return
 
-    if not raw_text.strip():
-        raise ValueError("API returned no text content. Full response:\n" + str(response))
+        except Exception as e:
+            last_error = e
+            print(f"  ⚠ Attempt {attempt} failed: {type(e).__name__}: {e}")
+            if attempt < MAX_RETRIES:
+                wait = 10 * attempt
+                print(f"  Retrying in {wait}s...")
+                time.sleep(wait)
 
-    print("Parsing response...")
-    data = extract_json(raw_text)
-
-    print("Validating articles...")
-    articles = validate_articles(data, today)
-    print(f"✓ {len(articles)} articles validated")
-    for a in articles:
-        print(f"  [{a['lang'].upper()}] {a['source']} — {a['title'][:60]}...")
-
-    # Add metadata wrapper
-    output = {
-        "generated": datetime.now(HKT).isoformat(),
-        "date": today,
-        "count": len(articles),
-        "articles": articles
-    }
-
-    save_output(output, today)
-    print("✓ Done!")
+    raise RuntimeError(f"All {MAX_RETRIES} attempts failed. Last error: {last_error}") from last_error
 
 
 if __name__ == "__main__":
