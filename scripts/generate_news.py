@@ -24,7 +24,7 @@ from pathlib import Path
 
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
-MODEL          = "claude-haiku-4-5-20251001"
+MODEL          = "claude-sonnet-4-6"
 MAX_TOKENS     = 8192
 MAX_RETRIES    = 3
 OUTPUT_FILE    = Path("news-data/today.json")
@@ -258,7 +258,7 @@ def main() -> None:
                 model=MODEL,
                 max_tokens=MAX_TOKENS,
                 system=SYSTEM_PROMPT,
-                tools=[{"type": "web_search_20250305", "name": "web_search"}],
+                tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 6}],
                 messages=[{"role": "user", "content": build_user_message(today)}]
             )
 
