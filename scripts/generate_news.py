@@ -204,6 +204,75 @@ def extract_json(raw: str) -> dict:
         raise
 
 
+# ── STRUCTURED-OUTPUT FALLBACK ────────────────────────────────────────────────
+# Tool inputs returned by the API are always valid JSON, so forcing the model
+# to answer through a tool call guarantees parseable output. Used when the
+# free-text answer fails json.loads (usually unescaped quotes in summaries).
+
+_ARTICLE_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "id":          {"type": "string"},
+        "lang":        {"type": "string", "enum": ["en", "zh"]},
+        "source":      {"type": "string"},
+        "sourceUrl":   {"type": "string"},
+        "flag":        {"type": "string"},
+        "date":        {"type": "string"},
+        "adaptedFrom": {"type": "string"},
+        "title":       {"type": "string"},
+        "summary":     {"type": "string"},
+        "questions": {
+            "type": "object",
+            "properties": {
+                "lv1": {"type": "array", "items": {"type": "string"}, "minItems": 2},
+                "lv2": {"type": "array", "items": {"type": "string"}, "minItems": 2},
+                "lv3": {"type": "array", "items": {"type": "string"}, "minItems": 2},
+            },
+            "required": ["lv1", "lv2", "lv3"],
+        },
+    },
+    "required": ["id", "lang", "source", "sourceUrl", "flag", "date",
+                 "adaptedFrom", "title", "summary", "questions"],
+}
+
+SAVE_NEWS_TOOL = {
+    "name": "save_news",
+    "description": "Save the 4 rewritten Miss K NewsRoom articles.",
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "articles": {"type": "array", "items": _ARTICLE_SCHEMA, "minItems": 4, "maxItems": 4},
+        },
+        "required": ["articles"],
+    },
+}
+
+
+def structure_with_tool(client: "anthropic.Anthropic", raw_text: str, today: str) -> dict:
+    """Re-send a malformed free-text answer and force valid JSON via tool use."""
+    print("  Direct JSON parse failed — restructuring via forced tool call...")
+    response = client.messages.create(
+        model=MODEL,
+        max_tokens=MAX_TOKENS,
+        tools=[SAVE_NEWS_TOOL],
+        tool_choice={"type": "tool", "name": "save_news"},
+        messages=[{
+            "role": "user",
+            "content": (
+                f"The following text contains 4 news articles for {today} in a "
+                "JSON-like format that failed to parse. Call save_news with exactly "
+                "the same content — preserve every field value and all wording "
+                "unchanged. Fix only the JSON formatting (e.g. quote escaping).\n\n"
+                + raw_text
+            ),
+        }],
+    )
+    for block in response.content:
+        if block.type == "tool_use" and block.name == "save_news":
+            return block.input
+    raise ValueError("Restructuring call returned no save_news tool_use block")
+
+
 def validate_articles(data: dict, today: str) -> list:
     articles = data.get("articles", [])
     if len(articles) != 4:
@@ -278,7 +347,10 @@ def main() -> None:
                 )
 
             print("  Parsing response...")
-            data = extract_json(raw_text)
+            try:
+                data = extract_json(raw_text)
+            except json.JSONDecodeError:
+                data = structure_with_tool(client, raw_text, today)
 
             print("  Validating articles...")
             articles = validate_articles(data, today)
