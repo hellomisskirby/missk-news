@@ -1,55 +1,55 @@
 {
-  "generated": "2026-06-17T00:17:55.878344+08:00",
+  "generated": "2026-06-17T20:59:48.350952+08:00",
   "date": "2026-06-17",
   "count": 4,
   "articles": [
     {
       "id": "2026-06-17-en-1",
       "lang": "en",
-      "source": "Hong Kong Free Press / South China Morning Post",
-      "sourceUrl": "https://hongkongfp.com/2026/06/10/hong-kong-proposes-2-pay-rise-for-civil-servants-amid-geopolitical-uncertainty/",
-      "flag": "🇭🇰",
+      "source": "AP News / NPR",
+      "sourceUrl": "https://www.npr.org/sections/world/",
+      "flag": "🌐",
       "date": "2026-06-17",
-      "adaptedFrom": "Hong Kong Free Press",
-      "title": "Hong Kong Government Workers to Receive 2% Pay Increase",
-      "summary": "Hong Kong's government has decided to give all civil servants a 2% salary increase for the year 2026–27. The pay rise applies to workers at every level — from junior staff to senior officials — and will be counted from 1 April 2026. Last year, civil servants received no pay rise at all because the government had been spending more money than it earned. This year, Hong Kong's finances improved, showing a small surplus. Officials said the 2% figure was chosen carefully, balancing the city's economic growth, rising living costs, and the need to save money for the future. Some workers had hoped for a higher raise, since a survey of private companies suggested increases of up to 4.12% for senior grades.",
+      "adaptedFrom": "AP News (via NPR World News, June 17, 2026)",
+      "title": "UN Chief Travels to Haiti as Thousands Are Killed by Gang Violence",
+      "summary": "The head of the United Nations, António Guterres, travelled to Haiti's capital, Port-au-Prince, on June 16 to see the situation on the ground for himself. Haiti has been suffering from serious gang violence for a long time. According to United Nations figures, around 2,300 people have already lost their lives in Haiti so far this year, and at least 100 others have been kidnapped. Guterres met with soldiers and local people during his visit. The UN is trying to find ways to bring peace and safety back to the Caribbean nation, where many citizens live in fear every day.",
       "questions": {
         "lv1": [
-          "What percentage pay rise are Hong Kong civil servants receiving this year? (香港公務員今年獲得多少百分比的加薪？)",
-          "Did Hong Kong civil servants receive a pay rise last year? (香港公務員去年有沒有加薪？)"
+          "Who is the leader of the United Nations who visited Haiti? (聯合國的領導人是誰去了海地探訪？)",
+          "According to the UN, how many people have been killed in Haiti this year? (根據聯合國的資料，今年海地有多少人喪生？)"
         ],
         "lv2": [
-          "Why did the government choose 2% instead of a higher amount like 4.12%? (政府為何選擇加薪2%，而非更高的4.12%？)",
-          "What does it mean when the government says it needs to be 'prudent' with public money? (政府說要「審慎」理財，是什麼意思？)"
+          "Why do you think the UN Secretary-General decided to visit Haiti in person instead of just sending a message? (你認為聯合國秘書長為何親自前往海地，而不只是發出訊息？)",
+          "How might gang violence affect the daily lives of children living in Haiti? (幫派暴力可能如何影響住在海地的兒童的日常生活？)"
         ],
         "lv3": [
-          "Is it fair that all civil servants — from junior to senior — receive the same 2% increase, regardless of their performance or salary level? Why or why not? (不論職級高低，所有公務員都獲得相同的2%加薪，這樣公平嗎？為什麼？)",
-          "How should a government balance rewarding its workers fairly while also saving money for citizens' future needs? What values are in tension here? (政府應如何在公平獎勵員工與為市民儲備資源之間取得平衡？當中涉及哪些價值觀的衝突？)"
+          "What responsibilities do international organisations like the UN have when a country is facing violence and instability? Should they intervene, and if so, how? (當一個國家面臨暴力和動盪時，聯合國等國際組織有什麼責任？他們應否介入，如何介入？)",
+          "Some people argue that other countries should not get involved in Haiti's internal problems, while others believe the world must help. What is your view, and why? (有人認為其他國家不應干涉海地的內部問題，也有人認為世界各國必須伸出援手。你的看法是什麼？原因為何？)"
         ]
       }
     },
     {
       "id": "2026-06-17-en-2",
       "lang": "en",
-      "source": "Earth.Org",
-      "sourceUrl": "https://earth.org/this-week-in-climate-news-june-2026-week-2/",
-      "flag": "🌍",
+      "source": "明報 / 星島頭條",
+      "sourceUrl": "https://www.stheadline.com/",
+      "flag": "🇭🇰",
       "date": "2026-06-17",
-      "adaptedFrom": "Earth.Org",
-      "title": "Scientists Warn: 2026 Is on Track to Be One of the Hottest Years Ever Recorded",
-      "summary": "Climate scientists are raising the alarm about rising global temperatures in 2026. Each month this year — from December through to April — has ranked among the warmest ever recorded for that time of year. Experts say it is now almost certain that 2026 will finish as one of the ten hottest years in history, and it could even land in the top five. This continuing streak of record-breaking heat worries scientists because it shows that the Earth is warming faster than many people expected. The pattern adds pressure on governments around the world to take stronger and faster action to reduce the greenhouse gases that are causing our planet to heat up.",
+      "adaptedFrom": "星島頭條 (June 17, 2026)",
+      "title": "Top Beijing Official Ends Two-Day Hong Kong Visit, Urging Faster Development of Northern Metropolis",
+      "summary": "Xia Baolong, the director of China's Hong Kong and Macao Affairs Office, finished a two-day visit to Hong Kong on Wednesday, June 17, and left the city through the Shenzhen Bay crossing. During his stay, he inspected the Northern Metropolis development zone and encouraged officials to speed up construction and innovation work there. Hong Kong's Chief Executive, John Lee, saw him off and spoke to reporters afterwards. Officials said the visit showed that the central government considers the Northern Metropolis an important engine for Hong Kong's future growth in technology and industry.",
       "questions": {
         "lv1": [
-          "Is 2026 expected to be one of the hottest years ever? (2026年預計會是有史以來最炎熱的年份之一嗎？)",
-          "How many of the recent months in 2026 have been unusually warm? (2026年有多少個月份的氣溫異常偏高？)"
+          "Which part of Hong Kong did the Beijing official visit during his two-day trip? (這位北京官員在兩天的訪問中參觀了香港哪個地區？)",
+          "How did the official leave Hong Kong after his visit? (這位官員在訪問結束後是如何離開香港的？)"
         ],
         "lv2": [
-          "Why does it matter if 2026 becomes one of the top five hottest years on record? (如果2026年成為有記錄以來最熱的五年之一，為什麼這件事很重要？)",
-          "What are greenhouse gases and how do they cause the Earth to get warmer? (什麼是溫室氣體？它們如何導致地球變暖？)"
+          "Why might the Chinese central government be especially interested in the development of the Northern Metropolis area? (中央政府為何特別關注北部都會區的發展？)",
+          "What does it mean to develop a city as a centre for 'innovation and technology'? Can you give some examples? (把一個城市發展成「創新科技」中心是什麼意思？你能舉出一些例子嗎？)"
         ],
         "lv3": [
-          "Some people argue that individuals should change their daily habits to fight climate change, while others say only big governments and companies can make a real difference. Which view do you agree with more, and why? (有人認為個人應改變日常習慣來應對氣候變化，也有人說只有政府和大企業才能真正改變局面。你更同意哪個觀點？為什麼？)",
-          "If 2026 breaks heat records again, should wealthier countries be required to pay poorer countries for the damage caused by climate change? Consider different perspectives in your answer. (如果2026年再次打破高溫紀錄，富裕國家是否應該為氣候變化對貧窮國家造成的損失承擔賠償責任？請從不同角度分析。)"
+          "The Northern Metropolis is planned to bring Hong Kong and the mainland cities of the Greater Bay Area closer together. Do you think this is a good idea for Hong Kong's future? What are the possible benefits and concerns? (北部都會區的規劃旨在拉近香港與大灣區內地城市的距離。你認為這對香港的未來是好事嗎？有什麼可能的好處和隱憂？)",
+          "When a senior official visits a city to inspect development projects, how can ordinary citizens make sure their voices are also heard in planning decisions? (當高級官員視察發展項目時，普通市民如何確保自己的聲音也能在規劃決策中被聽到？)"
         ]
       }
     },
@@ -57,49 +57,49 @@
       "id": "2026-06-17-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/pns/港聞/article/20260617/s00002/",
+      "sourceUrl": "https://news.mingpao.com/",
       "flag": "🇭🇰",
       "date": "2026-06-17",
-      "adaptedFrom": "明報",
-      "title": "嶺大研究：情緒抑鬱未必影響個人判斷 但或令人誤讀他人關係",
-      "summary": "香港嶺南大學最新研究發現，情緒抑鬱的人在作個人決定時，未必比一般人差。研究人員指出，抑鬱情緒雖然令人感到沮喪，但並不一定削弱當事人的獨立思考能力。不過，研究同時指出，抑鬱者在理解和解讀人與人之間的關係時，準確度可能有所下降，較容易出現誤解。這項研究結果有助社會更全面地了解抑鬱症對日常生活的影響，並提醒大眾不應對情緒病患者存有不必要的偏見或誤解。",
+      "adaptedFrom": "明報（2026年6月17日）",
+      "title": "港府公務員獲加薪2%　工會憂中低層加幅創十年新低",
+      "summary": "香港政府宣布，公務員將獲加薪2%，調整將考慮政府未來的財務負擔。不過，有公務員工會對此表示關注，認為若引入新的計算方式，中低層公務員的加薪幅度可能是近十年來最低的一次。工會擔心新機制欠缺透明度，難以讓員工清楚了解薪酬調整的依據。公務員薪酬水平直接影響數以萬計在政府部門工作的僱員，加薪幅度亦反映政府對公共財政的取態。",
       "questions": {
         "lv1": [
-          "嶺南大學的研究發現，情緒抑鬱是否一定會影響人的判斷力？",
-          "抑鬱者在哪一方面的能力較容易受到影響？"
+          "香港政府宣布公務員加薪多少百分比？",
+          "哪些人對今次加薪幅度感到不滿？"
         ],
         "lv2": [
-          "為什麼了解抑鬱症對思考能力的影響，對社會上的其他人有幫助？",
-          "如果抑鬱者在理解人際關係方面有困難，這會對他們的日常生活和人際交往帶來什麼影響？"
+          "為什麼公務員工會會擔心新的薪酬計算方式？這對中低層員工有什麼影響？",
+          "政府在決定公務員加薪幅度時，需要考慮哪些因素？"
         ],
         "lv3": [
-          "社會上有些人對情緒病患者存有偏見，認為他們的判斷力較差或不可信任。這項研究結果如何挑戰或支持這種想法？",
-          "學校應否為學生提供更多情緒健康教育？這樣做有什麼好處和潛在風險？"
+          "有人認為政府應該優先保障公共財政穩健，因此不宜大幅加薪；也有人認為公務員為市民服務，理應獲得合理薪酬。你認為哪個觀點更有說服力？",
+          "薪酬透明度對員工和僱主雙方有什麼好處和壞處？政府機構是否應該公開所有薪酬計算細節？"
         ]
       }
     },
     {
       "id": "2026-06-17-zh-2",
       "lang": "zh",
-      "source": "星島日報",
-      "sourceUrl": "https://www.stheadline.com/hongkong-news/",
+      "source": "星島頭條",
+      "sourceUrl": "https://www.stheadline.com/",
       "flag": "🇭🇰",
       "date": "2026-06-17",
-      "adaptedFrom": "星島日報",
-      "title": "港府推五年規劃諮詢 北都發展列首要任務",
-      "summary": "香港政府近日展開新一輪五年發展規劃的公眾諮詢，其中加快推進北部都會區的建設被列為最優先的工作目標。北部都會區是一個橫跨新界北部的大型發展計劃，旨在興建更多住宅、商業及創科設施，以吸引人才和企業進駐。政府表示，今次規劃諮詢將與施政報告及財政預算案緊密配合，務求令各項政策發展方向更有系統。市民可透過不同渠道表達意見，參與塑造香港未來的發展藍圖。",
+      "adaptedFrom": "星島頭條（2026年6月17日）",
+      "title": "青沙公路發生奪命車禍　休班消防員補渡蜜月返港途中不幸罹難",
+      "summary": "青沙公路於6月17日發生嚴重交通意外，造成兩人死亡。其中一名男死者是一名休班消防員，他與太太補渡蜜月後返港，途中遭遇意外，不幸離世。據悉，該消防員上星期曾參與觀塘海面的拯救行動，救起一名墮海長者，獲得市民讚揚。事件令人惋惜，各界對其家屬表示深切慰問。當局正就事故展開調查，了解車禍成因。",
       "questions": {
         "lv1": [
-          "今次政府五年規劃諮詢中，哪個發展項目被列為最優先？",
-          "北部都會區位於香港哪個地區？"
+          "這宗車禍發生在哪條公路上？",
+          "其中一名死者生前是從事什麼職業的？"
         ],
         "lv2": [
-          "為什麼政府要進行公眾諮詢，而不是直接自行決定發展計劃？",
-          "北部都會區的發展對香港市民的日常生活有什麼可能影響？"
+          "為什麼這宗交通意外特別令人感到惋惜？請從新聞內容中找出原因。",
+          "消防員在社會上擔當什麼重要角色？他們的工作有哪些危險？"
         ],
         "lv3": [
-          "在發展北部都會區的過程中，如何平衡經濟發展與保護自然環境之間的矛盾？請從不同持份者的角度分析。",
-          "公眾諮詢是否真正能夠反映市民的心聲？你認為應如何改善現有的諮詢制度，讓更多不同年齡層的市民積極參與？"
+          "香港道路交通事故時有發生，你認為政府和市民各自可以採取什麼措施來減少意外？",
+          "當一名為社會服務的人（如消防員、醫護人員）不幸離世，社會應如何支援其家屬？這反映了社會對公共服務人員有什麼態度？"
         ]
       }
     }
