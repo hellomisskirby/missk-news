@@ -1,0 +1,107 @@
+{
+  "generated": "2026-10-11T09:28:43.443919+08:00",
+  "date": "2026-10-11",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-10-11-en-1",
+      "lang": "en",
+      "source": "Wired / Nobel Prize 2026",
+      "sourceUrl": "https://www.wired.com/story/life-is-asymmetric-the-scientists-who-figured-out-why-won-the-2026-nobel-prize-in-chemistry/",
+      "flag": "🔬",
+      "date": "2026-10-11",
+      "adaptedFrom": "Wired (Nobel Prize in Chemistry 2026 report)",
+      "title": "Scientists Win 2026 Nobel Chemistry Prize for Unlocking the Secret of Life's Twist",
+      "summary": "Have you ever noticed that your left hand and right hand are mirror images but cannot fit into the same glove? Many molecules in living things are the same — they come in mirror-image versions. Scientists have long wondered why nearly all life on Earth uses only one version, called 'left-handed' molecules. This year's Nobel Prize in Chemistry was awarded to the researchers who finally explained why. Their discovery helps us understand the origins of life itself and could lead to better medicines in the future. The Nobel Prize is one of the world's most respected science awards, given every year in Stockholm.",
+      "questions": {
+        "lv1": [
+          "What prize did these scientists win for their discovery? (這些科學家因為他們的發現獲得了什麼獎項？)",
+          "What does it mean when we say molecules can be 'left-handed' or 'right-handed'? (當我們說分子可以是「左手性」或「右手性」時，這是什麼意思？)"
+        ],
+        "lv2": [
+          "Why is it important for scientists to understand why life uses only one type of mirror-image molecule? (為什麼科學家了解生命為何只使用一種鏡像分子非常重要？)",
+          "How might this discovery help doctors create better medicines in the future? (這項發現將來可能如何幫助醫生研製更好的藥物？)"
+        ],
+        "lv3": [
+          "Some people think that science prizes like the Nobel Prize are only given to researchers from wealthy countries. Do you agree? Is this fair? What could be done to make science more equal globally? (有人認為諾貝爾獎等科學獎項只頒給富裕國家的研究人員。你同意嗎？這公平嗎？可以怎樣讓全球科學更平等？)",
+          "Should governments spend more money on basic science research — even when we do not know yet how it will be useful? Give reasons for and against. (政府是否應該在基礎科學研究上投入更多資金——即使我們還不知道它有什麼用處？請說出支持和反對的理由。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-11-en-2",
+      "lang": "en",
+      "source": "星島日報 (Sing Tao Daily)",
+      "sourceUrl": "https://www.singtao.co.uk/",
+      "flag": "🌎",
+      "date": "2026-10-11",
+      "adaptedFrom": "Sing Tao Daily / Singtao USA (international news report)",
+      "title": "Powerful 7.7 Earthquake Strikes Panama, Tsunami Warnings Issued Across Central America",
+      "summary": "A very strong earthquake measuring 7.7 on the Richter scale struck the country of Panama in Central America, causing buildings to collapse and sending shockwaves across the region. Authorities in the United States quickly issued tsunami warnings for several countries in Central and South America, warning people near coastlines to move to higher ground immediately. Panama's president declared a major national disaster, ordered all schools to close, and temporarily shut down the country's international airport. Emergency teams were deployed to help people trapped in damaged buildings. Scientists remind us that earthquakes cannot be predicted, which is why having emergency plans is so important.",
+      "questions": {
+        "lv1": [
+          "What natural disaster happened in Panama recently? (最近巴拿馬發生了什麼自然災害？)",
+          "What did the president of Panama do after the earthquake struck? (地震發生後，巴拿馬總統做了什麼？)"
+        ],
+        "lv2": [
+          "Why did authorities issue tsunami warnings after the earthquake, and what should people living near the coast do when they hear a tsunami warning? (為什麼地震後當局發出海嘯警報？住在海岸附近的人聽到海嘯警報時應該怎麼做？)",
+          "Why is it important for schools and families to have emergency plans ready before a disaster happens? (為什麼學校和家庭在災難發生前做好緊急應對計劃非常重要？)"
+        ],
+        "lv3": [
+          "Developing countries often suffer more damage from earthquakes than wealthier nations, even when the earthquakes are the same size. Why might this be, and what responsibilities do richer countries have to help? (發展中國家在地震中往往比富裕國家受到更多破壞，即使地震規模相同。為什麼會這樣？富裕國家有什麼責任去幫助？)",
+          "Some scientists argue that more international funding should go towards earthquake early-warning systems. Others say the money is better spent on post-disaster recovery. Which do you think is more important, and why? (一些科學家認為，應投入更多國際資金用於地震預警系統。另一些人則認為這些錢最好用於災後重建。你認為哪個更重要？為什麼？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-11-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/section/20261011/s00001",
+      "flag": "🇭🇰",
+      "date": "2026-10-11",
+      "adaptedFrom": "明報",
+      "title": "香港新增一宗猴痘確診　患者為29歲男性、情況穩定",
+      "summary": "香港衛生防護中心於10月10日公布，本港出現一宗新的猴痘（Mpox）確診個案，患者為一名29歲男性，目前情況穩定，正接受治療。猴痘是一種透過密切接觸傳播的病毒性疾病，症狀包括發燒、皮疹及水泡等。衛生當局提醒市民，若出現相關病徵應及早求醫，並避免與不明人士有密切身體接觸，以減低感染風險。公眾毋須過度恐慌，保持個人衞生是最有效的預防方法。",
+      "questions": {
+        "lv1": [
+          "今次確診猴痘的患者是多少歲？",
+          "猴痘主要是透過什麼方式傳播的？"
+        ],
+        "lv2": [
+          "衛生防護中心建議市民在日常生活中採取哪些措施來預防猴痘？",
+          "為什麼當局提醒市民「毋須過度恐慌」？保持冷靜在公共衞生事件中有什麼重要性？"
+        ],
+        "lv3": [
+          "當一個城市出現傳染病個案時，政府應該公開多少資訊給市民知道？公開資訊與保護患者私隱之間，應如何取得平衡？",
+          "有人認為香港地少人多，一旦出現傳染病便很容易擴散，因此政府應採取更嚴格的防控措施。你同意嗎？過嚴的措施又可能帶來哪些問題？"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-11-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
+      "flag": "🇭🇰",
+      "date": "2026-10-11",
+      "adaptedFrom": "星島日報",
+      "title": "新皇崗口岸料下周開通　設「聯合一站式」車道　海關視察確保準備就緒",
+      "summary": "香港與深圳之間的新皇崗口岸預計將於下周正式啟用。香港海關關長陳子達率領團隊親赴現場視察，聆聽前線人員匯報，並檢查各項通關設施的運作情況，確保一切準備妥當。新口岸引入「聯合一站式」車道等創新通關措施，旨在令旅客過境更加便捷高效。新皇崗口岸是港深兩地重要的陸路連接點，啟用後將有助促進兩地人員及貨物往來，對香港北部都會區的發展亦有積極作用。",
+      "questions": {
+        "lv1": [
+          "新皇崗口岸連接香港和哪個內地城市？",
+          "海關關長視察口岸的目的是什麼？"
+        ],
+        "lv2": [
+          "新皇崗口岸引入的「聯合一站式」車道，與舊有的通關方式有什麼分別？這對旅客有什麼好處？",
+          "新口岸的開通對香港北部都會區的發展有什麼幫助？"
+        ],
+        "lv3": [
+          "有人認為增加香港與內地之間的口岸及通關便利，有助推動香港經濟發展；但也有人擔心這會影響香港的獨特性。你認為兩地更緊密的聯繫，對香港的未來是利多於弊，還是弊多於利？",
+          "隨著科技進步，自動化通關系統（如人臉識別及電子護照）愈來愈普遍。這對個人私隱及出行便利帶來什麼影響？政府在推行新科技時應考慮哪些因素？"
+        ]
+      }
+    }
+  ]
+}

@@ -1,105 +1,105 @@
 {
-  "generated": "2026-10-10T10:01:59.882570+08:00",
-  "date": "2026-10-10",
+  "generated": "2026-10-11T09:28:43.443919+08:00",
+  "date": "2026-10-11",
   "count": 4,
   "articles": [
     {
-      "id": "2026-10-10-en-1",
+      "id": "2026-10-11-en-1",
       "lang": "en",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/panama-earthquake-2026-10-10/",
-      "flag": "🇬🇧",
-      "date": "2026-10-10",
-      "adaptedFrom": "Reuters",
-      "title": "Strong 7.7 Earthquake Hits Panama, Tsunami Warning Issued for Nearby Countries",
-      "summary": "A powerful earthquake measuring 7.7 on the Richter scale struck Panama on October 10, causing multiple buildings to collapse. The United States then issued tsunami warnings for several neighbouring countries across Central America and beyond. A tsunami happens when a large underwater earthquake pushes enormous waves toward land, which can be extremely dangerous for people living near the coast. Authorities in the affected regions urged people in low-lying coastal areas to move to higher ground immediately. Emergency teams were quickly sent to help those trapped in damaged buildings and to assess the scale of destruction.",
+      "source": "Wired / Nobel Prize 2026",
+      "sourceUrl": "https://www.wired.com/story/life-is-asymmetric-the-scientists-who-figured-out-why-won-the-2026-nobel-prize-in-chemistry/",
+      "flag": "🔬",
+      "date": "2026-10-11",
+      "adaptedFrom": "Wired (Nobel Prize in Chemistry 2026 report)",
+      "title": "Scientists Win 2026 Nobel Chemistry Prize for Unlocking the Secret of Life's Twist",
+      "summary": "Have you ever noticed that your left hand and right hand are mirror images but cannot fit into the same glove? Many molecules in living things are the same — they come in mirror-image versions. Scientists have long wondered why nearly all life on Earth uses only one version, called 'left-handed' molecules. This year's Nobel Prize in Chemistry was awarded to the researchers who finally explained why. Their discovery helps us understand the origins of life itself and could lead to better medicines in the future. The Nobel Prize is one of the world's most respected science awards, given every year in Stockholm.",
       "questions": {
         "lv1": [
-          "What was the strength of the earthquake that hit Panama? (巴拿馬發生的地震有多強？)",
-          "What warning was issued after the earthquake struck? (地震發生後，當局發出了甚麼警告？)"
+          "What prize did these scientists win for their discovery? (這些科學家因為他們的發現獲得了什麼獎項？)",
+          "What does it mean when we say molecules can be 'left-handed' or 'right-handed'? (當我們說分子可以是「左手性」或「右手性」時，這是什麼意思？)"
         ],
         "lv2": [
-          "Why do earthquakes that happen underwater sometimes cause tsunamis? (為甚麼在水底發生的地震有時會引發海嘯？)",
-          "Why is it important for people near the coast to move to higher ground when a tsunami warning is issued? (當海嘯警報發出時，為甚麼海岸附近的人需要移往高地？)"
+          "Why is it important for scientists to understand why life uses only one type of mirror-image molecule? (為什麼科學家了解生命為何只使用一種鏡像分子非常重要？)",
+          "How might this discovery help doctors create better medicines in the future? (這項發現將來可能如何幫助醫生研製更好的藥物？)"
         ],
         "lv3": [
-          "Some countries have advanced early warning systems for earthquakes and tsunamis while others do not. Do you think wealthier nations have a responsibility to share this technology with poorer countries? Why or why not? (部分國家擁有先進的地震及海嘯預警系統，但其他國家卻沒有。你認為富裕國家有責任與較貧窮的國家分享這些技術嗎？為甚麼？)",
-          "After a natural disaster like this earthquake, who should be responsible for helping the victims — the local government, international organisations, or ordinary citizens? Explain your view. (在這類自然災害發生後，誰應該負責幫助災民——當地政府、國際組織，還是普通市民？請說明你的看法。)"
+          "Some people think that science prizes like the Nobel Prize are only given to researchers from wealthy countries. Do you agree? Is this fair? What could be done to make science more equal globally? (有人認為諾貝爾獎等科學獎項只頒給富裕國家的研究人員。你同意嗎？這公平嗎？可以怎樣讓全球科學更平等？)",
+          "Should governments spend more money on basic science research — even when we do not know yet how it will be useful? Give reasons for and against. (政府是否應該在基礎科學研究上投入更多資金——即使我們還不知道它有什麼用處？請說出支持和反對的理由。)"
         ]
       }
     },
     {
-      "id": "2026-10-10-en-2",
+      "id": "2026-10-11-en-2",
       "lang": "en",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.com/news/world-africa-nobel-peace-prize-pillay-2026",
-      "flag": "🇬🇧",
-      "date": "2026-10-10",
-      "adaptedFrom": "BBC News",
-      "title": "South African Judge Wins Nobel Peace Prize for Fighting War Crimes",
-      "summary": "A South African judge named Navanethem Pillay has been awarded the Nobel Peace Prize for her lifelong efforts to use international law to hold people responsible for war crimes and human rights abuses. She is known for her work in international courts where leaders and soldiers from different countries are put on trial for serious crimes committed during wars. The Nobel Peace Prize is one of the world's most respected awards, given each year to a person or group that has made a great effort to promote peace or justice. Her win was announced on October 10, 2026.",
+      "source": "星島日報 (Sing Tao Daily)",
+      "sourceUrl": "https://www.singtao.co.uk/",
+      "flag": "🌎",
+      "date": "2026-10-11",
+      "adaptedFrom": "Sing Tao Daily / Singtao USA (international news report)",
+      "title": "Powerful 7.7 Earthquake Strikes Panama, Tsunami Warnings Issued Across Central America",
+      "summary": "A very strong earthquake measuring 7.7 on the Richter scale struck the country of Panama in Central America, causing buildings to collapse and sending shockwaves across the region. Authorities in the United States quickly issued tsunami warnings for several countries in Central and South America, warning people near coastlines to move to higher ground immediately. Panama's president declared a major national disaster, ordered all schools to close, and temporarily shut down the country's international airport. Emergency teams were deployed to help people trapped in damaged buildings. Scientists remind us that earthquakes cannot be predicted, which is why having emergency plans is so important.",
       "questions": {
         "lv1": [
-          "Which country is Navanethem Pillay from? (納瓦奈瑟姆·皮萊來自哪個國家？)",
-          "What is the name of the famous prize she won? (她獲得了甚麼著名獎項？)"
+          "What natural disaster happened in Panama recently? (最近巴拿馬發生了什麼自然災害？)",
+          "What did the president of Panama do after the earthquake struck? (地震發生後，巴拿馬總統做了什麼？)"
         ],
         "lv2": [
-          "Why do you think it is important to have international courts that can put people on trial for war crimes? (你認為設有國際法庭來審判戰爭罪犯，為何如此重要？)",
-          "How does awarding a peace prize to a judge help promote the idea of justice around the world? (將和平獎頒發給一位法官，如何有助於在全世界推廣公義的理念？)"
+          "Why did authorities issue tsunami warnings after the earthquake, and what should people living near the coast do when they hear a tsunami warning? (為什麼地震後當局發出海嘯警報？住在海岸附近的人聽到海嘯警報時應該怎麼做？)",
+          "Why is it important for schools and families to have emergency plans ready before a disaster happens? (為什麼學校和家庭在災難發生前做好緊急應對計劃非常重要？)"
         ],
         "lv3": [
-          "Some people argue that international courts are unfair because they mainly put leaders from poorer or weaker countries on trial, while powerful nations escape justice. Do you agree with this view? (有人認為國際法庭並不公平，因為它們主要審判來自較弱小國家的領導人，而強國卻能逃避法律責任。你同意這個看法嗎？)",
-          "The Nobel Peace Prize is sometimes controversial — past winners have been praised by some and criticised by others. Should a prize like this be purely about results, or also about intentions and effort? Explain. (諾貝爾和平獎有時具爭議性，得獎者既有人讚揚，也有人批評。你認為這類獎項應純粹以成果為評核標準，還是也應考慮獲獎者的意圖和努力？請解釋。)"
+          "Developing countries often suffer more damage from earthquakes than wealthier nations, even when the earthquakes are the same size. Why might this be, and what responsibilities do richer countries have to help? (發展中國家在地震中往往比富裕國家受到更多破壞，即使地震規模相同。為什麼會這樣？富裕國家有什麼責任去幫助？)",
+          "Some scientists argue that more international funding should go towards earthquake early-warning systems. Others say the money is better spent on post-disaster recovery. Which do you think is more important, and why? (一些科學家認為，應投入更多國際資金用於地震預警系統。另一些人則認為這些錢最好用於災後重建。你認為哪個更重要？為什麼？)"
         ]
       }
     },
     {
-      "id": "2026-10-10-zh-1",
+      "id": "2026-10-11-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/section/20261010/s00001",
+      "sourceUrl": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/section/20261011/s00001",
       "flag": "🇭🇰",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "adaptedFrom": "明報",
-      "title": "新皇崗口岸下周一啟用　首設24小時通關服務",
-      "summary": "全新皇崗口岸將於下周一（10月12日）早上6時30分正式開放，屆時旅客及客運車輛可全天候24小時過境，不再受通關時間限制。口岸新增7條專營巴士路線，方便市民直達深圳新口岸大樓。業界預計首日約有20個旅行團經此北上。舊有的皇巴路線亦將於同日停止服務。新口岸的啟用標誌著香港與內地之間的跨境交通邁向更便利的新時代。",
+      "title": "香港新增一宗猴痘確診　患者為29歲男性、情況穩定",
+      "summary": "香港衛生防護中心於10月10日公布，本港出現一宗新的猴痘（Mpox）確診個案，患者為一名29歲男性，目前情況穩定，正接受治療。猴痘是一種透過密切接觸傳播的病毒性疾病，症狀包括發燒、皮疹及水泡等。衛生當局提醒市民，若出現相關病徵應及早求醫，並避免與不明人士有密切身體接觸，以減低感染風險。公眾毋須過度恐慌，保持個人衞生是最有效的預防方法。",
       "questions": {
         "lv1": [
-          "新皇崗口岸預計在哪天正式開放？",
-          "新口岸提供幾條新的專營巴士路線？"
+          "今次確診猴痘的患者是多少歲？",
+          "猴痘主要是透過什麼方式傳播的？"
         ],
         "lv2": [
-          "為甚麼提供24小時通關服務對旅客和商界來說是一個重要的改變？",
-          "新皇崗口岸的開通，對香港與深圳之間的往來會帶來哪些方便？"
+          "衛生防護中心建議市民在日常生活中採取哪些措施來預防猴痘？",
+          "為什麼當局提醒市民「毋須過度恐慌」？保持冷靜在公共衞生事件中有什麼重要性？"
         ],
         "lv3": [
-          "有意見認為改善跨境交通會令更多香港人選擇在內地消費，對本地零售業造成壓力。你認為這種擔憂合理嗎？政府應如何平衡兩地融合與本地經濟發展？",
-          "香港與內地的交通連接越來越緊密，有人擔心這會影響香港的獨特性。你認為加強兩地聯繫是利多於弊，還是弊多於利？請從多角度分析。"
+          "當一個城市出現傳染病個案時，政府應該公開多少資訊給市民知道？公開資訊與保護患者私隱之間，應如何取得平衡？",
+          "有人認為香港地少人多，一旦出現傳染病便很容易擴散，因此政府應採取更嚴格的防控措施。你同意嗎？過嚴的措施又可能帶來哪些問題？"
         ]
       }
     },
     {
-      "id": "2026-10-10-zh-2",
+      "id": "2026-10-11-zh-2",
       "lang": "zh",
       "source": "星島日報",
-      "sourceUrl": "https://std.stheadline.com/realtime/hongkong/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E",
+      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
       "flag": "🇭🇰",
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "adaptedFrom": "星島日報",
-      "title": "世界精神衞生日　小學舉辦「好心情便服日」推廣身心健康",
-      "summary": "今日（10月10日）是世界精神衞生日，全完第二小學特別舉辦「好心情便服日」活動，鼓勵學生穿上鮮艷多彩的多巴胺色系服裝上學，以輕鬆快樂的方式關注個人精神健康。學校希望藉此活動讓學生明白，照顧心靈健康與照顧身體健康同樣重要。精神健康問題在青少年中日益普遍，學校及社會各界均積極推動相關教育，提醒年輕人遇到情緒困難時應主動尋求協助。",
+      "title": "新皇崗口岸料下周開通　設「聯合一站式」車道　海關視察確保準備就緒",
+      "summary": "香港與深圳之間的新皇崗口岸預計將於下周正式啟用。香港海關關長陳子達率領團隊親赴現場視察，聆聽前線人員匯報，並檢查各項通關設施的運作情況，確保一切準備妥當。新口岸引入「聯合一站式」車道等創新通關措施，旨在令旅客過境更加便捷高效。新皇崗口岸是港深兩地重要的陸路連接點，啟用後將有助促進兩地人員及貨物往來，對香港北部都會區的發展亦有積極作用。",
       "questions": {
         "lv1": [
-          "10月10日是甚麼特別的日子？",
-          "學校舉辦了甚麼活動來慶祝這個日子？"
+          "新皇崗口岸連接香港和哪個內地城市？",
+          "海關關長視察口岸的目的是什麼？"
         ],
         "lv2": [
-          "為甚麼學校要特別舉辦活動來關注精神健康，而不只是關注學業成績？",
-          "穿着鮮艷顏色的衣服，真的能夠改善人的心情嗎？你認為這類活動有甚麼實際作用？"
+          "新皇崗口岸引入的「聯合一站式」車道，與舊有的通關方式有什麼分別？這對旅客有什麼好處？",
+          "新口岸的開通對香港北部都會區的發展有什麼幫助？"
         ],
         "lv3": [
-          "有人認為香港的學習壓力過大，是導致青少年精神健康問題的主要原因之一。你認同嗎？學校、家長和政府各應承擔怎樣的責任？",
-          "精神健康在香港社會仍然是一個較為忌諱的話題，很多人不敢公開討論自己的情緒問題。你認為應如何改變這種社會文化？學生可以做些甚麼？"
+          "有人認為增加香港與內地之間的口岸及通關便利，有助推動香港經濟發展；但也有人擔心這會影響香港的獨特性。你認為兩地更緊密的聯繫，對香港的未來是利多於弊，還是弊多於利？",
+          "隨著科技進步，自動化通關系統（如人臉識別及電子護照）愈來愈普遍。這對個人私隱及出行便利帶來什麼影響？政府在推行新科技時應考慮哪些因素？"
         ]
       }
     }
