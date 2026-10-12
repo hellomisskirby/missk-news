@@ -1,0 +1,107 @@
+{
+  "generated": "2026-10-12T10:01:10.453568+08:00",
+  "date": "2026-10-12",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-10-12-en-1",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/nepal-landslide-blocks-river-triggers-flash-floods-2026-10-12/",
+      "flag": "🇬🇧",
+      "date": "2026-10-12",
+      "adaptedFrom": "Reuters",
+      "title": "Flash Floods in Nepal Force Evacuations After Landslide Blocks River",
+      "summary": "A powerful landslide struck the Gorkha district in central-northern Nepal early on Sunday morning, blocking the Budhi Gandaki River and triggering dangerous flash floods along its banks. Local authorities quickly ordered residents and tourists in the area to move to higher ground for safety. Emergency teams were sent to assess damage and help those affected. Nepal sits in a region that is highly prone to landslides and flooding, especially after the monsoon season. Scientists warn that extreme weather events like this may become more frequent as climate change continues, putting mountain communities at ever greater risk.",
+      "questions": {
+        "lv1": [
+          "What caused the flash floods in Nepal's Gorkha district? (是什麼原因導致尼泊爾廓爾喀縣發生洪災？)",
+          "What did local authorities tell people living near the flooded river to do? (當地政府要求住在河邊的居民做什麼？)"
+        ],
+        "lv2": [
+          "Why are landslides and floods especially dangerous in mountainous countries like Nepal? (為什麼山地國家如尼泊爾特別容易受山崩和洪水威脅？)",
+          "How might climate change make natural disasters like this one more frequent or more severe in the future? (氣候變化如何令山崩和洪災在未來變得更頻繁或更嚴重？)"
+        ],
+        "lv3": [
+          "Who should be responsible for protecting communities in disaster-prone mountain regions — local governments, national governments, or wealthier nations that contribute more to climate change? Explain your view. (保護易受災山區社區的責任，應由地方政府、中央政府，還是對氣候變化貢獻更多的富裕國家承擔？請說明你的立場。)",
+          "When a natural disaster strikes a remote area, what challenges do rescue teams face, and how could modern technology help overcome them? (當自然災害發生在偏遠地區時，救援人員面臨哪些挑戰？現代科技又可以如何幫助解決這些問題？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-12-en-2",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/americas/panama-earthquake-7point7-magnitude-2026-10-12/",
+      "flag": "🇬🇧",
+      "date": "2026-10-12",
+      "adaptedFrom": "Reuters",
+      "title": "Panama Hit by Major 7.7 Earthquake: Schools Close and Airport Shuts Down",
+      "summary": "A large earthquake measuring 7.7 in magnitude struck Panama on October 12, causing widespread concern across the country and the wider region. The Panamanian president declared a major disaster, ordering all schools to close as a precautionary measure to keep children safe. The main international airport was temporarily shut down so engineers could check for structural damage. The United States issued tsunami warnings for several nations across Central and South America. Emergency workers were deployed to help affected residents and inspect buildings. Panama is located in an earthquake-prone zone because of the movement of tectonic plates deep beneath the Earth's surface.",
+      "questions": {
+        "lv1": [
+          "How strong was the earthquake that struck Panama on October 12? (10月12日襲擊巴拿馬的地震有多強？)",
+          "What happened to Panama's schools immediately after the earthquake? (地震後巴拿馬的學校發生了什麼事？)"
+        ],
+        "lv2": [
+          "Why did authorities issue a tsunami warning for countries far away from Panama after the earthquake? (為什麼當局在地震後，向遠離巴拿馬的國家發出海嘯警報？)",
+          "Why is it important to inspect airports and other large buildings before reopening them after a powerful earthquake? (為什麼強烈地震後，在重新開放前檢查機場和其他大型建築物非常重要？)"
+        ],
+        "lv3": [
+          "Some argue that poorer countries in earthquake zones cannot afford to build earthquake-resistant structures. Who should be responsible for funding this — and why? (有人認為地震帶的較貧窮國家無力興建防震建築。誰應該負責資助？原因是什麼？)",
+          "Should schools and airports always be automatically closed after a major nearby earthquake, even before any damage is confirmed? What are the pros and cons of such a policy? (即使未確認有損毀，附近發生強烈地震後，學校和機場是否應自動關閉？這項政策有哪些優點和缺點？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-12-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261012/s00002",
+      "flag": "🇭🇰",
+      "date": "2026-10-12",
+      "adaptedFrom": "明報",
+      "title": "新皇崗口岸今日正式開通　旅客讚設施方便　直駁深圳地鐵",
+      "summary": "香港與深圳之間的新皇崗口岸於2026年10月12日清晨六時半正式開通。新口岸全面實施「一地兩檢」，大幅縮短旅客過關時間。口岸地庫直接連接深圳地鐵7號線，旅客毋須再轉乘接駁巴士。開通首日已有逾5,000人次及近千輛車出入境。有內地旅客形容新口岸「很新、很大、很方便」。新口岸提供全天候24小時通關服務，有助進一步推動香港融入大灣區發展。",
+      "questions": {
+        "lv1": [
+          "新皇崗口岸在哪一天正式開通？",
+          "新皇崗口岸的地庫連接哪條深圳地鐵線？"
+        ],
+        "lv2": [
+          "「一地兩檢」是什麼意思？這對旅客有什麼好處？",
+          "新皇崗口岸提供24小時通關服務，對往來港深兩地的人有什麼影響？"
+        ],
+        "lv3": [
+          "新口岸的開通有助香港融入大灣區，但有人擔心這會令更多港人北上消費，對本地零售業造成衝擊。你認為這是利多於弊，還是弊多於利？",
+          "交通基礎設施的改善如何改變一個地區的社會和經濟面貌？新口岸的開通，對香港年輕一代帶來哪些機遇和挑戰？"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-12-zh-2",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261012/s00002",
+      "flag": "🇭🇰",
+      "date": "2026-10-12",
+      "adaptedFrom": "明報",
+      "title": "人形機械人打乒乓球奪銀　專家：AI體能與智力並重方為未來發展方向",
+      "summary": "今年8月在北京舉辦的第二屆世界人形機器人運動會上，參賽人形機械人展示出驚人運動能力，其中乒乓球項目的機械人成功奪得銀牌。研究人員指出，要令人形機械人真正實用，必須同時提升其體能表現及人工智能的思考與決策能力，兩者缺一不可。科學家希望未來人形機械人能協助人類完成危險工作，甚至在災難救援中大派用場，是當今人工智能領域的重要研究課題。",
+      "questions": {
+        "lv1": [
+          "人形機械人在哪個城市的比賽中奪得乒乓球銀牌？",
+          "研究人員說人形機械人需要同時提升哪兩方面的能力？"
+        ],
+        "lv2": [
+          "為什麼科學家認為人形機械人需要同時具備體能和智力，而非只專注其中一方面？",
+          "人形機械人在災難救援中可以如何幫助人類？請舉出一個具體例子。"
+        ],
+        "lv3": [
+          "人形機械人越來越先進，有人擔心將來它們會取代人類的工作。你認為這種擔憂是否合理？社會應如何為這個轉變做好準備？",
+          "在發展人形機械人的過程中，科學家和社會需要考慮哪些道德問題？例如機械人自主決策會否帶來危險或不公平的後果？"
+        ]
+      }
+    }
+  ]
+}
