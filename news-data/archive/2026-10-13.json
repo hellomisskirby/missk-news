@@ -1,0 +1,107 @@
+{
+  "generated": "2026-10-13T11:19:10.185138+08:00",
+  "date": "2026-10-13",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-10-13-en-1",
+      "lang": "en",
+      "source": "NASA Earth Observatory",
+      "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
+      "flag": "🌍",
+      "date": "2026-10-12",
+      "adaptedFrom": "NASA Earth Observatory",
+      "title": "Antarctic Sea Ice Reaches One of Its Smallest Winter Peaks Ever Recorded",
+      "summary": "NASA scientists have announced that Antarctic sea ice grew to its largest size for this year during winter — but it is still the third-smallest winter maximum ever recorded by satellites. Unlike the Arctic, which is an ocean surrounded by land, Antarctica is a giant continent surrounded by ocean. This means sea ice around Antarctica has more space to spread outward in winter, but it also reaches warmer waters and melts more easily in summer. Scientists are closely watching these changes because shrinking sea ice can affect ocean temperatures, weather patterns, and animals like penguins that depend on sea ice to survive.",
+      "questions": {
+        "lv1": [
+          "Where is Antarctic sea ice found — near the North Pole or the South Pole? (南極洲的海冰在哪裡——靠近北極還是南極？)",
+          "Did this year's Antarctic sea ice grow bigger or smaller than usual in winter? (今年南極洲的海冰在冬天比平時大還是小？)"
+        ],
+        "lv2": [
+          "Why does Antarctic sea ice melt more easily in summer compared to Arctic sea ice? (為什麼南極洲的海冰在夏天比北極的海冰更容易融化？)",
+          "How might shrinking sea ice affect animals like penguins that live near Antarctica? (海冰縮小會如何影響住在南極附近的企鵝等動物？)"
+        ],
+        "lv3": [
+          "Some people argue that one year of low sea ice does not prove climate change is serious. Do you agree or disagree, and why? (有人認為一年的海冰減少不能證明氣候變化嚴重，你同意嗎？請說明你的立場。)",
+          "Who should be most responsible for protecting Antarctic sea ice — governments, companies, or individual people? Explain your thinking. (誰應該對保護南極海冰負最大責任——政府、企業還是個人？請解釋你的想法。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-13-en-2",
+      "lang": "en",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/",
+      "flag": "🔬",
+      "date": "2026-10-12",
+      "adaptedFrom": "ScienceDaily",
+      "title": "Scientists Discover a Protein That May Slow Down Ageing in Mice",
+      "summary": "Researchers have found that a protein called Menin plays an important role in how our bodies age. When the amount of Menin in the body drops, it seems to speed up the ageing process. Scientists tested this idea in older mice and found that when they restored Menin levels, many signs of ageing were reversed within just 30 days. This exciting discovery could one day help doctors develop new treatments to keep people healthier for longer as they grow old. However, experts remind us that results in mice do not always work the same way in humans, so more research is still needed.",
+      "questions": {
+        "lv1": [
+          "What is the name of the protein that scientists discovered may be linked to ageing? (科學家發現可能與衰老有關的蛋白質叫什麼名字？)",
+          "In the experiment, what happened to old mice when Menin levels were restored? (在實驗中，當老鼠體內的Menin蛋白質水平恢復後，牠們有什麼變化？)"
+        ],
+        "lv2": [
+          "Why is it important that scientists test new treatments on animals like mice before using them on humans? (為什麼科學家在將新療法用於人類之前，先在老鼠等動物身上進行測試很重要？)",
+          "If scientists could stop humans from ageing, what kinds of problems might this cause for society? (如果科學家能夠阻止人類衰老，這可能會給社會帶來什麼問題？)"
+        ],
+        "lv3": [
+          "If a treatment to slow ageing was invented, should it be available to everyone for free or only to those who can pay? Discuss the fairness of each option. (如果發明了一種減緩衰老的療法，應該免費提供給所有人，還是只提供給付得起的人？請討論兩種方案的公平性。)",
+          "Some scientists believe extending human life is a great goal, while others worry it could harm the environment and society. Which side do you find more convincing, and why? (一些科學家認為延長人類壽命是偉大目標，另一些人則擔心這會損害環境和社會。你認為哪方更有說服力？原因是什麼？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-13-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/section/20261013/s00001",
+      "flag": "🇭🇰",
+      "date": "2026-10-13",
+      "adaptedFrom": "明報",
+      "title": "新皇崗口岸今日正式啟用　首日逾七萬人次過關",
+      "summary": "香港與深圳之間的新皇崗口岸於今日（10月13日）清晨六時半正式開通，同時舊有的落馬洲管制站即時關閉。新口岸採用「合作查驗」模式，旅客只需約兩分鐘便可完成過關手續，效率大幅提升。截至今午，已有近八萬人次經新口岸出入境，數字比舊口岸繁忙日更高出一倍。不少內地旅客讚賞新口岸設施現代化、通道寬敞，本地旅行社亦特別安排「首發團」，吸引市民搶先體驗。",
+      "questions": {
+        "lv1": [
+          "新皇崗口岸在哪一天正式開通？",
+          "新口岸開通後，哪個舊口岸同時關閉了？"
+        ],
+        "lv2": [
+          "新皇崗口岸採用「合作查驗」模式，你認為這種方式有什麼好處？",
+          "為什麼新口岸開通對香港市民和商界都很重要？"
+        ],
+        "lv3": [
+          "有人認為更方便的過境設施會令更多人選擇往內地消費，對香港本地商業有負面影響；你同意嗎？請從不同角度分析。",
+          "香港與內地之間的口岸通關愈來愈便利，你認為這對香港的身份認同和文化多樣性有何影響？"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-13-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/2026/10/12/news/china/tsz-ching-estate-fire-injures-resident-evacuation/",
+      "flag": "🇭🇰",
+      "date": "2026-10-13",
+      "adaptedFrom": "星島日報",
+      "title": "慈正邨充電器疑過熱起火　七旬翁面部燒傷　約250居民緊急疏散",
+      "summary": "今日（13日）凌晨近六時，慈雲山慈正邨正安樓一個高層單位懷疑因充電器過熱引發火警，單位內一名七旬男戶主面部燒傷，需送院治理。濃煙迅速蔓延，大廈約250名居民被迫疏散至安全地方。消防員及警員迅速趕赴現場救援。事件提醒市民，為電子裝置充電時要特別小心，應避免長時間充電或使用不合規格的充電器，以防火警發生。",
+      "questions": {
+        "lv1": [
+          "今次火警發生在香港哪個屋邨？",
+          "估計今次火警的起因是什麼？"
+        ],
+        "lv2": [
+          "為什麼充電器過熱容易引發火警？我們可以採取哪些措施預防？",
+          "火警發生時，住在高樓層的居民應該怎樣保護自己的安全？"
+        ],
+        "lv3": [
+          "香港公共屋邨居住密度高，一旦發生火警影響範圍廣。你認為政府、房屋署及居民各自應承擔什麼責任來減低火警風險？",
+          "隨著智能家電和充電裝置日益普及，家居火警的風險也在上升。你認為社會應如何在推廣科技便利與保障居民安全之間取得平衡？"
+        ]
+      }
+    }
+  ]
+}

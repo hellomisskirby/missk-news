@@ -1,105 +1,105 @@
 {
-  "generated": "2026-10-12T10:01:10.453568+08:00",
-  "date": "2026-10-12",
+  "generated": "2026-10-13T11:19:10.185138+08:00",
+  "date": "2026-10-13",
   "count": 4,
   "articles": [
     {
-      "id": "2026-10-12-en-1",
+      "id": "2026-10-13-en-1",
       "lang": "en",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/nepal-landslide-blocks-river-triggers-flash-floods-2026-10-12/",
-      "flag": "🇬🇧",
+      "source": "NASA Earth Observatory",
+      "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
+      "flag": "🌍",
       "date": "2026-10-12",
-      "adaptedFrom": "Reuters",
-      "title": "Flash Floods in Nepal Force Evacuations After Landslide Blocks River",
-      "summary": "A powerful landslide struck the Gorkha district in central-northern Nepal early on Sunday morning, blocking the Budhi Gandaki River and triggering dangerous flash floods along its banks. Local authorities quickly ordered residents and tourists in the area to move to higher ground for safety. Emergency teams were sent to assess damage and help those affected. Nepal sits in a region that is highly prone to landslides and flooding, especially after the monsoon season. Scientists warn that extreme weather events like this may become more frequent as climate change continues, putting mountain communities at ever greater risk.",
+      "adaptedFrom": "NASA Earth Observatory",
+      "title": "Antarctic Sea Ice Reaches One of Its Smallest Winter Peaks Ever Recorded",
+      "summary": "NASA scientists have announced that Antarctic sea ice grew to its largest size for this year during winter — but it is still the third-smallest winter maximum ever recorded by satellites. Unlike the Arctic, which is an ocean surrounded by land, Antarctica is a giant continent surrounded by ocean. This means sea ice around Antarctica has more space to spread outward in winter, but it also reaches warmer waters and melts more easily in summer. Scientists are closely watching these changes because shrinking sea ice can affect ocean temperatures, weather patterns, and animals like penguins that depend on sea ice to survive.",
       "questions": {
         "lv1": [
-          "What caused the flash floods in Nepal's Gorkha district? (是什麼原因導致尼泊爾廓爾喀縣發生洪災？)",
-          "What did local authorities tell people living near the flooded river to do? (當地政府要求住在河邊的居民做什麼？)"
+          "Where is Antarctic sea ice found — near the North Pole or the South Pole? (南極洲的海冰在哪裡——靠近北極還是南極？)",
+          "Did this year's Antarctic sea ice grow bigger or smaller than usual in winter? (今年南極洲的海冰在冬天比平時大還是小？)"
         ],
         "lv2": [
-          "Why are landslides and floods especially dangerous in mountainous countries like Nepal? (為什麼山地國家如尼泊爾特別容易受山崩和洪水威脅？)",
-          "How might climate change make natural disasters like this one more frequent or more severe in the future? (氣候變化如何令山崩和洪災在未來變得更頻繁或更嚴重？)"
+          "Why does Antarctic sea ice melt more easily in summer compared to Arctic sea ice? (為什麼南極洲的海冰在夏天比北極的海冰更容易融化？)",
+          "How might shrinking sea ice affect animals like penguins that live near Antarctica? (海冰縮小會如何影響住在南極附近的企鵝等動物？)"
         ],
         "lv3": [
-          "Who should be responsible for protecting communities in disaster-prone mountain regions — local governments, national governments, or wealthier nations that contribute more to climate change? Explain your view. (保護易受災山區社區的責任，應由地方政府、中央政府，還是對氣候變化貢獻更多的富裕國家承擔？請說明你的立場。)",
-          "When a natural disaster strikes a remote area, what challenges do rescue teams face, and how could modern technology help overcome them? (當自然災害發生在偏遠地區時，救援人員面臨哪些挑戰？現代科技又可以如何幫助解決這些問題？)"
+          "Some people argue that one year of low sea ice does not prove climate change is serious. Do you agree or disagree, and why? (有人認為一年的海冰減少不能證明氣候變化嚴重，你同意嗎？請說明你的立場。)",
+          "Who should be most responsible for protecting Antarctic sea ice — governments, companies, or individual people? Explain your thinking. (誰應該對保護南極海冰負最大責任——政府、企業還是個人？請解釋你的想法。)"
         ]
       }
     },
     {
-      "id": "2026-10-12-en-2",
+      "id": "2026-10-13-en-2",
       "lang": "en",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/world/americas/panama-earthquake-7point7-magnitude-2026-10-12/",
-      "flag": "🇬🇧",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/",
+      "flag": "🔬",
       "date": "2026-10-12",
-      "adaptedFrom": "Reuters",
-      "title": "Panama Hit by Major 7.7 Earthquake: Schools Close and Airport Shuts Down",
-      "summary": "A large earthquake measuring 7.7 in magnitude struck Panama on October 12, causing widespread concern across the country and the wider region. The Panamanian president declared a major disaster, ordering all schools to close as a precautionary measure to keep children safe. The main international airport was temporarily shut down so engineers could check for structural damage. The United States issued tsunami warnings for several nations across Central and South America. Emergency workers were deployed to help affected residents and inspect buildings. Panama is located in an earthquake-prone zone because of the movement of tectonic plates deep beneath the Earth's surface.",
+      "adaptedFrom": "ScienceDaily",
+      "title": "Scientists Discover a Protein That May Slow Down Ageing in Mice",
+      "summary": "Researchers have found that a protein called Menin plays an important role in how our bodies age. When the amount of Menin in the body drops, it seems to speed up the ageing process. Scientists tested this idea in older mice and found that when they restored Menin levels, many signs of ageing were reversed within just 30 days. This exciting discovery could one day help doctors develop new treatments to keep people healthier for longer as they grow old. However, experts remind us that results in mice do not always work the same way in humans, so more research is still needed.",
       "questions": {
         "lv1": [
-          "How strong was the earthquake that struck Panama on October 12? (10月12日襲擊巴拿馬的地震有多強？)",
-          "What happened to Panama's schools immediately after the earthquake? (地震後巴拿馬的學校發生了什麼事？)"
+          "What is the name of the protein that scientists discovered may be linked to ageing? (科學家發現可能與衰老有關的蛋白質叫什麼名字？)",
+          "In the experiment, what happened to old mice when Menin levels were restored? (在實驗中，當老鼠體內的Menin蛋白質水平恢復後，牠們有什麼變化？)"
         ],
         "lv2": [
-          "Why did authorities issue a tsunami warning for countries far away from Panama after the earthquake? (為什麼當局在地震後，向遠離巴拿馬的國家發出海嘯警報？)",
-          "Why is it important to inspect airports and other large buildings before reopening them after a powerful earthquake? (為什麼強烈地震後，在重新開放前檢查機場和其他大型建築物非常重要？)"
+          "Why is it important that scientists test new treatments on animals like mice before using them on humans? (為什麼科學家在將新療法用於人類之前，先在老鼠等動物身上進行測試很重要？)",
+          "If scientists could stop humans from ageing, what kinds of problems might this cause for society? (如果科學家能夠阻止人類衰老，這可能會給社會帶來什麼問題？)"
         ],
         "lv3": [
-          "Some argue that poorer countries in earthquake zones cannot afford to build earthquake-resistant structures. Who should be responsible for funding this — and why? (有人認為地震帶的較貧窮國家無力興建防震建築。誰應該負責資助？原因是什麼？)",
-          "Should schools and airports always be automatically closed after a major nearby earthquake, even before any damage is confirmed? What are the pros and cons of such a policy? (即使未確認有損毀，附近發生強烈地震後，學校和機場是否應自動關閉？這項政策有哪些優點和缺點？)"
+          "If a treatment to slow ageing was invented, should it be available to everyone for free or only to those who can pay? Discuss the fairness of each option. (如果發明了一種減緩衰老的療法，應該免費提供給所有人，還是只提供給付得起的人？請討論兩種方案的公平性。)",
+          "Some scientists believe extending human life is a great goal, while others worry it could harm the environment and society. Which side do you find more convincing, and why? (一些科學家認為延長人類壽命是偉大目標，另一些人則擔心這會損害環境和社會。你認為哪方更有說服力？原因是什麼？)"
         ]
       }
     },
     {
-      "id": "2026-10-12-zh-1",
+      "id": "2026-10-13-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261012/s00002",
+      "sourceUrl": "https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/section/20261013/s00001",
       "flag": "🇭🇰",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "adaptedFrom": "明報",
-      "title": "新皇崗口岸今日正式開通　旅客讚設施方便　直駁深圳地鐵",
-      "summary": "香港與深圳之間的新皇崗口岸於2026年10月12日清晨六時半正式開通。新口岸全面實施「一地兩檢」，大幅縮短旅客過關時間。口岸地庫直接連接深圳地鐵7號線，旅客毋須再轉乘接駁巴士。開通首日已有逾5,000人次及近千輛車出入境。有內地旅客形容新口岸「很新、很大、很方便」。新口岸提供全天候24小時通關服務，有助進一步推動香港融入大灣區發展。",
+      "title": "新皇崗口岸今日正式啟用　首日逾七萬人次過關",
+      "summary": "香港與深圳之間的新皇崗口岸於今日（10月13日）清晨六時半正式開通，同時舊有的落馬洲管制站即時關閉。新口岸採用「合作查驗」模式，旅客只需約兩分鐘便可完成過關手續，效率大幅提升。截至今午，已有近八萬人次經新口岸出入境，數字比舊口岸繁忙日更高出一倍。不少內地旅客讚賞新口岸設施現代化、通道寬敞，本地旅行社亦特別安排「首發團」，吸引市民搶先體驗。",
       "questions": {
         "lv1": [
           "新皇崗口岸在哪一天正式開通？",
-          "新皇崗口岸的地庫連接哪條深圳地鐵線？"
+          "新口岸開通後，哪個舊口岸同時關閉了？"
         ],
         "lv2": [
-          "「一地兩檢」是什麼意思？這對旅客有什麼好處？",
-          "新皇崗口岸提供24小時通關服務，對往來港深兩地的人有什麼影響？"
+          "新皇崗口岸採用「合作查驗」模式，你認為這種方式有什麼好處？",
+          "為什麼新口岸開通對香港市民和商界都很重要？"
         ],
         "lv3": [
-          "新口岸的開通有助香港融入大灣區，但有人擔心這會令更多港人北上消費，對本地零售業造成衝擊。你認為這是利多於弊，還是弊多於利？",
-          "交通基礎設施的改善如何改變一個地區的社會和經濟面貌？新口岸的開通，對香港年輕一代帶來哪些機遇和挑戰？"
+          "有人認為更方便的過境設施會令更多人選擇往內地消費，對香港本地商業有負面影響；你同意嗎？請從不同角度分析。",
+          "香港與內地之間的口岸通關愈來愈便利，你認為這對香港的身份認同和文化多樣性有何影響？"
         ]
       }
     },
     {
-      "id": "2026-10-12-zh-2",
+      "id": "2026-10-13-zh-2",
       "lang": "zh",
-      "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261012/s00002",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/2026/10/12/news/china/tsz-ching-estate-fire-injures-resident-evacuation/",
       "flag": "🇭🇰",
-      "date": "2026-10-12",
-      "adaptedFrom": "明報",
-      "title": "人形機械人打乒乓球奪銀　專家：AI體能與智力並重方為未來發展方向",
-      "summary": "今年8月在北京舉辦的第二屆世界人形機器人運動會上，參賽人形機械人展示出驚人運動能力，其中乒乓球項目的機械人成功奪得銀牌。研究人員指出，要令人形機械人真正實用，必須同時提升其體能表現及人工智能的思考與決策能力，兩者缺一不可。科學家希望未來人形機械人能協助人類完成危險工作，甚至在災難救援中大派用場，是當今人工智能領域的重要研究課題。",
+      "date": "2026-10-13",
+      "adaptedFrom": "星島日報",
+      "title": "慈正邨充電器疑過熱起火　七旬翁面部燒傷　約250居民緊急疏散",
+      "summary": "今日（13日）凌晨近六時，慈雲山慈正邨正安樓一個高層單位懷疑因充電器過熱引發火警，單位內一名七旬男戶主面部燒傷，需送院治理。濃煙迅速蔓延，大廈約250名居民被迫疏散至安全地方。消防員及警員迅速趕赴現場救援。事件提醒市民，為電子裝置充電時要特別小心，應避免長時間充電或使用不合規格的充電器，以防火警發生。",
       "questions": {
         "lv1": [
-          "人形機械人在哪個城市的比賽中奪得乒乓球銀牌？",
-          "研究人員說人形機械人需要同時提升哪兩方面的能力？"
+          "今次火警發生在香港哪個屋邨？",
+          "估計今次火警的起因是什麼？"
         ],
         "lv2": [
-          "為什麼科學家認為人形機械人需要同時具備體能和智力，而非只專注其中一方面？",
-          "人形機械人在災難救援中可以如何幫助人類？請舉出一個具體例子。"
+          "為什麼充電器過熱容易引發火警？我們可以採取哪些措施預防？",
+          "火警發生時，住在高樓層的居民應該怎樣保護自己的安全？"
         ],
         "lv3": [
-          "人形機械人越來越先進，有人擔心將來它們會取代人類的工作。你認為這種擔憂是否合理？社會應如何為這個轉變做好準備？",
-          "在發展人形機械人的過程中，科學家和社會需要考慮哪些道德問題？例如機械人自主決策會否帶來危險或不公平的後果？"
+          "香港公共屋邨居住密度高，一旦發生火警影響範圍廣。你認為政府、房屋署及居民各自應承擔什麼責任來減低火警風險？",
+          "隨著智能家電和充電裝置日益普及，家居火警的風險也在上升。你認為社會應如何在推廣科技便利與保障居民安全之間取得平衡？"
         ]
       }
     }
