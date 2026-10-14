@@ -1,105 +1,105 @@
 {
-  "generated": "2026-10-13T11:19:10.185138+08:00",
-  "date": "2026-10-13",
+  "generated": "2026-10-14T09:32:06.452098+08:00",
+  "date": "2026-10-14",
   "count": 4,
   "articles": [
     {
-      "id": "2026-10-13-en-1",
+      "id": "2026-10-14-en-1",
       "lang": "en",
       "source": "NASA Earth Observatory",
       "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
       "flag": "🌍",
       "date": "2026-10-12",
       "adaptedFrom": "NASA Earth Observatory",
-      "title": "Antarctic Sea Ice Reaches One of Its Smallest Winter Peaks Ever Recorded",
-      "summary": "NASA scientists have announced that Antarctic sea ice grew to its largest size for this year during winter — but it is still the third-smallest winter maximum ever recorded by satellites. Unlike the Arctic, which is an ocean surrounded by land, Antarctica is a giant continent surrounded by ocean. This means sea ice around Antarctica has more space to spread outward in winter, but it also reaches warmer waters and melts more easily in summer. Scientists are closely watching these changes because shrinking sea ice can affect ocean temperatures, weather patterns, and animals like penguins that depend on sea ice to survive.",
+      "title": "Antarctic Sea Ice Reaches Its Smallest Peak on Record — What Does That Mean?",
+      "summary": "Scientists have announced that Antarctic sea ice grew to its maximum size for 2026 in September, but this year's peak was the third smallest ever recorded since satellites began tracking polar ice. Every year, sea ice around Antarctica expands during winter and shrinks in summer. Researchers use special satellites that detect natural microwave energy from Earth's surface to measure how much ice exists. A smaller maximum means less ice is forming during winter, which scientists say is linked to rising ocean temperatures. This trend worries climate experts because sea ice plays an important role in reflecting sunlight and keeping our planet cool. The data reminds us why protecting the environment matters for everyone.",
       "questions": {
         "lv1": [
-          "Where is Antarctic sea ice found — near the North Pole or the South Pole? (南極洲的海冰在哪裡——靠近北極還是南極？)",
-          "Did this year's Antarctic sea ice grow bigger or smaller than usual in winter? (今年南極洲的海冰在冬天比平時大還是小？)"
+          "What did scientists find out about Antarctic sea ice in 2026? (科學家在2026年發現南極海冰有什麼變化？)",
+          "What kind of satellites do scientists use to measure sea ice? (科學家用什麼類型的衛星來測量海冰？)"
         ],
         "lv2": [
-          "Why does Antarctic sea ice melt more easily in summer compared to Arctic sea ice? (為什麼南極洲的海冰在夏天比北極的海冰更容易融化？)",
-          "How might shrinking sea ice affect animals like penguins that live near Antarctica? (海冰縮小會如何影響住在南極附近的企鵝等動物？)"
+          "Why is it a problem if the Antarctic sea ice peak keeps getting smaller every year? (如果南極海冰每年的最大面積持續縮小，為什麼這是一個問題？)",
+          "How does sea ice help keep the Earth's temperature stable? (海冰如何幫助維持地球的溫度穩定？)"
         ],
         "lv3": [
-          "Some people argue that one year of low sea ice does not prove climate change is serious. Do you agree or disagree, and why? (有人認為一年的海冰減少不能證明氣候變化嚴重，你同意嗎？請說明你的立場。)",
-          "Who should be most responsible for protecting Antarctic sea ice — governments, companies, or individual people? Explain your thinking. (誰應該對保護南極海冰負最大責任——政府、企業還是個人？請解釋你的想法。)"
+          "Some people argue that natural climate cycles, not human activity, cause sea ice to shrink. Do you agree or disagree? Use evidence to support your view. (有些人認為海冰縮小是由自然氣候周期造成的，而非人類活動。你同意還是不同意？請用證據支持你的觀點。)",
+          "If governments around the world do not take action to reduce carbon emissions, what consequences might future generations face because of melting polar ice? Who has the greatest responsibility to act? (如果各國政府不採取行動減少碳排放，融化的極地冰層將對下一代帶來什麼後果？誰負有最大的責任採取行動？)"
         ]
       }
     },
     {
-      "id": "2026-10-13-en-2",
+      "id": "2026-10-14-en-2",
       "lang": "en",
-      "source": "ScienceDaily",
-      "sourceUrl": "https://www.sciencedaily.com/",
-      "flag": "🔬",
-      "date": "2026-10-12",
-      "adaptedFrom": "ScienceDaily",
-      "title": "Scientists Discover a Protein That May Slow Down Ageing in Mice",
-      "summary": "Researchers have found that a protein called Menin plays an important role in how our bodies age. When the amount of Menin in the body drops, it seems to speed up the ageing process. Scientists tested this idea in older mice and found that when they restored Menin levels, many signs of ageing were reversed within just 30 days. This exciting discovery could one day help doctors develop new treatments to keep people healthier for longer as they grow old. However, experts remind us that results in mice do not always work the same way in humans, so more research is still needed.",
+      "source": "Reuters",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "flag": "🇬🇧",
+      "date": "2026-10-14",
+      "adaptedFrom": "Reuters",
+      "title": "Two Chemists Win Nobel Prize for Discovering a Remarkable Reaction in Nature",
+      "summary": "A French scientist named Henri B. Kagan and a Japanese scientist named Kensō Soai have been awarded the 2026 Nobel Prize in Chemistry. They are being honoured for discovering special effects in chemistry where tiny amounts of one substance can cause a reaction to keep copying itself — a process called autocatalysis. This finding is important because it may help explain how life's building blocks first formed on Earth billions of years ago. Kagan works at Paris-Saclay University in France, while Soai is a professor at the Tokyo University of Science in Japan. The Nobel Prize is one of the greatest honours a scientist can receive.",
       "questions": {
         "lv1": [
-          "What is the name of the protein that scientists discovered may be linked to ageing? (科學家發現可能與衰老有關的蛋白質叫什麼名字？)",
-          "In the experiment, what happened to old mice when Menin levels were restored? (在實驗中，當老鼠體內的Menin蛋白質水平恢復後，牠們有什麼變化？)"
+          "What prize did Henri B. Kagan and Kensō Soai win in 2026? (亨利·卡甘和曾我顯在2026年獲得了什麼獎項？)",
+          "Which two countries do the Nobel Prize-winning scientists come from? (獲得諾貝爾獎的科學家分別來自哪兩個國家？)"
         ],
         "lv2": [
-          "Why is it important that scientists test new treatments on animals like mice before using them on humans? (為什麼科學家在將新療法用於人類之前，先在老鼠等動物身上進行測試很重要？)",
-          "If scientists could stop humans from ageing, what kinds of problems might this cause for society? (如果科學家能夠阻止人類衰老，這可能會給社會帶來什麼問題？)"
+          "Why is the discovery of autocatalysis considered so important in science? (為什麼發現自動催化反應在科學上被認為非常重要？)",
+          "How might understanding how life's building blocks first formed help scientists today? (了解生命基本構件最初是如何形成，對今天的科學家有什麼幫助？)"
         ],
         "lv3": [
-          "If a treatment to slow ageing was invented, should it be available to everyone for free or only to those who can pay? Discuss the fairness of each option. (如果發明了一種減緩衰老的療法，應該免費提供給所有人，還是只提供給付得起的人？請討論兩種方案的公平性。)",
-          "Some scientists believe extending human life is a great goal, while others worry it could harm the environment and society. Which side do you find more convincing, and why? (一些科學家認為延長人類壽命是偉大目標，另一些人則擔心這會損害環境和社會。你認為哪方更有說服力？原因是什麼？)"
+          "The Nobel Prize in Chemistry is often awarded for discoveries made many years ago. Is it fair that scientists sometimes wait decades to be recognised? What are the advantages and disadvantages of this approach? (諾貝爾化學獎往往頒給多年前的發現。科學家有時要等數十年才能獲得認可，這公平嗎？這種做法有什麼優缺點？)",
+          "Scientific research requires large amounts of funding. Should governments prioritise spending on basic science — like chemistry — or on more immediately practical problems, such as healthcare or poverty? Justify your answer. (科學研究需要大量資金。政府應該優先資助基礎科學（如化學），還是更迫切的實際問題（如醫療或貧窮）？請解釋你的立場。)"
         ]
       }
     },
     {
-      "id": "2026-10-13-zh-1",
+      "id": "2026-10-14-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/section/20261013/s00001",
+      "sourceUrl": "https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/section/20261014/s00001",
       "flag": "🇭🇰",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "adaptedFrom": "明報",
-      "title": "新皇崗口岸今日正式啟用　首日逾七萬人次過關",
-      "summary": "香港與深圳之間的新皇崗口岸於今日（10月13日）清晨六時半正式開通，同時舊有的落馬洲管制站即時關閉。新口岸採用「合作查驗」模式，旅客只需約兩分鐘便可完成過關手續，效率大幅提升。截至今午，已有近八萬人次經新口岸出入境，數字比舊口岸繁忙日更高出一倍。不少內地旅客讚賞新口岸設施現代化、通道寬敞，本地旅行社亦特別安排「首發團」，吸引市民搶先體驗。",
+      "title": "香港泳池試行人工智能高空鏡頭 自動偵測遇溺情況",
+      "summary": "康樂及文化事務署在香港公眾泳池試用一套嶄新的人工智能監察系統，透過安裝於高處的攝影鏡頭，實時監視泳池內的泳客動態。當系統懷疑有人遇溺時，會自動響起警報並在屏幕顯示警示，提醒救生員即時採取行動。這項技術旨在加強泳池安全，輔助救生員的工作，令意外發生時的反應時間大幅縮短。有關當局表示，此系統仍在測試階段，將按實際效果決定是否全面推行。人工智能技術在公共安全領域的應用，引起社會各界廣泛關注。",
       "questions": {
         "lv1": [
-          "新皇崗口岸在哪一天正式開通？",
-          "新口岸開通後，哪個舊口岸同時關閉了？"
+          "康樂及文化事務署在泳池試用什麼新技術？",
+          "這套人工智能系統發現有人遇溺時，會有什麼反應？"
         ],
         "lv2": [
-          "新皇崗口岸採用「合作查驗」模式，你認為這種方式有什麼好處？",
-          "為什麼新口岸開通對香港市民和商界都很重要？"
+          "為什麼泳池需要引入人工智能監察系統，而不是單靠救生員？",
+          "這套系統如何幫助減少泳池意外的傷亡人數？"
         ],
         "lv3": [
-          "有人認為更方便的過境設施會令更多人選擇往內地消費，對香港本地商業有負面影響；你同意嗎？請從不同角度分析。",
-          "香港與內地之間的口岸通關愈來愈便利，你認為這對香港的身份認同和文化多樣性有何影響？"
+          "在公共場所使用人工智能鏡頭監察市民，可能引起私隱方面的顧慮。你認為公共安全與個人私隱應如何取得平衡？",
+          "如果人工智能系統出現誤判，例如誤以為有人遇溺而發出虛假警報，可能帶來什麼後果？政府應如何確保這類技術的可靠性？"
         ]
       }
     },
     {
-      "id": "2026-10-13-zh-2",
+      "id": "2026-10-14-zh-2",
       "lang": "zh",
       "source": "星島日報",
-      "sourceUrl": "https://www.singtaousa.com/2026/10/12/news/china/tsz-ching-estate-fire-injures-resident-evacuation/",
+      "sourceUrl": "https://www.singtao.co.uk/",
       "flag": "🇭🇰",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "adaptedFrom": "星島日報",
-      "title": "慈正邨充電器疑過熱起火　七旬翁面部燒傷　約250居民緊急疏散",
-      "summary": "今日（13日）凌晨近六時，慈雲山慈正邨正安樓一個高層單位懷疑因充電器過熱引發火警，單位內一名七旬男戶主面部燒傷，需送院治理。濃煙迅速蔓延，大廈約250名居民被迫疏散至安全地方。消防員及警員迅速趕赴現場救援。事件提醒市民，為電子裝置充電時要特別小心，應避免長時間充電或使用不合規格的充電器，以防火警發生。",
+      "title": "火星探測車拍下壯麗日出 揭露30億年歷史神秘岩層",
+      "summary": "美國太空總署的火星探測車近日拍攝到火星上一幕令人嘆為觀止的日出景象，同時在鏡頭中捕捉到一批有約30億年歷史的奇特岩層，為科學界帶來珍貴數據。科學家指這些岩層的形狀和構造十分罕見，有助了解火星遠古時期的地質變化及是否曾存在液態水。探測車持續在火星表面進行考察，所蒐集的資料對人類未來探索火星及了解太陽系的起源具有重要意義。這項發現再度引起公眾對太空探索的濃厚興趣。",
       "questions": {
         "lv1": [
-          "今次火警發生在香港哪個屋邨？",
-          "估計今次火警的起因是什麼？"
+          "火星探測車在火星上拍攝到什麼特別的景象？",
+          "科學家發現的岩層大約有多少年歷史？"
         ],
         "lv2": [
-          "為什麼充電器過熱容易引發火警？我們可以採取哪些措施預防？",
-          "火警發生時，住在高樓層的居民應該怎樣保護自己的安全？"
+          "為什麼科學家對火星上的古老岩層感到興奮？這些岩層能告訴我們什麼？",
+          "探索火星對人類未來的發展有什麼潛在的好處？"
         ],
         "lv3": [
-          "香港公共屋邨居住密度高，一旦發生火警影響範圍廣。你認為政府、房屋署及居民各自應承擔什麼責任來減低火警風險？",
-          "隨著智能家電和充電裝置日益普及，家居火警的風險也在上升。你認為社會應如何在推廣科技便利與保障居民安全之間取得平衡？"
+          "太空探索需要耗費龐大資源。有人認為這些資源應該用於解決地球上的貧窮和環境問題，而非探索太空。你同意這個看法嗎？請說明理由。",
+          "如果科學家最終證實火星曾經存在生命，這將對人類的世界觀和宗教信仰帶來什麼衝擊？社會應該如何面對這樣的發現？"
         ]
       }
     }
