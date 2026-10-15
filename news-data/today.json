@@ -1,105 +1,105 @@
 {
-  "generated": "2026-10-14T09:32:06.452098+08:00",
-  "date": "2026-10-14",
+  "generated": "2026-10-15T09:10:42.576978+08:00",
+  "date": "2026-10-15",
   "count": 4,
   "articles": [
     {
-      "id": "2026-10-14-en-1",
+      "id": "2026-10-15-en-1",
       "lang": "en",
-      "source": "NASA Earth Observatory",
-      "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
-      "flag": "🌍",
-      "date": "2026-10-12",
-      "adaptedFrom": "NASA Earth Observatory",
-      "title": "Antarctic Sea Ice Reaches Its Smallest Peak on Record — What Does That Mean?",
-      "summary": "Scientists have announced that Antarctic sea ice grew to its maximum size for 2026 in September, but this year's peak was the third smallest ever recorded since satellites began tracking polar ice. Every year, sea ice around Antarctica expands during winter and shrinks in summer. Researchers use special satellites that detect natural microwave energy from Earth's surface to measure how much ice exists. A smaller maximum means less ice is forming during winter, which scientists say is linked to rising ocean temperatures. This trend worries climate experts because sea ice plays an important role in reflecting sunlight and keeping our planet cool. The data reminds us why protecting the environment matters for everyone.",
+      "source": "The Standard",
+      "sourceUrl": "https://www.thestandard.com.hk/news/article/345523/Morning-Recap-October-15-2026",
+      "flag": "🇭🇰",
+      "date": "2026-10-15",
+      "adaptedFrom": "The Standard",
+      "title": "Hong Kong to Host APEC Finance Ministers' Meeting Next Week",
+      "summary": "Hong Kong is getting ready for an important international event — the Asia-Pacific Economic Cooperation (APEC) Finance Ministers' Meeting, which will take place next Tuesday and Wednesday. Finance ministers from countries across the Asia-Pacific region will gather in the city to discuss economic topics that affect many people's lives. For Hong Kong, hosting this meeting is a big opportunity to show the world that the city remains a strong and important place for global business and cooperation. City officials hope the event will help strengthen Hong Kong's role as a top financial centre in Asia.",
       "questions": {
         "lv1": [
-          "What did scientists find out about Antarctic sea ice in 2026? (科學家在2026年發現南極海冰有什麼變化？)",
-          "What kind of satellites do scientists use to measure sea ice? (科學家用什麼類型的衛星來測量海冰？)"
+          "What important meeting is coming to Hong Kong next week? (下星期有什麼重要會議在香港舉行？)",
+          "What is APEC short for? (APEC的全稱是什麼？)"
         ],
         "lv2": [
-          "Why is it a problem if the Antarctic sea ice peak keeps getting smaller every year? (如果南極海冰每年的最大面積持續縮小，為什麼這是一個問題？)",
-          "How does sea ice help keep the Earth's temperature stable? (海冰如何幫助維持地球的溫度穩定？)"
+          "Why do you think it is important for Hong Kong to host international meetings like the APEC Finance Ministers' Meeting? (你認為香港舉辦像APEC財長會議這類國際會議，為什麼重要？)",
+          "How might hosting a major international meeting help the people who live in Hong Kong? (舉辦大型國際會議如何可能幫助在香港生活的市民？)"
         ],
         "lv3": [
-          "Some people argue that natural climate cycles, not human activity, cause sea ice to shrink. Do you agree or disagree? Use evidence to support your view. (有些人認為海冰縮小是由自然氣候周期造成的，而非人類活動。你同意還是不同意？請用證據支持你的觀點。)",
-          "If governments around the world do not take action to reduce carbon emissions, what consequences might future generations face because of melting polar ice? Who has the greatest responsibility to act? (如果各國政府不採取行動減少碳排放，融化的極地冰層將對下一代帶來什麼後果？誰負有最大的責任採取行動？)"
+          "Some people believe that hosting high-profile international events is the best way for a city to show its strength and influence. Do you agree? Are there other ways a city can demonstrate its global importance? (有人認為，舉辦高知名度的國際活動是城市展示實力與影響力的最佳方式。你同意嗎？還有其他方式可以展現城市的全球重要性嗎？)",
+          "Should finance ministers from different countries work together to solve economic problems, or should each country focus on its own economy first? What are the advantages and disadvantages of international cooperation? (不同國家的財長應該合力解決經濟問題，還是各國應先專注於自身經濟？國際合作有什麼優點和缺點？)"
         ]
       }
     },
     {
-      "id": "2026-10-14-en-2",
+      "id": "2026-10-15-en-2",
       "lang": "en",
-      "source": "Reuters",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "source": "明報 (Ming Pao)",
+      "sourceUrl": "https://news.mingpao.com/ins/%E7%86%B1%E9%BB%9E/article/20261014/s00024/1791983260507/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E5%91%A8%E5%9B%9B%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%9B%A8-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB%E7%B4%8431-c-%E9%87%8D%E9%99%BD%E7%AF%80%E6%96%99%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5",
       "flag": "🇬🇧",
       "date": "2026-10-14",
-      "adaptedFrom": "Reuters",
-      "title": "Two Chemists Win Nobel Prize for Discovering a Remarkable Reaction in Nature",
-      "summary": "A French scientist named Henri B. Kagan and a Japanese scientist named Kensō Soai have been awarded the 2026 Nobel Prize in Chemistry. They are being honoured for discovering special effects in chemistry where tiny amounts of one substance can cause a reaction to keep copying itself — a process called autocatalysis. This finding is important because it may help explain how life's building blocks first formed on Earth billions of years ago. Kagan works at Paris-Saclay University in France, while Soai is a professor at the Tokyo University of Science in Japan. The Nobel Prize is one of the greatest honours a scientist can receive.",
+      "adaptedFrom": "Ming Pao",
+      "title": "British MP Becomes First in Parliament to Speak Using an AI-Generated Voice",
+      "summary": "A member of the United Kingdom's parliament has made history by being the first lawmaker to deliver a speech using a voice created by artificial intelligence. The MP has a medical condition called spinal muscular atrophy, which makes it very difficult to speak normally. To take part in parliamentary debates, they used an AI system that produced a spoken voice on their behalf. This remarkable moment has sparked conversations about how technology can help people with disabilities participate fully in public life — and raised questions about where the boundaries of AI use in government should be.",
       "questions": {
         "lv1": [
-          "What prize did Henri B. Kagan and Kensō Soai win in 2026? (亨利·卡甘和曾我顯在2026年獲得了什麼獎項？)",
-          "Which two countries do the Nobel Prize-winning scientists come from? (獲得諾貝爾獎的科學家分別來自哪兩個國家？)"
+          "What did the British MP use to speak in parliament? (英國國會議員用什麼方法在國會發言？)",
+          "What health condition does this MP have? (這位國會議員患有什麼健康問題？)"
         ],
         "lv2": [
-          "Why is the discovery of autocatalysis considered so important in science? (為什麼發現自動催化反應在科學上被認為非常重要？)",
-          "How might understanding how life's building blocks first formed help scientists today? (了解生命基本構件最初是如何形成，對今天的科學家有什麼幫助？)"
+          "How can AI technology help people who have difficulty speaking or moving? Can you think of other ways AI might help people with disabilities in daily life? (人工智能技術如何幫助有說話或行動困難的人？你能想到AI還有哪些方式可以幫助殘疾人士的日常生活？)",
+          "Why might it be important for people with disabilities to be able to participate in government and politics? (為什麼讓殘疾人士能夠參與政府和政治，可能是一件重要的事？)"
         ],
         "lv3": [
-          "The Nobel Prize in Chemistry is often awarded for discoveries made many years ago. Is it fair that scientists sometimes wait decades to be recognised? What are the advantages and disadvantages of this approach? (諾貝爾化學獎往往頒給多年前的發現。科學家有時要等數十年才能獲得認可，這公平嗎？這種做法有什麼優缺點？)",
-          "Scientific research requires large amounts of funding. Should governments prioritise spending on basic science — like chemistry — or on more immediately practical problems, such as healthcare or poverty? Justify your answer. (科學研究需要大量資金。政府應該優先資助基礎科學（如化學），還是更迫切的實際問題（如醫療或貧窮）？請解釋你的立場。)"
+          "If a politician uses an AI voice instead of their own voice, is it still truly 'their' speech? Should there be rules about when and how AI can be used in parliament? Give reasons for your view. (如果政客使用AI聲音代替自己的聲音，那演講是否仍然真正屬於「他們」？國會使用AI是否應該有規定？請說明你的理由。)",
+          "Some people worry that AI tools in politics could be misused to spread false ideas or hide a politician's true opinions. How should governments balance the benefits of AI accessibility with the risks of AI misuse? (有人擔心政治中的AI工具可能被濫用，散播錯誤資訊或隱藏政客的真實意見。政府應如何在AI無障礙的好處與AI被濫用的風險之間取得平衡？)"
         ]
       }
     },
     {
-      "id": "2026-10-14-zh-1",
+      "id": "2026-10-15-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/section/20261014/s00001",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261015/s00002",
       "flag": "🇭🇰",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "adaptedFrom": "明報",
-      "title": "香港泳池試行人工智能高空鏡頭 自動偵測遇溺情況",
-      "summary": "康樂及文化事務署在香港公眾泳池試用一套嶄新的人工智能監察系統，透過安裝於高處的攝影鏡頭，實時監視泳池內的泳客動態。當系統懷疑有人遇溺時，會自動響起警報並在屏幕顯示警示，提醒救生員即時採取行動。這項技術旨在加強泳池安全，輔助救生員的工作，令意外發生時的反應時間大幅縮短。有關當局表示，此系統仍在測試階段，將按實際效果決定是否全面推行。人工智能技術在公共安全領域的應用，引起社會各界廣泛關注。",
+      "title": "洪水橋產業園大學城推動校企合辦實習　助科研成果落地",
+      "summary": "香港首份《五年規劃》提出透過洪水橋產業園推動多元產業發展。立法會議員林健鋒表示，產業園可促成大學與企業合辦實習課程，對雙方均有裨益。大學生可獲實戰經驗，企業則能吸引具潛力的新生代人才。有關方面希望在五年後，洪水橋一帶能成為充滿活力、人流旺盛的地方，帶動北部都會區整體發展，並鼓勵更多科研成果轉化為實際應用，推動香港創科產業邁向新台階。",
       "questions": {
         "lv1": [
-          "康樂及文化事務署在泳池試用什麼新技術？",
-          "這套人工智能系統發現有人遇溺時，會有什麼反應？"
+          "洪水橋產業園希望大學和企業合作做什麼？",
+          "香港的《五年規劃》提到了哪個地區的發展？"
         ],
         "lv2": [
-          "為什麼泳池需要引入人工智能監察系統，而不是單靠救生員？",
-          "這套系統如何幫助減少泳池意外的傷亡人數？"
+          "為什麼大學生和企業合辦實習課程，對雙方都有好處？",
+          "科研成果「落地」是什麼意思？為什麼這對社會很重要？"
         ],
         "lv3": [
-          "在公共場所使用人工智能鏡頭監察市民，可能引起私隱方面的顧慮。你認為公共安全與個人私隱應如何取得平衡？",
-          "如果人工智能系統出現誤判，例如誤以為有人遇溺而發出虛假警報，可能帶來什麼後果？政府應如何確保這類技術的可靠性？"
+          "有人認為，政府主導的產業園規劃未必能靈活回應市場需求，你認為政府應如何在規劃與市場之間取得平衡？",
+          "如果你是大學生，你會選擇在政府規劃的產業園實習，還是在市區的私人企業工作？請從不同角度分析兩種選擇的優缺點。"
         ]
       }
     },
     {
-      "id": "2026-10-14-zh-2",
+      "id": "2026-10-15-zh-2",
       "lang": "zh",
       "source": "星島日報",
-      "sourceUrl": "https://www.singtao.co.uk/",
+      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
       "flag": "🇭🇰",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "adaptedFrom": "星島日報",
-      "title": "火星探測車拍下壯麗日出 揭露30億年歷史神秘岩層",
-      "summary": "美國太空總署的火星探測車近日拍攝到火星上一幕令人嘆為觀止的日出景象，同時在鏡頭中捕捉到一批有約30億年歷史的奇特岩層，為科學界帶來珍貴數據。科學家指這些岩層的形狀和構造十分罕見，有助了解火星遠古時期的地質變化及是否曾存在液態水。探測車持續在火星表面進行考察，所蒐集的資料對人類未來探索火星及了解太陽系的起源具有重要意義。這項發現再度引起公眾對太空探索的濃厚興趣。",
+      "title": "啟德醫院正式投入服務　首日提供350個街症名額運作順暢",
+      "summary": "香港啟德醫院今日正式開始運作，首日情況順暢。醫院的家庭醫學綜合中心每天提供多達350個免預約街症名額，為九龍中一帶居民提供嶄新醫療服務。院方表示，將會分階段擴充服務，下月更會把伊利沙伯醫院的內科服務遷入啟德醫院，以應對社區日益增長的醫療需求，成為區內重要的新醫療據點，進一步完善香港的公共醫療網絡。",
       "questions": {
         "lv1": [
-          "火星探測車在火星上拍攝到什麼特別的景象？",
-          "科學家發現的岩層大約有多少年歷史？"
+          "啟德醫院位於香港哪個地區？",
+          "啟德醫院首日提供多少個街症名額？"
         ],
         "lv2": [
-          "為什麼科學家對火星上的古老岩層感到興奮？這些岩層能告訴我們什麼？",
-          "探索火星對人類未來的發展有什麼潛在的好處？"
+          "為什麼一間新醫院採用「分階段」擴充服務的方式，而不是一開始便提供所有服務？",
+          "街症服務對市民有什麼好處？哪些人最可能需要使用這項服務？"
         ],
         "lv3": [
-          "太空探索需要耗費龐大資源。有人認為這些資源應該用於解決地球上的貧窮和環境問題，而非探索太空。你同意這個看法嗎？請說明理由。",
-          "如果科學家最終證實火星曾經存在生命，這將對人類的世界觀和宗教信仰帶來什麼衝擊？社會應該如何面對這樣的發現？"
+          "香港公共醫療系統長期面對人手不足和輪候時間過長的問題。你認為興建新醫院是否足以解決這些問題？還有哪些其他方法可以改善公共醫療？",
+          "有意見認為，政府應優先投放資源於預防疾病（如健康教育），而非只集中於治療疾病。你同意嗎？請從不同角度分析。"
         ]
       }
     }
