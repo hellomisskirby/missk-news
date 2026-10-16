@@ -1,0 +1,107 @@
+{
+  "generated": "2026-10-16T08:56:51.263774+08:00",
+  "date": "2026-10-16",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-10-16-en-1",
+      "lang": "en",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/business/banking-finance/article/3370997/hsbc-double-hong-kong-ai-team-300-outpacing-singapore-plan",
+      "flag": "🇬🇧",
+      "date": "2026-10-16",
+      "adaptedFrom": "South China Morning Post",
+      "title": "HSBC Plans to Double Its AI Experts in Hong Kong to 300 People",
+      "summary": "One of Hong Kong's biggest banks, HSBC, has announced plans to grow its team of artificial intelligence (AI) specialists in Hong Kong from around 150 to 300 people. This means the bank will have twice as many AI workers in Hong Kong as it plans to hire at its new AI centre in Singapore. The decision comes after concerns were raised by Hong Kong's financial regulators about the Singapore hub. AI specialists are people who use computer technology to help machines think and learn. Banks like HSBC are using AI to improve services for customers and make their work faster and smarter.",
+      "questions": {
+        "lv1": [
+          "How many AI specialists does HSBC plan to have in Hong Kong? (滙豐銀行計劃在香港聘請多少名人工智能專家？)",
+          "What does an AI specialist do at a bank? (人工智能專家在銀行負責什麼工作？)"
+        ],
+        "lv2": [
+          "Why do you think HSBC decided to grow its AI team in Hong Kong rather than only in Singapore? (你認為滙豐銀行為何決定在香港而非只在新加坡擴大其人工智能團隊？)",
+          "How might having more AI workers help a bank serve its customers better? (擁有更多人工智能員工，銀行如何能更好地為客戶服務？)"
+        ],
+        "lv3": [
+          "If banks replace some human workers with AI, what are the benefits and drawbacks for society — and who should decide how fast this change happens? (如果銀行以人工智能取代部分人手，對社會有何利弊？又應由誰決定這種轉變的速度？)",
+          "Should governments set rules about how many AI jobs a company must keep in their own country? Why or why not? (政府是否應規定企業必須在本國保留一定數量的人工智能職位？為什麼？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-16-en-2",
+      "lang": "en",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/live",
+      "flag": "🇬🇧",
+      "date": "2026-10-16",
+      "adaptedFrom": "South China Morning Post",
+      "title": "Over 1,000 Hong Kong Residents to Get Free Rides in Baidu's Driverless Taxis",
+      "summary": "Technology company Baidu is launching a special trial in Hong Kong, where more than one thousand people will be able to travel in self-driving taxis — also called robotaxis — completely free of charge. The trial will take place in Tung Chung, a neighbourhood on Lantau Island, from 21 October to 3 November. Baidu's robotaxi service is called Apollo. During the trial, the company hopes to collect feedback from passengers to improve how the vehicles work. This is the first time a driverless car public trial of this kind has happened in Hong Kong, marking a big step forward for smart transport in the city.",
+      "questions": {
+        "lv1": [
+          "Where in Hong Kong will the driverless taxi trial take place? (無人駕駛的士試驗將在香港哪個地區進行？)",
+          "What is the name of Baidu's robotaxi service? (百度的自動駕駛的士服務叫什麼名字？)"
+        ],
+        "lv2": [
+          "Why do you think Baidu is offering the robotaxi rides for free during the trial? (你認為百度為何在試驗期間免費提供自動駕駛的士服務？)",
+          "What kinds of problems might arise when testing driverless vehicles in a busy city like Hong Kong? (在香港這樣繁忙的城市測試無人駕駛車輛，可能會出現哪些問題？)"
+        ],
+        "lv3": [
+          "Should driverless taxis be allowed on Hong Kong's roads permanently? Consider the impact on taxi drivers, safety, and the environment in your answer. (無人駕駛的士是否應永久獲准在香港道路上行駛？請從對的士司機、安全及環境的影響加以分析。)",
+          "Who should be responsible if a driverless taxi is involved in an accident — the technology company, the passenger, or the government? Give reasons for your view. (若無人駕駛的士發生意外，誰應該負責——科技公司、乘客還是政府？請說明你的理由。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-16-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/section/20261016/s00001",
+      "flag": "🇭🇰",
+      "date": "2026-10-16",
+      "adaptedFrom": "明報",
+      "title": "香港首個人形機器人訓練場正式成立　十五家科企進駐",
+      "summary": "香港工業人工智能與機械人研發中心（FLAIR）今日宣布，成立香港首個專門訓練「具身智能」及人形機器人的訓練場。所謂「具身智能」，是指機器人能感知周圍環境並自主行動的能力。目前已有來自內地的七家科技企業及八家國際夥伴加入。這個訓練場讓機器人在模擬真實環境中學習各種任務，有助推動香港成為亞洲機器人研究及應用的重要基地，培育更多本地科技人才。",
+      "questions": {
+        "lv1": [
+          "香港首個人形機器人訓練場由哪個機構宣布成立？",
+          "目前有多少家科技企業加入這個訓練場？"
+        ],
+        "lv2": [
+          "為什麼要在訓練場讓機器人「模擬真實環境」學習，而不是直接在街上測試？",
+          "香港成立人形機器人訓練場，對本地學生和年輕人有什麼好處？"
+        ],
+        "lv3": [
+          "若人形機器人未來能代替人類從事各種工作，社會應如何確保被取代的工人得到公平對待？",
+          "香港發展機器人技術，應優先考慮商業利益還是市民的日常生活需要？試從不同角度討論。"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-16-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://stepaper.stheadline.com/",
+      "flag": "🇭🇰",
+      "date": "2026-10-16",
+      "adaptedFrom": "星島日報",
+      "title": "AI客服「幫倒忙」？今年投訴數字急升逾一倍",
+      "summary": "消委會公布，今年首九個月共接獲3,078宗涉及客戶服務的投訴，其中與人工智能（AI）客服相關的投訴按年急升143%。有市民反映，AI客服曾錯誤承諾可在打風時更改門票日期，但最終卻無法退票，須由消委會介入才獲解決。這顯示AI客服雖然方便快捷，但在處理複雜問題時仍有不足，消費者在使用時應保持警覺，並保存相關記錄以備投訴之用。",
+      "questions": {
+        "lv1": [
+          "消委會今年首九個月共接獲多少宗涉及客戶服務的投訴？",
+          "文中提到AI客服曾就哪件事作出錯誤承諾？"
+        ],
+        "lv2": [
+          "為什麼AI客服在處理複雜問題時可能不如真人客服有效？",
+          "消費者在使用AI客服時，應該採取哪些措施保障自己的權益？"
+        ],
+        "lv3": [
+          "企業以AI取代真人客服，對消費者和員工各有什麼利與弊？你認為應如何取得平衡？",
+          "政府是否應立法規定企業在提供AI客服的同時，必須保留真人客服選項？試從不同立場討論。"
+        ]
+      }
+    }
+  ]
+}

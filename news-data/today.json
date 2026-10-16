@@ -1,105 +1,105 @@
 {
-  "generated": "2026-10-15T09:10:42.576978+08:00",
-  "date": "2026-10-15",
+  "generated": "2026-10-16T08:56:51.263774+08:00",
+  "date": "2026-10-16",
   "count": 4,
   "articles": [
     {
-      "id": "2026-10-15-en-1",
+      "id": "2026-10-16-en-1",
       "lang": "en",
-      "source": "The Standard",
-      "sourceUrl": "https://www.thestandard.com.hk/news/article/345523/Morning-Recap-October-15-2026",
-      "flag": "🇭🇰",
-      "date": "2026-10-15",
-      "adaptedFrom": "The Standard",
-      "title": "Hong Kong to Host APEC Finance Ministers' Meeting Next Week",
-      "summary": "Hong Kong is getting ready for an important international event — the Asia-Pacific Economic Cooperation (APEC) Finance Ministers' Meeting, which will take place next Tuesday and Wednesday. Finance ministers from countries across the Asia-Pacific region will gather in the city to discuss economic topics that affect many people's lives. For Hong Kong, hosting this meeting is a big opportunity to show the world that the city remains a strong and important place for global business and cooperation. City officials hope the event will help strengthen Hong Kong's role as a top financial centre in Asia.",
-      "questions": {
-        "lv1": [
-          "What important meeting is coming to Hong Kong next week? (下星期有什麼重要會議在香港舉行？)",
-          "What is APEC short for? (APEC的全稱是什麼？)"
-        ],
-        "lv2": [
-          "Why do you think it is important for Hong Kong to host international meetings like the APEC Finance Ministers' Meeting? (你認為香港舉辦像APEC財長會議這類國際會議，為什麼重要？)",
-          "How might hosting a major international meeting help the people who live in Hong Kong? (舉辦大型國際會議如何可能幫助在香港生活的市民？)"
-        ],
-        "lv3": [
-          "Some people believe that hosting high-profile international events is the best way for a city to show its strength and influence. Do you agree? Are there other ways a city can demonstrate its global importance? (有人認為，舉辦高知名度的國際活動是城市展示實力與影響力的最佳方式。你同意嗎？還有其他方式可以展現城市的全球重要性嗎？)",
-          "Should finance ministers from different countries work together to solve economic problems, or should each country focus on its own economy first? What are the advantages and disadvantages of international cooperation? (不同國家的財長應該合力解決經濟問題，還是各國應先專注於自身經濟？國際合作有什麼優點和缺點？)"
-        ]
-      }
-    },
-    {
-      "id": "2026-10-15-en-2",
-      "lang": "en",
-      "source": "明報 (Ming Pao)",
-      "sourceUrl": "https://news.mingpao.com/ins/%E7%86%B1%E9%BB%9E/article/20261014/s00024/1791983260507/%E5%A4%A9%E6%B0%A3-%E5%A4%A9%E6%96%87%E5%8F%B0-%E5%91%A8%E5%9B%9B%E6%9C%89%E4%B8%80%E5%85%A9%E9%99%A3%E9%9B%A8-%E6%9C%80%E9%AB%98%E6%B0%A3%E6%BA%AB%E7%B4%8431-c-%E9%87%8D%E9%99%BD%E7%AF%80%E6%96%99%E5%A4%A9%E6%99%B4%E4%B9%BE%E7%87%A5",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/business/banking-finance/article/3370997/hsbc-double-hong-kong-ai-team-300-outpacing-singapore-plan",
       "flag": "🇬🇧",
-      "date": "2026-10-14",
-      "adaptedFrom": "Ming Pao",
-      "title": "British MP Becomes First in Parliament to Speak Using an AI-Generated Voice",
-      "summary": "A member of the United Kingdom's parliament has made history by being the first lawmaker to deliver a speech using a voice created by artificial intelligence. The MP has a medical condition called spinal muscular atrophy, which makes it very difficult to speak normally. To take part in parliamentary debates, they used an AI system that produced a spoken voice on their behalf. This remarkable moment has sparked conversations about how technology can help people with disabilities participate fully in public life — and raised questions about where the boundaries of AI use in government should be.",
+      "date": "2026-10-16",
+      "adaptedFrom": "South China Morning Post",
+      "title": "HSBC Plans to Double Its AI Experts in Hong Kong to 300 People",
+      "summary": "One of Hong Kong's biggest banks, HSBC, has announced plans to grow its team of artificial intelligence (AI) specialists in Hong Kong from around 150 to 300 people. This means the bank will have twice as many AI workers in Hong Kong as it plans to hire at its new AI centre in Singapore. The decision comes after concerns were raised by Hong Kong's financial regulators about the Singapore hub. AI specialists are people who use computer technology to help machines think and learn. Banks like HSBC are using AI to improve services for customers and make their work faster and smarter.",
       "questions": {
         "lv1": [
-          "What did the British MP use to speak in parliament? (英國國會議員用什麼方法在國會發言？)",
-          "What health condition does this MP have? (這位國會議員患有什麼健康問題？)"
+          "How many AI specialists does HSBC plan to have in Hong Kong? (滙豐銀行計劃在香港聘請多少名人工智能專家？)",
+          "What does an AI specialist do at a bank? (人工智能專家在銀行負責什麼工作？)"
         ],
         "lv2": [
-          "How can AI technology help people who have difficulty speaking or moving? Can you think of other ways AI might help people with disabilities in daily life? (人工智能技術如何幫助有說話或行動困難的人？你能想到AI還有哪些方式可以幫助殘疾人士的日常生活？)",
-          "Why might it be important for people with disabilities to be able to participate in government and politics? (為什麼讓殘疾人士能夠參與政府和政治，可能是一件重要的事？)"
+          "Why do you think HSBC decided to grow its AI team in Hong Kong rather than only in Singapore? (你認為滙豐銀行為何決定在香港而非只在新加坡擴大其人工智能團隊？)",
+          "How might having more AI workers help a bank serve its customers better? (擁有更多人工智能員工，銀行如何能更好地為客戶服務？)"
         ],
         "lv3": [
-          "If a politician uses an AI voice instead of their own voice, is it still truly 'their' speech? Should there be rules about when and how AI can be used in parliament? Give reasons for your view. (如果政客使用AI聲音代替自己的聲音，那演講是否仍然真正屬於「他們」？國會使用AI是否應該有規定？請說明你的理由。)",
-          "Some people worry that AI tools in politics could be misused to spread false ideas or hide a politician's true opinions. How should governments balance the benefits of AI accessibility with the risks of AI misuse? (有人擔心政治中的AI工具可能被濫用，散播錯誤資訊或隱藏政客的真實意見。政府應如何在AI無障礙的好處與AI被濫用的風險之間取得平衡？)"
+          "If banks replace some human workers with AI, what are the benefits and drawbacks for society — and who should decide how fast this change happens? (如果銀行以人工智能取代部分人手，對社會有何利弊？又應由誰決定這種轉變的速度？)",
+          "Should governments set rules about how many AI jobs a company must keep in their own country? Why or why not? (政府是否應規定企業必須在本國保留一定數量的人工智能職位？為什麼？)"
         ]
       }
     },
     {
-      "id": "2026-10-15-zh-1",
+      "id": "2026-10-16-en-2",
+      "lang": "en",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/live",
+      "flag": "🇬🇧",
+      "date": "2026-10-16",
+      "adaptedFrom": "South China Morning Post",
+      "title": "Over 1,000 Hong Kong Residents to Get Free Rides in Baidu's Driverless Taxis",
+      "summary": "Technology company Baidu is launching a special trial in Hong Kong, where more than one thousand people will be able to travel in self-driving taxis — also called robotaxis — completely free of charge. The trial will take place in Tung Chung, a neighbourhood on Lantau Island, from 21 October to 3 November. Baidu's robotaxi service is called Apollo. During the trial, the company hopes to collect feedback from passengers to improve how the vehicles work. This is the first time a driverless car public trial of this kind has happened in Hong Kong, marking a big step forward for smart transport in the city.",
+      "questions": {
+        "lv1": [
+          "Where in Hong Kong will the driverless taxi trial take place? (無人駕駛的士試驗將在香港哪個地區進行？)",
+          "What is the name of Baidu's robotaxi service? (百度的自動駕駛的士服務叫什麼名字？)"
+        ],
+        "lv2": [
+          "Why do you think Baidu is offering the robotaxi rides for free during the trial? (你認為百度為何在試驗期間免費提供自動駕駛的士服務？)",
+          "What kinds of problems might arise when testing driverless vehicles in a busy city like Hong Kong? (在香港這樣繁忙的城市測試無人駕駛車輛，可能會出現哪些問題？)"
+        ],
+        "lv3": [
+          "Should driverless taxis be allowed on Hong Kong's roads permanently? Consider the impact on taxi drivers, safety, and the environment in your answer. (無人駕駛的士是否應永久獲准在香港道路上行駛？請從對的士司機、安全及環境的影響加以分析。)",
+          "Who should be responsible if a driverless taxi is involved in an accident — the technology company, the passenger, or the government? Give reasons for your view. (若無人駕駛的士發生意外，誰應該負責——科技公司、乘客還是政府？請說明你的理由。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-16-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261015/s00002",
+      "sourceUrl": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/section/20261016/s00001",
       "flag": "🇭🇰",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "adaptedFrom": "明報",
-      "title": "洪水橋產業園大學城推動校企合辦實習　助科研成果落地",
-      "summary": "香港首份《五年規劃》提出透過洪水橋產業園推動多元產業發展。立法會議員林健鋒表示，產業園可促成大學與企業合辦實習課程，對雙方均有裨益。大學生可獲實戰經驗，企業則能吸引具潛力的新生代人才。有關方面希望在五年後，洪水橋一帶能成為充滿活力、人流旺盛的地方，帶動北部都會區整體發展，並鼓勵更多科研成果轉化為實際應用，推動香港創科產業邁向新台階。",
+      "title": "香港首個人形機器人訓練場正式成立　十五家科企進駐",
+      "summary": "香港工業人工智能與機械人研發中心（FLAIR）今日宣布，成立香港首個專門訓練「具身智能」及人形機器人的訓練場。所謂「具身智能」，是指機器人能感知周圍環境並自主行動的能力。目前已有來自內地的七家科技企業及八家國際夥伴加入。這個訓練場讓機器人在模擬真實環境中學習各種任務，有助推動香港成為亞洲機器人研究及應用的重要基地，培育更多本地科技人才。",
       "questions": {
         "lv1": [
-          "洪水橋產業園希望大學和企業合作做什麼？",
-          "香港的《五年規劃》提到了哪個地區的發展？"
+          "香港首個人形機器人訓練場由哪個機構宣布成立？",
+          "目前有多少家科技企業加入這個訓練場？"
         ],
         "lv2": [
-          "為什麼大學生和企業合辦實習課程，對雙方都有好處？",
-          "科研成果「落地」是什麼意思？為什麼這對社會很重要？"
+          "為什麼要在訓練場讓機器人「模擬真實環境」學習，而不是直接在街上測試？",
+          "香港成立人形機器人訓練場，對本地學生和年輕人有什麼好處？"
         ],
         "lv3": [
-          "有人認為，政府主導的產業園規劃未必能靈活回應市場需求，你認為政府應如何在規劃與市場之間取得平衡？",
-          "如果你是大學生，你會選擇在政府規劃的產業園實習，還是在市區的私人企業工作？請從不同角度分析兩種選擇的優缺點。"
+          "若人形機器人未來能代替人類從事各種工作，社會應如何確保被取代的工人得到公平對待？",
+          "香港發展機器人技術，應優先考慮商業利益還是市民的日常生活需要？試從不同角度討論。"
         ]
       }
     },
     {
-      "id": "2026-10-15-zh-2",
+      "id": "2026-10-16-zh-2",
       "lang": "zh",
       "source": "星島日報",
-      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
+      "sourceUrl": "https://stepaper.stheadline.com/",
       "flag": "🇭🇰",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "adaptedFrom": "星島日報",
-      "title": "啟德醫院正式投入服務　首日提供350個街症名額運作順暢",
-      "summary": "香港啟德醫院今日正式開始運作，首日情況順暢。醫院的家庭醫學綜合中心每天提供多達350個免預約街症名額，為九龍中一帶居民提供嶄新醫療服務。院方表示，將會分階段擴充服務，下月更會把伊利沙伯醫院的內科服務遷入啟德醫院，以應對社區日益增長的醫療需求，成為區內重要的新醫療據點，進一步完善香港的公共醫療網絡。",
+      "title": "AI客服「幫倒忙」？今年投訴數字急升逾一倍",
+      "summary": "消委會公布，今年首九個月共接獲3,078宗涉及客戶服務的投訴，其中與人工智能（AI）客服相關的投訴按年急升143%。有市民反映，AI客服曾錯誤承諾可在打風時更改門票日期，但最終卻無法退票，須由消委會介入才獲解決。這顯示AI客服雖然方便快捷，但在處理複雜問題時仍有不足，消費者在使用時應保持警覺，並保存相關記錄以備投訴之用。",
       "questions": {
         "lv1": [
-          "啟德醫院位於香港哪個地區？",
-          "啟德醫院首日提供多少個街症名額？"
+          "消委會今年首九個月共接獲多少宗涉及客戶服務的投訴？",
+          "文中提到AI客服曾就哪件事作出錯誤承諾？"
         ],
         "lv2": [
-          "為什麼一間新醫院採用「分階段」擴充服務的方式，而不是一開始便提供所有服務？",
-          "街症服務對市民有什麼好處？哪些人最可能需要使用這項服務？"
+          "為什麼AI客服在處理複雜問題時可能不如真人客服有效？",
+          "消費者在使用AI客服時，應該採取哪些措施保障自己的權益？"
         ],
         "lv3": [
-          "香港公共醫療系統長期面對人手不足和輪候時間過長的問題。你認為興建新醫院是否足以解決這些問題？還有哪些其他方法可以改善公共醫療？",
-          "有意見認為，政府應優先投放資源於預防疾病（如健康教育），而非只集中於治療疾病。你同意嗎？請從不同角度分析。"
+          "企業以AI取代真人客服，對消費者和員工各有什麼利與弊？你認為應如何取得平衡？",
+          "政府是否應立法規定企業在提供AI客服的同時，必須保留真人客服選項？試從不同立場討論。"
         ]
       }
     }
