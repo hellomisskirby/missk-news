@@ -1,105 +1,105 @@
 {
-  "generated": "2026-10-16T08:56:51.263774+08:00",
-  "date": "2026-10-16",
+  "generated": "2026-10-17T08:58:08.016179+08:00",
+  "date": "2026-10-17",
   "count": 4,
   "articles": [
     {
-      "id": "2026-10-16-en-1",
+      "id": "2026-10-17-en-1",
       "lang": "en",
-      "source": "South China Morning Post",
-      "sourceUrl": "https://www.scmp.com/business/banking-finance/article/3370997/hsbc-double-hong-kong-ai-team-300-outpacing-singapore-plan",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.com/news/articles/2026-peshawar-school-roof-collapse",
       "flag": "🇬🇧",
-      "date": "2026-10-16",
-      "adaptedFrom": "South China Morning Post",
-      "title": "HSBC Plans to Double Its AI Experts in Hong Kong to 300 People",
-      "summary": "One of Hong Kong's biggest banks, HSBC, has announced plans to grow its team of artificial intelligence (AI) specialists in Hong Kong from around 150 to 300 people. This means the bank will have twice as many AI workers in Hong Kong as it plans to hire at its new AI centre in Singapore. The decision comes after concerns were raised by Hong Kong's financial regulators about the Singapore hub. AI specialists are people who use computer technology to help machines think and learn. Banks like HSBC are using AI to improve services for customers and make their work faster and smarter.",
+      "date": "2026-10-17",
+      "adaptedFrom": "BBC News",
+      "title": "School Roof Collapses in Pakistan, Killing Dozens of Students",
+      "summary": "A terrible accident happened at a school in Peshawar, a city in Pakistan. The roof of a classroom suddenly fell down, killing 34 students and one teacher, and injuring 50 more people. Rescue workers rushed to the scene to help those who were trapped under the heavy rubble. Pakistan's government expressed deep sadness over the tragedy and promised to investigate why the building was not safe. School building safety is a serious concern in many parts of Pakistan, where old or poorly constructed structures can put children's lives at risk every day.",
       "questions": {
         "lv1": [
-          "How many AI specialists does HSBC plan to have in Hong Kong? (滙豐銀行計劃在香港聘請多少名人工智能專家？)",
-          "What does an AI specialist do at a bank? (人工智能專家在銀行負責什麼工作？)"
+          "Where did the school roof collapse happen? (這宗學校屋頂倒塌事故發生在哪個國家？)",
+          "How many students lost their lives in the accident? (這宗意外中，有多少名學生不幸罹難？)"
         ],
         "lv2": [
-          "Why do you think HSBC decided to grow its AI team in Hong Kong rather than only in Singapore? (你認為滙豐銀行為何決定在香港而非只在新加坡擴大其人工智能團隊？)",
-          "How might having more AI workers help a bank serve its customers better? (擁有更多人工智能員工，銀行如何能更好地為客戶服務？)"
+          "Why do you think old or poorly built school buildings can be so dangerous for students? (你認為為何老舊或建造不善的校舍對學生來說十分危險？)",
+          "What should a government do to make sure school buildings are safe for children? (政府應該採取哪些措施，確保學校建築物對學生是安全的？)"
         ],
         "lv3": [
-          "If banks replace some human workers with AI, what are the benefits and drawbacks for society — and who should decide how fast this change happens? (如果銀行以人工智能取代部分人手，對社會有何利弊？又應由誰決定這種轉變的速度？)",
-          "Should governments set rules about how many AI jobs a company must keep in their own country? Why or why not? (政府是否應規定企業必須在本國保留一定數量的人工智能職位？為什麼？)"
+          "Should wealthier countries have a responsibility to help poorer countries improve the safety of their school buildings? Why or why not? (富裕國家是否有責任協助貧困國家改善校舍安全？請說明你的理由。)",
+          "Some people say that governments should spend more money on building safety checks instead of other projects. Do you agree? What are the trade-offs? (有人認為政府應將更多資源用於建築安全檢查，而非其他項目，你是否同意？當中涉及哪些取捨？)"
         ]
       }
     },
     {
-      "id": "2026-10-16-en-2",
-      "lang": "en",
-      "source": "South China Morning Post",
-      "sourceUrl": "https://www.scmp.com/live",
-      "flag": "🇬🇧",
-      "date": "2026-10-16",
-      "adaptedFrom": "South China Morning Post",
-      "title": "Over 1,000 Hong Kong Residents to Get Free Rides in Baidu's Driverless Taxis",
-      "summary": "Technology company Baidu is launching a special trial in Hong Kong, where more than one thousand people will be able to travel in self-driving taxis — also called robotaxis — completely free of charge. The trial will take place in Tung Chung, a neighbourhood on Lantau Island, from 21 October to 3 November. Baidu's robotaxi service is called Apollo. During the trial, the company hopes to collect feedback from passengers to improve how the vehicles work. This is the first time a driverless car public trial of this kind has happened in Hong Kong, marking a big step forward for smart transport in the city.",
-      "questions": {
-        "lv1": [
-          "Where in Hong Kong will the driverless taxi trial take place? (無人駕駛的士試驗將在香港哪個地區進行？)",
-          "What is the name of Baidu's robotaxi service? (百度的自動駕駛的士服務叫什麼名字？)"
-        ],
-        "lv2": [
-          "Why do you think Baidu is offering the robotaxi rides for free during the trial? (你認為百度為何在試驗期間免費提供自動駕駛的士服務？)",
-          "What kinds of problems might arise when testing driverless vehicles in a busy city like Hong Kong? (在香港這樣繁忙的城市測試無人駕駛車輛，可能會出現哪些問題？)"
-        ],
-        "lv3": [
-          "Should driverless taxis be allowed on Hong Kong's roads permanently? Consider the impact on taxi drivers, safety, and the environment in your answer. (無人駕駛的士是否應永久獲准在香港道路上行駛？請從對的士司機、安全及環境的影響加以分析。)",
-          "Who should be responsible if a driverless taxi is involved in an accident — the technology company, the passenger, or the government? Give reasons for your view. (若無人駕駛的士發生意外，誰應該負責——科技公司、乘客還是政府？請說明你的理由。)"
-        ]
-      }
-    },
-    {
-      "id": "2026-10-16-zh-1",
+      "id": "2026-10-17-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/section/20261016/s00001",
+      "sourceUrl": "https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/section/20261016/s00001",
       "flag": "🇭🇰",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "adaptedFrom": "明報",
-      "title": "香港首個人形機器人訓練場正式成立　十五家科企進駐",
-      "summary": "香港工業人工智能與機械人研發中心（FLAIR）今日宣布，成立香港首個專門訓練「具身智能」及人形機器人的訓練場。所謂「具身智能」，是指機器人能感知周圍環境並自主行動的能力。目前已有來自內地的七家科技企業及八家國際夥伴加入。這個訓練場讓機器人在模擬真實環境中學習各種任務，有助推動香港成為亞洲機器人研究及應用的重要基地，培育更多本地科技人才。",
+      "title": "香港兩屋邨48部升降機缺耐火門框 承辦商涉虛報完工被調查",
+      "summary": "香港兩個公共屋邨共48部升降機，被發現在未安裝耐火門框組件的情況下，竟被申報為「完工」。機電工程署指承辦商「臺日」存在嚴重失職，懷疑涉及欺詐行為並已報警處理。居民對升降機安全深感憂慮，有人更指升降機在換新後曾於一個月內壞足三次。事件引發社會對公共屋邨維修工程監管及工程質素的廣泛關注，當局表示正積極跟進調查。",
       "questions": {
         "lv1": [
-          "香港首個人形機器人訓練場由哪個機構宣布成立？",
-          "目前有多少家科技企業加入這個訓練場？"
+          "今次事件中，哪間承辦商被懷疑申報虛假完工紀錄？",
+          "受影響的升降機共有多少部？"
         ],
         "lv2": [
-          "為什麼要在訓練場讓機器人「模擬真實環境」學習，而不是直接在街上測試？",
-          "香港成立人形機器人訓練場，對本地學生和年輕人有什麼好處？"
+          "為什麼耐火門框對升降機安全如此重要？缺少它會帶來什麼危險？",
+          "政府部門應如何加強對公共工程承辦商的監管，防止類似事件再次發生？"
         ],
         "lv3": [
-          "若人形機器人未來能代替人類從事各種工作，社會應如何確保被取代的工人得到公平對待？",
-          "香港發展機器人技術，應優先考慮商業利益還是市民的日常生活需要？試從不同角度討論。"
+          "有人認為以最低價中標的招標制度會導致工程質素下降，你認同嗎？應如何改善公共工程的招標機制？",
+          "公屋居民在工程監管方面應有多大的發言權？市民參與能否有效提升工程質素？"
         ]
       }
     },
     {
-      "id": "2026-10-16-zh-2",
-      "lang": "zh",
-      "source": "星島日報",
-      "sourceUrl": "https://stepaper.stheadline.com/",
-      "flag": "🇭🇰",
-      "date": "2026-10-16",
-      "adaptedFrom": "星島日報",
-      "title": "AI客服「幫倒忙」？今年投訴數字急升逾一倍",
-      "summary": "消委會公布，今年首九個月共接獲3,078宗涉及客戶服務的投訴，其中與人工智能（AI）客服相關的投訴按年急升143%。有市民反映，AI客服曾錯誤承諾可在打風時更改門票日期，但最終卻無法退票，須由消委會介入才獲解決。這顯示AI客服雖然方便快捷，但在處理複雜問題時仍有不足，消費者在使用時應保持警覺，並保存相關記錄以備投訴之用。",
+      "id": "2026-10-17-en-2",
+      "lang": "en",
+      "source": "AFP / Wikipedia Current Events",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "flag": "🌏",
+      "date": "2026-10-17",
+      "adaptedFrom": "AFP",
+      "title": "Southeast Asian Haze Crisis: Singapore Chokes on Smoke as Orangutans Are Rescued",
+      "summary": "A thick blanket of smoky haze has spread across Southeast Asia, caused by large wildfires burning in Indonesia. Singapore recorded its worst air pollution of the entire year, with tiny harmful particles in the air reaching very dangerous levels. Neighbouring Timor-Leste closed all its schools for several days to protect children from breathing in the dirty air. Meanwhile, conservationists and Indonesia's forestry ministry rescued eight orangutans whose forest homes were destroyed by the fires, releasing them into a protected wildlife area in West Kalimantan, giving them a second chance at life.",
       "questions": {
         "lv1": [
-          "消委會今年首九個月共接獲多少宗涉及客戶服務的投訴？",
-          "文中提到AI客服曾就哪件事作出錯誤承諾？"
+          "Which country's wildfires caused the haze that spread across Southeast Asia? (是哪個國家的山火引發了蔓延至東南亞的煙霾？)",
+          "What did Timor-Leste do to protect its students from the haze? (東帝汶採取了什麼措施保護學生免受煙霾影響？)"
         ],
         "lv2": [
-          "為什麼AI客服在處理複雜問題時可能不如真人客服有效？",
-          "消費者在使用AI客服時，應該採取哪些措施保障自己的權益？"
+          "Why can air pollution from wildfires be harmful to people's health, especially children? (山火造成的空氣污染為何對人體健康有害，特別是對兒童？)",
+          "How do wildfires in one country affect the daily lives of people living in neighbouring countries? (一個國家的山火，如何影響鄰國人民的日常生活？)"
         ],
         "lv3": [
-          "企業以AI取代真人客服，對消費者和員工各有什麼利與弊？你認為應如何取得平衡？",
-          "政府是否應立法規定企業在提供AI客服的同時，必須保留真人客服選項？試從不同立場討論。"
+          "Some argue that countries causing cross-border pollution should be legally responsible for the damage they cause to their neighbours. Do you agree? What challenges would this create? (有人認為造成跨境污染的國家應在法律上為鄰國所受的損害負責，你是否同意？這會帶來什麼困難？)",
+          "Wildlife like orangutans often suffers most when humans cause environmental disasters. Should animal welfare be given equal priority to human welfare in disaster response plans? Why? (當人類引發環境災難時，紅毛猩猩等野生動物往往受害最深。在災難應對計劃中，動物福利是否應與人類福利同等重視？請說明理由。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-17-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtao.co.uk/",
+      "flag": "🇨🇳",
+      "date": "2026-10-17",
+      "adaptedFrom": "星島日報",
+      "title": "中朝新鴨綠江大橋正式開通 連接丹東與新義州",
+      "summary": "連接中國遼寧省丹東市與朝鮮新義州市的新鴨綠江大橋，近日正式開通啟用。大橋橋體全長約3公里，設有雙向4條行車線，橋寬28.5米，加上聯絡公路後總長預計約20公里。新大橋的開通標誌著中朝兩國的地面交通連繫進一步加強，有助促進兩國之間的人員往來及貨物運輸。此橋早年已完成建設，但因種種原因延誤多年才正式通車，備受各界關注。",
+      "questions": {
+        "lv1": [
+          "新鴨綠江大橋連接中國哪個城市與朝鮮哪個城市？",
+          "新大橋設有多少條行車線？"
+        ],
+        "lv2": [
+          "新鴨綠江大橋的開通，對中朝兩國的貿易和人員往來有什麼幫助？",
+          "為什麼一條連接兩個國家的大橋，會受到國際社會的廣泛關注？"
+        ],
+        "lv3": [
+          "有觀點認為加強中朝基礎設施聯繫，有助朝鮮開放及融入國際社會；亦有觀點認為這只會鞏固現有政權。你認為哪個看法更有說服力？",
+          "中國與朝鮮之間的關係，如何影響東亞地區的整體和平與穩定？香港市民對此應有什麼認識？"
         ]
       }
     }
