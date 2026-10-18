@@ -1,0 +1,107 @@
+{
+  "generated": "2026-10-18T08:34:54.975094+08:00",
+  "date": "2026-10-18",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-10-18-en-1",
+      "lang": "en",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/hong-kong/society/article/lifts-another-39-buildings-found-lacking-proper-components",
+      "flag": "🇭🇰",
+      "date": "2026-10-18",
+      "adaptedFrom": "South China Morning Post",
+      "title": "Hong Kong Lift Safety Scare: Over 78 Buildings Found With Missing Fire Parts",
+      "summary": "A serious lift safety problem has grown bigger in Hong Kong. Authorities discovered that elevators in at least 39 more private buildings were installed without important fire-safety door parts, bringing the total number of affected buildings to over 78. Three people, including company directors and an engineer from lift contractor Tai Yat Elevator, have been arrested. The Electrical and Mechanical Services Department launched active inspections across the city and said the missing components did not look like ordinary mistakes. Residents in affected housing estates feel unsafe using lifts daily. Officials are urging the industry to review all projects completed over the past ten years.",
+      "questions": {
+        "lv1": [
+          "What important safety part was found missing from lifts in many Hong Kong buildings? (香港許多大廈的升降機被發現缺少了什麼重要的安全零件？)",
+          "How many buildings in total were found to have lifts with missing fire-safety parts? (總共有多少幢大廈的升降機被發現缺少耐火門框零件？)"
+        ],
+        "lv2": [
+          "Why could missing fire-safety parts in a lift be very dangerous for people living in the building? (升降機缺少耐火安全零件，對大廈居民可能有什麼危險？)",
+          "Why might the government say the missing parts did not look like 'ordinary mistakes'? What could that suggest? (為什麼政府表示缺少零件看來不像「普通疏忽」？這可能暗示什麼？)"
+        ],
+        "lv3": [
+          "When safety rules are broken in construction work, who should be held most responsible — the company, the individual worker, or the government inspector? Give reasons for your view. (當建築工程違反安全規定時，誰應該負上最大責任——公司、工人個人，還是政府巡查人員？請說明你的理由。)",
+          "If you were a resident in one of these affected buildings, what steps would you take to protect yourself and your neighbours? Do you think the government responded quickly enough, and why? (如果你是受影響大廈的居民，你會採取什麼行動保護自己和鄰居？你認為政府的回應是否足夠迅速？為什麼？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-18-en-2",
+      "lang": "en",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/hong-kong/politics/article/hong-kong-2026-policy-address-ai-city-brain-smart-city",
+      "flag": "🇭🇰",
+      "date": "2026-10-18",
+      "adaptedFrom": "South China Morning Post",
+      "title": "Hong Kong's 2026 Policy Address Unveils Plan for an 'AI City Brain'",
+      "summary": "Hong Kong's government has announced an exciting plan called the 'AI City Brain' in its 2026 Policy Address. This system would use artificial intelligence to help run the city more efficiently — improving services like traffic management, emergency response, and public planning. The Security Bureau promised to reveal more details soon about how AI will be used for public safety. Lawmakers discussing the Policy Address most frequently raised the topic of 'talent', showing that attracting skilled workers is a top priority. Supporters believe this could make Hong Kong a world-leading smart city, while some experts urge the government to also safeguard citizens' personal data and privacy rights carefully.",
+      "questions": {
+        "lv1": [
+          "What is the name of the new AI system that Hong Kong's government plans to build? (香港政府計劃建立的新人工智能系統叫什麼名字？)",
+          "What topic did lawmakers mention most often when discussing Hong Kong's 2026 Policy Address? (立法會議員在討論2026年施政報告時，最常提到什麼話題？)"
+        ],
+        "lv2": [
+          "How could an 'AI City Brain' help improve daily life for people living in Hong Kong? Try to give two examples. (「AI城市大腦」如何改善香港市民的日常生活？請嘗試舉出兩個例子。)",
+          "Why is it important for the government to protect people's personal data and privacy when using AI in public services? (政府在公共服務中使用人工智能時，為什麼保護市民的個人資料和私隱非常重要？)"
+        ],
+        "lv3": [
+          "Some people believe AI makes cities safer and more efficient, while others worry it gives governments too much power to watch over citizens. Which view do you agree with more, and why? (有人認為人工智能令城市更安全有效率，也有人擔心這讓政府過度監控市民。你較同意哪一方？為什麼？)",
+          "If you were advising the Hong Kong government on its AI City Brain, what three rules or guidelines would you put in place to make sure it is used fairly and safely for everyone? (如果你為香港政府的「AI城市大腦」提供建議，你會制訂哪三條規則，以確保它對所有人都公平和安全？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-18-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261018/s00002",
+      "flag": "🇭🇰",
+      "date": "2026-10-18",
+      "adaptedFrom": "明報",
+      "title": "西九龍擬建首個大型固廢分類設施 試驗回收有用物料 最快2028年啟用",
+      "summary": "香港政府計劃在西九龍興建本港首個大規模固體廢物分類設施，目標是從市民棄置的廢物中，提取仍具回收價值的材料，預計最快於2028年投入運作。環保署同時指出，去年下半年本港棄置廢物量有所回升，主因是多次極端天氣事件影響所致。新設施將採用先進的分拆技術，試驗更高效的廢物處理方式，有助減輕堆填區的壓力，並推動香港逐步邁向循環經濟的發展目標。",
+      "questions": {
+        "lv1": [
+          "香港政府計劃在哪個地區興建新的固體廢物分類設施？",
+          "這個新廢物設施預計最快在哪一年開始運作？"
+        ],
+        "lv2": [
+          "從廢物中提取有用物料，對環境和社會有什麼好處？",
+          "環保署表示去年下半年棄置廢物量增加，並與極端天氣有關，這反映了什麼社會問題？"
+        ],
+        "lv3": [
+          "有意見認為，興建廢物分類設施只是治標，根本解決方法是改變市民的消費習慣。你同意嗎？政府和市民各應承擔什麼責任？",
+          "香港應如何同時推動減廢和發展循環經濟？請從政策、教育和個人行動三個角度提出建議。"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-18-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtao.co.uk/",
+      "flag": "🇭🇰",
+      "date": "2026-10-18",
+      "adaptedFrom": "星島日報",
+      "title": "澳洲擬強制社交媒體設「演算法開關」 保護用戶免受有害推播 違者重罰",
+      "summary": "澳洲政府正積極研究立法，強制要求各大社交媒體平台為用戶提供「演算法開關」功能，讓用戶可以主動選擇關閉平台自動推送內容的系統，從而減少接觸令人沉迷或有害的資訊。若平台違反新規定，將面臨相當於近六億港元的巨額罰款。此舉旨在保護青少年及一般用戶的網絡健康，讓每位用戶重新掌控自己所接收的內容，被外界視為全球監管科技平台的重要里程碑。",
+      "questions": {
+        "lv1": [
+          "澳洲政府計劃要求社交媒體為用戶提供什麼新功能？",
+          "違反澳洲新規定的社交媒體平台，將面臨多少罰款？"
+        ],
+        "lv2": [
+          "「演算法開關」如何幫助用戶避免接觸有害內容？這項功能對青少年特別重要的原因是什麼？",
+          "為什麼澳洲政府要透過立法而非由平台自願改變，才能達到保護用戶的效果？"
+        ],
+        "lv3": [
+          "有人認為政府規管社交媒體演算法是保護公眾；也有人認為這限制了科技創新和言論自由。你認為應如何在兩者之間取得平衡？",
+          "如果香港也引入類似的「演算法開關」法例，你預期對本地青少年的上網習慣和心理健康會有什麼影響？這項政策是否值得推行？"
+        ]
+      }
+    }
+  ]
+}
