@@ -1,105 +1,105 @@
 {
-  "generated": "2026-10-19T08:41:45.843945+08:00",
-  "date": "2026-10-19",
+  "generated": "2026-10-20T09:26:47.851270+08:00",
+  "date": "2026-10-20",
   "count": 4,
   "articles": [
     {
-      "id": "2026-10-19-en-1",
+      "id": "2026-10-20-en-1",
       "lang": "en",
       "source": "South China Morning Post",
-      "sourceUrl": "https://scmp.com/news/hong-kong/health-environment/article/3371262/hong-kong-excels-medical-research-so-what-holding-it-back",
+      "sourceUrl": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371051/hong-kong-apec-meet-showcase-chinas-voice-stability-treasury-chief-says",
       "flag": "🇭🇰",
-      "date": "2026-10-18",
+      "date": "2026-10-20",
       "adaptedFrom": "South China Morning Post",
-      "title": "Hong Kong Is Great at Medical Research — But What Is Stopping It From Going Further?",
-      "summary": "Hong Kong has built a strong reputation for medical research, but experts say the city still has room to grow. Scientists want to push more studies into the very top level of global research quality. One key challenge is connecting scientific discoveries with enough funding to turn them into real products. The government-owned Hong Kong Investment Corporation supports areas like biotechnology and health technology. It has backed companies using artificial intelligence to develop new medicines and better ways to detect cancer. Experts say that when ordinary people in Hong Kong actually experience the benefits of local medical breakthroughs, public support for research will grow even stronger.",
+      "title": "Hong Kong Hosts Major Asia-Pacific Finance Meeting Today",
+      "summary": "Hong Kong is welcoming finance ministers and senior officials from 21 Asia-Pacific economies for a two-day meeting starting today. Known as the APEC Finance Ministers' Meeting, the event is being held at the Convention Centre in Wan Chai. Hong Kong's Financial Secretary said the city is the perfect place to bring regional leaders together to discuss how economies can work more closely, especially during uncertain times around the world. The meeting is also a warm-up for the bigger APEC Leaders' Summit, which will take place in Shenzhen next month. Over 500 officials and representatives are expected to attend.",
       "questions": {
         "lv1": [
-          "What kinds of technology does the Hong Kong Investment Corporation support? (香港投資管理有限公司支持哪些類型的科技？)",
-          "What is one problem that makes it hard for Hong Kong's medical research to grow? (有什麼問題令香港的醫學研究難以進一步發展？)"
+          "What is the name of the big meeting happening in Hong Kong today? (今天在香港舉行的大型會議叫什麼名字？)",
+          "How many Asia-Pacific economies are taking part in the APEC Finance Ministers' Meeting? (有多少個亞太經濟體參與今次APEC財長會議？)"
         ],
         "lv2": [
-          "Why is it important for medical research to be connected with funding and investment? (為什麼醫學研究與資金及投資的結合十分重要？)",
-          "How might artificial intelligence help doctors find and treat diseases more effectively? (人工智能如何幫助醫生更有效地找出及治療疾病？)"
+          "Why do you think it is important for finance ministers from different countries to meet and talk together? (你認為不同國家的財政部長聚在一起開會，為什麼重要？)",
+          "Why might Hong Kong be chosen as the host city for this important international meeting? (為什麼香港會被選為這個重要國際會議的主辦城市？)"
         ],
         "lv3": [
-          "Should governments spend more public money on medical research, even if results may take many years to appear? What are the advantages and disadvantages? (政府應否花費更多公帑在醫學研究上，即使成果可能需要多年才能出現？有什麼優點和缺點？)",
-          "Some people say research should focus on diseases that affect the most people, while others say rare diseases deserve equal attention. Which view do you agree with and why? (有人認為研究應集中在影響最多人的疾病上，也有人認為罕見病同樣值得關注。你同意哪個觀點？為什麼？)"
+          "The article says regional cooperation is becoming more important due to geopolitical tensions. Do you think countries should always cooperate on economic issues, even if they have political disagreements? Why or why not? (文章指地緣政治緊張令區域合作更加重要。你認為各國即使存在政治分歧，也應該在經濟問題上合作嗎？為什麼？)",
+          "Some people say hosting international events like APEC brings great benefits to a city, while others argue the costs and disruptions are not worth it. What is your view? (有人認為主辦APEC等國際活動為城市帶來巨大利益，也有人認為費用和干擾不值得。你的看法是什麼？)"
         ]
       }
     },
     {
-      "id": "2026-10-19-en-2",
+      "id": "2026-10-20-en-2",
       "lang": "en",
-      "source": "Reuters",
-      "sourceUrl": "https://now.solar/2026/10/19/china-proposes-solar-technology-export-curbs-finchannel",
-      "flag": "🌏",
-      "date": "2026-10-19",
-      "adaptedFrom": "Reuters / Finchannel",
-      "title": "China Wants to Control Exports of Solar Panel Technology",
-      "summary": "China has announced plans to place restrictions on the export of 12 types of technology used to make solar panels. Solar panels are devices that turn sunlight into electricity and are very important for clean energy around the world. The new rules cover processes such as making the special silicon material, cutting it into thin wafers, and building the solar cells themselves. Companies that want to share these technologies overseas must now register with the government straight away. The full list of restrictions has not yet come into force, but registration rules apply immediately. This move could affect how quickly other countries build their own solar energy industries.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/",
+      "flag": "🌍",
+      "date": "2026-10-20",
+      "adaptedFrom": "ScienceDaily",
+      "title": "Scientists Find Forest Soils Are Getting Better at Absorbing a Harmful Gas",
+      "summary": "A surprising discovery about forests has excited scientists around the world. A study lasting up to 24 years found that the soil under some forests is getting much better at soaking up methane, a powerful greenhouse gas that contributes to climate change. On average, the amount of methane absorbed by these soils grows by about three percent each year. This is especially happening as temperatures rise and less rain falls — the opposite of what many scientists predicted. The finding challenges old ideas about how forests respond to climate change, and suggests that some forest soils might actually help slow down global warming.",
       "questions": {
         "lv1": [
-          "What do solar panels do? (太陽能板有什麼功用？)",
-          "How many types of solar technology does China want to restrict from being exported? (中國計劃限制出口多少種太陽能技術？)"
+          "What harmful gas are forest soils getting better at absorbing, according to the study? (根據研究，森林土壤正在更好地吸收哪種有害氣體？)",
+          "How many years did the scientists study the forest soils? (科學家研究森林土壤多少年？)"
         ],
         "lv2": [
-          "Why might China want to control who can access its solar panel manufacturing technology? (中國為何可能想控制誰能獲得其太陽能板製造技術？)",
-          "How could these export restrictions affect other countries that are trying to use more clean energy? (這些出口限制如何影響其他正嘗試使用更多清潔能源的國家？)"
+          "Why is it significant that forest soils can absorb more methane as temperatures rise? (為什麼隨著氣溫上升，森林土壤能吸收更多甲烷這件事很重要？)",
+          "How does this discovery challenge what scientists previously believed about climate change and forests? (這個發現如何推翻科學家以前對氣候變化和森林的認識？)"
         ],
         "lv3": [
-          "Is it fair for a country to restrict the export of important green technologies when the whole world needs to fight climate change together? Discuss different perspectives. (當全球都需要共同應對氣候變化時，一個國家限制重要綠色技術的出口是否公平？請討論不同角度。)",
-          "Some people say technology should be shared freely to help the planet, while others argue countries have a right to protect their inventions. Which side do you support and why? (有人認為科技應該自由分享以幫助地球，也有人認為國家有權保護自己的發明。你支持哪一方？為什麼？)"
+          "If forests can help absorb greenhouse gases, should governments prioritise protecting forests over building new towns and roads? Who should make these decisions, and how? (如果森林有助吸收溫室氣體，政府應否優先保護森林，而非興建新市鎮和道路？這些決定應由誰來制定，如何制定？)",
+          "This study covered only some forests. Do you think we should change global climate policies based on findings from a limited number of locations? What are the risks of doing so? (這項研究只涵蓋部分森林。你認為我們應該根據有限地點的研究結果來改變全球氣候政策嗎？這樣做有什麼風險？)"
         ]
       }
     },
     {
-      "id": "2026-10-19-zh-1",
+      "id": "2026-10-20-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/ins/國際/section/20261019/s00005",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261020/s00002",
       "flag": "🇭🇰",
-      "date": "2026-10-17",
+      "date": "2026-10-20",
       "adaptedFrom": "明報",
-      "title": "印尼山火煙霾蔓延東南亞　東盟專門中心發出最高級別霧霾警報",
-      "summary": "印度尼西亞爆發嚴重山火，產生大量有毒煙霧，飄散至東南亞多個鄰近國家，影響當地空氣質量及居民健康。負責監測區域環境的東盟專門氣象中心宣布，對東盟南部地區啟動最高級別的霧霾警報，提醒各成員國政府及市民提高警覺。霧霾不僅令能見度大幅下降，更對呼吸系統造成危害，長者及兒童尤其容易受影響。東南亞地區每逢旱季均面對山火及霧霾問題，各界促請各國加強跨境合作，共同應對環境危機。",
+      "title": "本港6歲女童感染甲型流感情況危殆　今季兒童嚴重個案累計24宗",
+      "summary": "香港出現新一宗兒童感染流感嚴重個案。一名原本健康的6歲女童於本月15日因發燒入院，其後確診感染甲型流感，情況危殆。當局公布，本季至今已錄得24宗兒童嚴重流感個案，情況令人關注。醫生提醒家長應注意子女的健康狀況，若出現發燒、咳嗽等徵狀應盡早求醫，並鼓勵市民及早接種流感疫苗，保護自己及家人。",
       "questions": {
         "lv1": [
-          "印尼山火產生的煙霧對空氣有什麼影響？",
-          "哪個機構宣布啟動最高級別的霧霾警報？"
+          "感染甲型流感的女童今年幾歲？",
+          "本港今個流感季節，兒童嚴重個案累計有多少宗？"
         ],
         "lv2": [
-          "為什麼霧霾對長者和兒童的影響比一般成年人更大？",
-          "東南亞各國應如何合作，減少山火及霧霾帶來的跨境污染問題？"
+          "為什麼醫生建議孩子出現發燒症狀時應盡快就醫，而不是在家休息等待康復？",
+          "接種流感疫苗如何幫助保護個人及社區，減少嚴重個案的出現？"
         ],
         "lv3": [
-          "有人認為森林火災主要由人類活動引起，應由相關國家負上責任；也有人認為這是全球氣候變化的結果，責任應由各國共同承擔。你同意哪個觀點？",
-          "若你是東南亞某國的政策制定者，你會提出什麼具體措施，既保護本國市民免受霧霾影響，又同時幫助印尼減少山火？"
+          "香港政府應否立法強制兒童每年接種流感疫苗？這樣做有什麼好處和壞處？",
+          "有人認為個人有權自行決定是否接種疫苗，也有人認為為了保護整個社會，政府應加強推廣甚至強制接種。你支持哪個立場？請解釋你的理由。"
         ]
       }
     },
     {
-      "id": "2026-10-19-zh-2",
+      "id": "2026-10-20-zh-2",
       "lang": "zh",
       "source": "星島日報",
-      "sourceUrl": "https://stepaper.stheadline.com/",
+      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
       "flag": "🇭🇰",
-      "date": "2026-10-17",
+      "date": "2026-10-20",
       "adaptedFrom": "星島日報",
-      "title": "香港電梯公司被揭零件缺失　機電署巡查累計逾150幢樓宇受影響",
-      "summary": "本港一家電梯公司「臺日電梯」被發現在公共屋邨施工時出現嚴重違規情況，電梯升降門的門框組件有所欠缺。機電工程署隨即展開主動巡查行動，最新結果顯示受影響樓宇數目已累計超過152幢。署長表示，今次事件不像一般的疏忽，當局已派重案組搜查涉事公司辦公室，並拘捕三名董事及工程師協助調查。受影響屋苑居民對乘搭電梯感到憂慮，有居民表示十分不便。當局呼籲市民如發現電梯有異常情況，應立即向機電署舉報。",
+      "title": "颱風「薔琵」最快今日形成　AI氣象模型預測或北轉移向日本",
+      "summary": "氣象部門預報，一個熱帶低氣壓正在關島以東海域發展，最快今日（20日）加強成為今年第30號颱風，名為「薔琵」。有預測指「薔琵」可能進一步增強為超強颱風。最新AI氣象模型估算，颱風路徑可能向北偏轉，移向日本方向，對華南地區影響相對較小。天文台預料香港下周天氣大致天晴及乾燥。市民應繼續留意天文台的最新天氣消息。",
       "questions": {
         "lv1": [
-          "機電署在今次事件中巡查了多少幢樓宇？",
-          "「臺日電梯」被發現哪個電梯零件有缺失？"
+          "今次颱風的名字叫什麼？",
+          "根據天文台的預報，香港下星期的天氣會怎樣？"
         ],
         "lv2": [
-          "為什麼電梯零件缺失會對居民構成安全風險？請舉例說明。",
-          "政府部門在保障市民居住安全方面應扮演什麼角色？"
+          "為什麼AI氣象模型對颱風路徑的預測對市民和政府很重要？",
+          "超強颱風和普通颱風有什麼分別？超強颱風會帶來哪些危險？"
         ],
         "lv3": [
-          "有人認為應加重對違規工程承辦商的刑事處罰，以儆效尤；也有人認為應加強事前監管和定期檢驗，防患於未然。你認為哪種方法更有效保障市民安全？",
-          "公營房屋的維修及安全監管責任，應主要由政府、承辦商還是居民自己承擔？請從不同持份者的角度分析。"
+          "近年天氣預報越來越多採用人工智能（AI）技術。你認為AI的氣象預測比傳統方法更可靠嗎？這對氣象部門的工作有什麼影響？",
+          "氣候變化被指令颱風變得更強烈。政府、企業和個人各自應承擔什麼責任，以減少氣候變化帶來的影響？"
         ]
       }
     }
