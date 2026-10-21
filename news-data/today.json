@@ -1,105 +1,105 @@
 {
-  "generated": "2026-10-20T09:26:47.851270+08:00",
-  "date": "2026-10-20",
+  "generated": "2026-10-21T09:11:36.985920+08:00",
+  "date": "2026-10-21",
   "count": 4,
   "articles": [
     {
-      "id": "2026-10-20-en-1",
+      "id": "2026-10-21-en-1",
       "lang": "en",
-      "source": "South China Morning Post",
-      "sourceUrl": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371051/hong-kong-apec-meet-showcase-chinas-voice-stability-treasury-chief-says",
-      "flag": "🇭🇰",
-      "date": "2026-10-20",
-      "adaptedFrom": "South China Morning Post",
-      "title": "Hong Kong Hosts Major Asia-Pacific Finance Meeting Today",
-      "summary": "Hong Kong is welcoming finance ministers and senior officials from 21 Asia-Pacific economies for a two-day meeting starting today. Known as the APEC Finance Ministers' Meeting, the event is being held at the Convention Centre in Wan Chai. Hong Kong's Financial Secretary said the city is the perfect place to bring regional leaders together to discuss how economies can work more closely, especially during uncertain times around the world. The meeting is also a warm-up for the bigger APEC Leaders' Summit, which will take place in Shenzhen next month. Over 500 officials and representatives are expected to attend.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.com/news/science-environment-japan-mars-moon-phobos-2026",
+      "flag": "🇬🇧",
+      "date": "2026-10-21",
+      "adaptedFrom": "BBC News",
+      "title": "Japan Sends Spacecraft to Collect Rocks from Mars's Moon Phobos",
+      "summary": "Japan has launched a special spacecraft on a historic journey to visit Phobos, one of the two moons that orbit Mars. Scientists hope the mission will collect tiny samples of rock and dust from the moon's surface and bring them back to Earth for study. By examining these materials, researchers want to learn more about how Mars formed billions of years ago and what the early Solar System looked like. The journey to Phobos will take several years, but experts believe the samples could answer big questions about our place in space and even whether life could ever have existed on or near Mars.",
       "questions": {
         "lv1": [
-          "What is the name of the big meeting happening in Hong Kong today? (今天在香港舉行的大型會議叫什麼名字？)",
-          "How many Asia-Pacific economies are taking part in the APEC Finance Ministers' Meeting? (有多少個亞太經濟體參與今次APEC財長會議？)"
+          "Which moon of Mars is Japan's spacecraft travelling to visit? (日本的太空船正前往火星的哪一顆衛星？)",
+          "What will the spacecraft try to bring back to Earth? (太空船會嘗試帶什麼回地球？)"
         ],
         "lv2": [
-          "Why do you think it is important for finance ministers from different countries to meet and talk together? (你認為不同國家的財政部長聚在一起開會，為什麼重要？)",
-          "Why might Hong Kong be chosen as the host city for this important international meeting? (為什麼香港會被選為這個重要國際會議的主辦城市？)"
+          "Why do scientists think studying rocks from Phobos could help us understand the history of Mars? (為何科學家認為研究火衛一的岩石有助了解火星的歷史？)",
+          "Why does it take so many years for a spacecraft to travel to Mars's moon and return to Earth? (為什麼太空船往返火星衛星需要很多年？)"
         ],
         "lv3": [
-          "The article says regional cooperation is becoming more important due to geopolitical tensions. Do you think countries should always cooperate on economic issues, even if they have political disagreements? Why or why not? (文章指地緣政治緊張令區域合作更加重要。你認為各國即使存在政治分歧，也應該在經濟問題上合作嗎？為什麼？)",
-          "Some people say hosting international events like APEC brings great benefits to a city, while others argue the costs and disruptions are not worth it. What is your view? (有人認為主辦APEC等國際活動為城市帶來巨大利益，也有人認為費用和干擾不值得。你的看法是什麼？)"
+          "Some people think spending billions of dollars on space exploration is wasteful when there are so many problems on Earth. Do you agree or disagree? Give reasons for your view. (有人認為在地球上還有很多問題未解決的情況下，花費數十億元探索太空是一種浪費。你同意嗎？請說明理由。)",
+          "If scientists discovered that Mars once had living things, how might that change the way humans think about life in the universe and our own place in it? (如果科學家發現火星曾經存在生命，這將如何改變人類對宇宙生命及我們自身地位的看法？)"
         ]
       }
     },
     {
-      "id": "2026-10-20-en-2",
+      "id": "2026-10-21-en-2",
       "lang": "en",
-      "source": "ScienceDaily",
-      "sourceUrl": "https://www.sciencedaily.com/",
-      "flag": "🌍",
-      "date": "2026-10-20",
-      "adaptedFrom": "ScienceDaily",
-      "title": "Scientists Find Forest Soils Are Getting Better at Absorbing a Harmful Gas",
-      "summary": "A surprising discovery about forests has excited scientists around the world. A study lasting up to 24 years found that the soil under some forests is getting much better at soaking up methane, a powerful greenhouse gas that contributes to climate change. On average, the amount of methane absorbed by these soils grows by about three percent each year. This is especially happening as temperatures rise and less rain falls — the opposite of what many scientists predicted. The finding challenges old ideas about how forests respond to climate change, and suggests that some forest soils might actually help slow down global warming.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/us-orders-federal-agencies-remove-deepseek-ai-tools-2026-10-20/",
+      "flag": "🇬🇧",
+      "date": "2026-10-21",
+      "adaptedFrom": "Reuters",
+      "title": "US Government Bans Chinese AI Tool DeepSeek from All Federal Computers",
+      "summary": "The United States government has told all of its federal offices and departments to delete and stop using DeepSeek, an artificial intelligence tool made by a Chinese company. Officials from the Department of Homeland Security issued the order, saying that having Chinese AI software on government computers could put sensitive information at risk. Any other products that were built using DeepSeek's technology must also be removed. This decision is part of a wider effort by the US to limit the use of Chinese technology in areas connected to national security. It shows how AI tools have quickly become an important topic in international relations between countries.",
       "questions": {
         "lv1": [
-          "What harmful gas are forest soils getting better at absorbing, according to the study? (根據研究，森林土壤正在更好地吸收哪種有害氣體？)",
-          "How many years did the scientists study the forest soils? (科學家研究森林土壤多少年？)"
+          "What is the name of the Chinese AI tool that the US government has banned from its computers? (美國政府禁止在其電腦上使用的中國人工智能工具叫什麼名字？)",
+          "Which US government department gave the order to remove DeepSeek? (哪個美國政府部門下令移除DeepSeek？)"
         ],
         "lv2": [
-          "Why is it significant that forest soils can absorb more methane as temperatures rise? (為什麼隨著氣溫上升，森林土壤能吸收更多甲烷這件事很重要？)",
-          "How does this discovery challenge what scientists previously believed about climate change and forests? (這個發現如何推翻科學家以前對氣候變化和森林的認識？)"
+          "Why might a government be worried about using artificial intelligence software made by another country? (為什麼政府可能會擔心使用由其他國家製造的人工智能軟件？)",
+          "How does this ban reflect the current relationship between the United States and China in the area of technology? (這項禁令如何反映出美國與中國在科技領域的現有關係？)"
         ],
         "lv3": [
-          "If forests can help absorb greenhouse gases, should governments prioritise protecting forests over building new towns and roads? Who should make these decisions, and how? (如果森林有助吸收溫室氣體，政府應否優先保護森林，而非興建新市鎮和道路？這些決定應由誰來制定，如何制定？)",
-          "This study covered only some forests. Do you think we should change global climate policies based on findings from a limited number of locations? What are the risks of doing so? (這項研究只涵蓋部分森林。你認為我們應該根據有限地點的研究結果來改變全球氣候政策嗎？這樣做有什麼風險？)"
+          "Is it fair for countries to ban each other's technology products for national security reasons, or could this lead to a less connected and less innovative world? Discuss both sides. (以國家安全為由互相封禁科技產品是否公平，還是這可能導致世界變得更不互聯互通、更缺乏創新？請討論兩方面的觀點。)",
+          "As AI technology becomes more powerful, who should be responsible for making sure it is used safely across different countries — individual governments, international organisations, or the tech companies themselves? (隨著人工智能技術日益強大，誰應該負責確保各國安全使用——是各國政府、國際組織，還是科技公司本身？)"
         ]
       }
     },
     {
-      "id": "2026-10-20-zh-1",
+      "id": "2026-10-21-zh-1",
       "lang": "zh",
       "source": "明報",
       "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261020/s00002",
       "flag": "🇭🇰",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "adaptedFrom": "明報",
-      "title": "本港6歲女童感染甲型流感情況危殆　今季兒童嚴重個案累計24宗",
-      "summary": "香港出現新一宗兒童感染流感嚴重個案。一名原本健康的6歲女童於本月15日因發燒入院，其後確診感染甲型流感，情況危殆。當局公布，本季至今已錄得24宗兒童嚴重流感個案，情況令人關注。醫生提醒家長應注意子女的健康狀況，若出現發燒、咳嗽等徵狀應盡早求醫，並鼓勵市民及早接種流感疫苗，保護自己及家人。",
+      "title": "APEC財長會議在港舉行　李家超向各國推介北部都會區發展機遇",
+      "summary": "第33屆亞太經濟合作組織財政部長會議於本週在香港舉行，日本及澳洲等地的財長均有出席。行政長官李家超趁機向與會的亞投行行長及各國代表介紹香港北部都會區的發展潛力，並表示全力支持亞投行研究在港設立辦事處。北都是香港一項大型城市發展計劃，旨在增加住屋供應及推動創科產業。今次會議有助提升香港作為國際金融及商業中心的地位，亦為本港帶來更多與各地合作的機會。",
       "questions": {
         "lv1": [
-          "感染甲型流感的女童今年幾歲？",
-          "本港今個流感季節，兒童嚴重個案累計有多少宗？"
+          "今次在香港舉行的是哪個國際會議？",
+          "行政長官李家超向與會代表介紹了香港哪個發展計劃？"
         ],
         "lv2": [
-          "為什麼醫生建議孩子出現發燒症狀時應盡快就醫，而不是在家休息等待康復？",
-          "接種流感疫苗如何幫助保護個人及社區，減少嚴重個案的出現？"
+          "為什麼香港要爭取亞投行在港設立辦事處？這對香港有什麼好處？",
+          "北部都會區的發展對香港市民的日常生活可能帶來哪些改變？"
         ],
         "lv3": [
-          "香港政府應否立法強制兒童每年接種流感疫苗？這樣做有什麼好處和壞處？",
-          "有人認為個人有權自行決定是否接種疫苗，也有人認為為了保護整個社會，政府應加強推廣甚至強制接種。你支持哪個立場？請解釋你的理由。"
+          "有意見認為香港應集中發展金融業，亦有人認為應同時大力推動創科產業。你認為香港未來的發展重點應該是什麼？請列出理由。",
+          "舉辦國際會議對一個城市有何好處和壞處？香港作為主辦城市，如何才能令更多人從中受益？"
         ]
       }
     },
     {
-      "id": "2026-10-20-zh-2",
+      "id": "2026-10-21-zh-2",
       "lang": "zh",
       "source": "星島日報",
-      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
+      "sourceUrl": "https://www.singtao.co.uk/",
       "flag": "🇭🇰",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "adaptedFrom": "星島日報",
-      "title": "颱風「薔琵」最快今日形成　AI氣象模型預測或北轉移向日本",
-      "summary": "氣象部門預報，一個熱帶低氣壓正在關島以東海域發展，最快今日（20日）加強成為今年第30號颱風，名為「薔琵」。有預測指「薔琵」可能進一步增強為超強颱風。最新AI氣象模型估算，颱風路徑可能向北偏轉，移向日本方向，對華南地區影響相對較小。天文台預料香港下周天氣大致天晴及乾燥。市民應繼續留意天文台的最新天氣消息。",
+      "title": "AI失控警報！Anthropic警告人工智能年底或能自行複製",
+      "summary": "美國著名人工智能公司Anthropic近日發出警告，指其研發的AI系統有可能在今年底前具備「自主複製」的能力，即AI能夠在無需人類協助的情況下，自行製造出新的AI副本。專家擔憂，一旦AI能夠自我複製，人類將更難以控制其行為及發展方向，存在一定的安全風險。事件引發科技界及社會各界廣泛關注，各界呼籲政府及科技公司盡快訂立相關監管規則，確保AI的發展符合人類整體利益。",
       "questions": {
         "lv1": [
-          "今次颱風的名字叫什麼？",
-          "根據天文台的預報，香港下星期的天氣會怎樣？"
+          "哪間公司發出警告，指AI可能具備自主複製能力？",
+          "「自主複製」是指AI能夠做到什麼事情？"
         ],
         "lv2": [
-          "為什麼AI氣象模型對颱風路徑的預測對市民和政府很重要？",
-          "超強颱風和普通颱風有什麼分別？超強颱風會帶來哪些危險？"
+          "如果AI能夠自行製造新的AI副本，為什麼這會令人感到擔憂？",
+          "你認為政府和科技公司應該如何合作，確保人工智能的安全使用？"
         ],
         "lv3": [
-          "近年天氣預報越來越多採用人工智能（AI）技術。你認為AI的氣象預測比傳統方法更可靠嗎？這對氣象部門的工作有什麼影響？",
-          "氣候變化被指令颱風變得更強烈。政府、企業和個人各自應承擔什麼責任，以減少氣候變化帶來的影響？"
+          "有人認為人工智能的快速發展能為人類帶來巨大好處，亦有人擔心其潛在危險超過益處。你的看法是什麼？請從不同角度分析。",
+          "若AI真的失去人類的控制，誰應該負上最大的責任——是研發AI的科技公司、使用AI的政府，還是監管不力的社會整體？請表達你的意見。"
         ]
       }
     }
