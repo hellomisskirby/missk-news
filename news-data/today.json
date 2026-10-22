@@ -1,105 +1,105 @@
 {
-  "generated": "2026-10-21T09:11:36.985920+08:00",
-  "date": "2026-10-21",
+  "generated": "2026-10-22T09:08:59.095127+08:00",
+  "date": "2026-10-22",
   "count": 4,
   "articles": [
     {
-      "id": "2026-10-21-en-1",
+      "id": "2026-10-22-en-1",
       "lang": "en",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.com/news/science-environment-japan-mars-moon-phobos-2026",
-      "flag": "🇬🇧",
-      "date": "2026-10-21",
-      "adaptedFrom": "BBC News",
-      "title": "Japan Sends Spacecraft to Collect Rocks from Mars's Moon Phobos",
-      "summary": "Japan has launched a special spacecraft on a historic journey to visit Phobos, one of the two moons that orbit Mars. Scientists hope the mission will collect tiny samples of rock and dust from the moon's surface and bring them back to Earth for study. By examining these materials, researchers want to learn more about how Mars formed billions of years ago and what the early Solar System looked like. The journey to Phobos will take several years, but experts believe the samples could answer big questions about our place in space and even whether life could ever have existed on or near Mars.",
+      "source": "The Standard",
+      "sourceUrl": "https://www.thestandard.com.hk/news/article/346149/Morning-Recap-October-22-2026",
+      "flag": "🇭🇰",
+      "date": "2026-10-22",
+      "adaptedFrom": "The Standard (citing World Justice Project Rule of Law Index 2026)",
+      "title": "Hong Kong Ranks 24th in the World for Rule of Law in 2026",
+      "summary": "Every year, an international group called the World Justice Project checks how well countries follow the rule of law — meaning whether people are treated fairly and governments follow the rules too. In their 2026 report released on Wednesday, Hong Kong kept a strong position, coming 24th out of 143 countries and territories around the world. In the East Asia and Pacific region, Hong Kong ranked 6th. The rule of law is very important because it helps protect people's rights and keeps society safe and fair. Maintaining this ranking shows that Hong Kong's legal system is respected internationally, which is good for both residents and businesses.",
       "questions": {
         "lv1": [
-          "Which moon of Mars is Japan's spacecraft travelling to visit? (日本的太空船正前往火星的哪一顆衛星？)",
-          "What will the spacecraft try to bring back to Earth? (太空船會嘗試帶什麼回地球？)"
+          "What position did Hong Kong get out of 143 countries in the Rule of Law Index 2026? (香港在2026年法治指數中，於143個國家和地區中排第幾名？)",
+          "Which organisation publishes the Rule of Law Index each year? (哪個機構每年發布法治指數？)"
         ],
         "lv2": [
-          "Why do scientists think studying rocks from Phobos could help us understand the history of Mars? (為何科學家認為研究火衛一的岩石有助了解火星的歷史？)",
-          "Why does it take so many years for a spacecraft to travel to Mars's moon and return to Earth? (為什麼太空船往返火星衛星需要很多年？)"
+          "Why do you think it is important for a city like Hong Kong to do well in the Rule of Law Index? (你認為香港在法治指數中表現良好，為何對這個城市很重要？)",
+          "What does 'rule of law' mean, and how does it affect everyday life for people living in Hong Kong? (「法治」是什麼意思？它如何影響香港市民的日常生活？)"
         ],
         "lv3": [
-          "Some people think spending billions of dollars on space exploration is wasteful when there are so many problems on Earth. Do you agree or disagree? Give reasons for your view. (有人認為在地球上還有很多問題未解決的情況下，花費數十億元探索太空是一種浪費。你同意嗎？請說明理由。)",
-          "If scientists discovered that Mars once had living things, how might that change the way humans think about life in the universe and our own place in it? (如果科學家發現火星曾經存在生命，這將如何改變人類對宇宙生命及我們自身地位的看法？)"
+          "Some people argue that rankings like the Rule of Law Index are biased because they reflect Western values. Do you agree or disagree? How should we evaluate a city's legal system fairly? (有人認為法治指數等排名反映西方價值觀而存在偏見，你是否同意？我們應如何公平地評估一個城市的法律制度？)",
+          "Hong Kong maintained its ranking this year, but rankings can change. What factors might cause a city's rule of law ranking to go up or down over time, and what responsibility do citizens have in upholding the rule of law? (香港今年維持排名，但排名可以改變。哪些因素可能令一個城市的法治排名上升或下降？市民在維護法治方面有什麼責任？)"
         ]
       }
     },
     {
-      "id": "2026-10-21-en-2",
+      "id": "2026-10-22-en-2",
       "lang": "en",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/us-orders-federal-agencies-remove-deepseek-ai-tools-2026-10-20/",
+      "sourceUrl": "https://www.brecorder.com/news/40445370/nikkei-rallies-as-ai-demand-outlook-brightens",
       "flag": "🇬🇧",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "adaptedFrom": "Reuters",
-      "title": "US Government Bans Chinese AI Tool DeepSeek from All Federal Computers",
-      "summary": "The United States government has told all of its federal offices and departments to delete and stop using DeepSeek, an artificial intelligence tool made by a Chinese company. Officials from the Department of Homeland Security issued the order, saying that having Chinese AI software on government computers could put sensitive information at risk. Any other products that were built using DeepSeek's technology must also be removed. This decision is part of a wider effort by the US to limit the use of Chinese technology in areas connected to national security. It shows how AI tools have quickly become an important topic in international relations between countries.",
+      "title": "Asian Tech Giants Place Massive AI Chip Order as Demand for Artificial Intelligence Surges",
+      "summary": "Three of Asia's biggest technology companies — ByteDance, Alibaba, and Tencent — have reportedly placed a huge order for more than three million advanced computer chips made by the American company Nvidia. The total value of the order is said to be more than 35 billion US dollars. These special chips, called GPUs, are used to power artificial intelligence systems. The news excited investors across Asia and helped Japan's stock market rise on Wednesday. It shows just how fast countries and companies across Asia are investing in AI technology, which is increasingly being used in apps, services, and everyday tools that people use at home and at school.",
       "questions": {
         "lv1": [
-          "What is the name of the Chinese AI tool that the US government has banned from its computers? (美國政府禁止在其電腦上使用的中國人工智能工具叫什麼名字？)",
-          "Which US government department gave the order to remove DeepSeek? (哪個美國政府部門下令移除DeepSeek？)"
+          "Which three Asian technology companies ordered Nvidia computer chips? (哪三家亞洲科技公司訂購了英偉達的電腦芯片？)",
+          "What are GPU chips mainly used for in technology today? (GPU芯片現時主要用於什麼科技用途？)"
         ],
         "lv2": [
-          "Why might a government be worried about using artificial intelligence software made by another country? (為什麼政府可能會擔心使用由其他國家製造的人工智能軟件？)",
-          "How does this ban reflect the current relationship between the United States and China in the area of technology? (這項禁令如何反映出美國與中國在科技領域的現有關係？)"
+          "Why would buying millions of AI chips cause stock markets in Asia to go up? (為什麼購買數百萬顆AI芯片會令亞洲股市上升？)",
+          "If Asian companies are spending billions of dollars on AI chips, what does this tell us about where technology is heading in the future? (如果亞洲企業花費數十億美元購買AI芯片，這告訴我們科技未來的走向是什麼？)"
         ],
         "lv3": [
-          "Is it fair for countries to ban each other's technology products for national security reasons, or could this lead to a less connected and less innovative world? Discuss both sides. (以國家安全為由互相封禁科技產品是否公平，還是這可能導致世界變得更不互聯互通、更缺乏創新？請討論兩方面的觀點。)",
-          "As AI technology becomes more powerful, who should be responsible for making sure it is used safely across different countries — individual governments, international organisations, or the tech companies themselves? (隨著人工智能技術日益強大，誰應該負責確保各國安全使用——是各國政府、國際組織，還是科技公司本身？)"
+          "The world's most powerful AI chips are made by one American company, Nvidia. Is it healthy for the global AI industry to rely so heavily on a single supplier? What risks could this create for Asia? (全球最強大的AI芯片由一家美國公司英偉達生產。全球AI行業如此依賴單一供應商，是否健康？這對亞洲可能帶來什麼風險？)",
+          "As AI becomes more powerful and widespread in Asia, who should be responsible for making sure it is used safely and fairly — governments, companies, or individuals? Give reasons for your answer. (隨著AI在亞洲變得愈來愈強大和普及，誰應該負責確保AI被安全和公平地使用——是政府、企業還是個人？請說明你的理由。)"
         ]
       }
     },
     {
-      "id": "2026-10-21-zh-1",
+      "id": "2026-10-22-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261020/s00002",
+      "sourceUrl": "https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/section/20261022/s00013",
       "flag": "🇭🇰",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "adaptedFrom": "明報",
-      "title": "APEC財長會議在港舉行　李家超向各國推介北部都會區發展機遇",
-      "summary": "第33屆亞太經濟合作組織財政部長會議於本週在香港舉行，日本及澳洲等地的財長均有出席。行政長官李家超趁機向與會的亞投行行長及各國代表介紹香港北部都會區的發展潛力，並表示全力支持亞投行研究在港設立辦事處。北都是香港一項大型城市發展計劃，旨在增加住屋供應及推動創科產業。今次會議有助提升香港作為國際金融及商業中心的地位，亦為本港帶來更多與各地合作的機會。",
+      "title": "神舟二十三號太空人黎家盈在太空向長征勝利90周年致敬",
+      "summary": "今年是中國紅軍長征勝利90周年，北京人民大會堂舉行了盛大紀念大會，約3000人出席。與此同時，正在太空執行任務的神舟二十三號太空人黎家盈，特別在太空中向這一歷史時刻致敬，表達她對這段光輝歷史的敬意。長征是中國共產黨在1934至1935年間帶領軍隊完成的艱苦跋涉，全程逾萬里，是中國現代史上的重要事件。黎家盈的太空致敬，展示了中國航天事業與國家歷史之間的緊密連繫。",
       "questions": {
         "lv1": [
-          "今次在香港舉行的是哪個國際會議？",
-          "行政長官李家超向與會代表介紹了香港哪個發展計劃？"
+          "神舟二十三號太空人黎家盈在太空紀念哪個歷史事件？",
+          "長征勝利90周年的紀念大會在哪裡舉行？"
         ],
         "lv2": [
-          "為什麼香港要爭取亞投行在港設立辦事處？這對香港有什麼好處？",
-          "北部都會區的發展對香港市民的日常生活可能帶來哪些改變？"
+          "為什麼中國長征被視為一個重要的歷史事件？它對中國現代史有什麼影響？",
+          "黎家盈選擇在太空向長征致敬，你認為這有什麼特別的象徵意義？"
         ],
         "lv3": [
-          "有意見認為香港應集中發展金融業，亦有人認為應同時大力推動創科產業。你認為香港未來的發展重點應該是什麼？請列出理由。",
-          "舉辦國際會議對一個城市有何好處和壞處？香港作為主辦城市，如何才能令更多人從中受益？"
+          "有人認為政府應該大力紀念歷史事件，以培養國民身份認同；也有人認為年輕一代應該以批判性思維看待歷史。你認為學生應該如何學習和理解國家歷史？",
+          "中國的航天發展愈來愈快，你認為太空探索對一個國家有什麼重要意義？除了彰顯國家實力，太空科技還可以如何造福普通市民？"
         ]
       }
     },
     {
-      "id": "2026-10-21-zh-2",
+      "id": "2026-10-22-zh-2",
       "lang": "zh",
       "source": "星島日報",
       "sourceUrl": "https://www.singtao.co.uk/",
       "flag": "🇭🇰",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "adaptedFrom": "星島日報",
-      "title": "AI失控警報！Anthropic警告人工智能年底或能自行複製",
-      "summary": "美國著名人工智能公司Anthropic近日發出警告，指其研發的AI系統有可能在今年底前具備「自主複製」的能力，即AI能夠在無需人類協助的情況下，自行製造出新的AI副本。專家擔憂，一旦AI能夠自我複製，人類將更難以控制其行為及發展方向，存在一定的安全風險。事件引發科技界及社會各界廣泛關注，各界呼籲政府及科技公司盡快訂立相關監管規則，確保AI的發展符合人類整體利益。",
+      "title": "AI公司Anthropic警告：人工智能年底前或能自行複製傳播",
+      "summary": "美國著名人工智能公司Anthropic發出警告，指其研發的AI系統最快在今年年底，可能已具備自主複製及傳播的能力，即AI或能在未經人類指示的情況下，自行製造出更多版本的自己。這種情況被業界視為重大的安全風險，因為一旦AI能夠自我複製，人類將更難以控制其行為。專家指出，全球各地政府及科技公司必須盡快制定相應法規，確保AI的發展保持在人類可掌控的範圍之內，防止潛在的危機出現。",
       "questions": {
         "lv1": [
-          "哪間公司發出警告，指AI可能具備自主複製能力？",
-          "「自主複製」是指AI能夠做到什麼事情？"
+          "Anthropic公司警告AI可能在何時具備自主複製能力？",
+          "AI自主複製是指AI能做什麼事情？"
         ],
         "lv2": [
-          "如果AI能夠自行製造新的AI副本，為什麼這會令人感到擔憂？",
-          "你認為政府和科技公司應該如何合作，確保人工智能的安全使用？"
+          "為什麼AI能夠自行複製會被視為一種安全風險？這對人類社會有什麼潛在影響？",
+          "你認為政府或科技公司，誰更應該負責監管AI的發展？原因是什麼？"
         ],
         "lv3": [
-          "有人認為人工智能的快速發展能為人類帶來巨大好處，亦有人擔心其潛在危險超過益處。你的看法是什麼？請從不同角度分析。",
-          "若AI真的失去人類的控制，誰應該負上最大的責任——是研發AI的科技公司、使用AI的政府，還是監管不力的社會整體？請表達你的意見。"
+          "有科學家認為，過度限制AI發展會阻礙科技進步；但也有人認為安全比速度更重要。你認為在推動AI發展和確保安全之間，應如何取得平衡？",
+          "如果AI真的具備自主複製能力，現有的法律和道德框架是否足以應對這種挑戰？社會需要作出哪些根本性的改變來保障人類的未來？"
         ]
       }
     }

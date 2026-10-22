@@ -1,0 +1,107 @@
+{
+  "generated": "2026-10-22T09:08:59.095127+08:00",
+  "date": "2026-10-22",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-10-22-en-1",
+      "lang": "en",
+      "source": "The Standard",
+      "sourceUrl": "https://www.thestandard.com.hk/news/article/346149/Morning-Recap-October-22-2026",
+      "flag": "🇭🇰",
+      "date": "2026-10-22",
+      "adaptedFrom": "The Standard (citing World Justice Project Rule of Law Index 2026)",
+      "title": "Hong Kong Ranks 24th in the World for Rule of Law in 2026",
+      "summary": "Every year, an international group called the World Justice Project checks how well countries follow the rule of law — meaning whether people are treated fairly and governments follow the rules too. In their 2026 report released on Wednesday, Hong Kong kept a strong position, coming 24th out of 143 countries and territories around the world. In the East Asia and Pacific region, Hong Kong ranked 6th. The rule of law is very important because it helps protect people's rights and keeps society safe and fair. Maintaining this ranking shows that Hong Kong's legal system is respected internationally, which is good for both residents and businesses.",
+      "questions": {
+        "lv1": [
+          "What position did Hong Kong get out of 143 countries in the Rule of Law Index 2026? (香港在2026年法治指數中，於143個國家和地區中排第幾名？)",
+          "Which organisation publishes the Rule of Law Index each year? (哪個機構每年發布法治指數？)"
+        ],
+        "lv2": [
+          "Why do you think it is important for a city like Hong Kong to do well in the Rule of Law Index? (你認為香港在法治指數中表現良好，為何對這個城市很重要？)",
+          "What does 'rule of law' mean, and how does it affect everyday life for people living in Hong Kong? (「法治」是什麼意思？它如何影響香港市民的日常生活？)"
+        ],
+        "lv3": [
+          "Some people argue that rankings like the Rule of Law Index are biased because they reflect Western values. Do you agree or disagree? How should we evaluate a city's legal system fairly? (有人認為法治指數等排名反映西方價值觀而存在偏見，你是否同意？我們應如何公平地評估一個城市的法律制度？)",
+          "Hong Kong maintained its ranking this year, but rankings can change. What factors might cause a city's rule of law ranking to go up or down over time, and what responsibility do citizens have in upholding the rule of law? (香港今年維持排名，但排名可以改變。哪些因素可能令一個城市的法治排名上升或下降？市民在維護法治方面有什麼責任？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-22-en-2",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://www.brecorder.com/news/40445370/nikkei-rallies-as-ai-demand-outlook-brightens",
+      "flag": "🇬🇧",
+      "date": "2026-10-22",
+      "adaptedFrom": "Reuters",
+      "title": "Asian Tech Giants Place Massive AI Chip Order as Demand for Artificial Intelligence Surges",
+      "summary": "Three of Asia's biggest technology companies — ByteDance, Alibaba, and Tencent — have reportedly placed a huge order for more than three million advanced computer chips made by the American company Nvidia. The total value of the order is said to be more than 35 billion US dollars. These special chips, called GPUs, are used to power artificial intelligence systems. The news excited investors across Asia and helped Japan's stock market rise on Wednesday. It shows just how fast countries and companies across Asia are investing in AI technology, which is increasingly being used in apps, services, and everyday tools that people use at home and at school.",
+      "questions": {
+        "lv1": [
+          "Which three Asian technology companies ordered Nvidia computer chips? (哪三家亞洲科技公司訂購了英偉達的電腦芯片？)",
+          "What are GPU chips mainly used for in technology today? (GPU芯片現時主要用於什麼科技用途？)"
+        ],
+        "lv2": [
+          "Why would buying millions of AI chips cause stock markets in Asia to go up? (為什麼購買數百萬顆AI芯片會令亞洲股市上升？)",
+          "If Asian companies are spending billions of dollars on AI chips, what does this tell us about where technology is heading in the future? (如果亞洲企業花費數十億美元購買AI芯片，這告訴我們科技未來的走向是什麼？)"
+        ],
+        "lv3": [
+          "The world's most powerful AI chips are made by one American company, Nvidia. Is it healthy for the global AI industry to rely so heavily on a single supplier? What risks could this create for Asia? (全球最強大的AI芯片由一家美國公司英偉達生產。全球AI行業如此依賴單一供應商，是否健康？這對亞洲可能帶來什麼風險？)",
+          "As AI becomes more powerful and widespread in Asia, who should be responsible for making sure it is used safely and fairly — governments, companies, or individuals? Give reasons for your answer. (隨著AI在亞洲變得愈來愈強大和普及，誰應該負責確保AI被安全和公平地使用——是政府、企業還是個人？請說明你的理由。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-22-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/section/20261022/s00013",
+      "flag": "🇭🇰",
+      "date": "2026-10-22",
+      "adaptedFrom": "明報",
+      "title": "神舟二十三號太空人黎家盈在太空向長征勝利90周年致敬",
+      "summary": "今年是中國紅軍長征勝利90周年，北京人民大會堂舉行了盛大紀念大會，約3000人出席。與此同時，正在太空執行任務的神舟二十三號太空人黎家盈，特別在太空中向這一歷史時刻致敬，表達她對這段光輝歷史的敬意。長征是中國共產黨在1934至1935年間帶領軍隊完成的艱苦跋涉，全程逾萬里，是中國現代史上的重要事件。黎家盈的太空致敬，展示了中國航天事業與國家歷史之間的緊密連繫。",
+      "questions": {
+        "lv1": [
+          "神舟二十三號太空人黎家盈在太空紀念哪個歷史事件？",
+          "長征勝利90周年的紀念大會在哪裡舉行？"
+        ],
+        "lv2": [
+          "為什麼中國長征被視為一個重要的歷史事件？它對中國現代史有什麼影響？",
+          "黎家盈選擇在太空向長征致敬，你認為這有什麼特別的象徵意義？"
+        ],
+        "lv3": [
+          "有人認為政府應該大力紀念歷史事件，以培養國民身份認同；也有人認為年輕一代應該以批判性思維看待歷史。你認為學生應該如何學習和理解國家歷史？",
+          "中國的航天發展愈來愈快，你認為太空探索對一個國家有什麼重要意義？除了彰顯國家實力，太空科技還可以如何造福普通市民？"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-22-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtao.co.uk/",
+      "flag": "🇭🇰",
+      "date": "2026-10-22",
+      "adaptedFrom": "星島日報",
+      "title": "AI公司Anthropic警告：人工智能年底前或能自行複製傳播",
+      "summary": "美國著名人工智能公司Anthropic發出警告，指其研發的AI系統最快在今年年底，可能已具備自主複製及傳播的能力，即AI或能在未經人類指示的情況下，自行製造出更多版本的自己。這種情況被業界視為重大的安全風險，因為一旦AI能夠自我複製，人類將更難以控制其行為。專家指出，全球各地政府及科技公司必須盡快制定相應法規，確保AI的發展保持在人類可掌控的範圍之內，防止潛在的危機出現。",
+      "questions": {
+        "lv1": [
+          "Anthropic公司警告AI可能在何時具備自主複製能力？",
+          "AI自主複製是指AI能做什麼事情？"
+        ],
+        "lv2": [
+          "為什麼AI能夠自行複製會被視為一種安全風險？這對人類社會有什麼潛在影響？",
+          "你認為政府或科技公司，誰更應該負責監管AI的發展？原因是什麼？"
+        ],
+        "lv3": [
+          "有科學家認為，過度限制AI發展會阻礙科技進步；但也有人認為安全比速度更重要。你認為在推動AI發展和確保安全之間，應如何取得平衡？",
+          "如果AI真的具備自主複製能力，現有的法律和道德框架是否足以應對這種挑戰？社會需要作出哪些根本性的改變來保障人類的未來？"
+        ]
+      }
+    }
+  ]
+}
