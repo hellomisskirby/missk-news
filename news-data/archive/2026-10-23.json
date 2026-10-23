@@ -1,0 +1,107 @@
+{
+  "generated": "2026-10-23T09:08:28.733297+08:00",
+  "date": "2026-10-23",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-10-23-en-1",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/earthquake-tibet-2026-10-22/",
+      "flag": "🇬🇧",
+      "date": "2026-10-23",
+      "adaptedFrom": "Reuters",
+      "title": "Powerful Earthquake Strikes Tibet, Killing at Least 16 People",
+      "summary": "A strong earthquake measuring magnitude 7.0 hit the Nagqu region of Tibet, China, on the evening of 22 October 2026. The tremor caused serious damage across the area, with more than 300 homes either partly or completely destroyed. At least 16 people lost their lives and over 54 others were hurt. Chinese authorities quickly launched an emergency response, sending rescue teams to help those affected. The Hong Kong Observatory also detected the earthquake. Scientists measure earthquake strength using the Richter scale, and a magnitude 7.0 quake is considered very powerful and capable of causing major destruction to buildings.",
+      "questions": {
+        "lv1": [
+          "Where did the earthquake happen? (地震發生在哪裡？)",
+          "How many people were injured in the Tibet earthquake? (西藏地震造成多少人受傷？)"
+        ],
+        "lv2": [
+          "Why do earthquakes cause so much damage to buildings? (為什麼地震會對建築物造成嚴重破壞？)",
+          "Why is it important for governments to have emergency rescue teams ready for natural disasters? (為什麼政府要預先準備緊急救援隊伍應對天災？)"
+        ],
+        "lv3": [
+          "Some areas that experience earthquakes often do not have earthquake-proof buildings. Who should be responsible for making sure buildings are safer — governments, builders, or residents? Why? (一些地震多發地區的建築物並非防震設計。你認為誰應該負責確保建築更安全——政府、建築商還是居民？為什麼？)",
+          "Should wealthier countries or regions provide more aid to disaster-affected areas? What are the benefits and challenges of international disaster relief? (富裕的國家或地區是否應該為受災地區提供更多援助？國際救災有哪些好處和挑戰？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-23-en-2",
+      "lang": "en",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.com/news/articles/world-europe-france-schmallenberg-virus-2026",
+      "flag": "🇬🇧",
+      "date": "2026-10-23",
+      "adaptedFrom": "BBC News",
+      "title": "France Reports World's First Human Case of Animal Virus Schmallenberg",
+      "summary": "France has confirmed the world's very first recorded case of a human being infected with Schmallenberg virus, a disease that usually affects farm animals such as cattle and sheep. The infected patient became ill earlier in October 2026 and sadly passed away. Schmallenberg virus was first discovered in Germany in 2011 and normally spreads among livestock through insect bites. Scientists and health authorities are now investigating how this person caught the virus. While this is an unusual event, health experts say the risk to the general public currently remains low, but they will continue to monitor the situation carefully.",
+      "questions": {
+        "lv1": [
+          "What is the name of the virus that France reported a human case of? (法國報告了哪種病毒的人類感染個案？)",
+          "Which animals does Schmallenberg virus usually infect? (沙蒙達病毒通常感染哪些動物？)"
+        ],
+        "lv2": [
+          "Why do scientists find it worrying when a disease that normally affects animals is found in a human? (為什麼當一種通常影響動物的疾病出現在人類身上時，科學家會感到擔憂？)",
+          "How do you think health authorities should respond when a completely new type of human infection is discovered? (你認為衛生當局在發現全新人類感染時應該如何應對？)"
+        ],
+        "lv3": [
+          "Some scientists believe that diseases jumping from animals to humans are becoming more common due to changes in the environment and farming practices. Do you agree? What steps could society take to reduce this risk? (部分科學家認為，由於環境變化和農業模式改變，動物傳人的疾病越來越普遍。你同意嗎？社會可以採取什麼措施減低這種風險？)",
+          "When a new and unknown disease emerges, how should governments balance the need to inform the public without causing unnecessary panic? (當出現新的未知疾病時，政府應如何在告知公眾的同時避免引起不必要的恐慌？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-23-zh-1",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://std.stheadline.com/realtime/hongkong/",
+      "flag": "🇭🇰",
+      "date": "2026-10-23",
+      "adaptedFrom": "星島日報",
+      "title": "天星小輪獲批加價逾兩成 行政會議盼保留香港歷史標記",
+      "summary": "行政會議批准天星小輪調整票價，加幅介乎20%至28%，以協助渡輪公司在艱難經營環境下維持服務。議員表示歡迎公司保留月票收費安排，減輕市民日常出行負擔。天星小輪是香港歷史悠久的交通工具，來往維多利亞港兩岸，行政會議形容其為香港珍貴的歷史標記，值得全力保留。有關加價安排將在稍後正式實施，市民可留意公司公告。",
+      "questions": {
+        "lv1": [
+          "天星小輪今次獲批加價多少百分比？",
+          "天星小輪主要來往香港哪個海港兩岸？"
+        ],
+        "lv2": [
+          "為什麼政府和議員都認為保留天星小輪服務對香港很重要？",
+          "加價對不同市民（如長者、學生、上班族）有什麼不同的影響？"
+        ],
+        "lv3": [
+          "政府批准公共交通工具加價時，應該如何平衡營運商的財務需要與市民的負擔能力？你認為有沒有更好的方法支援天星小輪繼續經營？",
+          "香港有不少具歷史價值的設施（如天星小輪、電車）面臨財政困難。你認為保留這些歷史標記是政府的責任嗎？社會又應如何看待歷史保育與現代發展的取捨？"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-23-zh-2",
+      "lang": "zh",
+      "source": "星島頭條",
+      "sourceUrl": "https://www.stheadline.com/",
+      "flag": "🇭🇰",
+      "date": "2026-10-23",
+      "adaptedFrom": "星島頭條",
+      "title": "蘋果首款摺疊手機iPhone Duo今日開賣 香港炒價水位高達五千元",
+      "summary": "蘋果公司首款摺疊屏手機iPhone Duo於今日（23日）正式在香港及內地市場開售，預購客戶可於早上8時起取機。由於部分客戶取機日期被延後，市場預計256GB型號炒價水位或高達5,000港元。先達廣場商戶密切追蹤回收價走勢，各款容量及顏色的炒價持續更新。iPhone Duo是蘋果品牌的全新嘗試，標誌著智能手機設計的重大革新，引起全球科技界廣泛關注。",
+      "questions": {
+        "lv1": [
+          "蘋果首款摺疊手機的名稱是什麼？",
+          "iPhone Duo今日幾點開始讓預購客戶取機？"
+        ],
+        "lv2": [
+          "為什麼部分人願意以高於原價很多的「炒價」購買新手機？這反映了什麼消費心理？",
+          "摺疊屏手機與普通手機相比，有哪些可能的優點和缺點？"
+        ],
+        "lv3": [
+          "有人認為購買炒價手機是個人自由，也有人認為這種炒賣行為對市場和消費者有害。你認為政府或社會應否對炒賣行為加以規管？為什麼？",
+          "科技公司每年推出新款手機，令人不斷更換舊手機。你認為這種消費模式對環境有什麼影響？我們應如何在享受科技進步的同時，減少電子廢物的產生？"
+        ]
+      }
+    }
+  ]
+}

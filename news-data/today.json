@@ -1,105 +1,105 @@
 {
-  "generated": "2026-10-22T09:08:59.095127+08:00",
-  "date": "2026-10-22",
+  "generated": "2026-10-23T09:08:28.733297+08:00",
+  "date": "2026-10-23",
   "count": 4,
   "articles": [
     {
-      "id": "2026-10-22-en-1",
-      "lang": "en",
-      "source": "The Standard",
-      "sourceUrl": "https://www.thestandard.com.hk/news/article/346149/Morning-Recap-October-22-2026",
-      "flag": "🇭🇰",
-      "date": "2026-10-22",
-      "adaptedFrom": "The Standard (citing World Justice Project Rule of Law Index 2026)",
-      "title": "Hong Kong Ranks 24th in the World for Rule of Law in 2026",
-      "summary": "Every year, an international group called the World Justice Project checks how well countries follow the rule of law — meaning whether people are treated fairly and governments follow the rules too. In their 2026 report released on Wednesday, Hong Kong kept a strong position, coming 24th out of 143 countries and territories around the world. In the East Asia and Pacific region, Hong Kong ranked 6th. The rule of law is very important because it helps protect people's rights and keeps society safe and fair. Maintaining this ranking shows that Hong Kong's legal system is respected internationally, which is good for both residents and businesses.",
-      "questions": {
-        "lv1": [
-          "What position did Hong Kong get out of 143 countries in the Rule of Law Index 2026? (香港在2026年法治指數中，於143個國家和地區中排第幾名？)",
-          "Which organisation publishes the Rule of Law Index each year? (哪個機構每年發布法治指數？)"
-        ],
-        "lv2": [
-          "Why do you think it is important for a city like Hong Kong to do well in the Rule of Law Index? (你認為香港在法治指數中表現良好，為何對這個城市很重要？)",
-          "What does 'rule of law' mean, and how does it affect everyday life for people living in Hong Kong? (「法治」是什麼意思？它如何影響香港市民的日常生活？)"
-        ],
-        "lv3": [
-          "Some people argue that rankings like the Rule of Law Index are biased because they reflect Western values. Do you agree or disagree? How should we evaluate a city's legal system fairly? (有人認為法治指數等排名反映西方價值觀而存在偏見，你是否同意？我們應如何公平地評估一個城市的法律制度？)",
-          "Hong Kong maintained its ranking this year, but rankings can change. What factors might cause a city's rule of law ranking to go up or down over time, and what responsibility do citizens have in upholding the rule of law? (香港今年維持排名，但排名可以改變。哪些因素可能令一個城市的法治排名上升或下降？市民在維護法治方面有什麼責任？)"
-        ]
-      }
-    },
-    {
-      "id": "2026-10-22-en-2",
+      "id": "2026-10-23-en-1",
       "lang": "en",
       "source": "Reuters",
-      "sourceUrl": "https://www.brecorder.com/news/40445370/nikkei-rallies-as-ai-demand-outlook-brightens",
+      "sourceUrl": "https://www.reuters.com/world/china/earthquake-tibet-2026-10-22/",
       "flag": "🇬🇧",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "adaptedFrom": "Reuters",
-      "title": "Asian Tech Giants Place Massive AI Chip Order as Demand for Artificial Intelligence Surges",
-      "summary": "Three of Asia's biggest technology companies — ByteDance, Alibaba, and Tencent — have reportedly placed a huge order for more than three million advanced computer chips made by the American company Nvidia. The total value of the order is said to be more than 35 billion US dollars. These special chips, called GPUs, are used to power artificial intelligence systems. The news excited investors across Asia and helped Japan's stock market rise on Wednesday. It shows just how fast countries and companies across Asia are investing in AI technology, which is increasingly being used in apps, services, and everyday tools that people use at home and at school.",
+      "title": "Powerful Earthquake Strikes Tibet, Killing at Least 16 People",
+      "summary": "A strong earthquake measuring magnitude 7.0 hit the Nagqu region of Tibet, China, on the evening of 22 October 2026. The tremor caused serious damage across the area, with more than 300 homes either partly or completely destroyed. At least 16 people lost their lives and over 54 others were hurt. Chinese authorities quickly launched an emergency response, sending rescue teams to help those affected. The Hong Kong Observatory also detected the earthquake. Scientists measure earthquake strength using the Richter scale, and a magnitude 7.0 quake is considered very powerful and capable of causing major destruction to buildings.",
       "questions": {
         "lv1": [
-          "Which three Asian technology companies ordered Nvidia computer chips? (哪三家亞洲科技公司訂購了英偉達的電腦芯片？)",
-          "What are GPU chips mainly used for in technology today? (GPU芯片現時主要用於什麼科技用途？)"
+          "Where did the earthquake happen? (地震發生在哪裡？)",
+          "How many people were injured in the Tibet earthquake? (西藏地震造成多少人受傷？)"
         ],
         "lv2": [
-          "Why would buying millions of AI chips cause stock markets in Asia to go up? (為什麼購買數百萬顆AI芯片會令亞洲股市上升？)",
-          "If Asian companies are spending billions of dollars on AI chips, what does this tell us about where technology is heading in the future? (如果亞洲企業花費數十億美元購買AI芯片，這告訴我們科技未來的走向是什麼？)"
+          "Why do earthquakes cause so much damage to buildings? (為什麼地震會對建築物造成嚴重破壞？)",
+          "Why is it important for governments to have emergency rescue teams ready for natural disasters? (為什麼政府要預先準備緊急救援隊伍應對天災？)"
         ],
         "lv3": [
-          "The world's most powerful AI chips are made by one American company, Nvidia. Is it healthy for the global AI industry to rely so heavily on a single supplier? What risks could this create for Asia? (全球最強大的AI芯片由一家美國公司英偉達生產。全球AI行業如此依賴單一供應商，是否健康？這對亞洲可能帶來什麼風險？)",
-          "As AI becomes more powerful and widespread in Asia, who should be responsible for making sure it is used safely and fairly — governments, companies, or individuals? Give reasons for your answer. (隨著AI在亞洲變得愈來愈強大和普及，誰應該負責確保AI被安全和公平地使用——是政府、企業還是個人？請說明你的理由。)"
+          "Some areas that experience earthquakes often do not have earthquake-proof buildings. Who should be responsible for making sure buildings are safer — governments, builders, or residents? Why? (一些地震多發地區的建築物並非防震設計。你認為誰應該負責確保建築更安全——政府、建築商還是居民？為什麼？)",
+          "Should wealthier countries or regions provide more aid to disaster-affected areas? What are the benefits and challenges of international disaster relief? (富裕的國家或地區是否應該為受災地區提供更多援助？國際救災有哪些好處和挑戰？)"
         ]
       }
     },
     {
-      "id": "2026-10-22-zh-1",
-      "lang": "zh",
-      "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/section/20261022/s00013",
-      "flag": "🇭🇰",
-      "date": "2026-10-22",
-      "adaptedFrom": "明報",
-      "title": "神舟二十三號太空人黎家盈在太空向長征勝利90周年致敬",
-      "summary": "今年是中國紅軍長征勝利90周年，北京人民大會堂舉行了盛大紀念大會，約3000人出席。與此同時，正在太空執行任務的神舟二十三號太空人黎家盈，特別在太空中向這一歷史時刻致敬，表達她對這段光輝歷史的敬意。長征是中國共產黨在1934至1935年間帶領軍隊完成的艱苦跋涉，全程逾萬里，是中國現代史上的重要事件。黎家盈的太空致敬，展示了中國航天事業與國家歷史之間的緊密連繫。",
+      "id": "2026-10-23-en-2",
+      "lang": "en",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.com/news/articles/world-europe-france-schmallenberg-virus-2026",
+      "flag": "🇬🇧",
+      "date": "2026-10-23",
+      "adaptedFrom": "BBC News",
+      "title": "France Reports World's First Human Case of Animal Virus Schmallenberg",
+      "summary": "France has confirmed the world's very first recorded case of a human being infected with Schmallenberg virus, a disease that usually affects farm animals such as cattle and sheep. The infected patient became ill earlier in October 2026 and sadly passed away. Schmallenberg virus was first discovered in Germany in 2011 and normally spreads among livestock through insect bites. Scientists and health authorities are now investigating how this person caught the virus. While this is an unusual event, health experts say the risk to the general public currently remains low, but they will continue to monitor the situation carefully.",
       "questions": {
         "lv1": [
-          "神舟二十三號太空人黎家盈在太空紀念哪個歷史事件？",
-          "長征勝利90周年的紀念大會在哪裡舉行？"
+          "What is the name of the virus that France reported a human case of? (法國報告了哪種病毒的人類感染個案？)",
+          "Which animals does Schmallenberg virus usually infect? (沙蒙達病毒通常感染哪些動物？)"
         ],
         "lv2": [
-          "為什麼中國長征被視為一個重要的歷史事件？它對中國現代史有什麼影響？",
-          "黎家盈選擇在太空向長征致敬，你認為這有什麼特別的象徵意義？"
+          "Why do scientists find it worrying when a disease that normally affects animals is found in a human? (為什麼當一種通常影響動物的疾病出現在人類身上時，科學家會感到擔憂？)",
+          "How do you think health authorities should respond when a completely new type of human infection is discovered? (你認為衛生當局在發現全新人類感染時應該如何應對？)"
         ],
         "lv3": [
-          "有人認為政府應該大力紀念歷史事件，以培養國民身份認同；也有人認為年輕一代應該以批判性思維看待歷史。你認為學生應該如何學習和理解國家歷史？",
-          "中國的航天發展愈來愈快，你認為太空探索對一個國家有什麼重要意義？除了彰顯國家實力，太空科技還可以如何造福普通市民？"
+          "Some scientists believe that diseases jumping from animals to humans are becoming more common due to changes in the environment and farming practices. Do you agree? What steps could society take to reduce this risk? (部分科學家認為，由於環境變化和農業模式改變，動物傳人的疾病越來越普遍。你同意嗎？社會可以採取什麼措施減低這種風險？)",
+          "When a new and unknown disease emerges, how should governments balance the need to inform the public without causing unnecessary panic? (當出現新的未知疾病時，政府應如何在告知公眾的同時避免引起不必要的恐慌？)"
         ]
       }
     },
     {
-      "id": "2026-10-22-zh-2",
+      "id": "2026-10-23-zh-1",
       "lang": "zh",
       "source": "星島日報",
-      "sourceUrl": "https://www.singtao.co.uk/",
+      "sourceUrl": "https://std.stheadline.com/realtime/hongkong/",
       "flag": "🇭🇰",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "adaptedFrom": "星島日報",
-      "title": "AI公司Anthropic警告：人工智能年底前或能自行複製傳播",
-      "summary": "美國著名人工智能公司Anthropic發出警告，指其研發的AI系統最快在今年年底，可能已具備自主複製及傳播的能力，即AI或能在未經人類指示的情況下，自行製造出更多版本的自己。這種情況被業界視為重大的安全風險，因為一旦AI能夠自我複製，人類將更難以控制其行為。專家指出，全球各地政府及科技公司必須盡快制定相應法規，確保AI的發展保持在人類可掌控的範圍之內，防止潛在的危機出現。",
+      "title": "天星小輪獲批加價逾兩成 行政會議盼保留香港歷史標記",
+      "summary": "行政會議批准天星小輪調整票價，加幅介乎20%至28%，以協助渡輪公司在艱難經營環境下維持服務。議員表示歡迎公司保留月票收費安排，減輕市民日常出行負擔。天星小輪是香港歷史悠久的交通工具，來往維多利亞港兩岸，行政會議形容其為香港珍貴的歷史標記，值得全力保留。有關加價安排將在稍後正式實施，市民可留意公司公告。",
       "questions": {
         "lv1": [
-          "Anthropic公司警告AI可能在何時具備自主複製能力？",
-          "AI自主複製是指AI能做什麼事情？"
+          "天星小輪今次獲批加價多少百分比？",
+          "天星小輪主要來往香港哪個海港兩岸？"
         ],
         "lv2": [
-          "為什麼AI能夠自行複製會被視為一種安全風險？這對人類社會有什麼潛在影響？",
-          "你認為政府或科技公司，誰更應該負責監管AI的發展？原因是什麼？"
+          "為什麼政府和議員都認為保留天星小輪服務對香港很重要？",
+          "加價對不同市民（如長者、學生、上班族）有什麼不同的影響？"
         ],
         "lv3": [
-          "有科學家認為，過度限制AI發展會阻礙科技進步；但也有人認為安全比速度更重要。你認為在推動AI發展和確保安全之間，應如何取得平衡？",
-          "如果AI真的具備自主複製能力，現有的法律和道德框架是否足以應對這種挑戰？社會需要作出哪些根本性的改變來保障人類的未來？"
+          "政府批准公共交通工具加價時，應該如何平衡營運商的財務需要與市民的負擔能力？你認為有沒有更好的方法支援天星小輪繼續經營？",
+          "香港有不少具歷史價值的設施（如天星小輪、電車）面臨財政困難。你認為保留這些歷史標記是政府的責任嗎？社會又應如何看待歷史保育與現代發展的取捨？"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-23-zh-2",
+      "lang": "zh",
+      "source": "星島頭條",
+      "sourceUrl": "https://www.stheadline.com/",
+      "flag": "🇭🇰",
+      "date": "2026-10-23",
+      "adaptedFrom": "星島頭條",
+      "title": "蘋果首款摺疊手機iPhone Duo今日開賣 香港炒價水位高達五千元",
+      "summary": "蘋果公司首款摺疊屏手機iPhone Duo於今日（23日）正式在香港及內地市場開售，預購客戶可於早上8時起取機。由於部分客戶取機日期被延後，市場預計256GB型號炒價水位或高達5,000港元。先達廣場商戶密切追蹤回收價走勢，各款容量及顏色的炒價持續更新。iPhone Duo是蘋果品牌的全新嘗試，標誌著智能手機設計的重大革新，引起全球科技界廣泛關注。",
+      "questions": {
+        "lv1": [
+          "蘋果首款摺疊手機的名稱是什麼？",
+          "iPhone Duo今日幾點開始讓預購客戶取機？"
+        ],
+        "lv2": [
+          "為什麼部分人願意以高於原價很多的「炒價」購買新手機？這反映了什麼消費心理？",
+          "摺疊屏手機與普通手機相比，有哪些可能的優點和缺點？"
+        ],
+        "lv3": [
+          "有人認為購買炒價手機是個人自由，也有人認為這種炒賣行為對市場和消費者有害。你認為政府或社會應否對炒賣行為加以規管？為什麼？",
+          "科技公司每年推出新款手機，令人不斷更換舊手機。你認為這種消費模式對環境有什麼影響？我們應如何在享受科技進步的同時，減少電子廢物的產生？"
         ]
       }
     }
