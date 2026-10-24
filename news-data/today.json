@@ -1,105 +1,105 @@
 {
-  "generated": "2026-10-23T09:08:28.733297+08:00",
-  "date": "2026-10-23",
+  "generated": "2026-10-24T09:19:49.074510+08:00",
+  "date": "2026-10-24",
   "count": 4,
   "articles": [
     {
-      "id": "2026-10-23-en-1",
+      "id": "2026-10-24-en-1",
+      "lang": "en",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261023-japan-kikai-volcano.htm",
+      "flag": "🇯🇵",
+      "date": "2026-10-23",
+      "adaptedFrom": "ScienceDaily",
+      "title": "Japan's Sleeping Giant: Huge Underwater Volcano Is Slowly Waking Up",
+      "summary": "Deep under the ocean near southern Japan lies a massive volcano called the Kikai caldera. Scientists have just discovered that its underground chamber of melted rock — called magma — is filling up again, more than 7,000 years after it last had a huge eruption. Researchers used special sound waves sent through the seabed to map what is happening far below the surface. While experts say there is no immediate danger, they stress it is very important to keep watching this underwater volcano carefully. The findings remind us that our planet is always slowly changing beneath our feet.",
+      "questions": {
+        "lv1": [
+          "What is the name of the underwater volcano scientists are studying in Japan? (科學家正在研究的日本水下火山叫什麼名字？)",
+          "How did scientists find out that the volcano's magma chamber is refilling? (科學家是如何發現火山的岩漿庫正在重新填充的？)"
+        ],
+        "lv2": [
+          "Why is it important for scientists to monitor the Kikai caldera even if there is no immediate danger? (即使沒有即時危險，科學家為什麼仍要監測鬼界破火山口？)",
+          "How do underwater volcanoes differ from volcanoes on land, and why might they be harder to study? (海底火山與陸地火山有什麼不同，為什麼它們可能更難研究？)"
+        ],
+        "lv3": [
+          "If scientists could predict a major volcanic eruption years in advance, what responsibilities would governments have towards communities living nearby? (如果科學家能夠提前數年預測重大火山爆發，政府對附近社區有什麼責任？)",
+          "Some people argue that studying extreme natural events is a waste of money if an eruption may not happen for thousands of years. Do you agree or disagree, and why? (有人認為，如果火山爆發可能要數千年後才發生，研究這些極端自然現象是浪費金錢。你同意嗎？請說明理由。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-24-en-2",
       "lang": "en",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/world/china/earthquake-tibet-2026-10-22/",
-      "flag": "🇬🇧",
-      "date": "2026-10-23",
-      "adaptedFrom": "Reuters",
-      "title": "Powerful Earthquake Strikes Tibet, Killing at Least 16 People",
-      "summary": "A strong earthquake measuring magnitude 7.0 hit the Nagqu region of Tibet, China, on the evening of 22 October 2026. The tremor caused serious damage across the area, with more than 300 homes either partly or completely destroyed. At least 16 people lost their lives and over 54 others were hurt. Chinese authorities quickly launched an emergency response, sending rescue teams to help those affected. The Hong Kong Observatory also detected the earthquake. Scientists measure earthquake strength using the Richter scale, and a magnitude 7.0 quake is considered very powerful and capable of causing major destruction to buildings.",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/twin-typhoons-japan-october-2026-10-24/",
+      "flag": "🌏",
+      "date": "2026-10-24",
+      "adaptedFrom": "Reuters / Japan Meteorological Association (tenki.jp)",
+      "title": "Two Typhoons at Once: Japan Braces as Rare Double Storm Forms in the Pacific",
+      "summary": "Japan is facing an unusual weather event today — two typhoons are active at the same time. Typhoon No. 30, named Champi, is a large and powerful storm that has been hovering near the Yaeyama Islands in Okinawa and is expected to make landfall in Kyushu on Monday. A second typhoon, No. 31 named Infa, formed early this morning near the Marshall Islands. Having 31 named typhoons in a single year has not happened since 2013, making this one of the highest counts since weather records began in 1951. Authorities have warned people across western and central Japan to prepare for heavy rain and strong winds.",
       "questions": {
         "lv1": [
-          "Where did the earthquake happen? (地震發生在哪裡？)",
-          "How many people were injured in the Tibet earthquake? (西藏地震造成多少人受傷？)"
+          "How many typhoons are active at the same time in Japan today? (今天日本同時有多少個颱風活躍？)",
+          "What is the name of the second typhoon that formed today? (今天形成的第二個颱風叫什麼名字？)"
         ],
         "lv2": [
-          "Why do earthquakes cause so much damage to buildings? (為什麼地震會對建築物造成嚴重破壞？)",
-          "Why is it important for governments to have emergency rescue teams ready for natural disasters? (為什麼政府要預先準備緊急救援隊伍應對天災？)"
+          "Why is it unusual for two typhoons to be active at the same time, and what conditions might cause this to happen? (兩個颱風同時活躍為何不尋常？什麼條件可能導致這種情況發生？)",
+          "How should schools and families prepare when a powerful typhoon is approaching their area? (當強颱風接近時，學校和家庭應該如何準備？)"
         ],
         "lv3": [
-          "Some areas that experience earthquakes often do not have earthquake-proof buildings. Who should be responsible for making sure buildings are safer — governments, builders, or residents? Why? (一些地震多發地區的建築物並非防震設計。你認為誰應該負責確保建築更安全——政府、建築商還是居民？為什麼？)",
-          "Should wealthier countries or regions provide more aid to disaster-affected areas? What are the benefits and challenges of international disaster relief? (富裕的國家或地區是否應該為受災地區提供更多援助？國際救災有哪些好處和挑戰？)"
+          "Scientists have noted that the number of typhoons forming each year is breaking records. To what extent do you think climate change is responsible for more frequent and intense typhoons? (科學家注意到每年形成的颱風數目正在破紀錄。你認為氣候變化在多大程度上要為颱風更頻繁、更強烈負責？)",
+          "When a natural disaster threatens a region, who should be responsible for warning and protecting citizens — the government, scientists, or individuals themselves? Discuss different perspectives. (當自然災害威脅某地區時，誰應該負責警告和保護市民——政府、科學家還是個人？請從不同角度討論。)"
         ]
       }
     },
     {
-      "id": "2026-10-23-en-2",
-      "lang": "en",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.com/news/articles/world-europe-france-schmallenberg-virus-2026",
-      "flag": "🇬🇧",
-      "date": "2026-10-23",
-      "adaptedFrom": "BBC News",
-      "title": "France Reports World's First Human Case of Animal Virus Schmallenberg",
-      "summary": "France has confirmed the world's very first recorded case of a human being infected with Schmallenberg virus, a disease that usually affects farm animals such as cattle and sheep. The infected patient became ill earlier in October 2026 and sadly passed away. Schmallenberg virus was first discovered in Germany in 2011 and normally spreads among livestock through insect bites. Scientists and health authorities are now investigating how this person caught the virus. While this is an unusual event, health experts say the risk to the general public currently remains low, but they will continue to monitor the situation carefully.",
-      "questions": {
-        "lv1": [
-          "What is the name of the virus that France reported a human case of? (法國報告了哪種病毒的人類感染個案？)",
-          "Which animals does Schmallenberg virus usually infect? (沙蒙達病毒通常感染哪些動物？)"
-        ],
-        "lv2": [
-          "Why do scientists find it worrying when a disease that normally affects animals is found in a human? (為什麼當一種通常影響動物的疾病出現在人類身上時，科學家會感到擔憂？)",
-          "How do you think health authorities should respond when a completely new type of human infection is discovered? (你認為衛生當局在發現全新人類感染時應該如何應對？)"
-        ],
-        "lv3": [
-          "Some scientists believe that diseases jumping from animals to humans are becoming more common due to changes in the environment and farming practices. Do you agree? What steps could society take to reduce this risk? (部分科學家認為，由於環境變化和農業模式改變，動物傳人的疾病越來越普遍。你同意嗎？社會可以採取什麼措施減低這種風險？)",
-          "When a new and unknown disease emerges, how should governments balance the need to inform the public without causing unnecessary panic? (當出現新的未知疾病時，政府應如何在告知公眾的同時避免引起不必要的恐慌？)"
-        ]
-      }
-    },
-    {
-      "id": "2026-10-23-zh-1",
+      "id": "2026-10-24-zh-1",
       "lang": "zh",
       "source": "星島日報",
-      "sourceUrl": "https://std.stheadline.com/realtime/hongkong/",
+      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
       "flag": "🇭🇰",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "adaptedFrom": "星島日報",
-      "title": "天星小輪獲批加價逾兩成 行政會議盼保留香港歷史標記",
-      "summary": "行政會議批准天星小輪調整票價，加幅介乎20%至28%，以協助渡輪公司在艱難經營環境下維持服務。議員表示歡迎公司保留月票收費安排，減輕市民日常出行負擔。天星小輪是香港歷史悠久的交通工具，來往維多利亞港兩岸，行政會議形容其為香港珍貴的歷史標記，值得全力保留。有關加價安排將在稍後正式實施，市民可留意公司公告。",
+      "title": "宏福苑大火調查報告提交　政府承諾短期內公布改革方案",
+      "summary": "大埔宏福苑大火獨立調查委員會今日正式向政府提交調查報告。行政長官李家超表示，政府會認真研究報告內容，積極跟進委員會的建議，並承諾在短期內公布全面的改革計劃及問責方案。報告據悉涉及多個政府部門在監管樓宇維修工程方面的不足之處。今次調查結果備受市民關注，社會各界期望政府從事件中汲取教訓，加強對舊樓維修工程的監管，以保障居民安全。",
       "questions": {
         "lv1": [
-          "天星小輪今次獲批加價多少百分比？",
-          "天星小輪主要來往香港哪個海港兩岸？"
+          "今日提交的調查報告是關於哪一宗事件？",
+          "行政長官李家超對報告有什麼回應？"
         ],
         "lv2": [
-          "為什麼政府和議員都認為保留天星小輪服務對香港很重要？",
-          "加價對不同市民（如長者、學生、上班族）有什麼不同的影響？"
+          "為什麼政府需要成立獨立調查委員會來調查大火事件？",
+          "監管樓宇維修工程不足會帶來哪些安全風險？"
         ],
         "lv3": [
-          "政府批准公共交通工具加價時，應該如何平衡營運商的財務需要與市民的負擔能力？你認為有沒有更好的方法支援天星小輪繼續經營？",
-          "香港有不少具歷史價值的設施（如天星小輪、電車）面臨財政困難。你認為保留這些歷史標記是政府的責任嗎？社會又應如何看待歷史保育與現代發展的取捨？"
+          "政府在保障舊樓居民安全方面應承擔什麼責任？相關部門又應如何問責？",
+          "有意見認為，香港部分舊樓的維修監管長期不足。你認為社會各方——包括政府、業主及物業管理公司——應如何分擔責任？"
         ]
       }
     },
     {
-      "id": "2026-10-23-zh-2",
+      "id": "2026-10-24-zh-2",
       "lang": "zh",
-      "source": "星島頭條",
-      "sourceUrl": "https://www.stheadline.com/",
-      "flag": "🇭🇰",
-      "date": "2026-10-23",
-      "adaptedFrom": "星島頭條",
-      "title": "蘋果首款摺疊手機iPhone Duo今日開賣 香港炒價水位高達五千元",
-      "summary": "蘋果公司首款摺疊屏手機iPhone Duo於今日（23日）正式在香港及內地市場開售，預購客戶可於早上8時起取機。由於部分客戶取機日期被延後，市場預計256GB型號炒價水位或高達5,000港元。先達廣場商戶密切追蹤回收價走勢，各款容量及顏色的炒價持續更新。iPhone Duo是蘋果品牌的全新嘗試，標誌著智能手機設計的重大革新，引起全球科技界廣泛關注。",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/",
+      "flag": "🌊",
+      "date": "2026-10-24",
+      "adaptedFrom": "星島日報",
+      "title": "全球珊瑚礁告急　96%面臨崩潰危機",
+      "summary": "最新研究顯示，全球高達96%的珊瑚礁正面臨嚴峻的崩潰危機。珊瑚礁是海洋生態系統的重要組成部分，為數以千計的海洋生物提供棲息地。科學家指出，海水溫度持續上升及海洋酸化是導致珊瑚大規模白化死亡的主要原因。一旦珊瑚礁生態系統遭到破壞，將對漁業資源、沿岸保護及旅遊業帶來深遠影響。專家呼籲各國政府加快減少溫室氣體排放，並加強對珊瑚礁的保育工作，以免生態災難加劇。",
       "questions": {
         "lv1": [
-          "蘋果首款摺疊手機的名稱是什麼？",
-          "iPhone Duo今日幾點開始讓預購客戶取機？"
+          "根據最新研究，全球有多少比例的珊瑚礁面臨崩潰危機？",
+          "導致珊瑚礁大規模白化的主要原因是什麼？"
         ],
         "lv2": [
-          "為什麼部分人願意以高於原價很多的「炒價」購買新手機？這反映了什麼消費心理？",
-          "摺疊屏手機與普通手機相比，有哪些可能的優點和缺點？"
+          "珊瑚礁被破壞會對人類的生活帶來哪些影響？",
+          "為什麼減少溫室氣體排放有助於保護珊瑚礁？"
         ],
         "lv3": [
-          "有人認為購買炒價手機是個人自由，也有人認為這種炒賣行為對市場和消費者有害。你認為政府或社會應否對炒賣行為加以規管？為什麼？",
-          "科技公司每年推出新款手機，令人不斷更換舊手機。你認為這種消費模式對環境有什麼影響？我們應如何在享受科技進步的同時，減少電子廢物的產生？"
+          "保護珊瑚礁是全球各國共同的責任，還是應由排放最多溫室氣體的國家承擔更大責任？請說明你的立場。",
+          "有人認為，個人日常行為（如減少碳排放、選擇可持續海鮮）對拯救珊瑚礁的作用微乎其微，真正的改變需要依靠政府政策。你同意嗎？為什麼？"
         ]
       }
     }
