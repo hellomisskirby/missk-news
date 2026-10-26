@@ -1,0 +1,107 @@
+{
+  "generated": "2026-10-26T08:57:39.434473+08:00",
+  "date": "2026-10-26",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-10-26-en-1",
+      "lang": "en",
+      "source": "Observer Voice",
+      "sourceUrl": "https://observervoice.com/todays-school-assembly-news-headlines-26-october-241799/",
+      "flag": "🇮🇳",
+      "date": "2026-10-26",
+      "adaptedFrom": "Observer Voice (reporting on ISRO announcement, 26 October 2026)",
+      "title": "India Plans Four Rocket Launch Pads by 2029 to Boost Space Ambitions",
+      "summary": "India's space agency, ISRO, has announced exciting plans to build four working rocket launch pads by the year 2029. Right now, ISRO operates fewer launch sites, which limits how many rockets can lift off at the same time. With four pads ready, India will be able to send up multiple missions at once — helping scientists explore space faster and allowing private companies to use Indian rockets commercially. The ISRO Chairman shared the news, saying this expansion shows how seriously India is taking its role in the growing global space industry. It is a big step for one of Asia's most ambitious space programmes.",
+      "questions": {
+        "lv1": [
+          "How many launch pads does ISRO plan to have ready by 2029? (印度太空研究組織計劃在2029年前建成多少個發射台？)",
+          "Which country's space agency made this announcement? (哪個國家的太空機構宣布了這個消息？)"
+        ],
+        "lv2": [
+          "Why would having more launch pads help India send more rockets into space? (擁有更多發射台，為何能幫助印度發射更多火箭升空？)",
+          "How might this expansion benefit both scientists and private businesses? (這次擴張計劃如何同時惠及科學家和私人企業？)"
+        ],
+        "lv3": [
+          "Should governments invest heavily in space programmes when many people on Earth still face poverty and other serious problems? Discuss different viewpoints. (當地球上仍有很多人面對貧窮及其他嚴峻問題時，政府是否應大力投資太空計劃？請討論不同觀點。)",
+          "As more countries and private companies compete in the space race, what are the potential benefits and risks for humanity? (隨著更多國家和私人企業加入太空競賽，這對人類有哪些潛在的好處和風險？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-26-en-2",
+      "lang": "en",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/news/top/science/",
+      "flag": "🔬",
+      "date": "2026-10-24",
+      "adaptedFrom": "ScienceDaily (24 October 2026)",
+      "title": "Tiny Snakes in Southeast Asia Roll Like Wheels to Escape Danger",
+      "summary": "Scientists have made a surprising discovery about dwarf reedsnakes living in Southeast Asia. When these small snakes feel threatened, they do something no other snake is known to do — they curl their bodies into a loop and roll across the ground at speeds up to four times faster than ordinary slithering. Researchers studied this remarkable escape behaviour and found it is an extremely effective way for the snakes to flee from predators quickly. This rolling technique had never been recorded in any other snake species before, making these tiny reptiles truly unique in the entire animal kingdom. The discovery reminds us how much there is still to learn about wildlife.",
+      "questions": {
+        "lv1": [
+          "What special trick do dwarf reedsnakes use to escape from danger? (侏儒蘆葦蛇用什麼特別方法逃離危險？)",
+          "Where do these unusual rolling snakes live? (這些會滾動的特別蛇類住在哪裡？)"
+        ],
+        "lv2": [
+          "Why might rolling be a better escape strategy for these snakes than ordinary slithering? (對這些蛇來說，為什麼滾動可能比普通爬行更有效地逃跑？)",
+          "What does this discovery tell us about how animals adapt in surprising ways to survive? (這個發現告訴我們，動物可以用哪些令人驚訝的方式適應環境以求生存？)"
+        ],
+        "lv3": [
+          "Scientists keep discovering unexpected animal behaviours. How important is it to protect biodiversity and natural habitats so that such discoveries remain possible in the future? (科學家不斷發現出乎意料的動物行為。保護生物多樣性和自然棲息地，讓未來繼續有這樣的發現，有多重要？)",
+          "Should more resources be directed towards studying lesser-known animal species rather than focusing only on famous animals like pandas and elephants? Give reasons for your view. (我們是否應該把更多資源用於研究不知名的動物，而非只關注熊貓和大象等著名動物？請說明你的觀點。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-26-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261026/s00002",
+      "flag": "🇭🇰",
+      "date": "2026-10-26",
+      "adaptedFrom": "明報（2026年10月26日）",
+      "title": "港大學生研發AI靜脈定位儀　盼降低成本惠及更多病人",
+      "summary": "香港有大學生研發出一款運用人工智能（AI）技術的靜脈定位儀器，旨在協助護士及醫護人員更迅速、準確地尋找病人手臂上的靜脈血管，從而減少插針失敗的次數及為病人帶來的痛楚。研究團隊指出，現有同類設備售價高昂，基層醫療機構難以負擔。新儀器的目標是大幅削減成本，令更多診所和醫院能夠使用，提升整體醫療服務效率，惠及更廣泛的病人群體。",
+      "questions": {
+        "lv1": [
+          "這款AI儀器是用來幫助醫護人員找什麼的？",
+          "研發團隊希望透過新儀器解決什麼問題？"
+        ],
+        "lv2": [
+          "為什麼降低醫療儀器的成本，對基層診所和醫院特別重要？",
+          "AI技術在醫療方面可以幫助我們做到哪些以前較難做到的事情？"
+        ],
+        "lv3": [
+          "隨著AI在醫療領域的應用日益普及，我們應否擔憂AI會逐步取代醫護人員的工作？請從不同角度加以討論。",
+          "在推廣新醫療科技時，應如何平衡創新帶來的好處與確保技術安全可靠之間的關係？"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-26-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/2026/10/25/news-%E7%A4%BE%E8%AB%96%EF%BC%9A%E5%95%8F%E8%B2%AC%E4%B9%8B%E5%A4%96%E5%90%8C%E9%9C%80%E6%94%B9%E9%9D%A9+%E5%AE%8C%E5%96%84%E5%88%B6%E5%BA%A6%E5%91%8A%E6%85%B0%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%A1%E9%9D%88/",
+      "flag": "🇨🇳",
+      "date": "2026-10-25",
+      "adaptedFrom": "星島日報（2026年10月25日）",
+      "title": "西藏青海接連發生強烈地震　當局啟動緊急應變機制",
+      "summary": "中國地震台網記錄顯示，2026年10月25日晚，西藏那曲市巴青縣發生5.7級地震，震源深度約10公里；幾乎同一時間，鄰近的青海省玉樹州雜多縣亦發生約5.6級地震。主震過後餘震持續，部分山區出現山體滑坡。當地救援部門隨即啟動應急機制，評估人員傷亡及房屋損毀情況。事件再次提醒各界，中國西部高原地區屬於地震活躍帶，加強防災教育及提升建築抗震標準極為重要。",
+      "questions": {
+        "lv1": [
+          "這次地震發生在中國哪兩個省份或地區？",
+          "地震發生後，山區出現了什麼危險情況？"
+        ],
+        "lv2": [
+          "為什麼中國西部高原地區特別容易發生地震？",
+          "地震發生後，救援部門通常需要採取哪些緊急措施來保護居民安全？"
+        ],
+        "lv3": [
+          "政府和社會應如何在地震多發地區更有效地保護居民的生命財產安全？請提出具體建議並討論其可行性。",
+          "面對難以預測的自然災害，科技發展（例如地震預警系統）能在多大程度上保護人類？推動這些技術應由政府、科研機構還是私人企業主導？"
+        ]
+      }
+    }
+  ]
+}
