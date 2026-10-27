@@ -1,105 +1,105 @@
 {
-  "generated": "2026-10-26T08:57:39.434473+08:00",
-  "date": "2026-10-26",
+  "generated": "2026-10-27T09:46:56.892222+08:00",
+  "date": "2026-10-27",
   "count": 4,
   "articles": [
     {
-      "id": "2026-10-26-en-1",
+      "id": "2026-10-27-en-1",
       "lang": "en",
-      "source": "Observer Voice",
-      "sourceUrl": "https://observervoice.com/todays-school-assembly-news-headlines-26-october-241799/",
-      "flag": "🇮🇳",
-      "date": "2026-10-26",
-      "adaptedFrom": "Observer Voice (reporting on ISRO announcement, 26 October 2026)",
-      "title": "India Plans Four Rocket Launch Pads by 2029 to Boost Space Ambitions",
-      "summary": "India's space agency, ISRO, has announced exciting plans to build four working rocket launch pads by the year 2029. Right now, ISRO operates fewer launch sites, which limits how many rockets can lift off at the same time. With four pads ready, India will be able to send up multiple missions at once — helping scientists explore space faster and allowing private companies to use Indian rockets commercially. The ISRO Chairman shared the news, saying this expansion shows how seriously India is taking its role in the growing global space industry. It is a big step for one of Asia's most ambitious space programmes.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/business/energy/indias-jakson-solar-invest-up-525-million-solar-cells-ingot-wafer-plants-2026-10-27/",
+      "flag": "🇬🇧",
+      "date": "2026-10-27",
+      "adaptedFrom": "Reuters",
+      "title": "Indian Solar Company Plans to Spend $525 Million to Build New Clean Energy Factories",
+      "summary": "An Indian company called Jakson Solar has announced it will invest up to 525 million US dollars to build new factories that make solar cells and wafers. Solar cells are the small parts inside solar panels that turn sunlight into electricity. The new factories will help India produce more of its own solar equipment instead of buying it from other countries. This is part of India's bigger plan to use more clean, renewable energy and reduce pollution from fossil fuels. Experts say this kind of investment could create thousands of new jobs and help fight climate change by replacing coal-powered electricity with sunshine.",
       "questions": {
         "lv1": [
-          "How many launch pads does ISRO plan to have ready by 2029? (印度太空研究組織計劃在2029年前建成多少個發射台？)",
-          "Which country's space agency made this announcement? (哪個國家的太空機構宣布了這個消息？)"
+          "What does a solar cell do? (太陽能電池有什麼功用？)",
+          "How much money is Jakson Solar planning to spend on its new factories? (捷克森太陽能公司計劃花多少錢建造新工廠？)"
         ],
         "lv2": [
-          "Why would having more launch pads help India send more rockets into space? (擁有更多發射台，為何能幫助印度發射更多火箭升空？)",
-          "How might this expansion benefit both scientists and private businesses? (這次擴張計劃如何同時惠及科學家和私人企業？)"
+          "Why might it be important for India to make its own solar equipment instead of buying it from other countries? (為什麼印度自己製造太陽能設備比從其他國家購買更重要？)",
+          "How can building solar factories help reduce pollution and fight climate change? (建造太陽能工廠如何有助減少污染和應對氣候變化？)"
         ],
         "lv3": [
-          "Should governments invest heavily in space programmes when many people on Earth still face poverty and other serious problems? Discuss different viewpoints. (當地球上仍有很多人面對貧窮及其他嚴峻問題時，政府是否應大力投資太空計劃？請討論不同觀點。)",
-          "As more countries and private companies compete in the space race, what are the potential benefits and risks for humanity? (隨著更多國家和私人企業加入太空競賽，這對人類有哪些潛在的好處和風險？)"
+          "Some people argue that building large factories also creates pollution. Do you think the environmental benefits of solar energy outweigh the costs of manufacturing it? Explain your view with reasons. (有人認為建造大型工廠也會造成污染。你認為太陽能的環境好處是否大於製造過程的代價？請列舉理由說明你的立場。)",
+          "Should governments financially support companies like Jakson Solar to speed up the switch to clean energy, or should the market decide on its own? What are the risks of each approach? (政府是否應該資助像捷克森太陽能這樣的公司，以加快轉向清潔能源？還是應該讓市場自行決定？兩種做法各有什麼風險？)"
         ]
       }
     },
     {
-      "id": "2026-10-26-en-2",
+      "id": "2026-10-27-en-2",
       "lang": "en",
       "source": "ScienceDaily",
-      "sourceUrl": "https://www.sciencedaily.com/news/top/science/",
-      "flag": "🔬",
-      "date": "2026-10-24",
-      "adaptedFrom": "ScienceDaily (24 October 2026)",
-      "title": "Tiny Snakes in Southeast Asia Roll Like Wheels to Escape Danger",
-      "summary": "Scientists have made a surprising discovery about dwarf reedsnakes living in Southeast Asia. When these small snakes feel threatened, they do something no other snake is known to do — they curl their bodies into a loop and roll across the ground at speeds up to four times faster than ordinary slithering. Researchers studied this remarkable escape behaviour and found it is an extremely effective way for the snakes to flee from predators quickly. This rolling technique had never been recorded in any other snake species before, making these tiny reptiles truly unique in the entire animal kingdom. The discovery reminds us how much there is still to learn about wildlife.",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261026-drex-giant-fungus-china.htm",
+      "flag": "🇬🇧",
+      "date": "2026-10-26",
+      "adaptedFrom": "ScienceDaily",
+      "title": "Scientists in China Find a Record-Breaking Giant Fungus They Call 'D-Rex'",
+      "summary": "Researchers have found an enormous fungus growing in China that is unlike anything seen before. The creature, nicknamed 'D-Rex', can grow up to about 50 centimetres tall and weigh nearly two and a half kilograms — making it the biggest fungus of its type ever recorded. Scientists believe its family history stretches back around 65 million years, to the time of the dinosaurs. Fungi are not plants or animals — they are their own special group of living things that help break down dead material in forests. This discovery reminds us that even today, nature can still surprise scientists with remarkable hidden creatures.",
       "questions": {
         "lv1": [
-          "What special trick do dwarf reedsnakes use to escape from danger? (侏儒蘆葦蛇用什麼特別方法逃離危險？)",
-          "Where do these unusual rolling snakes live? (這些會滾動的特別蛇類住在哪裡？)"
+          "Where was the giant fungus called 'D-Rex' discovered? (名為「D-Rex」的巨型真菌是在哪裡被發現的？)",
+          "About how tall can the 'D-Rex' fungus grow? (「D-Rex」真菌大約可以長多高？)"
         ],
         "lv2": [
-          "Why might rolling be a better escape strategy for these snakes than ordinary slithering? (對這些蛇來說，為什麼滾動可能比普通爬行更有效地逃跑？)",
-          "What does this discovery tell us about how animals adapt in surprising ways to survive? (這個發現告訴我們，動物可以用哪些令人驚訝的方式適應環境以求生存？)"
+          "Why do scientists think this fungus is so special and important to study? (科學家為什麼認為這種真菌特別重要，值得深入研究？)",
+          "Fungi are different from both plants and animals. Can you explain what makes fungi a unique group of living things? (真菌與植物和動物都不同。你能解釋是什麼令真菌成為獨特的生物類別嗎？)"
         ],
         "lv3": [
-          "Scientists keep discovering unexpected animal behaviours. How important is it to protect biodiversity and natural habitats so that such discoveries remain possible in the future? (科學家不斷發現出乎意料的動物行為。保護生物多樣性和自然棲息地，讓未來繼續有這樣的發現，有多重要？)",
-          "Should more resources be directed towards studying lesser-known animal species rather than focusing only on famous animals like pandas and elephants? Give reasons for your view. (我們是否應該把更多資源用於研究不知名的動物，而非只關注熊貓和大象等著名動物？請說明你的觀點。)"
+          "New species are being discovered every year, yet many are lost to extinction before we find them. What responsibilities do humans have to protect biodiversity, and how should governments balance this with economic development? (每年都有新物種被發現，但許多在被發現之前已滅絕。人類對保護生物多樣性有什麼責任？政府應如何在保育與經濟發展之間取得平衡？)",
+          "Some scientists argue that rainforests and other ecosystems should be valued for the undiscovered species they contain. Do you agree that unknown biodiversity has value? How should this influence environmental policy? (部分科學家認為，雨林和其他生態系統因其尚未被發現的物種而具有價值。你是否同意未被發現的生物多樣性具有價值？這應如何影響環保政策？)"
         ]
       }
     },
     {
-      "id": "2026-10-26-zh-1",
+      "id": "2026-10-27-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261026/s00002",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261027/s00002",
       "flag": "🇭🇰",
-      "date": "2026-10-26",
-      "adaptedFrom": "明報（2026年10月26日）",
-      "title": "港大學生研發AI靜脈定位儀　盼降低成本惠及更多病人",
-      "summary": "香港有大學生研發出一款運用人工智能（AI）技術的靜脈定位儀器，旨在協助護士及醫護人員更迅速、準確地尋找病人手臂上的靜脈血管，從而減少插針失敗的次數及為病人帶來的痛楚。研究團隊指出，現有同類設備售價高昂，基層醫療機構難以負擔。新儀器的目標是大幅削減成本，令更多診所和醫院能夠使用，提升整體醫療服務效率，惠及更廣泛的病人群體。",
+      "date": "2026-10-27",
+      "adaptedFrom": "明報",
+      "title": "中大研究發現針灸可幫助中老年人減輕耳鳴困擾",
+      "summary": "香港中文大學最新研究顯示，針灸療法對改善中老年人耳鳴問題有明顯效果。研究結果發現，接受針灸治療的患者當中，約有46%的人感到耳鳴響度下降。耳鳴是指耳朵持續聽到嗡嗡或嘶嘶聲響，卻沒有外在聲源，嚴重影響日常生活及睡眠質素。針灸是中國傳統醫學的一種治療方式，透過將幼細的針插入身體特定穴位以調理健康。這項研究為推廣中西醫結合治療提供了新的科學依據。",
       "questions": {
         "lv1": [
-          "這款AI儀器是用來幫助醫護人員找什麼的？",
-          "研發團隊希望透過新儀器解決什麼問題？"
+          "什麼是耳鳴？",
+          "中大研究顯示，有多少比例的患者在接受針灸後感到耳鳴改善？"
         ],
         "lv2": [
-          "為什麼降低醫療儀器的成本，對基層診所和醫院特別重要？",
-          "AI技術在醫療方面可以幫助我們做到哪些以前較難做到的事情？"
+          "針灸屬於中醫療法，為什麼科學家仍然需要透過研究來證明它的效果？",
+          "耳鳴如何影響一個人的日常生活和健康？你認為這個問題需要重視嗎？"
         ],
         "lv3": [
-          "隨著AI在醫療領域的應用日益普及，我們應否擔憂AI會逐步取代醫護人員的工作？請從不同角度加以討論。",
-          "在推廣新醫療科技時，應如何平衡創新帶來的好處與確保技術安全可靠之間的關係？"
+          "中醫與西醫的治療理念有所不同。你認為香港的醫療體系應該更積極將中醫納入主流醫療服務嗎？這樣做有什麼好處和挑戰？",
+          "有些人認為傳統醫學缺乏足夠的科學驗證，不應與西醫並列推廣；另一些人則認為療效才是最重要的標準。你支持哪種看法？請說明理由。"
         ]
       }
     },
     {
-      "id": "2026-10-26-zh-2",
+      "id": "2026-10-27-zh-2",
       "lang": "zh",
-      "source": "星島日報",
-      "sourceUrl": "https://www.singtaousa.com/2026/10/25/news-%E7%A4%BE%E8%AB%96%EF%BC%9A%E5%95%8F%E8%B2%AC%E4%B9%8B%E5%A4%96%E5%90%8C%E9%9C%80%E6%94%B9%E9%9D%A9+%E5%AE%8C%E5%96%84%E5%88%B6%E5%BA%A6%E5%91%8A%E6%85%B0%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%A1%E9%9D%88/",
-      "flag": "🇨🇳",
-      "date": "2026-10-25",
-      "adaptedFrom": "星島日報（2026年10月25日）",
-      "title": "西藏青海接連發生強烈地震　當局啟動緊急應變機制",
-      "summary": "中國地震台網記錄顯示，2026年10月25日晚，西藏那曲市巴青縣發生5.7級地震，震源深度約10公里；幾乎同一時間，鄰近的青海省玉樹州雜多縣亦發生約5.6級地震。主震過後餘震持續，部分山區出現山體滑坡。當地救援部門隨即啟動應急機制，評估人員傷亡及房屋損毀情況。事件再次提醒各界，中國西部高原地區屬於地震活躍帶，加強防災教育及提升建築抗震標準極為重要。",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/section/20261027/s00013",
+      "flag": "🇭🇰",
+      "date": "2026-10-27",
+      "adaptedFrom": "明報",
+      "title": "大熊貓「冉冉」將赴比利時　延續中比兩國保育合作",
+      "summary": "今年是中國與比利時建立外交關係55周年。為慶祝這一重要時刻，中方計劃將9歲雌性大熊貓「冉冉」送往比利時，接替去年底因故提早回國的大熊貓「好好」。大熊貓是中國的國寶動物，全球數量極為稀少，被列為易危物種。中國多年來透過向多個國家借出大熊貓，推動國際保育合作及文化交流。「冉冉」的到訪將有助延續兩國在大熊貓繁殖與保護方面的共同研究工作。",
       "questions": {
         "lv1": [
-          "這次地震發生在中國哪兩個省份或地區？",
-          "地震發生後，山區出現了什麼危險情況？"
+          "大熊貓「冉冉」將被送到哪個國家？",
+          "大熊貓「冉冉」今年幾歲？"
         ],
         "lv2": [
-          "為什麼中國西部高原地區特別容易發生地震？",
-          "地震發生後，救援部門通常需要採取哪些緊急措施來保護居民安全？"
+          "中國為什麼要把大熊貓借給其他國家？這對保育工作有什麼幫助？",
+          "大熊貓被列為易危物種，代表牠們的數量正在減少。你認為人類應該如何保護瀕危動物？"
         ],
         "lv3": [
-          "政府和社會應如何在地震多發地區更有效地保護居民的生命財產安全？請提出具體建議並討論其可行性。",
-          "面對難以預測的自然災害，科技發展（例如地震預警系統）能在多大程度上保護人類？推動這些技術應由政府、科研機構還是私人企業主導？"
+          "有人認為「大熊貓外交」是中國的政治工具，而非純粹的保育行動。你認為這種說法公平嗎？國際保育合作是否應該與政治分開？",
+          "將珍稀動物借給外國展出，有助提高公眾保育意識，但也可能對動物造成壓力。你認為動物保育的最佳方式是什麼？應優先考慮動物福利還是教育公眾？"
         ]
       }
     }

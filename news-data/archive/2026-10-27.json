@@ -1,0 +1,107 @@
+{
+  "generated": "2026-10-27T09:46:56.892222+08:00",
+  "date": "2026-10-27",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-10-27-en-1",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/business/energy/indias-jakson-solar-invest-up-525-million-solar-cells-ingot-wafer-plants-2026-10-27/",
+      "flag": "🇬🇧",
+      "date": "2026-10-27",
+      "adaptedFrom": "Reuters",
+      "title": "Indian Solar Company Plans to Spend $525 Million to Build New Clean Energy Factories",
+      "summary": "An Indian company called Jakson Solar has announced it will invest up to 525 million US dollars to build new factories that make solar cells and wafers. Solar cells are the small parts inside solar panels that turn sunlight into electricity. The new factories will help India produce more of its own solar equipment instead of buying it from other countries. This is part of India's bigger plan to use more clean, renewable energy and reduce pollution from fossil fuels. Experts say this kind of investment could create thousands of new jobs and help fight climate change by replacing coal-powered electricity with sunshine.",
+      "questions": {
+        "lv1": [
+          "What does a solar cell do? (太陽能電池有什麼功用？)",
+          "How much money is Jakson Solar planning to spend on its new factories? (捷克森太陽能公司計劃花多少錢建造新工廠？)"
+        ],
+        "lv2": [
+          "Why might it be important for India to make its own solar equipment instead of buying it from other countries? (為什麼印度自己製造太陽能設備比從其他國家購買更重要？)",
+          "How can building solar factories help reduce pollution and fight climate change? (建造太陽能工廠如何有助減少污染和應對氣候變化？)"
+        ],
+        "lv3": [
+          "Some people argue that building large factories also creates pollution. Do you think the environmental benefits of solar energy outweigh the costs of manufacturing it? Explain your view with reasons. (有人認為建造大型工廠也會造成污染。你認為太陽能的環境好處是否大於製造過程的代價？請列舉理由說明你的立場。)",
+          "Should governments financially support companies like Jakson Solar to speed up the switch to clean energy, or should the market decide on its own? What are the risks of each approach? (政府是否應該資助像捷克森太陽能這樣的公司，以加快轉向清潔能源？還是應該讓市場自行決定？兩種做法各有什麼風險？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-27-en-2",
+      "lang": "en",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261026-drex-giant-fungus-china.htm",
+      "flag": "🇬🇧",
+      "date": "2026-10-26",
+      "adaptedFrom": "ScienceDaily",
+      "title": "Scientists in China Find a Record-Breaking Giant Fungus They Call 'D-Rex'",
+      "summary": "Researchers have found an enormous fungus growing in China that is unlike anything seen before. The creature, nicknamed 'D-Rex', can grow up to about 50 centimetres tall and weigh nearly two and a half kilograms — making it the biggest fungus of its type ever recorded. Scientists believe its family history stretches back around 65 million years, to the time of the dinosaurs. Fungi are not plants or animals — they are their own special group of living things that help break down dead material in forests. This discovery reminds us that even today, nature can still surprise scientists with remarkable hidden creatures.",
+      "questions": {
+        "lv1": [
+          "Where was the giant fungus called 'D-Rex' discovered? (名為「D-Rex」的巨型真菌是在哪裡被發現的？)",
+          "About how tall can the 'D-Rex' fungus grow? (「D-Rex」真菌大約可以長多高？)"
+        ],
+        "lv2": [
+          "Why do scientists think this fungus is so special and important to study? (科學家為什麼認為這種真菌特別重要，值得深入研究？)",
+          "Fungi are different from both plants and animals. Can you explain what makes fungi a unique group of living things? (真菌與植物和動物都不同。你能解釋是什麼令真菌成為獨特的生物類別嗎？)"
+        ],
+        "lv3": [
+          "New species are being discovered every year, yet many are lost to extinction before we find them. What responsibilities do humans have to protect biodiversity, and how should governments balance this with economic development? (每年都有新物種被發現，但許多在被發現之前已滅絕。人類對保護生物多樣性有什麼責任？政府應如何在保育與經濟發展之間取得平衡？)",
+          "Some scientists argue that rainforests and other ecosystems should be valued for the undiscovered species they contain. Do you agree that unknown biodiversity has value? How should this influence environmental policy? (部分科學家認為，雨林和其他生態系統因其尚未被發現的物種而具有價值。你是否同意未被發現的生物多樣性具有價值？這應如何影響環保政策？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-27-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261027/s00002",
+      "flag": "🇭🇰",
+      "date": "2026-10-27",
+      "adaptedFrom": "明報",
+      "title": "中大研究發現針灸可幫助中老年人減輕耳鳴困擾",
+      "summary": "香港中文大學最新研究顯示，針灸療法對改善中老年人耳鳴問題有明顯效果。研究結果發現，接受針灸治療的患者當中，約有46%的人感到耳鳴響度下降。耳鳴是指耳朵持續聽到嗡嗡或嘶嘶聲響，卻沒有外在聲源，嚴重影響日常生活及睡眠質素。針灸是中國傳統醫學的一種治療方式，透過將幼細的針插入身體特定穴位以調理健康。這項研究為推廣中西醫結合治療提供了新的科學依據。",
+      "questions": {
+        "lv1": [
+          "什麼是耳鳴？",
+          "中大研究顯示，有多少比例的患者在接受針灸後感到耳鳴改善？"
+        ],
+        "lv2": [
+          "針灸屬於中醫療法，為什麼科學家仍然需要透過研究來證明它的效果？",
+          "耳鳴如何影響一個人的日常生活和健康？你認為這個問題需要重視嗎？"
+        ],
+        "lv3": [
+          "中醫與西醫的治療理念有所不同。你認為香港的醫療體系應該更積極將中醫納入主流醫療服務嗎？這樣做有什麼好處和挑戰？",
+          "有些人認為傳統醫學缺乏足夠的科學驗證，不應與西醫並列推廣；另一些人則認為療效才是最重要的標準。你支持哪種看法？請說明理由。"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-27-zh-2",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/section/20261027/s00013",
+      "flag": "🇭🇰",
+      "date": "2026-10-27",
+      "adaptedFrom": "明報",
+      "title": "大熊貓「冉冉」將赴比利時　延續中比兩國保育合作",
+      "summary": "今年是中國與比利時建立外交關係55周年。為慶祝這一重要時刻，中方計劃將9歲雌性大熊貓「冉冉」送往比利時，接替去年底因故提早回國的大熊貓「好好」。大熊貓是中國的國寶動物，全球數量極為稀少，被列為易危物種。中國多年來透過向多個國家借出大熊貓，推動國際保育合作及文化交流。「冉冉」的到訪將有助延續兩國在大熊貓繁殖與保護方面的共同研究工作。",
+      "questions": {
+        "lv1": [
+          "大熊貓「冉冉」將被送到哪個國家？",
+          "大熊貓「冉冉」今年幾歲？"
+        ],
+        "lv2": [
+          "中國為什麼要把大熊貓借給其他國家？這對保育工作有什麼幫助？",
+          "大熊貓被列為易危物種，代表牠們的數量正在減少。你認為人類應該如何保護瀕危動物？"
+        ],
+        "lv3": [
+          "有人認為「大熊貓外交」是中國的政治工具，而非純粹的保育行動。你認為這種說法公平嗎？國際保育合作是否應該與政治分開？",
+          "將珍稀動物借給外國展出，有助提高公眾保育意識，但也可能對動物造成壓力。你認為動物保育的最佳方式是什麼？應優先考慮動物福利還是教育公眾？"
+        ]
+      }
+    }
+  ]
+}
