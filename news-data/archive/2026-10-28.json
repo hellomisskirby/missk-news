@@ -1,0 +1,107 @@
+{
+  "generated": "2026-10-28T09:58:39.419141+08:00",
+  "date": "2026-10-28",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-10-28-en-1",
+      "lang": "en",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/news/top/science",
+      "flag": "🔬",
+      "date": "2026-10-28",
+      "adaptedFrom": "ScienceDaily",
+      "title": "Arctic Winter Sea Ice May Vanish Much Sooner Than Scientists Thought",
+      "summary": "Scientists have found that the frozen sea around the Arctic could disappear during winter months far earlier than anyone expected. Researchers used clues from the Earth's climate going back 6,000 years to build new models that predict ice loss happening at a much faster pace. Arctic sea ice is important because it reflects sunlight back into space, helping to keep our planet cool. If it melts too quickly, temperatures around the world could rise even faster. This discovery is a warning to governments and communities that urgent action on reducing greenhouse gas emissions is needed before conditions become much harder to reverse.",
+      "questions": {
+        "lv1": [
+          "Why is Arctic sea ice important for keeping our planet cool? (北極海冰對保持地球涼爽有什麼作用？)",
+          "What did scientists use to predict how fast Arctic ice would melt? (科學家用什麼方法預測北極冰融化的速度？)"
+        ],
+        "lv2": [
+          "Why might ice melting faster than expected make climate change even worse? (為什麼冰比預期融化得更快，可能會令氣候變化更加嚴重？)",
+          "How can studying the Earth's climate from thousands of years ago help scientists today? (研究數千年前的地球氣候，對現今的科學家有什麼幫助？)"
+        ],
+        "lv3": [
+          "If Arctic sea ice disappeared completely in winter, what effects might this have on people living in different parts of the world, and who do you think would be most affected? (如果北極冬季海冰完全消失，這對世界不同地方的人有什麼影響？你認為誰會受影響最大？)",
+          "Some people argue that economic development is more important than protecting the environment. Do you agree or disagree, and why? (有些人認為經濟發展比保護環境更重要。你同意還是不同意？為什麼？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-28-en-2",
+      "lang": "en",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/news/top/science",
+      "flag": "🔬",
+      "date": "2026-10-28",
+      "adaptedFrom": "ScienceDaily",
+      "title": "James Webb Telescope Spots Lava Planet That Keeps Its Atmosphere Against All Odds",
+      "summary": "Astronomers using the James Webb Space Telescope have spotted a remarkable planet covered in boiling lava, located 280 light-years from Earth. What surprised scientists most is that this extremely hot planet has managed to hold onto a thick layer of atmosphere, even though the intense heat from its nearby star should have blown it away billions of years ago. Researchers believe special gases or volcanic activity might be protecting the atmosphere. This discovery challenges what scientists thought they knew about how planets form and survive in harsh conditions, and it may change the way we search for life on other worlds in the future.",
+      "questions": {
+        "lv1": [
+          "How far away from Earth is the lava planet that scientists discovered? (科學家發現的熔岩星球距離地球有多遠？)",
+          "What tool did astronomers use to observe this unusual planet? (天文學家用什麼工具觀察這顆特別的星球？)"
+        ],
+        "lv2": [
+          "Why were scientists so surprised that this planet still has a thick atmosphere? (為什麼科學家對這顆星球仍然有厚厚的大氣層感到驚訝？)",
+          "How might the discovery of this lava planet change the way scientists search for life in outer space? (這顆熔岩星球的發現，可能如何改變科學家在外太空尋找生命的方式？)"
+        ],
+        "lv3": [
+          "Space exploration costs billions of dollars. Do you think governments should spend money on studying distant planets, or should that money be used to solve problems on Earth? Give reasons for your view. (太空探索花費數十億美元。你認為政府應該把錢花在研究遙遠的星球上，還是用來解決地球上的問題？請說明你的理由。)",
+          "This planet survives in conditions scientists thought were impossible for an atmosphere to exist. What does this tell us about our assumptions in science, and why is it important to keep questioning what we think we know? (這顆星球在科學家認為不可能維持大氣層的環境中存活。這告訴我們科學假設有什麼局限？為什麼不斷質疑我們所知道的事情很重要？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-28-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E5%9C%8B%E9%9A%9B/section/20261028/s00014",
+      "flag": "🇭🇰",
+      "date": "2026-10-28",
+      "adaptedFrom": "明報",
+      "title": "剛果伊波拉確診突破一萬宗　疫情持續引發國際關注",
+      "summary": "位於非洲中部的剛果民主共和國，伊波拉病毒確診個案於10月25日正式超越一萬宗，令全球衛生機構高度關注。伊波拉是一種非常危險的傳染病，患者可能出現高燒、出血等嚴重症狀，死亡率相當高。目前，國際醫療團隊正在當地協助控制疫情，並為居民接種疫苗。專家提醒，防止疫情擴散需要各國緊密合作，加強邊境衛生管理，避免病毒蔓延至其他地區。",
+      "questions": {
+        "lv1": [
+          "剛果民主共和國的伊波拉確診個案突破了多少宗？",
+          "伊波拉病毒會令患者出現哪些嚴重症狀？"
+        ],
+        "lv2": [
+          "為什麼防止伊波拉疫情擴散需要不同國家合作，而不是單靠一個國家處理？",
+          "接種疫苗在控制疫情方面扮演什麼角色？如果沒有疫苗，情況會有何不同？"
+        ],
+        "lv3": [
+          "有人認為富裕國家有責任提供資源幫助貧窮國家應對疾病爆發，你是否同意？為什麼？",
+          "疫情消息有時會引起社會上的恐慌和歧視。你認為傳媒在報道疫情時應該如何平衡公眾知情權與避免製造恐慌之間的矛盾？"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-28-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/2026/10/27/news/china/chief-executive-responds-to-inquiry-report/",
+      "flag": "🇭🇰",
+      "date": "2026-10-28",
+      "adaptedFrom": "星島日報",
+      "title": "宏福苑大火調查報告完成　特首承諾公布全面改革方案",
+      "summary": "香港行政長官李家超率領多名主要官員，就宏福苑大火獨立調查委員會的調查報告作出回應，宣布政府將連續兩日舉行記者會，詳細說明改革計劃。報告完成後，政府承諾針對樓宇維修及消防安全的監管漏洞提出具體改善措施，同時就事件追究相關的刑事、行政及政治責任。今次大火奪去多條人命，社會各界期望當局認真回應，切實保障市民的居住安全。",
+      "questions": {
+        "lv1": [
+          "行政長官李家超就哪宗事件向公眾公布改革計劃？",
+          "政府表示會連續舉行幾日記者會，解釋改革詳情？"
+        ],
+        "lv2": [
+          "為什麼政府在大火發生後需要成立獨立調查委員會，而不是直接由相關部門自行調查？",
+          "改善樓宇維修及消防安全監管，對香港市民的日常生活有什麼重要意義？"
+        ],
+        "lv3": [
+          "當政府官員因失職而需要被問責時，你認為「刑事責任」、「行政責任」和「政治責任」三者有何分別？哪種問責方式對社會最有意義？",
+          "有意見認為，香港部分舊式住宅大廈的消防設施嚴重不足，卻因為業主無力負擔維修費用而難以改善。你認為政府、業主和社會各方應如何分擔責任，解決這個問題？"
+        ]
+      }
+    }
+  ]
+}
