@@ -1,105 +1,105 @@
 {
-  "generated": "2026-10-28T09:58:39.419141+08:00",
-  "date": "2026-10-28",
+  "generated": "2026-10-29T10:02:27.387835+08:00",
+  "date": "2026-10-29",
   "count": 4,
   "articles": [
     {
-      "id": "2026-10-28-en-1",
+      "id": "2026-10-29-en-1",
       "lang": "en",
-      "source": "ScienceDaily",
-      "sourceUrl": "https://www.sciencedaily.com/news/top/science",
-      "flag": "🔬",
-      "date": "2026-10-28",
-      "adaptedFrom": "ScienceDaily",
-      "title": "Arctic Winter Sea Ice May Vanish Much Sooner Than Scientists Thought",
-      "summary": "Scientists have found that the frozen sea around the Arctic could disappear during winter months far earlier than anyone expected. Researchers used clues from the Earth's climate going back 6,000 years to build new models that predict ice loss happening at a much faster pace. Arctic sea ice is important because it reflects sunlight back into space, helping to keep our planet cool. If it melts too quickly, temperatures around the world could rise even faster. This discovery is a warning to governments and communities that urgent action on reducing greenhouse gas emissions is needed before conditions become much harder to reverse.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.businesstoday.com.my/2026/10/29/samsung-posts-record-us-80-billion-profit-on-ai-chip-boom/",
+      "flag": "🇬🇧",
+      "date": "2026-10-29",
+      "adaptedFrom": "Reuters",
+      "title": "Samsung Earns Record Profits Thanks to Huge Demand for AI Chips",
+      "summary": "South Korean technology giant Samsung Electronics has announced its biggest-ever quarterly profit, driven by soaring global demand for artificial intelligence chips. The company earned around US$80 billion in operating profit between July and September this year — nearly nine times more than it made during the same period last year. Samsung, which is the world's largest maker of memory chips, also warned that a shortage of semiconductor supplies is expected to get worse in the coming year. The results show just how important AI technology has become for the global electronics industry.",
       "questions": {
         "lv1": [
-          "Why is Arctic sea ice important for keeping our planet cool? (北極海冰對保持地球涼爽有什麼作用？)",
-          "What did scientists use to predict how fast Arctic ice would melt? (科學家用什麼方法預測北極冰融化的速度？)"
+          "Which company made a record profit because of AI chips? (哪間公司因為人工智能晶片而獲得破紀錄的利潤？)",
+          "Where is Samsung Electronics headquartered? (三星電子的總部在哪個國家？)"
         ],
         "lv2": [
-          "Why might ice melting faster than expected make climate change even worse? (為什麼冰比預期融化得更快，可能會令氣候變化更加嚴重？)",
-          "How can studying the Earth's climate from thousands of years ago help scientists today? (研究數千年前的地球氣候，對現今的科學家有什麼幫助？)"
+          "Why do you think demand for AI chips has increased so much in recent years? (你認為近年來對人工智能晶片的需求為何大幅增加？)",
+          "What might happen to technology products if there is a shortage of semiconductor chips next year? (如果明年半導體晶片短缺，科技產品可能會受到什麼影響？)"
         ],
         "lv3": [
-          "If Arctic sea ice disappeared completely in winter, what effects might this have on people living in different parts of the world, and who do you think would be most affected? (如果北極冬季海冰完全消失，這對世界不同地方的人有什麼影響？你認為誰會受影響最大？)",
-          "Some people argue that economic development is more important than protecting the environment. Do you agree or disagree, and why? (有些人認為經濟發展比保護環境更重要。你同意還是不同意？為什麼？)"
+          "Some people worry that a small number of companies control most of the world's chip supply. Do you think this is a problem? Who might be affected and how? (有人擔心全球晶片供應集中在少數公司手中，你認為這是否一個問題？哪些人可能受到影響？)",
+          "AI chips use a lot of electricity and natural resources to produce. Do you think the benefits of AI technology outweigh its environmental costs? Explain your view. (生產人工智能晶片需要大量電力和天然資源，你認為人工智能技術的好處是否超過其對環境的代價？請說明你的觀點。)"
         ]
       }
     },
     {
-      "id": "2026-10-28-en-2",
+      "id": "2026-10-29-en-2",
       "lang": "en",
-      "source": "ScienceDaily",
-      "sourceUrl": "https://www.sciencedaily.com/news/top/science",
-      "flag": "🔬",
-      "date": "2026-10-28",
-      "adaptedFrom": "ScienceDaily",
-      "title": "James Webb Telescope Spots Lava Planet That Keeps Its Atmosphere Against All Odds",
-      "summary": "Astronomers using the James Webb Space Telescope have spotted a remarkable planet covered in boiling lava, located 280 light-years from Earth. What surprised scientists most is that this extremely hot planet has managed to hold onto a thick layer of atmosphere, even though the intense heat from its nearby star should have blown it away billions of years ago. Researchers believe special gases or volcanic activity might be protecting the atmosphere. This discovery challenges what scientists thought they knew about how planets form and survive in harsh conditions, and it may change the way we search for life on other worlds in the future.",
+      "source": "The Standard",
+      "sourceUrl": "https://www.thestandard.com.hk/news/article/346843/Morning-Recap-October-29-2026",
+      "flag": "🇬🇧",
+      "date": "2026-10-29",
+      "adaptedFrom": "The Standard",
+      "title": "Deadly Train Crash in Spain Leaves Over 60 People Dead",
+      "summary": "A serious train accident in Spain has killed at least 64 people, making it one of the country's worst rail disasters in recent years. Officials say a train was incorrectly instructed to continue moving even though a technical fault had already caused all services on the line to stop. Spain's transport minister confirmed that the train was sent forward by mistake. The tragedy has raised urgent questions about railway safety systems and how human errors can occur even when automatic fail-safes are in place. Investigations are ongoing to find out exactly what went wrong.",
       "questions": {
         "lv1": [
-          "How far away from Earth is the lava planet that scientists discovered? (科學家發現的熔岩星球距離地球有多遠？)",
-          "What tool did astronomers use to observe this unusual planet? (天文學家用什麼工具觀察這顆特別的星球？)"
+          "How many people died in the train crash in Spain? (西班牙的火車意外造成多少人死亡？)",
+          "What caused the train to crash, according to officials? (根據官員所說，火車意外的原因是什麼？)"
         ],
         "lv2": [
-          "Why were scientists so surprised that this planet still has a thick atmosphere? (為什麼科學家對這顆星球仍然有厚厚的大氣層感到驚訝？)",
-          "How might the discovery of this lava planet change the way scientists search for life in outer space? (這顆熔岩星球的發現，可能如何改變科學家在外太空尋找生命的方式？)"
+          "Why is it important for trains and other transport systems to have strong safety checks before moving? (為什麼火車和其他交通工具在行駛前要有嚴格的安全檢查？)",
+          "How might technology help prevent similar accidents from happening in the future? (科技可以如何幫助防止類似意外在將來再次發生？)"
         ],
         "lv3": [
-          "Space exploration costs billions of dollars. Do you think governments should spend money on studying distant planets, or should that money be used to solve problems on Earth? Give reasons for your view. (太空探索花費數十億美元。你認為政府應該把錢花在研究遙遠的星球上，還是用來解決地球上的問題？請說明你的理由。)",
-          "This planet survives in conditions scientists thought were impossible for an atmosphere to exist. What does this tell us about our assumptions in science, and why is it important to keep questioning what we think we know? (這顆星球在科學家認為不可能維持大氣層的環境中存活。這告訴我們科學假設有什麼局限？為什麼不斷質疑我們所知道的事情很重要？)"
+          "When a transport accident happens due to human error, who should be held responsible — the individual worker, the company, or the government? Discuss different perspectives. (當運輸意外因人為失誤而發生時，誰應該負責——個別員工、公司還是政府？請討論不同角度。)",
+          "Some argue that fully automated transport systems would be safer than ones operated by humans. Do you agree? What are the potential risks of removing humans from control entirely? (有人認為全自動交通系統比人工操作更安全，你是否同意？完全移除人工控制有哪些潛在風險？)"
         ]
       }
     },
     {
-      "id": "2026-10-28-zh-1",
+      "id": "2026-10-29-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/pns/%E5%9C%8B%E9%9A%9B/section/20261028/s00014",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261029/s00002",
       "flag": "🇭🇰",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "adaptedFrom": "明報",
-      "title": "剛果伊波拉確診突破一萬宗　疫情持續引發國際關注",
-      "summary": "位於非洲中部的剛果民主共和國，伊波拉病毒確診個案於10月25日正式超越一萬宗，令全球衛生機構高度關注。伊波拉是一種非常危險的傳染病，患者可能出現高燒、出血等嚴重症狀，死亡率相當高。目前，國際醫療團隊正在當地協助控制疫情，並為居民接種疫苗。專家提醒，防止疫情擴散需要各國緊密合作，加強邊境衛生管理，避免病毒蔓延至其他地區。",
+      "title": "科大籌建香港第三間醫學院　目標2030年前聘百名全職教員",
+      "summary": "香港科技大學正積極籌建本港第三所醫學院，校方表示將於2030年前招聘100名全職教員，並向全球各地物色人才。校長葉玉如強調，科大並非針對性挖角，而是廣泛尋求具備不同專長的學者加盟。新醫學院將在清水灣校園興建一幢八層高、佔地6000平方米的教學大樓，樓頂更設有無人機降落點，融合創新科技。此舉旨在培育更多本地醫療人才，配合香港長遠的醫療發展需要。",
       "questions": {
         "lv1": [
-          "剛果民主共和國的伊波拉確診個案突破了多少宗？",
-          "伊波拉病毒會令患者出現哪些嚴重症狀？"
+          "科大計劃在哪一年前聘請100名全職教員？",
+          "科大的新醫學院大樓有多少層？"
         ],
         "lv2": [
-          "為什麼防止伊波拉疫情擴散需要不同國家合作，而不是單靠一個國家處理？",
-          "接種疫苗在控制疫情方面扮演什麼角色？如果沒有疫苗，情況會有何不同？"
+          "為什麼香港需要籌建第三所醫學院？多培養醫療人才對社會有什麼好處？",
+          "新醫學大樓設有無人機降落點，你認為無人機在醫療方面可以有什麼用途？"
         ],
         "lv3": [
-          "有人認為富裕國家有責任提供資源幫助貧窮國家應對疾病爆發，你是否同意？為什麼？",
-          "疫情消息有時會引起社會上的恐慌和歧視。你認為傳媒在報道疫情時應該如何平衡公眾知情權與避免製造恐慌之間的矛盾？"
+          "有意見認為，香港各大學爭相向外地招聘學者，可能令本地培訓出來的人才難以獲得晉升機會。你認為大學在全球招聘人才時，應如何平衡本地與外來人才的比例？",
+          "醫學院的成立需要大量資源，包括師資、設備和資金。你認為政府和大學各自應承擔什麼責任，以確保醫學教育的質素和公平性？"
         ]
       }
     },
     {
-      "id": "2026-10-28-zh-2",
+      "id": "2026-10-29-zh-2",
       "lang": "zh",
-      "source": "星島日報",
-      "sourceUrl": "https://www.singtaousa.com/2026/10/27/news/china/chief-executive-responds-to-inquiry-report/",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/section/20261029/s00005",
       "flag": "🇭🇰",
-      "date": "2026-10-28",
-      "adaptedFrom": "星島日報",
-      "title": "宏福苑大火調查報告完成　特首承諾公布全面改革方案",
-      "summary": "香港行政長官李家超率領多名主要官員，就宏福苑大火獨立調查委員會的調查報告作出回應，宣布政府將連續兩日舉行記者會，詳細說明改革計劃。報告完成後，政府承諾針對樓宇維修及消防安全的監管漏洞提出具體改善措施，同時就事件追究相關的刑事、行政及政治責任。今次大火奪去多條人命，社會各界期望當局認真回應，切實保障市民的居住安全。",
+      "date": "2026-10-29",
+      "adaptedFrom": "明報",
+      "title": "英國政府呼籲市民儲備三天物資　罐頭食品及收音機等搶購一空",
+      "summary": "英國政府近日推出名為「準備好」（Be Ready）的全國宣傳運動，呼籲市民自行儲備至少可維持三天生活的基本物資，包括罐頭食品、樽裝水、收音機及電筒等。消息一出，上述物品的銷量隨即急升，部分商店更出現缺貨情況。政府此舉旨在提升市民的緊急應變意識，讓大眾在突發事故或天災發生時能夠自保。有市民表示支持，亦有人擔心此舉令社會過度恐慌。",
       "questions": {
         "lv1": [
-          "行政長官李家超就哪宗事件向公眾公布改革計劃？",
-          "政府表示會連續舉行幾日記者會，解釋改革詳情？"
+          "英國政府建議市民儲備足夠多少天的物資？",
+          "英國政府的宣傳運動叫什麼名字？"
         ],
         "lv2": [
-          "為什麼政府在大火發生後需要成立獨立調查委員會，而不是直接由相關部門自行調查？",
-          "改善樓宇維修及消防安全監管，對香港市民的日常生活有什麼重要意義？"
+          "為什麼政府會建議市民儲備緊急物資？有哪些情況可能需要用到這些物資？",
+          "除了罐頭食品和水，你認為緊急情況下還有哪些物品是必需品？原因是什麼？"
         ],
         "lv3": [
-          "當政府官員因失職而需要被問責時，你認為「刑事責任」、「行政責任」和「政治責任」三者有何分別？哪種問責方式對社會最有意義？",
-          "有意見認為，香港部分舊式住宅大廈的消防設施嚴重不足，卻因為業主無力負擔維修費用而難以改善。你認為政府、業主和社會各方應如何分擔責任，解決這個問題？"
+          "有人認為政府呼籲市民儲糧是負責任的做法，但也有人擔心此舉會引發社會恐慌和搶購風潮。你認為政府應如何在提升備災意識和避免製造恐慌之間取得平衡？",
+          "個人備災責任與政府提供緊急支援的責任，兩者之間應如何分工？政府是否有責任確保所有市民（包括貧困家庭）都有能力儲備足夠物資？"
         ]
       }
     }

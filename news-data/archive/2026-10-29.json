@@ -1,0 +1,107 @@
+{
+  "generated": "2026-10-29T10:02:27.387835+08:00",
+  "date": "2026-10-29",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-10-29-en-1",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://www.businesstoday.com.my/2026/10/29/samsung-posts-record-us-80-billion-profit-on-ai-chip-boom/",
+      "flag": "🇬🇧",
+      "date": "2026-10-29",
+      "adaptedFrom": "Reuters",
+      "title": "Samsung Earns Record Profits Thanks to Huge Demand for AI Chips",
+      "summary": "South Korean technology giant Samsung Electronics has announced its biggest-ever quarterly profit, driven by soaring global demand for artificial intelligence chips. The company earned around US$80 billion in operating profit between July and September this year — nearly nine times more than it made during the same period last year. Samsung, which is the world's largest maker of memory chips, also warned that a shortage of semiconductor supplies is expected to get worse in the coming year. The results show just how important AI technology has become for the global electronics industry.",
+      "questions": {
+        "lv1": [
+          "Which company made a record profit because of AI chips? (哪間公司因為人工智能晶片而獲得破紀錄的利潤？)",
+          "Where is Samsung Electronics headquartered? (三星電子的總部在哪個國家？)"
+        ],
+        "lv2": [
+          "Why do you think demand for AI chips has increased so much in recent years? (你認為近年來對人工智能晶片的需求為何大幅增加？)",
+          "What might happen to technology products if there is a shortage of semiconductor chips next year? (如果明年半導體晶片短缺，科技產品可能會受到什麼影響？)"
+        ],
+        "lv3": [
+          "Some people worry that a small number of companies control most of the world's chip supply. Do you think this is a problem? Who might be affected and how? (有人擔心全球晶片供應集中在少數公司手中，你認為這是否一個問題？哪些人可能受到影響？)",
+          "AI chips use a lot of electricity and natural resources to produce. Do you think the benefits of AI technology outweigh its environmental costs? Explain your view. (生產人工智能晶片需要大量電力和天然資源，你認為人工智能技術的好處是否超過其對環境的代價？請說明你的觀點。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-29-en-2",
+      "lang": "en",
+      "source": "The Standard",
+      "sourceUrl": "https://www.thestandard.com.hk/news/article/346843/Morning-Recap-October-29-2026",
+      "flag": "🇬🇧",
+      "date": "2026-10-29",
+      "adaptedFrom": "The Standard",
+      "title": "Deadly Train Crash in Spain Leaves Over 60 People Dead",
+      "summary": "A serious train accident in Spain has killed at least 64 people, making it one of the country's worst rail disasters in recent years. Officials say a train was incorrectly instructed to continue moving even though a technical fault had already caused all services on the line to stop. Spain's transport minister confirmed that the train was sent forward by mistake. The tragedy has raised urgent questions about railway safety systems and how human errors can occur even when automatic fail-safes are in place. Investigations are ongoing to find out exactly what went wrong.",
+      "questions": {
+        "lv1": [
+          "How many people died in the train crash in Spain? (西班牙的火車意外造成多少人死亡？)",
+          "What caused the train to crash, according to officials? (根據官員所說，火車意外的原因是什麼？)"
+        ],
+        "lv2": [
+          "Why is it important for trains and other transport systems to have strong safety checks before moving? (為什麼火車和其他交通工具在行駛前要有嚴格的安全檢查？)",
+          "How might technology help prevent similar accidents from happening in the future? (科技可以如何幫助防止類似意外在將來再次發生？)"
+        ],
+        "lv3": [
+          "When a transport accident happens due to human error, who should be held responsible — the individual worker, the company, or the government? Discuss different perspectives. (當運輸意外因人為失誤而發生時，誰應該負責——個別員工、公司還是政府？請討論不同角度。)",
+          "Some argue that fully automated transport systems would be safer than ones operated by humans. Do you agree? What are the potential risks of removing humans from control entirely? (有人認為全自動交通系統比人工操作更安全，你是否同意？完全移除人工控制有哪些潛在風險？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-29-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261029/s00002",
+      "flag": "🇭🇰",
+      "date": "2026-10-29",
+      "adaptedFrom": "明報",
+      "title": "科大籌建香港第三間醫學院　目標2030年前聘百名全職教員",
+      "summary": "香港科技大學正積極籌建本港第三所醫學院，校方表示將於2030年前招聘100名全職教員，並向全球各地物色人才。校長葉玉如強調，科大並非針對性挖角，而是廣泛尋求具備不同專長的學者加盟。新醫學院將在清水灣校園興建一幢八層高、佔地6000平方米的教學大樓，樓頂更設有無人機降落點，融合創新科技。此舉旨在培育更多本地醫療人才，配合香港長遠的醫療發展需要。",
+      "questions": {
+        "lv1": [
+          "科大計劃在哪一年前聘請100名全職教員？",
+          "科大的新醫學院大樓有多少層？"
+        ],
+        "lv2": [
+          "為什麼香港需要籌建第三所醫學院？多培養醫療人才對社會有什麼好處？",
+          "新醫學大樓設有無人機降落點，你認為無人機在醫療方面可以有什麼用途？"
+        ],
+        "lv3": [
+          "有意見認為，香港各大學爭相向外地招聘學者，可能令本地培訓出來的人才難以獲得晉升機會。你認為大學在全球招聘人才時，應如何平衡本地與外來人才的比例？",
+          "醫學院的成立需要大量資源，包括師資、設備和資金。你認為政府和大學各自應承擔什麼責任，以確保醫學教育的質素和公平性？"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-29-zh-2",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/section/20261029/s00005",
+      "flag": "🇭🇰",
+      "date": "2026-10-29",
+      "adaptedFrom": "明報",
+      "title": "英國政府呼籲市民儲備三天物資　罐頭食品及收音機等搶購一空",
+      "summary": "英國政府近日推出名為「準備好」（Be Ready）的全國宣傳運動，呼籲市民自行儲備至少可維持三天生活的基本物資，包括罐頭食品、樽裝水、收音機及電筒等。消息一出，上述物品的銷量隨即急升，部分商店更出現缺貨情況。政府此舉旨在提升市民的緊急應變意識，讓大眾在突發事故或天災發生時能夠自保。有市民表示支持，亦有人擔心此舉令社會過度恐慌。",
+      "questions": {
+        "lv1": [
+          "英國政府建議市民儲備足夠多少天的物資？",
+          "英國政府的宣傳運動叫什麼名字？"
+        ],
+        "lv2": [
+          "為什麼政府會建議市民儲備緊急物資？有哪些情況可能需要用到這些物資？",
+          "除了罐頭食品和水，你認為緊急情況下還有哪些物品是必需品？原因是什麼？"
+        ],
+        "lv3": [
+          "有人認為政府呼籲市民儲糧是負責任的做法，但也有人擔心此舉會引發社會恐慌和搶購風潮。你認為政府應如何在提升備災意識和避免製造恐慌之間取得平衡？",
+          "個人備災責任與政府提供緊急支援的責任，兩者之間應如何分工？政府是否有責任確保所有市民（包括貧困家庭）都有能力儲備足夠物資？"
+        ]
+      }
+    }
+  ]
+}
