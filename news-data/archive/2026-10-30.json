@@ -1,0 +1,107 @@
+{
+  "generated": "2026-10-30T10:20:00.992746+08:00",
+  "date": "2026-10-30",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-10-30-en-1",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://tech.yahoo.com/computing/articles/apple-readies-high-end-macbook-185755542.html",
+      "flag": "🇬🇧",
+      "date": "2026-10-30",
+      "adaptedFrom": "Reuters",
+      "title": "Apple Plans Its First MacBook Pro with a Touchscreen",
+      "summary": "Technology giant Apple is getting ready to release a brand-new version of its popular MacBook Pro laptop that will feature a touch-sensitive screen — a first for the MacBook line. According to a report by Bloomberg News, the updated computer could arrive as early as late 2026 or in early 2027. The new design is also expected to include a hole-punch camera cutout at the top of the display, similar to what many smartphones already use. Apple has not yet made an official announcement about the product. If the plan goes ahead, it would mark a major step forward for Apple's laptop computers, which have never had touchscreen technology before.",
+      "questions": {
+        "lv1": [
+          "What is special about the new MacBook Pro that Apple is planning to make? (蘋果計劃推出的新款MacBook Pro有什麼特別之處？)",
+          "When might the new touchscreen MacBook Pro be released? (新款觸控式MacBook Pro可能在什麼時候推出？)"
+        ],
+        "lv2": [
+          "Why do you think Apple has waited so long before adding a touchscreen to its laptop computers? (你認為蘋果為何等了這麼久才為其手提電腦加入觸控屏幕功能？)",
+          "How might a touchscreen change the way students use a laptop for schoolwork? (觸控屏幕會如何改變學生使用手提電腦做功課的方式？)"
+        ],
+        "lv3": [
+          "Some people argue that touchscreens on laptops are unnecessary and make devices more expensive. Do you agree or disagree? Explain your reasoning with examples. (有人認為手提電腦上的觸控屏幕並不必要，只會令設備更昂貴。你同意還是不同意？請用例子解釋你的想法。)",
+          "As technology companies keep adding new features to devices, who benefits the most — consumers, companies, or society as a whole? Discuss from multiple perspectives. (隨著科技公司不斷為設備加入新功能，誰能獲益最多——消費者、公司，還是整個社會？請從多個角度討論。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-30-en-2",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://theprint.in/world/spain-train-crash-survivor-recalls-scenes-of-devastation-as-accident-unfolded/3085617/",
+      "flag": "🇬🇧",
+      "date": "2026-10-30",
+      "adaptedFrom": "Reuters",
+      "title": "Spain's Deadly High-Speed Train Crash: What Happened and Why",
+      "summary": "A serious accident on Spain's high-speed railway killed 69 people and injured more than 100 others after two trains collided near the town of Urda in Toledo province. The crash occurred when one train operated by Renfe struck another train from behind. Investigators believe a railway controller gave an incorrect order that allowed the Renfe train to continue moving at normal speed even after a technical fault had been detected. Spain declared three days of national mourning following the disaster. Survivors described seeing overturned and burnt carriages. It was the third deadly incident on Spain's rail network in 2026, raising serious concerns about railway safety across the country.",
+      "questions": {
+        "lv1": [
+          "How many people were killed in the Spain train crash? (西班牙火車相撞事故造成多少人死亡？)",
+          "What did Spain do to remember the people who died in the crash? (西班牙如何悼念在事故中遇難的人？)"
+        ],
+        "lv2": [
+          "Why is it important for railway controllers to give correct instructions to train drivers? (為什麼鐵路控制員向列車司機發出正確指示是非常重要的？)",
+          "This was the third deadly train accident in Spain in 2026. What does this suggest about the country's railway safety system? (這是西班牙在2026年發生的第三宗致命火車事故。這對該國的鐵路安全系統有什麼啟示？)"
+        ],
+        "lv3": [
+          "When a transport accident happens due to human error, who should be held responsible — the individual worker, the management, or the government? Can you think of arguments for all three sides? (當交通事故因人為錯誤而發生時，誰應該承擔責任——個別員工、管理層，還是政府？你能為三方各提出論點嗎？)",
+          "Some countries are investing heavily in fully automated trains without human drivers. Would this make train travel safer, or could it create new risks? Evaluate the benefits and drawbacks. (部分國家正大力投資全自動化列車，無需人類司機。這會令鐵路旅行更安全，還是可能帶來新的風險？請評估其利與弊。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-30-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/article/20261030/s00001/1793299489444/%E4%BD%95%E6%B0%B8%E8%B3%A2%E5%95%8F%E8%B2%AC%E8%AB%8B%E8%BE%AD-%E7%89%B9%E9%A6%96%E7%8E%87%E5%AE%98%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89-3%E6%B6%89%E4%BA%8B%E5%B1%80%E9%95%B7%E6%9C%AA%E4%B8%8B%E5%8F%B0-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E6%88%91%E5%80%8B%E4%BA%BA%E6%94%BF%E6%B2%BB%E6%B1%BA%E5%AE%9A",
+      "flag": "🇭🇰",
+      "date": "2026-10-30",
+      "adaptedFrom": "明報",
+      "title": "宏福苑火災報告出爐：房屋局長辭職，特首率官員集體鞠躬道歉",
+      "summary": "香港政府就宏福苑大火公布逾千頁的獨立調查報告。大火奪去168條人命，報告點名批評房屋局獨立審查組、屋宇署、消防處及勞工處等部門存在系統性失誤。行政長官李家超帶領7名官員在記者會上集體鞠躬約10秒道歉，是香港回歸以來首次。房屋局長何永賢承擔政治責任，已於前日辭職，職位由副財政司長黃偉綸署任。社會各界對問責安排反應不一，有遺屬認為一人辭職未能令人信服。",
+      "questions": {
+        "lv1": [
+          "宏福苑大火奪去多少人的生命？",
+          "哪位官員因宏福苑大火而辭職？"
+        ],
+        "lv2": [
+          "報告點名批評了哪些政府部門？這些部門的失誤可能造成什麼嚴重後果？",
+          "為什麼特首帶領官員集體鞠躬道歉被認為是一件不尋常的事？"
+        ],
+        "lv3": [
+          "有遺屬認為只有一名官員辭職並不足夠。你認為政府在重大事故後應如何問責，才算公平合理？請從不同角度分析。",
+          "政府部門的監管失誤可能導致生命損失。你認為應如何改善政府部門之間的監管制度，以防止類似悲劇再次發生？"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-30-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
+      "flag": "🇭🇰",
+      "date": "2026-10-30",
+      "adaptedFrom": "星島日報",
+      "title": "RSV病毒活躍度上升！醫學會提醒長者嬰幼兒盡早接種疫苗",
+      "summary": "香港中華醫學會指出，本港呼吸道合胞病毒（RSV）的感染人數較去年同期明顯增加。RSV是一種常見的呼吸道病毒，嬰幼兒及長者感染後較容易出現嚴重症狀。由於現時正值流感季節，若同時受兩種病毒感染，患者出現重症的風險會大幅提高。醫學會呼籲市民，尤其是高危人士，盡早安排接種相關疫苗，以減低感染及重症的風險，保障個人及家人的健康。",
+      "questions": {
+        "lv1": [
+          "RSV是什麼類型的病毒？",
+          "哪些人較容易因感染RSV而出現嚴重症狀？"
+        ],
+        "lv2": [
+          "為什麼在流感季節同時感染RSV和流感病毒會特別危險？",
+          "醫學會呼籲市民接種疫苗，你認為接種疫苗對個人和社會有什麼好處？"
+        ],
+        "lv3": [
+          "有些人選擇不接種疫苗，理由包括擔心副作用或認為沒有必要。你認為政府應否強制某些高危人士接種疫苗？請從個人自由及公共衛生兩個角度討論。",
+          "每逢季節交替，呼吸道疾病便會增加。除了接種疫苗，社會上還可以採取哪些措施來減少傳染病的擴散？請提出具體建議並加以評估。"
+        ]
+      }
+    }
+  ]
+}
