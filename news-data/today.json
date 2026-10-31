@@ -1,105 +1,105 @@
 {
-  "generated": "2026-10-30T10:20:00.992746+08:00",
-  "date": "2026-10-30",
+  "generated": "2026-10-31T09:57:54.084924+08:00",
+  "date": "2026-10-31",
   "count": 4,
   "articles": [
     {
-      "id": "2026-10-30-en-1",
+      "id": "2026-10-31-en-1",
       "lang": "en",
-      "source": "Reuters",
-      "sourceUrl": "https://tech.yahoo.com/computing/articles/apple-readies-high-end-macbook-185755542.html",
+      "source": "The Standard / Reuters",
+      "sourceUrl": "https://www.thestandard.com.hk/news/article/346985/Morning-Recap-October-30-2026",
       "flag": "🇬🇧",
-      "date": "2026-10-30",
-      "adaptedFrom": "Reuters",
-      "title": "Apple Plans Its First MacBook Pro with a Touchscreen",
-      "summary": "Technology giant Apple is getting ready to release a brand-new version of its popular MacBook Pro laptop that will feature a touch-sensitive screen — a first for the MacBook line. According to a report by Bloomberg News, the updated computer could arrive as early as late 2026 or in early 2027. The new design is also expected to include a hole-punch camera cutout at the top of the display, similar to what many smartphones already use. Apple has not yet made an official announcement about the product. If the plan goes ahead, it would mark a major step forward for Apple's laptop computers, which have never had touchscreen technology before.",
+      "date": "2026-10-31",
+      "adaptedFrom": "The Standard (Hong Kong)",
+      "title": "Samsung Said to Be Leaving Hong Kong Home Appliance Market",
+      "summary": "Reports say that Samsung, the big South Korean electronics company, is planning to stop selling home appliances in Hong Kong. This comes after the company already pulled out of the mainland China market for home appliances. Products like refrigerators and washing machines under the Samsung brand may no longer be available locally. This move is part of a bigger business strategy by Samsung to focus on markets where it can compete more successfully. It raises questions about what choices Hong Kong shoppers will have for household products in the future, and how other brands may fill the gap left behind.",
       "questions": {
         "lv1": [
-          "What is special about the new MacBook Pro that Apple is planning to make? (蘋果計劃推出的新款MacBook Pro有什麼特別之處？)",
-          "When might the new touchscreen MacBook Pro be released? (新款觸控式MacBook Pro可能在什麼時候推出？)"
+          "Which company is reported to be leaving the Hong Kong home appliance market? (哪家公司據報將退出香港家用電器市場？)",
+          "Where is Samsung originally from? (三星公司來自哪個國家？)"
         ],
         "lv2": [
-          "Why do you think Apple has waited so long before adding a touchscreen to its laptop computers? (你認為蘋果為何等了這麼久才為其手提電腦加入觸控屏幕功能？)",
-          "How might a touchscreen change the way students use a laptop for schoolwork? (觸控屏幕會如何改變學生使用手提電腦做功課的方式？)"
+          "Why might a big company like Samsung decide to leave a market like Hong Kong? (為什麼像三星這樣的大公司可能決定退出香港市場？)",
+          "How could Samsung's exit affect Hong Kong consumers who want to buy home appliances? (三星退出香港市場，對想購買家電的香港消費者有什麼影響？)"
         ],
         "lv3": [
-          "Some people argue that touchscreens on laptops are unnecessary and make devices more expensive. Do you agree or disagree? Explain your reasoning with examples. (有人認為手提電腦上的觸控屏幕並不必要，只會令設備更昂貴。你同意還是不同意？請用例子解釋你的想法。)",
-          "As technology companies keep adding new features to devices, who benefits the most — consumers, companies, or society as a whole? Discuss from multiple perspectives. (隨著科技公司不斷為設備加入新功能，誰能獲益最多——消費者、公司，還是整個社會？請從多個角度討論。)"
+          "When a major international brand withdraws from a market, who benefits and who loses out? Consider the perspectives of consumers, local retailers, and competing brands. (當一個國際大品牌退出某個市場，誰會受益，誰會受損？請考慮消費者、本地零售商和競爭品牌的不同角度。)",
+          "Should governments step in to ensure consumers always have a wide variety of product choices? What are the arguments for and against government involvement in business decisions? (政府是否應該介入，確保消費者永遠有多樣化的產品選擇？政府介入商業決策有哪些支持和反對的理由？)"
         ]
       }
     },
     {
-      "id": "2026-10-30-en-2",
+      "id": "2026-10-31-en-2",
       "lang": "en",
-      "source": "Reuters",
-      "sourceUrl": "https://theprint.in/world/spain-train-crash-survivor-recalls-scenes-of-devastation-as-accident-unfolded/3085617/",
+      "source": "Reuters / Business Recorder",
+      "sourceUrl": "https://www.brecorder.com/news/40446726/china-stocks-post-biggest-monthly-loss-on-ai-selloff",
       "flag": "🇬🇧",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "adaptedFrom": "Reuters",
-      "title": "Spain's Deadly High-Speed Train Crash: What Happened and Why",
-      "summary": "A serious accident on Spain's high-speed railway killed 69 people and injured more than 100 others after two trains collided near the town of Urda in Toledo province. The crash occurred when one train operated by Renfe struck another train from behind. Investigators believe a railway controller gave an incorrect order that allowed the Renfe train to continue moving at normal speed even after a technical fault had been detected. Spain declared three days of national mourning following the disaster. Survivors described seeing overturned and burnt carriages. It was the third deadly incident on Spain's rail network in 2026, raising serious concerns about railway safety across the country.",
+      "title": "Global Concerns Over AI Spending Shake Asian Stock Markets",
+      "summary": "Worries about how much money technology companies are spending on artificial intelligence (AI) caused stock markets in China and around the world to fall sharply this week. China's main stock index recorded its worst monthly drop in about ten years. Investors became nervous after big US technology firms like Amazon and Intel saw their share prices tumble because of huge AI costs. In contrast, Hong Kong's Hang Seng Index managed a small rise on the last day of October. This situation shows how decisions made by major technology companies in one country can quickly affect financial markets across the entire world.",
       "questions": {
         "lv1": [
-          "How many people were killed in the Spain train crash? (西班牙火車相撞事故造成多少人死亡？)",
-          "What did Spain do to remember the people who died in the crash? (西班牙如何悼念在事故中遇難的人？)"
+          "What technology topic caused stock markets to fall this week? (什麼科技話題導致本週股市下跌？)",
+          "Which index in Hong Kong actually went up slightly on October 31? (香港哪個指數在10月31日輕微上升？)"
         ],
         "lv2": [
-          "Why is it important for railway controllers to give correct instructions to train drivers? (為什麼鐵路控制員向列車司機發出正確指示是非常重要的？)",
-          "This was the third deadly train accident in Spain in 2026. What does this suggest about the country's railway safety system? (這是西班牙在2026年發生的第三宗致命火車事故。這對該國的鐵路安全系統有什麼啟示？)"
+          "Why would investors around the world get nervous about how much money tech companies spend on AI? (為什麼全球投資者會對科技公司在人工智能上的龐大開支感到擔憂？)",
+          "How can a drop in US technology stocks cause problems for stock markets in countries like China and Hong Kong? (美國科技股下跌，怎麼會對中國和香港等地的股市造成影響？)"
         ],
         "lv3": [
-          "When a transport accident happens due to human error, who should be held responsible — the individual worker, the management, or the government? Can you think of arguments for all three sides? (當交通事故因人為錯誤而發生時，誰應該承擔責任——個別員工、管理層，還是政府？你能為三方各提出論點嗎？)",
-          "Some countries are investing heavily in fully automated trains without human drivers. Would this make train travel safer, or could it create new risks? Evaluate the benefits and drawbacks. (部分國家正大力投資全自動化列車，無需人類司機。這會令鐵路旅行更安全，還是可能帶來新的風險？請評估其利與弊。)"
+          "AI is very expensive to develop. Do you think companies should keep spending huge amounts on AI even if it harms short-term profits? Argue from the perspective of both investors and society. (人工智能的研發成本極高。你認為企業是否應該繼續大力投資人工智能，即使這對短期利潤造成損害？請從投資者和社會大眾兩個角度進行論述。)",
+          "Some people say AI will create new jobs, while others fear it will destroy more jobs than it creates. Which view do you find more convincing, and why? (有人認為人工智能會創造新工作，也有人擔心它毀掉的工作崗位比創造的更多。你認為哪種觀點更具說服力？原因是什麼？)"
         ]
       }
     },
     {
-      "id": "2026-10-30-zh-1",
+      "id": "2026-10-31-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/article/20261030/s00001/1793299489444/%E4%BD%95%E6%B0%B8%E8%B3%A2%E5%95%8F%E8%B2%AC%E8%AB%8B%E8%BE%AD-%E7%89%B9%E9%A6%96%E7%8E%87%E5%AE%98%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89-3%E6%B6%89%E4%BA%8B%E5%B1%80%E9%95%B7%E6%9C%AA%E4%B8%8B%E5%8F%B0-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E6%88%91%E5%80%8B%E4%BA%BA%E6%94%BF%E6%B2%BB%E6%B1%BA%E5%AE%9A",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261030/s00002",
       "flag": "🇭🇰",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "adaptedFrom": "明報",
-      "title": "宏福苑火災報告出爐：房屋局長辭職，特首率官員集體鞠躬道歉",
-      "summary": "香港政府就宏福苑大火公布逾千頁的獨立調查報告。大火奪去168條人命，報告點名批評房屋局獨立審查組、屋宇署、消防處及勞工處等部門存在系統性失誤。行政長官李家超帶領7名官員在記者會上集體鞠躬約10秒道歉，是香港回歸以來首次。房屋局長何永賢承擔政治責任，已於前日辭職，職位由副財政司長黃偉綸署任。社會各界對問責安排反應不一，有遺屬認為一人辭職未能令人信服。",
+      "title": "香港博物館節開幕　「繽Fun嘉年華」帶市民玩轉文化",
+      "summary": "康文署「香港博物館節2026」於10月底正式揭幕，首個活動「繽Fun博物館嘉年華」於10月31日至11月1日在香港文化中心露天廣場舉行。活動重現昔日「掟銀幣」等傳統攤位遊戲，並設有菠蘿包黏土工作坊等體驗活動，讓市民以輕鬆有趣的方式認識香港歷史與文化。本次節日旨在推廣博物館文化，鼓勵不同年齡的市民走進博物館，探索本地歷史故事，增強對香港文化的認同感。",
       "questions": {
         "lv1": [
-          "宏福苑大火奪去多少人的生命？",
-          "哪位官員因宏福苑大火而辭職？"
+          "「繽Fun博物館嘉年華」在哪裡舉行？",
+          "活動中有哪種傳統遊戲可以玩？"
         ],
         "lv2": [
-          "報告點名批評了哪些政府部門？這些部門的失誤可能造成什麼嚴重後果？",
-          "為什麼特首帶領官員集體鞠躬道歉被認為是一件不尋常的事？"
+          "康文署為什麼要舉辦博物館節？這對香港市民有什麼好處？",
+          "博物館嘉年華以遊戲和工作坊吸引市民，你認為這種方式比傳統參觀展覽更有效嗎？為什麼？"
         ],
         "lv3": [
-          "有遺屬認為只有一名官員辭職並不足夠。你認為政府在重大事故後應如何問責，才算公平合理？請從不同角度分析。",
-          "政府部門的監管失誤可能導致生命損失。你認為應如何改善政府部門之間的監管制度，以防止類似悲劇再次發生？"
+          "有人認為香港年輕人對本地歷史和文化認識不足。你認同嗎？學校和政府各自應如何改善這個情況？",
+          "在數碼時代，虛擬博物館和實體博物館各有什麼優點和缺點？你認為哪種方式更能有效推廣文化教育？"
         ]
       }
     },
     {
-      "id": "2026-10-30-zh-2",
+      "id": "2026-10-31-zh-2",
       "lang": "zh",
       "source": "星島日報",
-      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
+      "sourceUrl": "https://www.singtaousa.com/2026/10/30/news/china/weeknd-kai-tak-scalper-arrest/",
       "flag": "🇭🇰",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "adaptedFrom": "星島日報",
-      "title": "RSV病毒活躍度上升！醫學會提醒長者嬰幼兒盡早接種疫苗",
-      "summary": "香港中華醫學會指出，本港呼吸道合胞病毒（RSV）的感染人數較去年同期明顯增加。RSV是一種常見的呼吸道病毒，嬰幼兒及長者感染後較容易出現嚴重症狀。由於現時正值流感季節，若同時受兩種病毒感染，患者出現重症的風險會大幅提高。醫學會呼籲市民，尤其是高危人士，盡早安排接種相關疫苗，以減低感染及重症的風險，保障個人及家人的健康。",
+      "title": "啟德體育園演唱會場外　警方拘捕黃牛票男子",
+      "summary": "加拿大歌手The Weeknd於10月30日及31日在啟德體育園主場館舉行壓軸演唱會，吸引大批歌迷到場。警方在場外展開打擊非法兜售門票行動，其間拘捕一名43歲持雙程證的內地男子。該男子涉嫌在承啟道附近向公眾兜售演唱會門票，違反逗留條件，現正被扣留調查。此事再次引起社會關注「黃牛票」問題，以及主辦單位與執法機關如何更有效保障真正歌迷的權益。",
       "questions": {
         "lv1": [
-          "RSV是什麼類型的病毒？",
-          "哪些人較容易因感染RSV而出現嚴重症狀？"
+          "警方在哪個地方附近拘捕了涉嫌兜售門票的男子？",
+          "被捕男子持甚麼證件來港？"
         ],
         "lv2": [
-          "為什麼在流感季節同時感染RSV和流感病毒會特別危險？",
-          "醫學會呼籲市民接種疫苗，你認為接種疫苗對個人和社會有什麼好處？"
+          "「黃牛票」對普通歌迷有什麼影響？為什麼警方要打擊這種行為？",
+          "你認為主辦單位可以採取哪些措施，減少「黃牛票」問題的出現？"
         ],
         "lv3": [
-          "有些人選擇不接種疫苗，理由包括擔心副作用或認為沒有必要。你認為政府應否強制某些高危人士接種疫苗？請從個人自由及公共衛生兩個角度討論。",
-          "每逢季節交替，呼吸道疾病便會增加。除了接種疫苗，社會上還可以採取哪些措施來減少傳染病的擴散？請提出具體建議並加以評估。"
+          "有人認為「黃牛票」只是市場供求的體現，政府不應過度干預；也有人認為這是不道德的行為，必須以法律手段禁止。你支持哪個立場？請提出理由。",
+          "大型演唱會為城市帶來經濟效益，但同時也可能引發交通擠塞、噪音及違規行為等問題。香港應如何在推動文娛活動與維護社區秩序之間取得平衡？"
         ]
       }
     }

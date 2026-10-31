@@ -1,0 +1,107 @@
+{
+  "generated": "2026-10-31T09:57:54.084924+08:00",
+  "date": "2026-10-31",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-10-31-en-1",
+      "lang": "en",
+      "source": "The Standard / Reuters",
+      "sourceUrl": "https://www.thestandard.com.hk/news/article/346985/Morning-Recap-October-30-2026",
+      "flag": "🇬🇧",
+      "date": "2026-10-31",
+      "adaptedFrom": "The Standard (Hong Kong)",
+      "title": "Samsung Said to Be Leaving Hong Kong Home Appliance Market",
+      "summary": "Reports say that Samsung, the big South Korean electronics company, is planning to stop selling home appliances in Hong Kong. This comes after the company already pulled out of the mainland China market for home appliances. Products like refrigerators and washing machines under the Samsung brand may no longer be available locally. This move is part of a bigger business strategy by Samsung to focus on markets where it can compete more successfully. It raises questions about what choices Hong Kong shoppers will have for household products in the future, and how other brands may fill the gap left behind.",
+      "questions": {
+        "lv1": [
+          "Which company is reported to be leaving the Hong Kong home appliance market? (哪家公司據報將退出香港家用電器市場？)",
+          "Where is Samsung originally from? (三星公司來自哪個國家？)"
+        ],
+        "lv2": [
+          "Why might a big company like Samsung decide to leave a market like Hong Kong? (為什麼像三星這樣的大公司可能決定退出香港市場？)",
+          "How could Samsung's exit affect Hong Kong consumers who want to buy home appliances? (三星退出香港市場，對想購買家電的香港消費者有什麼影響？)"
+        ],
+        "lv3": [
+          "When a major international brand withdraws from a market, who benefits and who loses out? Consider the perspectives of consumers, local retailers, and competing brands. (當一個國際大品牌退出某個市場，誰會受益，誰會受損？請考慮消費者、本地零售商和競爭品牌的不同角度。)",
+          "Should governments step in to ensure consumers always have a wide variety of product choices? What are the arguments for and against government involvement in business decisions? (政府是否應該介入，確保消費者永遠有多樣化的產品選擇？政府介入商業決策有哪些支持和反對的理由？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-31-en-2",
+      "lang": "en",
+      "source": "Reuters / Business Recorder",
+      "sourceUrl": "https://www.brecorder.com/news/40446726/china-stocks-post-biggest-monthly-loss-on-ai-selloff",
+      "flag": "🇬🇧",
+      "date": "2026-10-31",
+      "adaptedFrom": "Reuters",
+      "title": "Global Concerns Over AI Spending Shake Asian Stock Markets",
+      "summary": "Worries about how much money technology companies are spending on artificial intelligence (AI) caused stock markets in China and around the world to fall sharply this week. China's main stock index recorded its worst monthly drop in about ten years. Investors became nervous after big US technology firms like Amazon and Intel saw their share prices tumble because of huge AI costs. In contrast, Hong Kong's Hang Seng Index managed a small rise on the last day of October. This situation shows how decisions made by major technology companies in one country can quickly affect financial markets across the entire world.",
+      "questions": {
+        "lv1": [
+          "What technology topic caused stock markets to fall this week? (什麼科技話題導致本週股市下跌？)",
+          "Which index in Hong Kong actually went up slightly on October 31? (香港哪個指數在10月31日輕微上升？)"
+        ],
+        "lv2": [
+          "Why would investors around the world get nervous about how much money tech companies spend on AI? (為什麼全球投資者會對科技公司在人工智能上的龐大開支感到擔憂？)",
+          "How can a drop in US technology stocks cause problems for stock markets in countries like China and Hong Kong? (美國科技股下跌，怎麼會對中國和香港等地的股市造成影響？)"
+        ],
+        "lv3": [
+          "AI is very expensive to develop. Do you think companies should keep spending huge amounts on AI even if it harms short-term profits? Argue from the perspective of both investors and society. (人工智能的研發成本極高。你認為企業是否應該繼續大力投資人工智能，即使這對短期利潤造成損害？請從投資者和社會大眾兩個角度進行論述。)",
+          "Some people say AI will create new jobs, while others fear it will destroy more jobs than it creates. Which view do you find more convincing, and why? (有人認為人工智能會創造新工作，也有人擔心它毀掉的工作崗位比創造的更多。你認為哪種觀點更具說服力？原因是什麼？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-31-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261030/s00002",
+      "flag": "🇭🇰",
+      "date": "2026-10-31",
+      "adaptedFrom": "明報",
+      "title": "香港博物館節開幕　「繽Fun嘉年華」帶市民玩轉文化",
+      "summary": "康文署「香港博物館節2026」於10月底正式揭幕，首個活動「繽Fun博物館嘉年華」於10月31日至11月1日在香港文化中心露天廣場舉行。活動重現昔日「掟銀幣」等傳統攤位遊戲，並設有菠蘿包黏土工作坊等體驗活動，讓市民以輕鬆有趣的方式認識香港歷史與文化。本次節日旨在推廣博物館文化，鼓勵不同年齡的市民走進博物館，探索本地歷史故事，增強對香港文化的認同感。",
+      "questions": {
+        "lv1": [
+          "「繽Fun博物館嘉年華」在哪裡舉行？",
+          "活動中有哪種傳統遊戲可以玩？"
+        ],
+        "lv2": [
+          "康文署為什麼要舉辦博物館節？這對香港市民有什麼好處？",
+          "博物館嘉年華以遊戲和工作坊吸引市民，你認為這種方式比傳統參觀展覽更有效嗎？為什麼？"
+        ],
+        "lv3": [
+          "有人認為香港年輕人對本地歷史和文化認識不足。你認同嗎？學校和政府各自應如何改善這個情況？",
+          "在數碼時代，虛擬博物館和實體博物館各有什麼優點和缺點？你認為哪種方式更能有效推廣文化教育？"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-31-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/2026/10/30/news/china/weeknd-kai-tak-scalper-arrest/",
+      "flag": "🇭🇰",
+      "date": "2026-10-31",
+      "adaptedFrom": "星島日報",
+      "title": "啟德體育園演唱會場外　警方拘捕黃牛票男子",
+      "summary": "加拿大歌手The Weeknd於10月30日及31日在啟德體育園主場館舉行壓軸演唱會，吸引大批歌迷到場。警方在場外展開打擊非法兜售門票行動，其間拘捕一名43歲持雙程證的內地男子。該男子涉嫌在承啟道附近向公眾兜售演唱會門票，違反逗留條件，現正被扣留調查。此事再次引起社會關注「黃牛票」問題，以及主辦單位與執法機關如何更有效保障真正歌迷的權益。",
+      "questions": {
+        "lv1": [
+          "警方在哪個地方附近拘捕了涉嫌兜售門票的男子？",
+          "被捕男子持甚麼證件來港？"
+        ],
+        "lv2": [
+          "「黃牛票」對普通歌迷有什麼影響？為什麼警方要打擊這種行為？",
+          "你認為主辦單位可以採取哪些措施，減少「黃牛票」問題的出現？"
+        ],
+        "lv3": [
+          "有人認為「黃牛票」只是市場供求的體現，政府不應過度干預；也有人認為這是不道德的行為，必須以法律手段禁止。你支持哪個立場？請提出理由。",
+          "大型演唱會為城市帶來經濟效益，但同時也可能引發交通擠塞、噪音及違規行為等問題。香港應如何在推動文娛活動與維護社區秩序之間取得平衡？"
+        ]
+      }
+    }
+  ]
+}
