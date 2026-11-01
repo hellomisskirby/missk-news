@@ -1,105 +1,105 @@
 {
-  "generated": "2026-10-31T09:57:54.084924+08:00",
-  "date": "2026-10-31",
+  "generated": "2026-11-01T09:46:19.358374+08:00",
+  "date": "2026-11-01",
   "count": 4,
   "articles": [
     {
-      "id": "2026-10-31-en-1",
+      "id": "2026-11-01-en-1",
       "lang": "en",
-      "source": "The Standard / Reuters",
-      "sourceUrl": "https://www.thestandard.com.hk/news/article/346985/Morning-Recap-October-30-2026",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/intel-shares-plunge-after-weak-outlook-2026-11-01/",
       "flag": "🇬🇧",
-      "date": "2026-10-31",
-      "adaptedFrom": "The Standard (Hong Kong)",
-      "title": "Samsung Said to Be Leaving Hong Kong Home Appliance Market",
-      "summary": "Reports say that Samsung, the big South Korean electronics company, is planning to stop selling home appliances in Hong Kong. This comes after the company already pulled out of the mainland China market for home appliances. Products like refrigerators and washing machines under the Samsung brand may no longer be available locally. This move is part of a bigger business strategy by Samsung to focus on markets where it can compete more successfully. It raises questions about what choices Hong Kong shoppers will have for household products in the future, and how other brands may fill the gap left behind.",
-      "questions": {
-        "lv1": [
-          "Which company is reported to be leaving the Hong Kong home appliance market? (哪家公司據報將退出香港家用電器市場？)",
-          "Where is Samsung originally from? (三星公司來自哪個國家？)"
-        ],
-        "lv2": [
-          "Why might a big company like Samsung decide to leave a market like Hong Kong? (為什麼像三星這樣的大公司可能決定退出香港市場？)",
-          "How could Samsung's exit affect Hong Kong consumers who want to buy home appliances? (三星退出香港市場，對想購買家電的香港消費者有什麼影響？)"
-        ],
-        "lv3": [
-          "When a major international brand withdraws from a market, who benefits and who loses out? Consider the perspectives of consumers, local retailers, and competing brands. (當一個國際大品牌退出某個市場，誰會受益，誰會受損？請考慮消費者、本地零售商和競爭品牌的不同角度。)",
-          "Should governments step in to ensure consumers always have a wide variety of product choices? What are the arguments for and against government involvement in business decisions? (政府是否應該介入，確保消費者永遠有多樣化的產品選擇？政府介入商業決策有哪些支持和反對的理由？)"
-        ]
-      }
-    },
-    {
-      "id": "2026-10-31-en-2",
-      "lang": "en",
-      "source": "Reuters / Business Recorder",
-      "sourceUrl": "https://www.brecorder.com/news/40446726/china-stocks-post-biggest-monthly-loss-on-ai-selloff",
-      "flag": "🇬🇧",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "adaptedFrom": "Reuters",
-      "title": "Global Concerns Over AI Spending Shake Asian Stock Markets",
-      "summary": "Worries about how much money technology companies are spending on artificial intelligence (AI) caused stock markets in China and around the world to fall sharply this week. China's main stock index recorded its worst monthly drop in about ten years. Investors became nervous after big US technology firms like Amazon and Intel saw their share prices tumble because of huge AI costs. In contrast, Hong Kong's Hang Seng Index managed a small rise on the last day of October. This situation shows how decisions made by major technology companies in one country can quickly affect financial markets across the entire world.",
+      "title": "Intel's Share Price Crashes Nearly 30% in a Single Day — What Happened?",
+      "summary": "American computer chip company Intel saw its share price fall by almost 29% on Friday, one of the biggest single-day drops in its history. Investors were alarmed after the company reported worse-than-expected earnings and a cloudy outlook for future sales. The sharp decline also dragged down other technology stocks, causing the three major US stock market indexes to fall. Analysts say the result reflects fierce competition from rival chipmakers and slower-than-hoped growth in artificial intelligence hardware demand. The news sent shockwaves through global markets, with many investors moving their money into safer assets like government bonds instead.",
       "questions": {
         "lv1": [
-          "What technology topic caused stock markets to fall this week? (什麼科技話題導致本週股市下跌？)",
-          "Which index in Hong Kong actually went up slightly on October 31? (香港哪個指數在10月31日輕微上升？)"
+          "By roughly how much did Intel's share price fall in one day? (英特爾的股價在一天之內大約下跌了多少？)",
+          "What kind of company is Intel? (英特爾是一家什麼類型的公司？)"
         ],
         "lv2": [
-          "Why would investors around the world get nervous about how much money tech companies spend on AI? (為什麼全球投資者會對科技公司在人工智能上的龐大開支感到擔憂？)",
-          "How can a drop in US technology stocks cause problems for stock markets in countries like China and Hong Kong? (美國科技股下跌，怎麼會對中國和香港等地的股市造成影響？)"
+          "Why do you think a company reporting bad results can cause its share price to fall so quickly? (你認為為什麼一間公司公布業績不佳，股價會跌得那麼快？)",
+          "How might a big drop in a technology company's share price affect other industries or everyday people? (一間科技公司股價大跌，可能會怎樣影響其他行業或普通市民？)"
         ],
         "lv3": [
-          "AI is very expensive to develop. Do you think companies should keep spending huge amounts on AI even if it harms short-term profits? Argue from the perspective of both investors and society. (人工智能的研發成本極高。你認為企業是否應該繼續大力投資人工智能，即使這對短期利潤造成損害？請從投資者和社會大眾兩個角度進行論述。)",
-          "Some people say AI will create new jobs, while others fear it will destroy more jobs than it creates. Which view do you find more convincing, and why? (有人認為人工智能會創造新工作，也有人擔心它毀掉的工作崗位比創造的更多。你認為哪種觀點更具說服力？原因是什麼？)"
+          "Some people say that stock markets are too powerful — when one company fails, it can hurt millions of ordinary people's savings. Do you agree that stock markets need stricter rules to protect the public? (有人認為股票市場影響力過大——一間公司失敗可能令數百萬普通人的儲蓄受損。你是否同意股市需要更嚴格的規管來保護公眾？)",
+          "The rise of artificial intelligence has created huge excitement about technology stocks, but also big risks. How should investors and governments balance the promise of new technology with the danger of financial bubbles? (人工智能的興起令科技股備受追捧，但同時帶來巨大風險。投資者和政府應如何在新科技的潛力與金融泡沫的危險之間取得平衡？)"
         ]
       }
     },
     {
-      "id": "2026-10-31-zh-1",
+      "id": "2026-11-01-en-2",
+      "lang": "en",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.com/news/world-europe-climate-cop31-2026-11-01",
+      "flag": "🇬🇧",
+      "date": "2026-11-01",
+      "adaptedFrom": "BBC News",
+      "title": "World Leaders Prepare for Major Climate Summit Opening Next Week in Turkey",
+      "summary": "World leaders and climate experts are preparing to gather in Antalya, Turkey, starting 9 November, for COP31 — the United Nations' annual global climate conference. This year, more than 190 countries will meet to review their promises on cutting greenhouse gas emissions and discuss how to provide money to poorer nations most affected by climate change. A World Leaders' Summit is scheduled for 11 and 12 November. Scientists warn that current pledges are still not enough to limit global warming to 1.5 degrees Celsius. Environmental groups are urging governments to commit to faster action on phasing out fossil fuels before it is too late.",
+      "questions": {
+        "lv1": [
+          "Which country is hosting the COP31 climate conference this year? (今年的COP31氣候峰會在哪個國家舉行？)",
+          "What is the main goal of the COP31 meeting? (COP31會議的主要目標是什麼？)"
+        ],
+        "lv2": [
+          "Why do scientists think it is so important to limit global warming to 1.5 degrees Celsius? (科學家為什麼認為把全球暖化限制在攝氏1.5度以內非常重要？)",
+          "Why might poorer countries need financial help from richer countries to deal with climate change? (為什麼較貧窮的國家可能需要富裕國家提供資金支援來應對氣候變化？)"
+        ],
+        "lv3": [
+          "Some argue that international climate conferences like COP produce many promises but little real action. Do you think these summits are useful, or are there better ways to fight climate change? (有人認為COP等國際氣候峰會承諾多、行動少。你認為這些峰會有用嗎？還是有更好的方法應對氣候變化？)",
+          "Richer nations have historically produced most of the world's carbon emissions, yet poorer countries often suffer the worst effects of climate change. Is it fair to ask developing nations to make the same sacrifices as wealthier ones? Explain your view. (歷史上，富裕國家排放了大部分溫室氣體，但貧窮國家往往承受氣候變化最嚴重的後果。要求發展中國家與富裕國家作出同等犧牲，公平嗎？請說出你的看法。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-01-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261030/s00002",
+      "sourceUrl": "https://news.mingpao.com/pns/%E7%B6%93%E6%BF%9F/section/20261101/s00004",
       "flag": "🇭🇰",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "adaptedFrom": "明報",
-      "title": "香港博物館節開幕　「繽Fun嘉年華」帶市民玩轉文化",
-      "summary": "康文署「香港博物館節2026」於10月底正式揭幕，首個活動「繽Fun博物館嘉年華」於10月31日至11月1日在香港文化中心露天廣場舉行。活動重現昔日「掟銀幣」等傳統攤位遊戲，並設有菠蘿包黏土工作坊等體驗活動，讓市民以輕鬆有趣的方式認識香港歷史與文化。本次節日旨在推廣博物館文化，鼓勵不同年齡的市民走進博物館，探索本地歷史故事，增強對香港文化的認同感。",
+      "title": "幣安遭黑客盜取逾60億美元比特幣　虛擬貨幣市場大震盪",
+      "summary": "全球最大虛擬貨幣交易所幣安（Binance）今日（11月1日）傳出遭黑客入侵，被盜走市值高達約63億美元的比特幣，消息震驚整個加密貨幣界。受事件衝擊，比特幣價格一度跌破7.7萬美元水平，其後稍為回穩。虛擬貨幣市場整體出現大幅波動，投資者人心惶惶。專家提醒公眾，網絡安全風險始終存在，購買及儲存虛擬貨幣前應謹慎了解相關風險，切勿輕信不明來歷的投資資訊。",
       "questions": {
         "lv1": [
-          "「繽Fun博物館嘉年華」在哪裡舉行？",
-          "活動中有哪種傳統遊戲可以玩？"
+          "幣安是一個什麼平台？",
+          "今次黑客事件令比特幣價格出現了什麼變化？"
         ],
         "lv2": [
-          "康文署為什麼要舉辦博物館節？這對香港市民有什麼好處？",
-          "博物館嘉年華以遊戲和工作坊吸引市民，你認為這種方式比傳統參觀展覽更有效嗎？為什麼？"
+          "為什麼黑客入侵虛擬貨幣交易所會令整個市場出現震盪？",
+          "虛擬貨幣與普通銀行存款有什麼不同？你認為哪種方式儲存金錢更安全？"
         ],
         "lv3": [
-          "有人認為香港年輕人對本地歷史和文化認識不足。你認同嗎？學校和政府各自應如何改善這個情況？",
-          "在數碼時代，虛擬博物館和實體博物館各有什麼優點和缺點？你認為哪種方式更能有效推廣文化教育？"
+          "有人認為虛擬貨幣缺乏監管、風險極高，政府應該全面禁止或嚴格規管。你是否同意？理由是什麼？",
+          "網絡安全漏洞不斷出現，科技公司與政府應如何分擔保護用戶資產的責任？請從不同角度分析。"
         ]
       }
     },
     {
-      "id": "2026-10-31-zh-2",
+      "id": "2026-11-01-zh-2",
       "lang": "zh",
       "source": "星島日報",
-      "sourceUrl": "https://www.singtaousa.com/2026/10/30/news/china/weeknd-kai-tak-scalper-arrest/",
+      "sourceUrl": "https://www.singtaousa.com/2026/10/31/news/china/halloween-central-station-d1-closed/",
       "flag": "🇭🇰",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "adaptedFrom": "星島日報",
-      "title": "啟德體育園演唱會場外　警方拘捕黃牛票男子",
-      "summary": "加拿大歌手The Weeknd於10月30日及31日在啟德體育園主場館舉行壓軸演唱會，吸引大批歌迷到場。警方在場外展開打擊非法兜售門票行動，其間拘捕一名43歲持雙程證的內地男子。該男子涉嫌在承啟道附近向公眾兜售演唱會門票，違反逗留條件，現正被扣留調查。此事再次引起社會關注「黃牛票」問題，以及主辦單位與執法機關如何更有效保障真正歌迷的權益。",
+      "title": "宏福苑火災獨立調查報告今日公布　政府承諾推出改革措施",
+      "summary": "大埔宏福苑火災造成168人罹難，是香港近年最嚴重的火災事故之一。行政長官李家超今日（11月1日）下午率領多名官員召開記者會，正式向公眾公布由獨立委員會完成的調查報告，並宣布政府的後續改革方向。調查委員會歷時數月，深入研究事故成因及緊急應變工作。市民及遇難者家屬對報告內容及政府改善措施高度關注，期望悲劇不再重演，令社區居住環境更為安全。",
       "questions": {
         "lv1": [
-          "警方在哪個地方附近拘捕了涉嫌兜售門票的男子？",
-          "被捕男子持甚麼證件來港？"
+          "宏福苑火災造成了多少人罹難？",
+          "誰負責今日公布宏福苑火災的調查報告？"
         ],
         "lv2": [
-          "「黃牛票」對普通歌迷有什麼影響？為什麼警方要打擊這種行為？",
-          "你認為主辦單位可以採取哪些措施，減少「黃牛票」問題的出現？"
+          "為什麼政府要成立獨立委員會調查重大事故，而不是由政府部門自行調查？",
+          "你認為要預防類似火災再次發生，社會上哪些人或機構需要負起責任？"
         ],
         "lv3": [
-          "有人認為「黃牛票」只是市場供求的體現，政府不應過度干預；也有人認為這是不道德的行為，必須以法律手段禁止。你支持哪個立場？請提出理由。",
-          "大型演唱會為城市帶來經濟效益，但同時也可能引發交通擠塞、噪音及違規行為等問題。香港應如何在推動文娛活動與維護社區秩序之間取得平衡？"
+          "有意見認為，獨立調查報告出爐後，政府應對相關官員問責，而非只提出改革建議。你認為問責與改革，哪個更重要？還是兩者同樣不可或缺？",
+          "面對重大意外，社會往往出現「究責」與「改善制度」兩種聲音。你認為社會應如何平衡追究責任與向前看、推動改革之間的關係？"
         ]
       }
     }

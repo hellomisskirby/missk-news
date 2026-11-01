@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-01T09:46:19.358374+08:00",
+  "date": "2026-11-01",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-01-en-1",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/intel-shares-plunge-after-weak-outlook-2026-11-01/",
+      "flag": "🇬🇧",
+      "date": "2026-11-01",
+      "adaptedFrom": "Reuters",
+      "title": "Intel's Share Price Crashes Nearly 30% in a Single Day — What Happened?",
+      "summary": "American computer chip company Intel saw its share price fall by almost 29% on Friday, one of the biggest single-day drops in its history. Investors were alarmed after the company reported worse-than-expected earnings and a cloudy outlook for future sales. The sharp decline also dragged down other technology stocks, causing the three major US stock market indexes to fall. Analysts say the result reflects fierce competition from rival chipmakers and slower-than-hoped growth in artificial intelligence hardware demand. The news sent shockwaves through global markets, with many investors moving their money into safer assets like government bonds instead.",
+      "questions": {
+        "lv1": [
+          "By roughly how much did Intel's share price fall in one day? (英特爾的股價在一天之內大約下跌了多少？)",
+          "What kind of company is Intel? (英特爾是一家什麼類型的公司？)"
+        ],
+        "lv2": [
+          "Why do you think a company reporting bad results can cause its share price to fall so quickly? (你認為為什麼一間公司公布業績不佳，股價會跌得那麼快？)",
+          "How might a big drop in a technology company's share price affect other industries or everyday people? (一間科技公司股價大跌，可能會怎樣影響其他行業或普通市民？)"
+        ],
+        "lv3": [
+          "Some people say that stock markets are too powerful — when one company fails, it can hurt millions of ordinary people's savings. Do you agree that stock markets need stricter rules to protect the public? (有人認為股票市場影響力過大——一間公司失敗可能令數百萬普通人的儲蓄受損。你是否同意股市需要更嚴格的規管來保護公眾？)",
+          "The rise of artificial intelligence has created huge excitement about technology stocks, but also big risks. How should investors and governments balance the promise of new technology with the danger of financial bubbles? (人工智能的興起令科技股備受追捧，但同時帶來巨大風險。投資者和政府應如何在新科技的潛力與金融泡沫的危險之間取得平衡？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-01-en-2",
+      "lang": "en",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.com/news/world-europe-climate-cop31-2026-11-01",
+      "flag": "🇬🇧",
+      "date": "2026-11-01",
+      "adaptedFrom": "BBC News",
+      "title": "World Leaders Prepare for Major Climate Summit Opening Next Week in Turkey",
+      "summary": "World leaders and climate experts are preparing to gather in Antalya, Turkey, starting 9 November, for COP31 — the United Nations' annual global climate conference. This year, more than 190 countries will meet to review their promises on cutting greenhouse gas emissions and discuss how to provide money to poorer nations most affected by climate change. A World Leaders' Summit is scheduled for 11 and 12 November. Scientists warn that current pledges are still not enough to limit global warming to 1.5 degrees Celsius. Environmental groups are urging governments to commit to faster action on phasing out fossil fuels before it is too late.",
+      "questions": {
+        "lv1": [
+          "Which country is hosting the COP31 climate conference this year? (今年的COP31氣候峰會在哪個國家舉行？)",
+          "What is the main goal of the COP31 meeting? (COP31會議的主要目標是什麼？)"
+        ],
+        "lv2": [
+          "Why do scientists think it is so important to limit global warming to 1.5 degrees Celsius? (科學家為什麼認為把全球暖化限制在攝氏1.5度以內非常重要？)",
+          "Why might poorer countries need financial help from richer countries to deal with climate change? (為什麼較貧窮的國家可能需要富裕國家提供資金支援來應對氣候變化？)"
+        ],
+        "lv3": [
+          "Some argue that international climate conferences like COP produce many promises but little real action. Do you think these summits are useful, or are there better ways to fight climate change? (有人認為COP等國際氣候峰會承諾多、行動少。你認為這些峰會有用嗎？還是有更好的方法應對氣候變化？)",
+          "Richer nations have historically produced most of the world's carbon emissions, yet poorer countries often suffer the worst effects of climate change. Is it fair to ask developing nations to make the same sacrifices as wealthier ones? Explain your view. (歷史上，富裕國家排放了大部分溫室氣體，但貧窮國家往往承受氣候變化最嚴重的後果。要求發展中國家與富裕國家作出同等犧牲，公平嗎？請說出你的看法。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-01-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E7%B6%93%E6%BF%9F/section/20261101/s00004",
+      "flag": "🇭🇰",
+      "date": "2026-11-01",
+      "adaptedFrom": "明報",
+      "title": "幣安遭黑客盜取逾60億美元比特幣　虛擬貨幣市場大震盪",
+      "summary": "全球最大虛擬貨幣交易所幣安（Binance）今日（11月1日）傳出遭黑客入侵，被盜走市值高達約63億美元的比特幣，消息震驚整個加密貨幣界。受事件衝擊，比特幣價格一度跌破7.7萬美元水平，其後稍為回穩。虛擬貨幣市場整體出現大幅波動，投資者人心惶惶。專家提醒公眾，網絡安全風險始終存在，購買及儲存虛擬貨幣前應謹慎了解相關風險，切勿輕信不明來歷的投資資訊。",
+      "questions": {
+        "lv1": [
+          "幣安是一個什麼平台？",
+          "今次黑客事件令比特幣價格出現了什麼變化？"
+        ],
+        "lv2": [
+          "為什麼黑客入侵虛擬貨幣交易所會令整個市場出現震盪？",
+          "虛擬貨幣與普通銀行存款有什麼不同？你認為哪種方式儲存金錢更安全？"
+        ],
+        "lv3": [
+          "有人認為虛擬貨幣缺乏監管、風險極高，政府應該全面禁止或嚴格規管。你是否同意？理由是什麼？",
+          "網絡安全漏洞不斷出現，科技公司與政府應如何分擔保護用戶資產的責任？請從不同角度分析。"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-01-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/2026/10/31/news/china/halloween-central-station-d1-closed/",
+      "flag": "🇭🇰",
+      "date": "2026-11-01",
+      "adaptedFrom": "星島日報",
+      "title": "宏福苑火災獨立調查報告今日公布　政府承諾推出改革措施",
+      "summary": "大埔宏福苑火災造成168人罹難，是香港近年最嚴重的火災事故之一。行政長官李家超今日（11月1日）下午率領多名官員召開記者會，正式向公眾公布由獨立委員會完成的調查報告，並宣布政府的後續改革方向。調查委員會歷時數月，深入研究事故成因及緊急應變工作。市民及遇難者家屬對報告內容及政府改善措施高度關注，期望悲劇不再重演，令社區居住環境更為安全。",
+      "questions": {
+        "lv1": [
+          "宏福苑火災造成了多少人罹難？",
+          "誰負責今日公布宏福苑火災的調查報告？"
+        ],
+        "lv2": [
+          "為什麼政府要成立獨立委員會調查重大事故，而不是由政府部門自行調查？",
+          "你認為要預防類似火災再次發生，社會上哪些人或機構需要負起責任？"
+        ],
+        "lv3": [
+          "有意見認為，獨立調查報告出爐後，政府應對相關官員問責，而非只提出改革建議。你認為問責與改革，哪個更重要？還是兩者同樣不可或缺？",
+          "面對重大意外，社會往往出現「究責」與「改善制度」兩種聲音。你認為社會應如何平衡追究責任與向前看、推動改革之間的關係？"
+        ]
+      }
+    }
+  ]
+}
