@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-02T10:02:46.207957+08:00",
+  "date": "2026-11-02",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-02-en-1",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://srnnews.com/erdogan-says-south-korea-could-partner-in-turkeys-sinop-nuclear-project-yonhap-reports/",
+      "flag": "🇬🇧",
+      "date": "2026-11-02",
+      "adaptedFrom": "Reuters",
+      "title": "Turkey and South Korea Explore Nuclear Power and Tech Partnership",
+      "summary": "Turkish President Erdogan has said that South Korea could play a key role in building a new nuclear power station on Turkey's Black Sea coast, known as the Sinop project. During a state visit to Seoul — his first in nearly a decade — Erdogan said both countries had been studying the plan together with Korea's state energy company. He also suggested the two nations could cooperate on semiconductors, artificial intelligence, and robotics. The two leaders are set to hold a formal summit on Tuesday. Erdogan added that both sides are working toward a shared bilateral trade goal of 15 billion US dollars.",
+      "questions": {
+        "lv1": [
+          "What type of power station does Turkey want to build with South Korea's help? (土耳其希望與南韓合作建造哪一種發電廠？)",
+          "Which city did President Erdogan visit during his state trip to South Korea? (土耳其總統艾爾多安在國事訪問期間到訪了南韓哪個城市？)"
+        ],
+        "lv2": [
+          "Why might a country choose nuclear energy instead of coal or oil to generate electricity? (為何一個國家可能選擇核能，而非使用煤或石油發電？)",
+          "What benefits could South Korea gain from partnering with Turkey on technology and energy projects? (南韓在與土耳其合作科技及能源項目方面可以獲得哪些好處？)"
+        ],
+        "lv3": [
+          "Nuclear power generates electricity without carbon emissions, but also produces radioactive waste that is difficult to dispose of safely. Do you think countries should build more nuclear power stations? Give reasons for and against. (核能發電不會排放碳，但會產生難以安全處置的放射性廢料。你認為各國應否興建更多核電廠？請提出支持和反對的理由。)",
+          "When two countries form a partnership in energy or technology, who tends to benefit more — the larger or the smaller economy? Does it depend on the type of deal? (當兩國在能源或科技方面建立夥伴關係時，誰往往獲益更多——經濟規模較大還是較小的國家？這是否取決於協議的性質？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-02-en-2",
+      "lang": "en",
+      "source": "The Asian (AJA News)",
+      "sourceUrl": "https://theasian.asia/archives/205510",
+      "flag": "🇬🇧",
+      "date": "2026-11-02",
+      "adaptedFrom": "The Asian / Asia Journalist Association",
+      "title": "Samsung Chairman Skips Birthday Party to Visit AI Chip Lab in Japan",
+      "summary": "To mark Samsung Electronics' 57th founding anniversary, company chairman Lee Jae-yong chose to forgo celebrations and flew instead to Yokohama, Japan, to inspect a new research centre. The Advanced Package Lab, which opened in September, works on combining different chip types — including graphics processors and high-bandwidth memory — to build more efficient AI systems. Around 100 researchers are based there, and Samsung plans to invest roughly 260 million US dollars at the facility by 2028. The chairman reviewed research progress, discussed supply chain cooperation with Japanese partners, and urged his team to secure competitive chip packaging technologies as worldwide demand for AI keeps growing.",
+      "questions": {
+        "lv1": [
+          "Which country did Samsung's chairman travel to in order to visit the new research lab? (三星主席前往哪個國家視察新的研究中心？)",
+          "What is the main focus of research at Samsung's Advanced Package Lab in Yokohama? (三星橫濱高階封裝實驗室的主要研究方向是什麼？)"
+        ],
+        "lv2": [
+          "Why do you think Samsung's chairman visited a research lab on the company's anniversary instead of attending a celebration? What does this suggest about how seriously companies take AI technology? (你認為三星主席為何在公司周年紀念日選擇視察實驗室，而非出席慶典？這反映企業對人工智能技術有多重視？)",
+          "Why is it important for a company like Samsung to work closely with local Japanese suppliers when developing new technology? (為何三星等企業在研發新技術時，與日本本地供應商緊密合作如此重要？)"
+        ],
+        "lv3": [
+          "The race to build better AI chips requires huge investments of money, energy, and rare materials. Should governments regulate how fast companies can develop AI hardware in order to protect the environment and ensure fairness? (研發更佳人工智能芯片的競爭需要大量資金、能源和稀有材料。政府是否應規管企業研發人工智能硬件的速度，以保護環境並確保公平？)",
+          "Large technology companies invest billions in private research that shapes the future of society. Is it fair that so much power over technological progress is held by private corporations rather than governments or the public? (大型科技公司投入數十億美元進行私人研究，從而塑造社會的未來。如此龐大的科技發展決策權掌握在私人企業而非政府或公眾手中，你認為公平嗎？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-02-zh-1",
+      "lang": "zh",
+      "source": "星島頭條",
+      "sourceUrl": "https://www.stheadline.com/",
+      "flag": "🇭🇰",
+      "date": "2026-11-02",
+      "adaptedFrom": "星島頭條",
+      "title": "宏福苑火災獨立調查報告今日公布　政府宣布改革措施",
+      "summary": "大埔宏福苑早前發生嚴重火災，造成168人不幸罹難，震驚全港。獨立調查委員會歷時數月完成調查，今日正式將報告提交政府。行政長官李家超於下午率領多名官員出席記者會，公布報告詳情及後續政府改革措施，目標是全面提升本港住宅大廈的消防安全標準，防止同類悲劇重演，切實保障市民生命安全。",
+      "questions": {
+        "lv1": [
+          "宏福苑火災造成多少人不幸死亡？",
+          "今日負責公布調查報告的是哪位香港官員？"
+        ],
+        "lv2": [
+          "為什麼重大事故發生後，政府需要成立獨立調查委員會進行調查，而不是由消防處或警方自行調查？",
+          "調查報告完成後，政府可以採取哪些具體措施來改善香港住宅大廈的消防安全？"
+        ],
+        "lv3": [
+          "香港不少舊式住宅大廈消防設施嚴重不足。你認為改善消防安全的責任，應主要由業主、大廈管理公司還是政府承擔？請從不同角度分析，並說明你的立場。",
+          "在調查重大公共災難時，獨立調查委員會與司法程序（如法庭審訊）各有什麼角色與局限？你認為哪種機制更能令市民感到公義得到彰顯？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-02-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
+      "flag": "🇭🇰",
+      "date": "2026-11-02",
+      "adaptedFrom": "星島日報",
+      "title": "強厄爾尼諾衝擊香港秋季　11月上旬氣溫異常偏高料達31度",
+      "summary": "香港天文台最新天氣預報顯示，受今年強烈厄爾尼諾現象持續影響，本港11月上旬氣溫將顯著高於歷史同期平均水平。天文台已將本周一市區最高氣溫預測上調至攝氏31度，屬秋季罕見高溫。厄爾尼諾現象是指太平洋海水溫度異常升高，從而影響全球天氣模式，可引發各地乾旱、洪澇或高溫等極端天氣，情況值得市民關注。",
+      "questions": {
+        "lv1": [
+          "香港天文台預測本周一市區最高氣溫是多少攝氏度？",
+          "哪種自然現象導致今年香港秋季氣溫異常偏高？"
+        ],
+        "lv2": [
+          "厄爾尼諾現象是怎樣影響全球天氣的？為什麼它會令香港在秋季出現不尋常的高溫？",
+          "秋季氣溫異常偏高，對香港市民的日常生活、健康及能源消耗有什麼影響？"
+        ],
+        "lv3": [
+          "氣候變化令極端天氣（如高溫、暴雨、颱風）愈來愈頻繁。你認為個人、企業和政府各應承擔什麼責任來應對氣候變化帶來的挑戰？",
+          "有觀點認為，氣候變化對人類的長遠威脅比戰爭或經濟危機更嚴重，但許多人對此仍缺乏緊迫感。你認為社會應如何提高公眾對氣候變化的重視？"
+        ]
+      }
+    }
+  ]
+}
