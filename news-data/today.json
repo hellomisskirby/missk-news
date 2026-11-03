@@ -1,105 +1,105 @@
 {
-  "generated": "2026-11-02T10:02:46.207957+08:00",
-  "date": "2026-11-02",
+  "generated": "2026-11-03T11:48:56.595278+08:00",
+  "date": "2026-11-03",
   "count": 4,
   "articles": [
     {
-      "id": "2026-11-02-en-1",
+      "id": "2026-11-03-en-1",
+      "lang": "en",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/mediacentre/2026/sir-david-attenborough-blue-planet-3",
+      "flag": "🇬🇧",
+      "date": "2026-11-03",
+      "adaptedFrom": "BBC News / BBC Media Centre",
+      "title": "David Attenborough Returns to Guide Viewers Through BBC's Blue Planet III",
+      "summary": "One of the world's most famous nature programmes is back! Blue Planet III, a brand-new ocean documentary series made by the BBC, began airing on BBC One on 1 November 2026. The show takes viewers on an amazing journey deep into the world's oceans, exploring the creatures and environments that live there. Sir David Attenborough, who is well known for narrating many celebrated nature programmes, has returned to lend his voice to this new series. The programme is also supported by broadcasters from Germany, France, and Greece, making it a truly global production that shines a light on the importance of protecting our seas.",
+      "questions": {
+        "lv1": [
+          "Who is the narrator of Blue Planet III? (《藍色星球III》的旁白是誰？)",
+          "On which TV channel did Blue Planet III first appear? (《藍色星球III》首先在哪個電視頻道播出？)"
+        ],
+        "lv2": [
+          "Why do you think it is important for a nature programme like Blue Planet III to be made together by broadcasters from many different countries? (你認為像《藍色星球III》這樣的自然節目由多國廣播機構共同製作，為什麼重要？)",
+          "How might a documentary about oceans help people understand the need to protect the environment? (一部關於海洋的紀錄片如何幫助人們了解保護環境的必要性？)"
+        ],
+        "lv3": [
+          "Some people argue that nature documentaries make oceans look beautiful but do not do enough to show the real threats they face. Do you agree? What more could such programmes do to inspire action? (有人認為自然紀錄片把海洋拍得很美麗，卻沒有充分展示海洋所面臨的真正威脅。你同意嗎？這類節目還能做什麼來激勵行動？)",
+          "Sir David Attenborough is over 100 years old and continues to work on major nature projects. What does his continued involvement say about the role of older generations in raising awareness about the environment, and should younger voices be given more prominence in such productions? (艾登堡爵士已逾百歲，仍參與重大自然項目。他的持續參與對年長一代在提升環保意識方面有何意義？製作中是否應給予年輕聲音更多空間？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-03-en-2",
       "lang": "en",
       "source": "Reuters",
-      "sourceUrl": "https://srnnews.com/erdogan-says-south-korea-could-partner-in-turkeys-sinop-nuclear-project-yonhap-reports/",
+      "sourceUrl": "https://www.reuters.com/world/middle-east/",
       "flag": "🇬🇧",
-      "date": "2026-11-02",
-      "adaptedFrom": "Reuters",
-      "title": "Turkey and South Korea Explore Nuclear Power and Tech Partnership",
-      "summary": "Turkish President Erdogan has said that South Korea could play a key role in building a new nuclear power station on Turkey's Black Sea coast, known as the Sinop project. During a state visit to Seoul — his first in nearly a decade — Erdogan said both countries had been studying the plan together with Korea's state energy company. He also suggested the two nations could cooperate on semiconductors, artificial intelligence, and robotics. The two leaders are set to hold a formal summit on Tuesday. Erdogan added that both sides are working toward a shared bilateral trade goal of 15 billion US dollars.",
+      "date": "2026-11-03",
+      "adaptedFrom": "Reuters / Modern Diplomacy",
+      "title": "Damage to US Military Bases in the Middle East Raises Global Security Concerns",
+      "summary": "Reports published on 3 November 2026 reveal that more than 115 missile and drone attacks have struck around 26 United States military bases across the Middle East in recent weeks. The strikes are linked to ongoing conflict involving Iran and have caused serious damage to expensive defence equipment, including radar systems worth hundreds of millions of dollars. Leaders and analysts around the world are closely watching the situation, as it affects energy supplies, trade routes, and the safety of millions of people living and working in the region. The conflict is a reminder of how wars in one part of the world can have wide effects on everyone.",
       "questions": {
         "lv1": [
-          "What type of power station does Turkey want to build with South Korea's help? (土耳其希望與南韓合作建造哪一種發電廠？)",
-          "Which city did President Erdogan visit during his state trip to South Korea? (土耳其總統艾爾多安在國事訪問期間到訪了南韓哪個城市？)"
+          "How many US military bases were reported to have been hit by missile or drone attacks? (據報有多少個美國軍事基地遭導彈或無人機攻擊？)",
+          "In which region are these military bases located? (這些軍事基地位於哪個地區？)"
         ],
         "lv2": [
-          "Why might a country choose nuclear energy instead of coal or oil to generate electricity? (為何一個國家可能選擇核能，而非使用煤或石油發電？)",
-          "What benefits could South Korea gain from partnering with Turkey on technology and energy projects? (南韓在與土耳其合作科技及能源項目方面可以獲得哪些好處？)"
+          "Why might damage to military radar systems be particularly serious during a conflict? (在衝突期間，軍事雷達系統受損為何特別嚴重？)",
+          "How can a conflict in the Middle East affect people living in faraway places like Hong Kong or Asia? (中東地區的衝突如何影響香港或亞洲等遙遠地方的人們？)"
         ],
         "lv3": [
-          "Nuclear power generates electricity without carbon emissions, but also produces radioactive waste that is difficult to dispose of safely. Do you think countries should build more nuclear power stations? Give reasons for and against. (核能發電不會排放碳，但會產生難以安全處置的放射性廢料。你認為各國應否興建更多核電廠？請提出支持和反對的理由。)",
-          "When two countries form a partnership in energy or technology, who tends to benefit more — the larger or the smaller economy? Does it depend on the type of deal? (當兩國在能源或科技方面建立夥伴關係時，誰往往獲益更多——經濟規模較大還是較小的國家？這是否取決於協議的性質？)"
+          "When governments spend billions of dollars on military equipment that gets destroyed in conflict, who ultimately pays the cost, and is this a fair use of public money? (當政府花費數十億美元購買的軍事裝備在衝突中被摧毀，最終由誰承擔代價？這樣使用公共資金公平嗎？)",
+          "Some argue that international organisations should do more to prevent conflicts before they escalate to the point of military strikes. What powers should such organisations have, and what are the limits of their authority? (有人認為國際組織應該在衝突升級至軍事打擊之前採取更多行動加以預防。這些組織應擁有哪些權力，其權力又有何限制？)"
         ]
       }
     },
     {
-      "id": "2026-11-02-en-2",
-      "lang": "en",
-      "source": "The Asian (AJA News)",
-      "sourceUrl": "https://theasian.asia/archives/205510",
-      "flag": "🇬🇧",
-      "date": "2026-11-02",
-      "adaptedFrom": "The Asian / Asia Journalist Association",
-      "title": "Samsung Chairman Skips Birthday Party to Visit AI Chip Lab in Japan",
-      "summary": "To mark Samsung Electronics' 57th founding anniversary, company chairman Lee Jae-yong chose to forgo celebrations and flew instead to Yokohama, Japan, to inspect a new research centre. The Advanced Package Lab, which opened in September, works on combining different chip types — including graphics processors and high-bandwidth memory — to build more efficient AI systems. Around 100 researchers are based there, and Samsung plans to invest roughly 260 million US dollars at the facility by 2028. The chairman reviewed research progress, discussed supply chain cooperation with Japanese partners, and urged his team to secure competitive chip packaging technologies as worldwide demand for AI keeps growing.",
-      "questions": {
-        "lv1": [
-          "Which country did Samsung's chairman travel to in order to visit the new research lab? (三星主席前往哪個國家視察新的研究中心？)",
-          "What is the main focus of research at Samsung's Advanced Package Lab in Yokohama? (三星橫濱高階封裝實驗室的主要研究方向是什麼？)"
-        ],
-        "lv2": [
-          "Why do you think Samsung's chairman visited a research lab on the company's anniversary instead of attending a celebration? What does this suggest about how seriously companies take AI technology? (你認為三星主席為何在公司周年紀念日選擇視察實驗室，而非出席慶典？這反映企業對人工智能技術有多重視？)",
-          "Why is it important for a company like Samsung to work closely with local Japanese suppliers when developing new technology? (為何三星等企業在研發新技術時，與日本本地供應商緊密合作如此重要？)"
-        ],
-        "lv3": [
-          "The race to build better AI chips requires huge investments of money, energy, and rare materials. Should governments regulate how fast companies can develop AI hardware in order to protect the environment and ensure fairness? (研發更佳人工智能芯片的競爭需要大量資金、能源和稀有材料。政府是否應規管企業研發人工智能硬件的速度，以保護環境並確保公平？)",
-          "Large technology companies invest billions in private research that shapes the future of society. Is it fair that so much power over technological progress is held by private corporations rather than governments or the public? (大型科技公司投入數十億美元進行私人研究，從而塑造社會的未來。如此龐大的科技發展決策權掌握在私人企業而非政府或公眾手中，你認為公平嗎？)"
-        ]
-      }
-    },
-    {
-      "id": "2026-11-02-zh-1",
+      "id": "2026-11-03-zh-1",
       "lang": "zh",
-      "source": "星島頭條",
-      "sourceUrl": "https://www.stheadline.com/",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/section/20261103/s00001",
       "flag": "🇭🇰",
-      "date": "2026-11-02",
-      "adaptedFrom": "星島頭條",
-      "title": "宏福苑火災獨立調查報告今日公布　政府宣布改革措施",
-      "summary": "大埔宏福苑早前發生嚴重火災，造成168人不幸罹難，震驚全港。獨立調查委員會歷時數月完成調查，今日正式將報告提交政府。行政長官李家超於下午率領多名官員出席記者會，公布報告詳情及後續政府改革措施，目標是全面提升本港住宅大廈的消防安全標準，防止同類悲劇重演，切實保障市民生命安全。",
+      "date": "2026-11-03",
+      "adaptedFrom": "明報",
+      "title": "國際私法機構UNIDROIT在港設亞太辦事處 助推動商事法規全球統一",
+      "summary": "總部設於意大利羅馬、擁有65個成員國的國際統一私法協會（UNIDROIT），近日宣布在香港開設亞太地區聯絡辦事處。香港法律周同期舉行，中國商務部官員出席致辭，指多個重要私法國際機構相繼在港落戶，充分體現香港在國際法律舞台上備受認可的地位。UNIDROIT致力推動各國商業法律規則走向統一，方便企業跨境交易。香港作為連接中國與國際的樞紐，在促進全球法律合作方面擔當重要角色。",
       "questions": {
         "lv1": [
-          "宏福苑火災造成多少人不幸死亡？",
-          "今日負責公布調查報告的是哪位香港官員？"
+          "UNIDROIT的總部設在哪個城市？",
+          "UNIDROIT在香港設立的是什麼類型的辦事處？"
         ],
         "lv2": [
-          "為什麼重大事故發生後，政府需要成立獨立調查委員會進行調查，而不是由消防處或警方自行調查？",
-          "調查報告完成後，政府可以採取哪些具體措施來改善香港住宅大廈的消防安全？"
+          "為什麼國際法律機構選擇在香港設立辦事處，而不是其他亞洲城市？",
+          "推動各國商業法律走向統一，對做生意的人有什麼好處？"
         ],
         "lv3": [
-          "香港不少舊式住宅大廈消防設施嚴重不足。你認為改善消防安全的責任，應主要由業主、大廈管理公司還是政府承擔？請從不同角度分析，並說明你的立場。",
-          "在調查重大公共災難時，獨立調查委員會與司法程序（如法庭審訊）各有什麼角色與局限？你認為哪種機制更能令市民感到公義得到彰顯？"
+          "香港一直以「一國兩制」下的普通法體系作為吸引國際法律機構的優勢。隨著香港法律環境的轉變，這種優勢是否仍然存在？請從不同角度討論。",
+          "當國際機構在一個城市設立辦事處，這個城市的市民能從中得到什麼實質利益？又可能面對什麼挑戰？"
         ]
       }
     },
     {
-      "id": "2026-11-02-zh-2",
+      "id": "2026-11-03-zh-2",
       "lang": "zh",
       "source": "星島日報",
-      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
+      "sourceUrl": "https://stepaper.stheadline.com/",
       "flag": "🇭🇰",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "adaptedFrom": "星島日報",
-      "title": "強厄爾尼諾衝擊香港秋季　11月上旬氣溫異常偏高料達31度",
-      "summary": "香港天文台最新天氣預報顯示，受今年強烈厄爾尼諾現象持續影響，本港11月上旬氣溫將顯著高於歷史同期平均水平。天文台已將本周一市區最高氣溫預測上調至攝氏31度，屬秋季罕見高溫。厄爾尼諾現象是指太平洋海水溫度異常升高，從而影響全球天氣模式，可引發各地乾旱、洪澇或高溫等極端天氣，情況值得市民關注。",
+      "title": "網上假旅行社專頁泛濫 市民報團隨時變財散人空 警方呼籲善用視伏器查真假",
+      "summary": "近期香港出現大量仿冒正規旅行社的虛假社交媒體專頁，以低至數百元的吸引套票引誘市民網上報名，部分受害者付款後才發現根本聯絡不上對方，血本無歸。警方提醒市民，可善用「視伏器」平台核實商戶真偽，並建議盡量親身前往實體旅行社辦理報團手續。業界亦指出，認准社交平台的「藍剔」認證標記，有助辨別專頁是否屬於正規機構，避免墮入騙局。",
       "questions": {
         "lv1": [
-          "香港天文台預測本周一市區最高氣溫是多少攝氏度？",
-          "哪種自然現象導致今年香港秋季氣溫異常偏高？"
+          "騙徒用什麼方法吸引市民到假旅行社專頁報名？",
+          "警方建議市民使用哪個工具來辨別商戶真偽？"
         ],
         "lv2": [
-          "厄爾尼諾現象是怎樣影響全球天氣的？為什麼它會令香港在秋季出現不尋常的高溫？",
-          "秋季氣溫異常偏高，對香港市民的日常生活、健康及能源消耗有什麼影響？"
+          "為什麼在網上購買旅遊套票比在實體店購買風險更高？",
+          "社交媒體平台可以採取哪些措施，減少假冒商戶專頁的出現？"
         ],
         "lv3": [
-          "氣候變化令極端天氣（如高溫、暴雨、颱風）愈來愈頻繁。你認為個人、企業和政府各應承擔什麼責任來應對氣候變化帶來的挑戰？",
-          "有觀點認為，氣候變化對人類的長遠威脅比戰爭或經濟危機更嚴重，但許多人對此仍缺乏緊迫感。你認為社會應如何提高公眾對氣候變化的重視？"
+          "有人認為，網上騙案頻繁發生，責任不只在於騙徒，平台公司和政府監管機構同樣應該負責。你認同這個看法嗎？各方應如何分擔責任？",
+          "隨著人工智能技術進步，製作「倒模級」假冒網頁變得愈來愈容易。社會應如何在鼓勵科技創新的同時，保護市民免受此類欺詐的侵害？"
         ]
       }
     }
