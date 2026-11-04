@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-04T10:52:59.214327+08:00",
+  "date": "2026-11-04",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-04-en-1",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://www.prnewswire.com/apac/news-releases/asias-largest-education-event-returns-edutech-asia-2026-brings-8-000-educators-to-singapore-to-shape-a-human-centred-ai-powered-future-of-learning-302916746.html",
+      "flag": "🇬🇧",
+      "date": "2026-11-04",
+      "adaptedFrom": "Reuters / PR Newswire",
+      "title": "Asia's Biggest Education Event Opens in Singapore with 8,000 Teachers and AI Experts",
+      "summary": "One of Asia's most important education gatherings kicked off in Singapore on 4–5 November 2026, drawing around 8,000 teachers, school leaders, and technology experts from across the region. The event, called EDUtech Asia 2026, was held at the Sands Expo and Convention Centre. Participants explored how artificial intelligence can be used in classrooms in a way that still puts people first. Among the highlights was a special student challenge in partnership with Google for Education, where young teams presented their own ideas for a greener, more sustainable future. More than 250 speakers and 60 start-ups shared their knowledge and inventions at the two-day conference.",
+      "questions": {
+        "lv1": [
+          "What is the name of the big education event that opened in Singapore on 4 November 2026? (2026年11月4日在新加坡舉行的大型教育活動叫什麼名字？)",
+          "How many teachers and education experts attended EDUtech Asia 2026? (有多少位老師和教育專家出席了EDUtech Asia 2026？)"
+        ],
+        "lv2": [
+          "Why do you think it is important for teachers to learn about artificial intelligence at events like EDUtech Asia? (你認為老師在EDUtech Asia這類活動中學習人工智能，有什麼重要意義？)",
+          "What does it mean to use AI in a 'human-centred' way in schools? Can you give an example? (在學校以「以人為本」的方式使用人工智能是什麼意思？你能舉一個例子嗎？)"
+        ],
+        "lv3": [
+          "Some people worry that AI will replace teachers in the future. Do you agree or disagree? What role should AI play in education? (有人擔心人工智能將來會取代老師。你同意還是不同意？你認為人工智能在教育中應扮演什麼角色？)",
+          "The student challenge at EDUtech Asia focused on building a greener future. Should student competitions be tied to real-world problems like climate change? What are the benefits and drawbacks? (EDUtech Asia的學生挑戰賽聚焦於建設更環保的未來。學生比賽是否應該與氣候變化等現實問題掛鉤？有什麼好處和壞處？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-04-en-2",
+      "lang": "en",
+      "source": "Nikkei Asia / AI Weekly",
+      "sourceUrl": "https://aiweekly.co/ai-news-today",
+      "flag": "🇬🇧",
+      "date": "2026-11-04",
+      "adaptedFrom": "AI Weekly (citing Nikkei Asia)",
+      "title": "China's DeepSeek Plans to Train Its Newest AI on Hundreds of Thousands of Huawei Chips",
+      "summary": "Chinese artificial intelligence company DeepSeek has announced plans to use at least 160,000 Huawei Ascend 950DT chips to train its next major AI model, called DeepSeek V5. The chips will be installed at a brand-new data centre in Ulanqab, a city in Inner Mongolia, China. This is a big shift because these chips were originally meant for a different purpose. The move shows that Chinese technology companies are finding ways to build powerful AI systems using homegrown hardware, even as they face restrictions on buying advanced chips from American companies like Nvidia. Training work is expected to begin before the end of 2026.",
+      "questions": {
+        "lv1": [
+          "What is the name of the new AI model that DeepSeek plans to train? (DeepSeek計劃訓練的新人工智能模型叫什麼名字？)",
+          "Which country makes the Huawei Ascend chips that DeepSeek will use? (DeepSeek將要使用的華為昇騰芯片由哪個國家製造？)"
+        ],
+        "lv2": [
+          "Why might it be important for China to develop its own computer chips instead of buying them from other countries? (為什麼中國自行研發電腦芯片，而不向其他國家購買，可能是一件重要的事？)",
+          "What does it mean to 'train' an AI model, and why does it require so many computer chips? (「訓練」人工智能模型是什麼意思？為什麼需要那麼多電腦芯片？)"
+        ],
+        "lv3": [
+          "The United States has restricted China's access to advanced AI chips. Do you think countries should be allowed to limit the technology that other nations can buy? What are the consequences? (美國限制中國獲取先進人工智能芯片。你認為各國是否應該被允許限制其他國家可以購買的技術？這會帶來什麼後果？)",
+          "As China builds its own AI industry with local chips, how might this affect the balance of technological power between China and the United States in the future? (隨著中國用國產芯片建立自己的人工智能產業，這未來可能如何影響中美之間的科技力量平衡？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-04-zh-1",
+      "lang": "zh",
+      "source": "香港電台新聞",
+      "sourceUrl": "https://news.rthk.hk/rthk/ch/latest-news.htm",
+      "flag": "🇭🇰",
+      "date": "2026-11-04",
+      "adaptedFrom": "香港電台新聞（RTHK）",
+      "title": "香港五所大學榮登亞洲十強　政府：政策支持與大學努力共同成果",
+      "summary": "根據最新大學排名，香港共有五所大學進入亞洲前十名，成績令人鼓舞。政務司副司長陳國基表示，這一佳績是政府推行清晰的教育政策，以及各大學教職員和學生共同努力的成果。香港一直致力鞏固國際教育中心的地位，吸引來自世界各地的學者和學生。有關排名令社會各界對本港高等教育質素感到振奮，亦顯示香港在亞洲學術舞台上的競爭力持續提升。",
+      "questions": {
+        "lv1": [
+          "今次排名中，香港有多少所大學進入亞洲十強？",
+          "陳國基認為香港大學取得好成績的原因是什麼？"
+        ],
+        "lv2": [
+          "為什麼大學排名對一個城市或地區來說很重要？對香港有什麼好處？",
+          "政府的教育政策如何幫助大學提升排名？你認為還有哪些因素也很重要？"
+        ],
+        "lv3": [
+          "有人認為大學排名過分側重科研成果，忽視學生的實際學習體驗。你同意嗎？好的大學應該如何衡量？",
+          "香港大學吸引海外學者和學生，對本地學生有什麼好處和潛在問題？應如何取得平衡？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-04-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtao.co.uk/",
+      "flag": "🇭🇰",
+      "date": "2026-11-04",
+      "adaptedFrom": "星島日報",
+      "title": "中國登月計劃曝光　目標2030年送兩名太空人踏足月球表面",
+      "summary": "據星島日報報道，中國的載人登月計劃細節近日曝光，目標是在2030年前將兩名中國太空人送上月球表面，完成歷史性的登月任務。這項計劃若成功實現，中國將成為繼美國之後，第二個把人類送上月球的國家。目前中國已在太空探索方面取得多項重大成就，包括月球探測器採集月壤帶回地球，以及建立自己的太空站。今次登月計劃再次顯示中國在航天科技領域的雄心與實力。",
+      "questions": {
+        "lv1": [
+          "中國計劃在哪一年將太空人送上月球？",
+          "中國若成功登月，將會是世界上第幾個做到這件事的國家？"
+        ],
+        "lv2": [
+          "為什麼把人類送上月球是一項非常困難的任務？需要克服哪些挑戰？",
+          "中國在太空探索方面已經取得了哪些成就？這些成就對登月計劃有什麼幫助？"
+        ],
+        "lv3": [
+          "太空探索需要耗費大量資金。你認為政府應該優先發展太空科技，還是把資源用於解決地球上的問題如貧窮和氣候變化？請說明你的立場。",
+          "多個國家和私人公司都在競相探索太空，你認為太空探索應該是國際合作還是各國競爭？哪種方式對人類更有利？"
+        ]
+      }
+    }
+  ]
+}
