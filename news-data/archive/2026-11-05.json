@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-05T11:00:56.355434+08:00",
+  "date": "2026-11-05",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-05-en-1",
+      "lang": "en",
+      "source": "The Standard",
+      "sourceUrl": "https://www.thestandard.com.hk/news/article/347566/Morning-Recap-November-5-2026",
+      "flag": "🇭🇰",
+      "date": "2026-11-05",
+      "adaptedFrom": "The Standard",
+      "title": "Hong Kong's Rat Problem Grows: Rodents Spotted at MTR Station and Industrial Area",
+      "summary": "Hong Kong is facing a growing problem with rats being spotted in public places. A video shared online showed more than ten rats moving around rubbish bins outside an industrial building in Kwun Tong. In a separate incident, another video captured a rat running through Tai Wo Hau MTR station, worrying many passengers. These sightings have raised public concern about hygiene and pest control across the city. Experts say that proper rubbish management and regular inspections are important steps to reduce the number of rodents in urban areas.",
+      "questions": {
+        "lv1": [
+          "Where was the rat spotted inside an MTR station? (老鼠是在哪個港鐵站被發現的？)",
+          "How many rats were seen near the rubbish bins in Kwun Tong? (觀塘垃圾桶附近發現了多少隻老鼠？)"
+        ],
+        "lv2": [
+          "Why do you think rats are appearing in public places like MTR stations and industrial areas? (你認為為什麼老鼠會出現在港鐵站和工業區等公共地方？)",
+          "What can the government and citizens do to help reduce the rat problem in Hong Kong? (政府和市民可以採取哪些措施來解決香港的鼠患問題？)"
+        ],
+        "lv3": [
+          "Some people believe that individual citizens are responsible for Hong Kong's rat problem because of improper waste disposal, while others argue it is the government's duty to manage pest control. Who do you think should take more responsibility, and why? (有人認為市民因不當棄置垃圾而導致鼠患，也有人認為政府應負主要責任。你認為誰應承擔更多責任？請說明理由。)",
+          "Should businesses and building management companies face fines if rats are found near their premises? What are the advantages and disadvantages of such a policy? (如果在商業樓宇附近發現老鼠，業主或管理公司是否應被罰款？這樣的政策有什麼優點和缺點？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-05-en-2",
+      "lang": "en",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/",
+      "flag": "🌍",
+      "date": "2026-11-05",
+      "adaptedFrom": "ScienceDaily",
+      "title": "Scientists Discover 128,000-Year-Old Ice in Tibet That Could Change Our Understanding of Earth's Climate",
+      "summary": "Researchers have made an exciting discovery high up in the mountains of Tibet — ancient ice that may be more than 128,000 years old. This ice survived from before the last ice age and has been preserved deep inside Tibetan glaciers. Scientists believe the ice contains important clues about what Earth's climate was like thousands of years ago, including information about past temperatures and air composition. The finding is especially remarkable because experts had previously thought this kind of ancient ice no longer existed. Studying it could help scientists better predict how our planet's climate might change in the future.",
+      "questions": {
+        "lv1": [
+          "How old is the ice that scientists discovered in Tibet? (科學家在西藏發現的冰有多少年歷史？)",
+          "In which country's mountains was this ancient ice found? (這塊古老的冰是在哪個國家的山脈中被發現的？)"
+        ],
+        "lv2": [
+          "Why is it important for scientists to study very old ice found in glaciers? (科學家為什麼要研究冰川中找到的古老冰塊？)",
+          "How might information stored inside ancient ice help us understand climate change today? (古老冰塊中儲存的資訊如何幫助我們了解今天的氣候變化？)"
+        ],
+        "lv3": [
+          "Some scientists argue that studying ancient climate records like this ice is the most reliable way to predict future climate change, while others say we should focus on current data and technology. Which approach do you think is more valuable, and why? (部分科學家認為研究古老氣候記錄是預測未來氣候變化最可靠的方法，另一些人則認為應專注於現有數據和技術。你認為哪種方法更有價值？請說明理由。)",
+          "Tibet's glaciers are melting due to global warming, which could destroy ancient ice like this before it is studied. Who should be responsible for protecting these natural scientific treasures — local governments, international organisations, or everyone equally? (西藏冰川因全球暖化而融化，可能在科學家研究之前就已消失。誰應負責保護這些天然科學寶藏——地方政府、國際組織，還是所有人共同承擔？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-05-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%95%99%E8%82%B2/article/20261105/s00011/1793813607000/%E5%BE%A9%E6%97%A6%E6%9C%89%E6%84%8F%E5%8F%83%E8%88%87%E5%8C%97%E9%83%BD%E5%A4%A7%E5%AD%B8%E5%9F%8E-%E6%B8%AF%E5%A4%A7%E5%81%95%E5%8C%97%E5%A4%A7%E5%BB%BA%E4%B8%AD%E5%BF%83%E6%8B%93%E3%80%8C%E9%9B%99%E5%AD%B8%E4%BD%8D%E8%81%AF%E5%90%88%E5%9F%B9%E9%A4%8A%E3%80%8D",
+      "flag": "🇭🇰",
+      "date": "2026-11-05",
+      "adaptedFrom": "明報",
+      "title": "港大攜手北京大學建合作中心　推動兩地學生修讀雙學位",
+      "summary": "香港大學與北京大學計劃共同設立合作中心，讓兩地學生有機會同時修讀兩所大學的學位課程，即「雙學位聯合培養」計劃。與此同時，復旦大學校長在科技大學舉辦的「世界頂尖大學校長論壇」上透露，復旦有意參與香港北部都會區大學城的發展規劃，但合作細節尚未確定。今次論壇匯聚多所全球知名大學的校長，共同探討高等教育的未來合作方向。",
+      "questions": {
+        "lv1": [
+          "香港大學計劃與哪所內地大學合作建立中心？",
+          "復旦大學校長是在哪所香港院校出席的論壇？"
+        ],
+        "lv2": [
+          "「雙學位聯合培養」計劃對學生有什麼好處？",
+          "為什麼香港的大學要積極與內地頂尖大學展開合作？"
+        ],
+        "lv3": [
+          "有人認為香港大學與內地名校合作有助提升本港高等教育的國際地位，但也有人擔心這會影響香港學術自由。你有什麼看法？",
+          "如果你有機會參加「雙學位聯合培養」計劃，同時在兩個城市讀書，你認為這對個人成長有哪些機遇和挑戰？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-05-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
+      "flag": "🇭🇰",
+      "date": "2026-11-05",
+      "adaptedFrom": "星島日報",
+      "title": "香港RSV病毒活躍度上升　醫學會警告同時感染流感風險更大　呼籲長幼接種疫苗",
+      "summary": "天氣轉涼，香港呼吸道傳染病風險增加。香港中華醫學會指出，本港呼吸道合胞病毒（RSV）的活躍程度比去年同期明顯上升。醫學會特別提醒，若同時感染RSV和流感病毒，患者出現嚴重病情的風險將大幅提高。為此，醫學會呼籲長者及嬰幼兒等高危人士盡早考慮接種相關疫苗，以保護自身健康，減少因病入院的機會。",
+      "questions": {
+        "lv1": [
+          "RSV是哪種類型的病毒？",
+          "醫學會建議哪些人士優先考慮接種疫苗？"
+        ],
+        "lv2": [
+          "為什麼同時感染RSV和流感病毒會比單獨感染其中一種更加危險？",
+          "天氣轉涼與呼吸道疾病增加有什麼關係？"
+        ],
+        "lv3": [
+          "有人認為政府應強制高危人士接種疫苗以保障公共衛生，但也有人認為接種與否屬個人自由。你認為在公共衛生與個人自由之間應如何取得平衡？",
+          "如果疫苗資源有限，應優先供應給哪些群體？請提出你的分配方案並說明理由。"
+        ]
+      }
+    }
+  ]
+}
