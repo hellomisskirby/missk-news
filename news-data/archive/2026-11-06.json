@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-06T11:02:09.844342+08:00",
+  "date": "2026-11-06",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-06-en-1",
+      "lang": "en",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/asia/southeast-asia/article/thailand-dugong-conservation",
+      "flag": "🇬🇧",
+      "date": "2026-11-05",
+      "adaptedFrom": "South China Morning Post",
+      "title": "Scientists Use Dugong Poop to Help Save Thailand's Last Sea Cows",
+      "summary": "Thailand is home to the last surviving group of dugongs in the country, and scientists are racing to protect them before it is too late. These gentle, round-nosed sea mammals face the threat of extinction, so researchers have come up with a clever plan — collecting the animals' droppings from the ocean to test for stress hormones and signs of illness. By studying what the poop reveals about the dugongs' health, conservationists hope to understand what dangers the animals face and how best to keep them alive. It is an unusual but creative way to care for wildlife without disturbing them directly.",
+      "questions": {
+        "lv1": [
+          "What animal are scientists in Thailand trying to protect? (泰國科學家正努力保護哪一種動物？)",
+          "How are scientists checking if the dugongs are healthy? (科學家如何檢查儒艮的健康狀況？)"
+        ],
+        "lv2": [
+          "Why do scientists collect poop instead of catching the dugongs directly to study them? (科學家為甚麼收集糞便而不直接捕捉儒艮來研究牠們？)",
+          "What kinds of information can scientists learn from an animal's droppings? (科學家可以從動物的糞便中得到哪些資訊？)"
+        ],
+        "lv3": [
+          "Should governments spend large amounts of money saving one species of animal when there are so many other problems in the world? Give reasons for your view. (當世界上有這麼多其他問題時，政府是否應該花費大量資金拯救一個物種？請說明你的立場。)",
+          "If dugongs disappear from Thailand forever, what impact might that have on the ocean ecosystem and on local communities? (如果儒艮在泰國永久消失，對海洋生態系統和當地社區會有甚麼影響？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-06-en-2",
+      "lang": "en",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly4pnpl0g7o",
+      "flag": "🇬🇧",
+      "date": "2026-11-06",
+      "adaptedFrom": "BBC News",
+      "title": "World Leaders Prepare to Meet at Major Climate Summit in Turkey",
+      "summary": "In just a few days, representatives from countries around the world will gather in Antalya, Turkey, for COP31 — one of the biggest annual meetings about climate change. World leaders are expected to attend a special summit on 11 and 12 November to discuss how to tackle global warming and reduce harmful greenhouse gas emissions. The conference runs from 9 to 20 November and is organised by the United Nations. Turkey's environment minister will chair the talks. Scientists warn that urgent action is needed, as rising temperatures are already causing more extreme weather events, melting ice caps, and threatening wildlife across the planet.",
+      "questions": {
+        "lv1": [
+          "Where is the COP31 climate summit being held this year? (今年COP31氣候峰會在哪裡舉行？)",
+          "How many days does the COP31 conference last? (COP31會議持續多少天？)"
+        ],
+        "lv2": [
+          "Why is it important for world leaders — and not just scientists — to attend a climate conference? (為甚麼世界領袖——而不僅僅是科學家——出席氣候會議如此重要？)",
+          "What does the term 'greenhouse gas emissions' mean, and why do scientists say they need to be reduced? (「溫室氣體排放」是甚麼意思，科學家為何說需要減少排放？)"
+        ],
+        "lv3": [
+          "Some people argue that rich countries should pay more to fight climate change because they caused more pollution historically. Do you agree? (有人認為富裕國家應該為應對氣候變化付出更多，因為它們歷史上造成了更多污染。你同意嗎？)",
+          "If a country fails to meet its climate promises, should there be international punishments? What might the consequences be? (如果一個國家未能履行其氣候承諾，是否應該受到國際懲罰？可能會帶來甚麼後果？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-06-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/section/20261101/s00001",
+      "flag": "🇭🇰",
+      "date": "2026-11-06",
+      "adaptedFrom": "明報",
+      "title": "香港走塑推進緩慢　食肆指轉用環保餐具成本大增",
+      "summary": "香港推行走塑政策已踏入新階段，但第二階段的落實仍遙遙無期。環保署表示，市場上合規的替代餐具種類不足，令政策難以推進。與此同時，不少食肆反映，改用非塑膠餐具後，經營成本顯著上升，令業界叫苦連天。首階段執法期間共發出49張罰款通知書。有業界人士更指出，部分市民選擇網購內地不合規餐具，令本地合規供應商的生意受到衝擊。各方均期望政府加強支援，協助業界順利過渡。",
+      "questions": {
+        "lv1": [
+          "香港走塑政策的第二階段目前進展如何？",
+          "食肆改用環保餐具後，面對甚麼主要困難？"
+        ],
+        "lv2": [
+          "為甚麼市場上替代品不足會令走塑政策難以推行？",
+          "若市民大量網購內地不合規餐具，對香港環保政策有甚麼影響？"
+        ],
+        "lv3": [
+          "有人認為政府應給予食肆更多補貼以協助走塑過渡，亦有人認為商界應自行承擔成本。你認為責任應如何分配？",
+          "走塑政策對環境有好處，但同時增加商業成本。如何在環保目標與經濟壓力之間取得平衡？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-06-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://stepaper.stheadline.com/",
+      "flag": "🇭🇰",
+      "date": "2026-11-06",
+      "adaptedFrom": "星島日報",
+      "title": "港三所大學躋身QS亞洲五強　相隔15年再創佳績",
+      "summary": "香港三所大學在最新一期QS亞洲大學排名中表現亮眼，成功躋身亞洲首五名之列，創下15年來最佳成績。主辦機構指出，北都大學城的發展有助本港院校擴充容量，吸引更多優秀師生。城市大學排名晉升至亞洲第四，校董會主席形容此成就猶如「明日之星」，有利於吸引國際人才來港。各院校亦積極與「一帶一路」沿線國家加強合作，致力擴大留學香港的吸引力，進一步鞏固香港作為國際教育樞紐的地位。",
+      "questions": {
+        "lv1": [
+          "今次香港有多少間大學進入QS亞洲排名首五名？",
+          "上一次香港大學取得如此佳績是多少年前的事？"
+        ],
+        "lv2": [
+          "北都大學城的發展如何幫助香港大學提升排名和吸引力？",
+          "為甚麼香港大學與「一帶一路」國家加強合作，對提升香港教育地位有幫助？"
+        ],
+        "lv3": [
+          "大學排名對一個城市的發展有多重要？排名高是否等於教育質素一定好？請談談你的看法。",
+          "香港希望成為國際教育樞紐，但本地學生的學位名額有限。如何在吸引海外生與照顧本地生需求之間取得平衡？"
+        ]
+      }
+    }
+  ]
+}

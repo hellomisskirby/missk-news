@@ -1,105 +1,105 @@
 {
-  "generated": "2026-11-05T11:00:56.355434+08:00",
-  "date": "2026-11-05",
+  "generated": "2026-11-06T11:02:09.844342+08:00",
+  "date": "2026-11-06",
   "count": 4,
   "articles": [
     {
-      "id": "2026-11-05-en-1",
+      "id": "2026-11-06-en-1",
       "lang": "en",
-      "source": "The Standard",
-      "sourceUrl": "https://www.thestandard.com.hk/news/article/347566/Morning-Recap-November-5-2026",
-      "flag": "🇭🇰",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/asia/southeast-asia/article/thailand-dugong-conservation",
+      "flag": "🇬🇧",
       "date": "2026-11-05",
-      "adaptedFrom": "The Standard",
-      "title": "Hong Kong's Rat Problem Grows: Rodents Spotted at MTR Station and Industrial Area",
-      "summary": "Hong Kong is facing a growing problem with rats being spotted in public places. A video shared online showed more than ten rats moving around rubbish bins outside an industrial building in Kwun Tong. In a separate incident, another video captured a rat running through Tai Wo Hau MTR station, worrying many passengers. These sightings have raised public concern about hygiene and pest control across the city. Experts say that proper rubbish management and regular inspections are important steps to reduce the number of rodents in urban areas.",
+      "adaptedFrom": "South China Morning Post",
+      "title": "Scientists Use Dugong Poop to Help Save Thailand's Last Sea Cows",
+      "summary": "Thailand is home to the last surviving group of dugongs in the country, and scientists are racing to protect them before it is too late. These gentle, round-nosed sea mammals face the threat of extinction, so researchers have come up with a clever plan — collecting the animals' droppings from the ocean to test for stress hormones and signs of illness. By studying what the poop reveals about the dugongs' health, conservationists hope to understand what dangers the animals face and how best to keep them alive. It is an unusual but creative way to care for wildlife without disturbing them directly.",
       "questions": {
         "lv1": [
-          "Where was the rat spotted inside an MTR station? (老鼠是在哪個港鐵站被發現的？)",
-          "How many rats were seen near the rubbish bins in Kwun Tong? (觀塘垃圾桶附近發現了多少隻老鼠？)"
+          "What animal are scientists in Thailand trying to protect? (泰國科學家正努力保護哪一種動物？)",
+          "How are scientists checking if the dugongs are healthy? (科學家如何檢查儒艮的健康狀況？)"
         ],
         "lv2": [
-          "Why do you think rats are appearing in public places like MTR stations and industrial areas? (你認為為什麼老鼠會出現在港鐵站和工業區等公共地方？)",
-          "What can the government and citizens do to help reduce the rat problem in Hong Kong? (政府和市民可以採取哪些措施來解決香港的鼠患問題？)"
+          "Why do scientists collect poop instead of catching the dugongs directly to study them? (科學家為甚麼收集糞便而不直接捕捉儒艮來研究牠們？)",
+          "What kinds of information can scientists learn from an animal's droppings? (科學家可以從動物的糞便中得到哪些資訊？)"
         ],
         "lv3": [
-          "Some people believe that individual citizens are responsible for Hong Kong's rat problem because of improper waste disposal, while others argue it is the government's duty to manage pest control. Who do you think should take more responsibility, and why? (有人認為市民因不當棄置垃圾而導致鼠患，也有人認為政府應負主要責任。你認為誰應承擔更多責任？請說明理由。)",
-          "Should businesses and building management companies face fines if rats are found near their premises? What are the advantages and disadvantages of such a policy? (如果在商業樓宇附近發現老鼠，業主或管理公司是否應被罰款？這樣的政策有什麼優點和缺點？)"
+          "Should governments spend large amounts of money saving one species of animal when there are so many other problems in the world? Give reasons for your view. (當世界上有這麼多其他問題時，政府是否應該花費大量資金拯救一個物種？請說明你的立場。)",
+          "If dugongs disappear from Thailand forever, what impact might that have on the ocean ecosystem and on local communities? (如果儒艮在泰國永久消失，對海洋生態系統和當地社區會有甚麼影響？)"
         ]
       }
     },
     {
-      "id": "2026-11-05-en-2",
+      "id": "2026-11-06-en-2",
       "lang": "en",
-      "source": "ScienceDaily",
-      "sourceUrl": "https://www.sciencedaily.com/",
-      "flag": "🌍",
-      "date": "2026-11-05",
-      "adaptedFrom": "ScienceDaily",
-      "title": "Scientists Discover 128,000-Year-Old Ice in Tibet That Could Change Our Understanding of Earth's Climate",
-      "summary": "Researchers have made an exciting discovery high up in the mountains of Tibet — ancient ice that may be more than 128,000 years old. This ice survived from before the last ice age and has been preserved deep inside Tibetan glaciers. Scientists believe the ice contains important clues about what Earth's climate was like thousands of years ago, including information about past temperatures and air composition. The finding is especially remarkable because experts had previously thought this kind of ancient ice no longer existed. Studying it could help scientists better predict how our planet's climate might change in the future.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly4pnpl0g7o",
+      "flag": "🇬🇧",
+      "date": "2026-11-06",
+      "adaptedFrom": "BBC News",
+      "title": "World Leaders Prepare to Meet at Major Climate Summit in Turkey",
+      "summary": "In just a few days, representatives from countries around the world will gather in Antalya, Turkey, for COP31 — one of the biggest annual meetings about climate change. World leaders are expected to attend a special summit on 11 and 12 November to discuss how to tackle global warming and reduce harmful greenhouse gas emissions. The conference runs from 9 to 20 November and is organised by the United Nations. Turkey's environment minister will chair the talks. Scientists warn that urgent action is needed, as rising temperatures are already causing more extreme weather events, melting ice caps, and threatening wildlife across the planet.",
       "questions": {
         "lv1": [
-          "How old is the ice that scientists discovered in Tibet? (科學家在西藏發現的冰有多少年歷史？)",
-          "In which country's mountains was this ancient ice found? (這塊古老的冰是在哪個國家的山脈中被發現的？)"
+          "Where is the COP31 climate summit being held this year? (今年COP31氣候峰會在哪裡舉行？)",
+          "How many days does the COP31 conference last? (COP31會議持續多少天？)"
         ],
         "lv2": [
-          "Why is it important for scientists to study very old ice found in glaciers? (科學家為什麼要研究冰川中找到的古老冰塊？)",
-          "How might information stored inside ancient ice help us understand climate change today? (古老冰塊中儲存的資訊如何幫助我們了解今天的氣候變化？)"
+          "Why is it important for world leaders — and not just scientists — to attend a climate conference? (為甚麼世界領袖——而不僅僅是科學家——出席氣候會議如此重要？)",
+          "What does the term 'greenhouse gas emissions' mean, and why do scientists say they need to be reduced? (「溫室氣體排放」是甚麼意思，科學家為何說需要減少排放？)"
         ],
         "lv3": [
-          "Some scientists argue that studying ancient climate records like this ice is the most reliable way to predict future climate change, while others say we should focus on current data and technology. Which approach do you think is more valuable, and why? (部分科學家認為研究古老氣候記錄是預測未來氣候變化最可靠的方法，另一些人則認為應專注於現有數據和技術。你認為哪種方法更有價值？請說明理由。)",
-          "Tibet's glaciers are melting due to global warming, which could destroy ancient ice like this before it is studied. Who should be responsible for protecting these natural scientific treasures — local governments, international organisations, or everyone equally? (西藏冰川因全球暖化而融化，可能在科學家研究之前就已消失。誰應負責保護這些天然科學寶藏——地方政府、國際組織，還是所有人共同承擔？)"
+          "Some people argue that rich countries should pay more to fight climate change because they caused more pollution historically. Do you agree? (有人認為富裕國家應該為應對氣候變化付出更多，因為它們歷史上造成了更多污染。你同意嗎？)",
+          "If a country fails to meet its climate promises, should there be international punishments? What might the consequences be? (如果一個國家未能履行其氣候承諾，是否應該受到國際懲罰？可能會帶來甚麼後果？)"
         ]
       }
     },
     {
-      "id": "2026-11-05-zh-1",
+      "id": "2026-11-06-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/pns/%E6%95%99%E8%82%B2/article/20261105/s00011/1793813607000/%E5%BE%A9%E6%97%A6%E6%9C%89%E6%84%8F%E5%8F%83%E8%88%87%E5%8C%97%E9%83%BD%E5%A4%A7%E5%AD%B8%E5%9F%8E-%E6%B8%AF%E5%A4%A7%E5%81%95%E5%8C%97%E5%A4%A7%E5%BB%BA%E4%B8%AD%E5%BF%83%E6%8B%93%E3%80%8C%E9%9B%99%E5%AD%B8%E4%BD%8D%E8%81%AF%E5%90%88%E5%9F%B9%E9%A4%8A%E3%80%8D",
+      "sourceUrl": "https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/section/20261101/s00001",
       "flag": "🇭🇰",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "adaptedFrom": "明報",
-      "title": "港大攜手北京大學建合作中心　推動兩地學生修讀雙學位",
-      "summary": "香港大學與北京大學計劃共同設立合作中心，讓兩地學生有機會同時修讀兩所大學的學位課程，即「雙學位聯合培養」計劃。與此同時，復旦大學校長在科技大學舉辦的「世界頂尖大學校長論壇」上透露，復旦有意參與香港北部都會區大學城的發展規劃，但合作細節尚未確定。今次論壇匯聚多所全球知名大學的校長，共同探討高等教育的未來合作方向。",
+      "title": "香港走塑推進緩慢　食肆指轉用環保餐具成本大增",
+      "summary": "香港推行走塑政策已踏入新階段，但第二階段的落實仍遙遙無期。環保署表示，市場上合規的替代餐具種類不足，令政策難以推進。與此同時，不少食肆反映，改用非塑膠餐具後，經營成本顯著上升，令業界叫苦連天。首階段執法期間共發出49張罰款通知書。有業界人士更指出，部分市民選擇網購內地不合規餐具，令本地合規供應商的生意受到衝擊。各方均期望政府加強支援，協助業界順利過渡。",
       "questions": {
         "lv1": [
-          "香港大學計劃與哪所內地大學合作建立中心？",
-          "復旦大學校長是在哪所香港院校出席的論壇？"
+          "香港走塑政策的第二階段目前進展如何？",
+          "食肆改用環保餐具後，面對甚麼主要困難？"
         ],
         "lv2": [
-          "「雙學位聯合培養」計劃對學生有什麼好處？",
-          "為什麼香港的大學要積極與內地頂尖大學展開合作？"
+          "為甚麼市場上替代品不足會令走塑政策難以推行？",
+          "若市民大量網購內地不合規餐具，對香港環保政策有甚麼影響？"
         ],
         "lv3": [
-          "有人認為香港大學與內地名校合作有助提升本港高等教育的國際地位，但也有人擔心這會影響香港學術自由。你有什麼看法？",
-          "如果你有機會參加「雙學位聯合培養」計劃，同時在兩個城市讀書，你認為這對個人成長有哪些機遇和挑戰？"
+          "有人認為政府應給予食肆更多補貼以協助走塑過渡，亦有人認為商界應自行承擔成本。你認為責任應如何分配？",
+          "走塑政策對環境有好處，但同時增加商業成本。如何在環保目標與經濟壓力之間取得平衡？"
         ]
       }
     },
     {
-      "id": "2026-11-05-zh-2",
+      "id": "2026-11-06-zh-2",
       "lang": "zh",
       "source": "星島日報",
-      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
+      "sourceUrl": "https://stepaper.stheadline.com/",
       "flag": "🇭🇰",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "adaptedFrom": "星島日報",
-      "title": "香港RSV病毒活躍度上升　醫學會警告同時感染流感風險更大　呼籲長幼接種疫苗",
-      "summary": "天氣轉涼，香港呼吸道傳染病風險增加。香港中華醫學會指出，本港呼吸道合胞病毒（RSV）的活躍程度比去年同期明顯上升。醫學會特別提醒，若同時感染RSV和流感病毒，患者出現嚴重病情的風險將大幅提高。為此，醫學會呼籲長者及嬰幼兒等高危人士盡早考慮接種相關疫苗，以保護自身健康，減少因病入院的機會。",
+      "title": "港三所大學躋身QS亞洲五強　相隔15年再創佳績",
+      "summary": "香港三所大學在最新一期QS亞洲大學排名中表現亮眼，成功躋身亞洲首五名之列，創下15年來最佳成績。主辦機構指出，北都大學城的發展有助本港院校擴充容量，吸引更多優秀師生。城市大學排名晉升至亞洲第四，校董會主席形容此成就猶如「明日之星」，有利於吸引國際人才來港。各院校亦積極與「一帶一路」沿線國家加強合作，致力擴大留學香港的吸引力，進一步鞏固香港作為國際教育樞紐的地位。",
       "questions": {
         "lv1": [
-          "RSV是哪種類型的病毒？",
-          "醫學會建議哪些人士優先考慮接種疫苗？"
+          "今次香港有多少間大學進入QS亞洲排名首五名？",
+          "上一次香港大學取得如此佳績是多少年前的事？"
         ],
         "lv2": [
-          "為什麼同時感染RSV和流感病毒會比單獨感染其中一種更加危險？",
-          "天氣轉涼與呼吸道疾病增加有什麼關係？"
+          "北都大學城的發展如何幫助香港大學提升排名和吸引力？",
+          "為甚麼香港大學與「一帶一路」國家加強合作，對提升香港教育地位有幫助？"
         ],
         "lv3": [
-          "有人認為政府應強制高危人士接種疫苗以保障公共衛生，但也有人認為接種與否屬個人自由。你認為在公共衛生與個人自由之間應如何取得平衡？",
-          "如果疫苗資源有限，應優先供應給哪些群體？請提出你的分配方案並說明理由。"
+          "大學排名對一個城市的發展有多重要？排名高是否等於教育質素一定好？請談談你的看法。",
+          "香港希望成為國際教育樞紐，但本地學生的學位名額有限。如何在吸引海外生與照顧本地生需求之間取得平衡？"
         ]
       }
     }
