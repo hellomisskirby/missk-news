@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-07T10:30:38.442057+08:00",
+  "date": "2026-11-07",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-07-en-1",
+      "lang": "en",
+      "source": "SBS News (Korea)",
+      "sourceUrl": "https://news.sbs.co.kr/english/article.do?news_id=N1008834900",
+      "flag": "🇰🇷",
+      "date": "2026-11-07",
+      "adaptedFrom": "SBS News Korea",
+      "title": "Winter Arrives in Korea: Temperatures Drop Below Zero for the First Time This Season",
+      "summary": "November 7th is known in East Asia as 'Ipdong' — the traditional start of winter. This year, the date lived up to its name in South Korea. The northern city of Cheorwon in Gangwon Province experienced temperatures as low as -6°C, while the capital Seoul dropped to -1°C, marking the coldest readings of the autumn so far. Weather forecasters say this sharp chill signals the true beginning of winter across the Korean Peninsula. Residents have been advised to dress warmly and prepare for icy conditions. The sudden cold snap is a reminder that seasonal changes can happen quickly, and being ready for winter weather is important for everyone's safety.",
+      "questions": {
+        "lv1": [
+          "What is the name of the traditional East Asian holiday that marks the start of winter? (東亞傳統節氣中，哪一個節氣標誌著冬天的開始？)",
+          "How cold did it get in Seoul on November 7th? (11月7日首爾的氣溫降至多少度？)"
+        ],
+        "lv2": [
+          "Why do you think temperatures can drop so quickly when a new season begins? (你認為為什麼當新季節來臨時，氣溫可以下降得那麼快？)",
+          "How might a sudden cold snap affect the daily lives of people living in cities like Seoul? (突如其來的寒冷天氣會怎樣影響首爾等城市居民的日常生活？)"
+        ],
+        "lv3": [
+          "Some scientists say that extreme temperature swings are becoming more common due to climate change. Do you agree that human activity is responsible for unpredictable weather? Why or why not? (部分科學家指出，氣候變化令極端溫度波動愈來愈常見。你是否認同人類活動是導致天氣難以預測的原因？請說明你的立場。)",
+          "Traditional calendars like the Chinese lunar calendar divide the year into 24 solar terms. In a modern world with accurate weather forecasting technology, do these ancient seasonal markers still have value? (中國農曆將一年劃分為二十四節氣。在現代氣象科技發達的年代，這些古老的節氣標誌是否仍有其價值？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-07-en-2",
+      "lang": "en",
+      "source": "Daily Curated News / Nature Research Digest",
+      "sourceUrl": "https://dailycuratednews.substack.com/p/news-headlines-november-7-2026",
+      "flag": "🌐",
+      "date": "2026-11-07",
+      "adaptedFrom": "Daily Curated News (November 7, 2026)",
+      "title": "Scientists Build a Tiny Device That Learns Like a Human Brain",
+      "summary": "Researchers have created a very small electronic device called a neuromorphic chip that can learn and change its behaviour on its own — much like our brains do. Unlike traditional computer chips that use large amounts of electricity, this new device is designed to be energy-efficient, meaning it uses far less power. Scientists believe this technology could lead to a new generation of wearable gadgets and self-learning artificial intelligence systems. Because the device adapts to new information without needing to be reprogrammed every time, it could make future computers and robots much smarter and faster. This breakthrough is seen as an important step towards building machines that think more like living things.",
+      "questions": {
+        "lv1": [
+          "What is the name of the type of device that learns like a human brain? (這種能像人腦學習的裝置叫什麼名稱？)",
+          "What is one advantage of this new device compared to regular computer chips? (與普通電腦芯片相比，這種新裝置有什麼優點？)"
+        ],
+        "lv2": [
+          "Why is it useful for a machine to be able to learn and adapt on its own, without being reprogrammed? (為什麼一部機器能夠自行學習和適應，而不需要重新編程，是有用的？)",
+          "How could energy-efficient computer chips help reduce environmental damage caused by technology? (節能電腦芯片如何有助於減少科技對環境造成的破壞？)"
+        ],
+        "lv3": [
+          "If machines can one day learn and think like humans, should we give them the same rights and responsibilities as people? Where should the line be drawn? (如果機器有朝一日能像人類一樣學習和思考，我們應否賦予它們與人類相同的權利和責任？界線應該劃在哪裡？)",
+          "Some people worry that self-learning AI could become dangerous if it makes decisions humans cannot control. How should governments and scientists work together to manage this risk? (有人擔心自學習的人工智能若作出人類無法控制的決定，可能會帶來危險。政府和科學家應如何合作應對這一風險？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-07-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/section/20261107/s00001",
+      "flag": "🇭🇰",
+      "date": "2026-11-07",
+      "adaptedFrom": "明報",
+      "title": "皇都戲院浮雕暫被移除　當局承諾修復後放回原位",
+      "summary": "香港著名歷史建築皇都戲院外牆上的珍貴浮雕，近日被暫時移除。發展局表示，當局已與業主達成共識，浮雕將在完成修復工程後，重新安裝回原來的位置。皇都戲院建於上世紀五十年代，是香港少數保存完好的戰後現代主義建築之一，其外牆浮雕被視為極具藝術與歷史價值的文化遺產。消息一出，引起各界對本港文物保育的關注，不少市民及文化團體期望當局能妥善保存這批珍貴的歷史文物，讓下一代認識香港的建築歷史。",
+      "questions": {
+        "lv1": [
+          "皇都戲院的浮雕被移除後，當局計劃怎樣處理它？",
+          "皇都戲院大約在哪個年代建成？"
+        ],
+        "lv2": [
+          "為什麼保護像皇都戲院這類舊建築對香港的文化發展很重要？",
+          "如果一座歷史建築需要重建或翻新，我們應如何平衡保育與發展的需要？"
+        ],
+        "lv3": [
+          "有人認為香港應該拆除舊建築以發展新設施，也有人認為文物保育比城市發展更重要。你認為政府應如何在兩者之間取得平衡？",
+          "若市民和政府對文物保育的看法不一致，應該由誰來做最後決定？公眾參與在文物保育政策中扮演什麼角色？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-07-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/2026/11/06/news/china/yuen-long-paper-offering-warehouse-three-alarm-fire/",
+      "flag": "🇭🇰",
+      "date": "2026-11-07",
+      "adaptedFrom": "星島日報",
+      "title": "元朗貨倉深夜爆發三級火警　消防員奮戰三小時成功救熄",
+      "summary": "元朗白沙村一個存放祭祀用品的貨倉於深夜發生嚴重火警，消防處將事件列為三級火警。消防員迅速出動多條喉管及煙帽隊員進行灌救，歷時約三小時才將火勢完全控制。事發期間，現場共有十二人自行疏散至安全位置，幸無人在事件中受傷。消防處現正就起火原因展開調查。今次火警再次提醒公眾，倉庫存放大量易燃物品時，做好防火措施至關重要，各類場所應定期進行消防安全檢查，保障市民生命財產安全。",
+      "questions": {
+        "lv1": [
+          "元朗貨倉火警中，消防員花了多長時間才將火救熄？",
+          "事件中有多少人需要疏散？有沒有人受傷？"
+        ],
+        "lv2": [
+          "為什麼存放大量易燃物品的倉庫特別容易發生嚴重火警？",
+          "消防員在撲滅火警時可能面對哪些危險和挑戰？"
+        ],
+        "lv3": [
+          "政府應否對存放易燃物品的倉庫實施更嚴格的規管和定期檢查？這樣做對商戶和社會各有什麼影響？",
+          "在城市發展中，住宅區附近存在工業或儲存設施往往帶來安全風險。你認為規劃部門應如何處理這類土地使用衝突，以保障居民安全？"
+        ]
+      }
+    }
+  ]
+}
