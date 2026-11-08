@@ -1,105 +1,105 @@
 {
-  "generated": "2026-11-07T10:30:38.442057+08:00",
-  "date": "2026-11-07",
+  "generated": "2026-11-08T09:59:44.274777+08:00",
+  "date": "2026-11-08",
   "count": 4,
   "articles": [
     {
-      "id": "2026-11-07-en-1",
+      "id": "2026-11-08-en-1",
       "lang": "en",
-      "source": "SBS News (Korea)",
-      "sourceUrl": "https://news.sbs.co.kr/english/article.do?news_id=N1008834900",
-      "flag": "🇰🇷",
-      "date": "2026-11-07",
-      "adaptedFrom": "SBS News Korea",
-      "title": "Winter Arrives in Korea: Temperatures Drop Below Zero for the First Time This Season",
-      "summary": "November 7th is known in East Asia as 'Ipdong' — the traditional start of winter. This year, the date lived up to its name in South Korea. The northern city of Cheorwon in Gangwon Province experienced temperatures as low as -6°C, while the capital Seoul dropped to -1°C, marking the coldest readings of the autumn so far. Weather forecasters say this sharp chill signals the true beginning of winter across the Korean Peninsula. Residents have been advised to dress warmly and prepare for icy conditions. The sudden cold snap is a reminder that seasonal changes can happen quickly, and being ready for winter weather is important for everyone's safety.",
+      "source": "UN News / The National News",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/11/06/cop31-antalya-turkey-climate-change-fossil-fuel-era/",
+      "flag": "🌍",
+      "date": "2026-11-08",
+      "adaptedFrom": "The National News / UN News",
+      "title": "World Leaders Head to Turkey for Major Climate Summit COP31",
+      "summary": "One of the biggest climate meetings in the world is about to begin. Starting on 9 November 2026, thousands of world leaders, scientists, and climate experts will gather in Antalya, Turkey, for a conference called COP31. Countries will discuss how to slow down climate change and protect the planet from rising temperatures, flooding, and food shortages. Nations are expected to share updated plans to cut pollution. Turkey is hosting the event while Australia leads the negotiations. The United Nations has warned that stronger and faster action is urgently needed, as extreme weather events are becoming more frequent around the world.",
       "questions": {
         "lv1": [
-          "What is the name of the traditional East Asian holiday that marks the start of winter? (東亞傳統節氣中，哪一個節氣標誌著冬天的開始？)",
-          "How cold did it get in Seoul on November 7th? (11月7日首爾的氣溫降至多少度？)"
+          "What is the name of the big climate meeting starting on 9 November 2026, and where is it being held? (2026年11月9日開始的大型氣候會議叫什麼名字？在哪裡舉行？)",
+          "Name two problems caused by climate change that will be discussed at COP31. (說出兩個將在COP31討論的氣候變化問題。)"
         ],
         "lv2": [
-          "Why do you think temperatures can drop so quickly when a new season begins? (你認為為什麼當新季節來臨時，氣溫可以下降得那麼快？)",
-          "How might a sudden cold snap affect the daily lives of people living in cities like Seoul? (突如其來的寒冷天氣會怎樣影響首爾等城市居民的日常生活？)"
+          "Why do you think so many different countries need to work together to fight climate change, instead of each country acting alone? (你認為為什麼許多不同的國家需要合作應對氣候變化，而不是各自行動？)",
+          "What does it mean for a country to 'cut pollution', and why is this important for the planet's future? (一個國家「減少污染」是什麼意思？這對地球的未來為什麼重要？)"
         ],
         "lv3": [
-          "Some scientists say that extreme temperature swings are becoming more common due to climate change. Do you agree that human activity is responsible for unpredictable weather? Why or why not? (部分科學家指出，氣候變化令極端溫度波動愈來愈常見。你是否認同人類活動是導致天氣難以預測的原因？請說明你的立場。)",
-          "Traditional calendars like the Chinese lunar calendar divide the year into 24 solar terms. In a modern world with accurate weather forecasting technology, do these ancient seasonal markers still have value? (中國農曆將一年劃分為二十四節氣。在現代氣象科技發達的年代，這些古老的節氣標誌是否仍有其價值？)"
+          "Some people argue that developing countries should not have to cut pollution as much as rich countries, because they have contributed less to the problem historically. Do you agree or disagree? Explain your reasoning with examples. (有人認為發展中國家不應像富裕國家那樣大幅減少污染，因為它們歷史上對問題貢獻較少。你同意嗎？請用例子解釋你的立場。)",
+          "COP31 brings together governments, scientists, and businesses. Do you think ordinary citizens and young people should also have a formal role in making climate decisions? What could that look like? (COP31集合了政府、科學家和企業。你認為普通市民和年輕人是否也應在氣候決策中有正式角色？那會是什麼樣子？)"
         ]
       }
     },
     {
-      "id": "2026-11-07-en-2",
+      "id": "2026-11-08-en-2",
       "lang": "en",
-      "source": "Daily Curated News / Nature Research Digest",
-      "sourceUrl": "https://dailycuratednews.substack.com/p/news-headlines-november-7-2026",
-      "flag": "🌐",
-      "date": "2026-11-07",
-      "adaptedFrom": "Daily Curated News (November 7, 2026)",
-      "title": "Scientists Build a Tiny Device That Learns Like a Human Brain",
-      "summary": "Researchers have created a very small electronic device called a neuromorphic chip that can learn and change its behaviour on its own — much like our brains do. Unlike traditional computer chips that use large amounts of electricity, this new device is designed to be energy-efficient, meaning it uses far less power. Scientists believe this technology could lead to a new generation of wearable gadgets and self-learning artificial intelligence systems. Because the device adapts to new information without needing to be reprogrammed every time, it could make future computers and robots much smarter and faster. This breakthrough is seen as an important step towards building machines that think more like living things.",
+      "source": "Türkiye Today / UN Climate Change",
+      "sourceUrl": "https://www.turkiyetoday.com/nation/what-to-watch-as-cop31-climate-talks-begin-in-antalya-3231859",
+      "flag": "🌍",
+      "date": "2026-11-08",
+      "adaptedFrom": "Türkiye Today",
+      "title": "What to Expect as Nearly 200 Countries Gather for COP31 Climate Talks",
+      "summary": "Nearly 200 countries are sending representatives to Antalya, Turkey, for the COP31 climate conference, which opens on 9 November 2026 and runs for two weeks. Topics on the agenda include how to pay for climate protection in poorer countries, reducing the use of fossil fuels like coal and oil, and reviewing whether nations have kept their earlier climate promises. A World Leaders' Summit will also take place on 11 and 12 November, where heads of government will make speeches. Scientists warn that an unusually strong El Niño weather pattern could make 2026 or 2027 the hottest year ever recorded on Earth.",
       "questions": {
         "lv1": [
-          "What is the name of the type of device that learns like a human brain? (這種能像人腦學習的裝置叫什麼名稱？)",
-          "What is one advantage of this new device compared to regular computer chips? (與普通電腦芯片相比，這種新裝置有什麼優點？)"
+          "How many countries are sending people to the COP31 climate conference? (有多少個國家派代表參加COP31氣候會議？)",
+          "When will the World Leaders' Summit take place during COP31? (COP31的世界領袖峰會將在哪兩天舉行？)"
         ],
         "lv2": [
-          "Why is it useful for a machine to be able to learn and adapt on its own, without being reprogrammed? (為什麼一部機器能夠自行學習和適應，而不需要重新編程，是有用的？)",
-          "How could energy-efficient computer chips help reduce environmental damage caused by technology? (節能電腦芯片如何有助於減少科技對環境造成的破壞？)"
+          "Why do scientists think 2026 or 2027 could be the hottest year ever recorded, and how might this affect people around the world? (科學家為什麼認為2026年或2027年可能是有記錄以來最熱的一年？這會如何影響全球人民？)",
+          "What does 'reducing the use of fossil fuels' mean, and what challenges might countries face when trying to do this? (「減少使用化石燃料」是什麼意思？各國在嘗試這樣做時可能面臨哪些挑戰？)"
         ],
         "lv3": [
-          "If machines can one day learn and think like humans, should we give them the same rights and responsibilities as people? Where should the line be drawn? (如果機器有朝一日能像人類一樣學習和思考，我們應否賦予它們與人類相同的權利和責任？界線應該劃在哪裡？)",
-          "Some people worry that self-learning AI could become dangerous if it makes decisions humans cannot control. How should governments and scientists work together to manage this risk? (有人擔心自學習的人工智能若作出人類無法控制的決定，可能會帶來危險。政府和科學家應如何合作應對這一風險？)"
+          "Some wealthier countries have not fully kept their earlier climate promises. Should there be consequences for countries that fail to meet their commitments? Who should enforce these rules, and how? (一些富裕國家未能完全兌現早前的氣候承諾。對未能履行承諾的國家應該有後果嗎？誰應該執行這些規定？如何執行？)",
+          "The Trump administration chose not to participate in COP31 negotiations. How much can a global climate agreement achieve when a major economy like the United States does not fully take part? Does this make international cooperation pointless, or more important than ever? (特朗普政府選擇不參與COP31談判。當美國這樣的主要經濟體不完全參與時，全球氣候協議能取得多大成效？這是否令國際合作變得毫無意義，還是更加重要？)"
         ]
       }
     },
     {
-      "id": "2026-11-07-zh-1",
-      "lang": "zh",
-      "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/section/20261107/s00001",
-      "flag": "🇭🇰",
-      "date": "2026-11-07",
-      "adaptedFrom": "明報",
-      "title": "皇都戲院浮雕暫被移除　當局承諾修復後放回原位",
-      "summary": "香港著名歷史建築皇都戲院外牆上的珍貴浮雕，近日被暫時移除。發展局表示，當局已與業主達成共識，浮雕將在完成修復工程後，重新安裝回原來的位置。皇都戲院建於上世紀五十年代，是香港少數保存完好的戰後現代主義建築之一，其外牆浮雕被視為極具藝術與歷史價值的文化遺產。消息一出，引起各界對本港文物保育的關注，不少市民及文化團體期望當局能妥善保存這批珍貴的歷史文物，讓下一代認識香港的建築歷史。",
-      "questions": {
-        "lv1": [
-          "皇都戲院的浮雕被移除後，當局計劃怎樣處理它？",
-          "皇都戲院大約在哪個年代建成？"
-        ],
-        "lv2": [
-          "為什麼保護像皇都戲院這類舊建築對香港的文化發展很重要？",
-          "如果一座歷史建築需要重建或翻新，我們應如何平衡保育與發展的需要？"
-        ],
-        "lv3": [
-          "有人認為香港應該拆除舊建築以發展新設施，也有人認為文物保育比城市發展更重要。你認為政府應如何在兩者之間取得平衡？",
-          "若市民和政府對文物保育的看法不一致，應該由誰來做最後決定？公眾參與在文物保育政策中扮演什麼角色？"
-        ]
-      }
-    },
-    {
-      "id": "2026-11-07-zh-2",
+      "id": "2026-11-08-zh-1",
       "lang": "zh",
       "source": "星島日報",
-      "sourceUrl": "https://www.singtaousa.com/2026/11/06/news/china/yuen-long-paper-offering-warehouse-three-alarm-fire/",
+      "sourceUrl": "https://www.singtaousa.com/2026/11/05/news/china/ai-facial-recognition-cctv-expansion-hong-kong/",
       "flag": "🇭🇰",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "adaptedFrom": "星島日報",
-      "title": "元朗貨倉深夜爆發三級火警　消防員奮戰三小時成功救熄",
-      "summary": "元朗白沙村一個存放祭祀用品的貨倉於深夜發生嚴重火警，消防處將事件列為三級火警。消防員迅速出動多條喉管及煙帽隊員進行灌救，歷時約三小時才將火勢完全控制。事發期間，現場共有十二人自行疏散至安全位置，幸無人在事件中受傷。消防處現正就起火原因展開調查。今次火警再次提醒公眾，倉庫存放大量易燃物品時，做好防火措施至關重要，各類場所應定期進行消防安全檢查，保障市民生命財產安全。",
+      "title": "香港警方「銳眼計劃」加入AI人臉識別　2028年全港設6萬支鏡頭",
+      "summary": "香港警務處宣布，將於本月內為「銳眼計劃」的閉路電視系統加入人工智能人臉識別功能，協助警方更快尋找失蹤人士及偵查罪案。截至10月底，計劃已成功協助破獲逾2,100宗刑事案件，並拘捕近2,800人。警方目標在2028年前，將全港閉路電視鏡頭增至約6萬支，部分商場亦已同意將其鏡頭接入系統。警方強調，使用人臉識別功能須經督察級以上人員審批，並嚴格遵守個人資料私隱條例。",
       "questions": {
         "lv1": [
-          "元朗貨倉火警中，消防員花了多長時間才將火救熄？",
-          "事件中有多少人需要疏散？有沒有人受傷？"
+          "香港警方的「銳眼計劃」在今年10月底前，共協助破獲多少宗刑事案件？",
+          "警方計劃在哪一年前，將全港閉路電視鏡頭增至6萬支？"
         ],
         "lv2": [
-          "為什麼存放大量易燃物品的倉庫特別容易發生嚴重火警？",
-          "消防員在撲滅火警時可能面對哪些危險和挑戰？"
+          "人工智能人臉識別技術如何幫助警方更快找到失蹤的長者？這種技術有哪些好處？",
+          "為什麼警方使用人臉識別功能前需要經過督察級以上人員的審批？這樣的程序有何重要性？"
         ],
         "lv3": [
-          "政府應否對存放易燃物品的倉庫實施更嚴格的規管和定期檢查？這樣做對商戶和社會各有什麼影響？",
-          "在城市發展中，住宅區附近存在工業或儲存設施往往帶來安全風險。你認為規劃部門應如何處理這類土地使用衝突，以保障居民安全？"
+          "「銳眼計劃」在提升治安的同時，亦引發市民對私隱權的憂慮。你認為社會安全與個人私隱之間應如何取得平衡？請舉例說明你的立場。",
+          "商場的閉路電視系統接入警方網絡後，市民在購物時的行蹤將被記錄。你認為私人機構參與政府監控系統是否恰當？這會對公眾信任產生什麼影響？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-08-zh-2",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/section/20261108/s00001",
+      "flag": "🇭🇰",
+      "date": "2026-11-08",
+      "adaptedFrom": "明報",
+      "title": "阿茲海默症無法根治　職業治療「三階段介入」可助延緩退化",
+      "summary": "阿茲海默症（即腦退化症）對腦細胞造成的損害目前無法逆轉，患者的記憶力、認知能力及自理能力會隨病情加重而逐漸下滑。為協助患者及其家人，職業治療師提出「三階段介入」模式，針對病情的早、中、晚期，分別採用不同的訓練和支援方法，目標是盡量延緩患者的認知退化速度，同時減輕照顧者的壓力。隨著香港人口老齡化，認知障礙症的患者數目持續上升，社會各界對相關服務的需求也愈來愈殷切。",
+      "questions": {
+        "lv1": [
+          "阿茲海默症會影響患者的哪些能力？請說出兩項。",
+          "職業治療師建議用什麼方法幫助阿茲海默症患者？"
+        ],
+        "lv2": [
+          "為什麼「三階段介入」模式要針對病情的不同階段採用不同方法？早、中、晚期的需要有何分別？",
+          "香港人口老齡化與阿茲海默症患者增加有什麼關係？這對香港社會帶來哪些挑戰？"
+        ],
+        "lv3": [
+          "照顧阿茲海默症患者是一項沉重的責任，往往由家人承擔。你認為政府、社會和家庭應各自扮演什麼角色，才能更好地支援患者及其照顧者？",
+          "有人認為應將更多資源投放於研究治癒阿茲海默症的藥物，而非發展延緩退化的護理服務。你同意這種說法嗎？請從不同角度分析，並提出你的看法。"
         ]
       }
     }
