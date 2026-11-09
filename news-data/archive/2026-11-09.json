@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-09T10:18:41.797702+08:00",
+  "date": "2026-11-09",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-09-en-1",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://www.usnews.com/news/world/articles/2026-11-08/cop31-to-open-in-turkey-with-climate-goals-under-pressure-from-war-and-ai",
+      "flag": "🌍",
+      "date": "2026-11-09",
+      "adaptedFrom": "Reuters",
+      "title": "World Leaders Gather in Turkey for Major Climate Talks — But Challenges Are Bigger Than Ever",
+      "summary": "On 9 November 2026, representatives from almost 200 countries arrived in Antalya, Turkey, for the COP31 climate summit — two weeks of important meetings about how the world can fight climate change. This year's talks face extra difficulties. An ongoing war in the Middle East has caused many countries to burn more coal and search for extra oil supplies, pushing up energy use. At the same time, the rapid growth of artificial intelligence (AI) technology is consuming huge amounts of electricity. Experts say these pressures make it harder for countries to agree on strong action to reduce greenhouse gases and move away from fossil fuels.",
+      "questions": {
+        "lv1": [
+          "What is the name of the climate summit that opened in Turkey on 9 November 2026? (2026年11月9日在土耳其開幕的氣候峰會叫什麼名字？)",
+          "How many countries sent representatives to the COP31 climate talks? (有多少個國家派代表參加COP31氣候會議？)"
+        ],
+        "lv2": [
+          "Why is it harder for countries to agree on climate action this year compared to previous years? (為什麼今年各國比以往更難就氣候行動達成共識？)",
+          "How does the growth of AI technology make fighting climate change more difficult? (人工智能技術的快速發展，為什麼會令應對氣候變化變得更困難？)"
+        ],
+        "lv3": [
+          "Some countries say they need to use more fossil fuels during wartime for energy security. Do you think this is a good reason to slow down climate action? Why or why not? (有些國家表示在戰時需要使用更多化石燃料來確保能源安全。你認為這是放慢氣候行動的好理由嗎？為什麼？)",
+          "Should technology companies that develop AI be responsible for the extra electricity their systems use? What rules, if any, should governments make? (開發人工智能的科技公司是否應該對其系統所消耗的額外電力負責？政府應否制定相關規則？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-09-en-2",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534",
+      "flag": "🇺🇸",
+      "date": "2026-11-09",
+      "adaptedFrom": "Reuters",
+      "title": "Nvidia Investigates Its Own CEO After Report Links Him to Suspected Spy",
+      "summary": "Nvidia, one of the world's most powerful technology companies, has started an internal investigation into its chief executive, Jensen Huang. This happened after a report revealed that Huang had been in a relationship with a former business customer who the United States government believes was recruited by a Chinese spy agency. Senior members of the US Congress have asked Huang to explain the situation to lawmakers this month. The news caused Nvidia's share price to fall, and affected technology stock markets in the US. Nvidia makes powerful computer chips used in artificial intelligence systems around the world.",
+      "questions": {
+        "lv1": [
+          "What is the name of the technology company that started an investigation into its own leader? (哪家科技公司開始對其領導人展開調查？)",
+          "What product is Nvidia most famous for making? (Nvidia最著名的產品是什麼？)"
+        ],
+        "lv2": [
+          "Why did news about Nvidia's CEO cause technology stock prices to fall? (為什麼有關Nvidia行政總裁的消息導致科技股股價下跌？)",
+          "Why do you think governments take reports about business leaders and foreign spy agencies seriously? (你認為為什麼政府會認真對待有關商業領袖與外國間諜機構的報道？)"
+        ],
+        "lv3": [
+          "Should the personal relationships of a company's CEO affect how much people trust the company? Where should the line be drawn between private life and professional responsibility? (一家公司行政總裁的私人關係，是否應該影響公眾對該公司的信任？私人生活與專業責任之間的界線應如何劃定？)",
+          "Nvidia's chips are used in AI systems worldwide. If a CEO is found to have links to a foreign government, should that company be allowed to keep selling sensitive technology internationally? (Nvidia的芯片被全球各地的人工智能系統使用。如果行政總裁被發現與外國政府有關聯，該公司是否應該被允許繼續在國際上銷售敏感技術？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-09-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/section/20261109/s00001",
+      "flag": "🇭🇰",
+      "date": "2026-11-09",
+      "adaptedFrom": "明報",
+      "title": "未來科學大獎得主：人工智能正在改變基礎數學研究的面貌",
+      "summary": "近日，未來科學大獎得主公開表示，人工智能（AI）的發展對基礎數學研究帶來了巨大衝擊。AI不再只是計算工具，它能夠協助數學家探索複雜的數學問題，甚至提出新的研究方向。這一說法引起學界廣泛討論：AI究竟是幫助人類進步的夥伴，還是會取代數學家的角色？專家指出，AI雖能快速處理海量數據，但創造性思維和深層理解仍需依賴人類。數學教育界亦開始反思，未來學生學習數學的方式或需作出調整。",
+      "questions": {
+        "lv1": [
+          "未來科學大獎得主說，哪項技術對基礎數學研究帶來了很大的影響？",
+          "AI除了用作計算工具外，還能幫助數學家做什麼？"
+        ],
+        "lv2": [
+          "為什麼有些人擔心AI會取代數學家的工作？你認為這種擔心有道理嗎？",
+          "專家說創造性思維仍需依賴人類，你認為這句話是什麼意思？"
+        ],
+        "lv3": [
+          "如果AI能夠解決大部分數學難題，學校是否還有必要教授學生學習數學？請說明你的立場。",
+          "人工智能在科學研究中扮演愈來愈重要的角色，這對未來的科學家和研究員有什麼影響？社會應如何應對這種變化？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-09-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
+      "flag": "🇭🇰",
+      "date": "2026-11-09",
+      "adaptedFrom": "星島日報",
+      "title": "北京員工用AI協助工作被炒 法院裁定公司須賠償",
+      "summary": "北京一名員工在工作中使用人工智能（AI）工具輔助辦公，卻被公司以違反信息安全規定為由解僱。員工不服，提出勞動爭議申訴。法院審理後認為，公司的解僱理由並不成立，裁定公司須向員工作出賠償。此案引發社會廣泛關注，反映出企業在管理AI工具使用方面仍存在很多灰色地帶。香港天文台亦於同日表示，一道冷鋒將於本周橫過華南沿岸，本港下周氣溫料顯著下降，市區最低氣溫或跌至18度。",
+      "questions": {
+        "lv1": [
+          "北京那名員工為什麼被公司解僱？",
+          "法院對這宗案件作出了什麼裁決？"
+        ],
+        "lv2": [
+          "為什麼公司使用AI工具的規定目前仍存在「灰色地帶」？這對員工有什麼影響？",
+          "你認為公司應該如何制定清晰的AI使用規則，以保障員工和公司雙方的權益？"
+        ],
+        "lv3": [
+          "隨著AI工具在職場上日趨普及，僱主和僱員之間的權利與責任應如何重新界定？請從不同角度分析。",
+          "如果法律未能跟上科技發展的步伐，社會上可能出現哪些問題？政府、企業和個人各自應承擔什麼責任？"
+        ]
+      }
+    }
+  ]
+}
