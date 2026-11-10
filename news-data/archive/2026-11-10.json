@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-10T12:28:20.024936+08:00",
+  "date": "2026-11-10",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-10-en-1",
+      "lang": "en",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0le03ne05ro",
+      "flag": "🇬🇧",
+      "date": "2026-11-09",
+      "adaptedFrom": "BBC News / 2026 United Nations Climate Change Conference (COP31)",
+      "title": "World Leaders Gather in Turkey for Major Climate Talks",
+      "summary": "A very important meeting about our planet's climate has begun in Antalya, Turkey. Called COP31, it brings together leaders and scientists from countries all around the world. The conference runs from 9 to 20 November 2026 and focuses on what nations can do to slow down climate change. Turkey's Environment Minister is leading the discussions. Some environmental groups have raised concerns about Turkey's continued use of coal power. Scientists hope countries will agree on stronger plans to reduce pollution and protect the Earth for future generations, including young people today.",
+      "questions": {
+        "lv1": [
+          "Where is the COP31 climate conference being held in 2026? (2026年的COP31氣候會議在哪裡舉行？)",
+          "Who leads the discussions at COP31? (誰主持COP31的討論？)"
+        ],
+        "lv2": [
+          "Why do you think it is important for many different countries to meet and discuss climate change together? (為什麼你認為許多不同的國家一起討論氣候變化很重要？)",
+          "Some groups are unhappy that Turkey still uses coal power. Why might coal be a problem for the environment? (一些團體對土耳其仍使用煤炭發電感到不滿。為什麼煤炭可能對環境有害？)"
+        ],
+        "lv3": [
+          "Some countries say that cutting pollution too quickly will hurt their economies and cost jobs. Others say the planet cannot wait. Who do you think is right, and why? (一些國家認為過快削減污染會損害經濟和就業；另一些國家則認為地球等不了。你認為誰是對的？為什麼？)",
+          "Should wealthier countries pay poorer countries to help them switch from coal to clean energy? What are the arguments for and against this idea? (富裕國家是否應該資助貧窮國家從煤炭轉向清潔能源？這個做法有什麼支持和反對的理由？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-10-en-2",
+      "lang": "en",
+      "source": "Mongabay",
+      "sourceUrl": "https://news.mongabay.com/2026/11/south-koreas-beloved-squid-may-vanish-from-its-waters-due-to-climate-change-heat-waves/",
+      "flag": "🌏",
+      "date": "2026-11-09",
+      "adaptedFrom": "Mongabay",
+      "title": "South Korea's Favourite Squid Could Disappear Because of Rising Ocean Temperatures",
+      "summary": "A type of squid that South Koreans have eaten for hundreds of years may soon be very hard to find in local waters. Scientists warn that rising sea temperatures caused by climate change and stronger heat waves are making the ocean less suitable for these squid to live and reproduce. If the ocean keeps warming, the squid could move further north or disappear from South Korean fishing areas entirely. This would affect not only the food that people enjoy, but also the livelihoods of thousands of fishing families who depend on catching squid for their income.",
+      "questions": {
+        "lv1": [
+          "Why are squid becoming harder to find in South Korean waters? (為什麼魷魚在韓國海域越來越難找到？)",
+          "What two things are making the ocean less suitable for squid? (有哪兩件事令海洋對魷魚來說變得不適合居住？)"
+        ],
+        "lv2": [
+          "How might the disappearance of squid affect the daily lives of fishing families in South Korea? (魷魚的消失可能如何影響韓國漁民家庭的日常生活？)",
+          "Why do scientists think the squid might move further north instead of simply dying out? (為什麼科學家認為魷魚可能會向北遷移，而不是直接消失？)"
+        ],
+        "lv3": [
+          "When a fish or animal disappears from a region because of climate change, who is responsible — individuals, companies, or governments? Should there be consequences for those who contribute most to ocean warming? (當魚類或動物因氣候變化而從一個地區消失時，誰應該負責？個人、企業還是政府？對造成海洋升溫最多的人，是否應有相應的後果？)",
+          "Some people say we should change what we eat to protect the ocean, while others argue that food traditions are important to culture and should not be forced to change. How would you balance environmental protection with cultural identity? (有人認為我們應改變飲食習慣以保護海洋；另一些人則認為飲食傳統是文化的一部分，不應被強制改變。你會如何在環境保護與文化身份之間取得平衡？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-10-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261109/s00002",
+      "flag": "🇭🇰",
+      "date": "2026-11-09",
+      "adaptedFrom": "明報",
+      "title": "亞馬遜AWS支援香港科技園　為500人提供生成式AI培訓",
+      "summary": "亞馬遜旗下雲端服務公司AWS宣布加強支援香港科技園的「Talent Foundry」人才發展計劃，將為500名參加者提供生成式人工智能（AI）課程。亞馬遜副總裁兼首席技術官Werner Vogels表示，認同香港創新科技及工業局長孫東提倡「以人為本」發展「全民AI」的方向。生成式AI能夠創作文字、圖像及程式碼，學習相關技能有助年輕人把握未來職場機遇，提升香港整體競爭力。",
+      "questions": {
+        "lv1": [
+          "今次AWS的培訓計劃一共會培訓多少人？",
+          "這個培訓計劃是在哪裡舉辦的？"
+        ],
+        "lv2": [
+          "為什麼政府和大型科技公司都希望讓更多市民學習人工智能技術？",
+          "「以人為本」發展AI是什麼意思？這個方向有什麼重要之處？"
+        ],
+        "lv3": [
+          "有人認為AI會取代人類的工作，令更多人失業；但也有人認為AI能創造新職位。你認為政府和企業應如何幫助市民應對AI帶來的就業變化？",
+          "如果只有部分人有機會接受AI培訓，社會上的貧富差距會否因此擴大？政府應如何確保AI教育機會公平？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-10-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
+      "flag": "🇭🇰",
+      "date": "2026-11-10",
+      "adaptedFrom": "星島日報",
+      "title": "強烈東北季候風吹港　天文台錄入秋最低氣溫17.5度",
+      "summary": "受強烈東北季候風影響，香港今日（11月10日）氣溫顯著下降，天文台於今早錄得17.5度，是今個秋天以來的最低氣溫。新界地區氣溫更低兩至三度。天文台預料冷鋒橫過華南沿岸後，本港下周天氣持續清涼乾燥。市民外出應注意添加衣物，保持身體溫暖，長者及兒童尤需注意防寒保健。",
+      "questions": {
+        "lv1": [
+          "今日香港天文台錄得的最低氣溫是多少度？",
+          "今次氣溫下降的主要原因是什麼？"
+        ],
+        "lv2": [
+          "為什麼新界地區的氣溫通常比市區低兩至三度？",
+          "天氣轉涼對長者和兒童有什麼特別的影響？我們可以怎樣保護他們？"
+        ],
+        "lv3": [
+          "近年氣候變化令極端天氣（如酷熱或寒潮）愈來愈頻繁，你認為香港政府和市民應如何合作應對這些挑戰？",
+          "有人認為氣候變化令冬天縮短、夏天延長，對不同行業（如旅遊、農業、能源）有利有弊。試從兩個不同角度分析氣候轉變對香港社會的影響。"
+        ]
+      }
+    }
+  ]
+}
