@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-11T10:28:31.572468+08:00",
+  "date": "2026-11-11",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-11-en-1",
+      "lang": "en",
+      "source": "UN News / Reuters",
+      "sourceUrl": "https://news.un.org/en/story/2026/11/1168763",
+      "flag": "🌍",
+      "date": "2026-11-11",
+      "adaptedFrom": "UN News",
+      "title": "World Leaders Gather in Turkey Today for Major Climate Summit COP31",
+      "summary": "Today, world leaders from nearly 200 countries are meeting in Antalya, Turkey, for the COP31 climate summit — one of the biggest environmental meetings on Earth. The summit, which runs until 20 November, focuses on cutting pollution, switching to cleaner energy, and helping poorer countries deal with floods and heatwaves. A special Leaders' Summit takes place today and tomorrow, where heads of state are expected to make new promises on climate action. The United Nations warned that current plans are still not enough to stop temperatures from rising dangerously. Scientists say the world could warm by about 2.6°C if countries do not do more.",
+      "questions": {
+        "lv1": [
+          "Where is the COP31 climate summit being held this year? (今年的COP31氣候峰會在哪個城市舉行？)",
+          "How many countries are taking part in the COP31 summit? (有多少個國家參加COP31峰會？)"
+        ],
+        "lv2": [
+          "Why do you think world leaders need to gather together to talk about climate change instead of each country deciding on its own? (你認為為什麼世界各國領袖需要聚在一起討論氣候變化，而不是各自決定？)",
+          "What could happen to our planet if countries do not keep their promises to reduce pollution? (如果各國不履行減少污染的承諾，地球會發生什麼事？)"
+        ],
+        "lv3": [
+          "Some argue that wealthy countries should pay more to help poorer nations deal with climate change, while others say every country must share the burden equally. Which view do you agree with more, and why? (有人認為富裕國家應該為幫助貧窮國家應對氣候變化付出更多，也有人認為每個國家都應該平等分擔責任。你更同意哪個觀點？為什麼？)",
+          "Scientists warn that even if all current climate pledges are fully met, global temperatures may still rise by 2.6°C. Does this mean climate summits like COP31 are failing? What else could be done? (科學家警告，即使所有現有的氣候承諾都完全兌現，全球氣溫仍可能上升2.6°C。這是否意味著像COP31這樣的氣候峰會正在失敗？還有什麼其他可以做的？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-11-en-2",
+      "lang": "en",
+      "source": "Reuters / AFP",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "flag": "🇦🇺",
+      "date": "2026-11-11",
+      "adaptedFrom": "Reuters / AFP via Wikipedia Portal: Current Events",
+      "title": "Australia Plans New Rules to Make Artificial Intelligence Companies Safer",
+      "summary": "Australia's Prime Minister Anthony Albanese has announced that the government will introduce new, mandatory safety rules for companies that develop artificial intelligence (AI). Under these plans, AI companies must report serious problems or accidents involving their systems, and their AI models will need to be checked by independent experts. A brand-new government body will also be created to make sure companies follow the rules. This is part of a growing global conversation about how governments should manage AI technology responsibly. Australia joins several other countries that are working on laws to ensure AI is used in ways that are safe and fair for everyone.",
+      "questions": {
+        "lv1": [
+          "What is the name of Australia's Prime Minister who announced the new AI rules? (宣布新人工智能規定的澳洲總理叫什麼名字？)",
+          "What must AI companies do if something goes seriously wrong with their systems under the new rules? (根據新規定，如果人工智能系統出現嚴重問題，企業必須怎樣做？)"
+        ],
+        "lv2": [
+          "Why do you think governments want independent experts to check AI systems, rather than letting the companies check themselves? (你認為為什麼政府希望由獨立專家來檢查人工智能系統，而不是讓企業自己檢查？)",
+          "How might these new AI safety rules affect students or schools that use AI tools for learning? (這些新的人工智能安全規定可能會如何影響使用人工智能工具學習的學生或學校？)"
+        ],
+        "lv3": [
+          "Some tech companies argue that strict government rules will slow down AI innovation and put them at a disadvantage compared to countries with looser regulations. Do you think safety rules and innovation can coexist? How? (一些科技公司認為，嚴格的政府規定會拖慢人工智能創新，並使他們相對於法規較寬鬆的國家處於不利地位。你認為安全規定和創新可以並存嗎？如何做到？)",
+          "Who should ultimately be responsible when an AI system causes harm — the government, the company that built it, or the person who used it? Explain your reasoning. (當人工智能系統造成傷害時，誰應該最終負責——政府、開發它的公司，還是使用它的人？請解釋你的理由。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-11-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261111/s00002",
+      "flag": "🇭🇰",
+      "date": "2026-11-11",
+      "adaptedFrom": "明報",
+      "title": "港浸大聯同諾獎得主研發全球首隻丙型肝炎疫苗 最快2028年展開臨床研究",
+      "summary": "香港浸會大學與一位諾貝爾獎得主合作，正共同研發全球首隻丙型肝炎（丙肝）疫苗。丙肝是一種由病毒引起的肝臟疾病，全球有數千萬人受感染。研究團隊已獲一家中國藥廠支持，計劃於2028年正式展開臨床研究，即在真人身上測試疫苗是否安全有效。研究人員希望未來疫苗的售價能夠讓一般市民負擔，造福更多有需要的病人。若研發成功，將是醫學上的重大突破，有助在全球消滅丙肝。",
+      "questions": {
+        "lv1": [
+          "香港浸會大學正與什麼類型的著名科學家合作研發疫苗？",
+          "研究團隊計劃在哪一年開始正式在人類身上測試丙肝疫苗？"
+        ],
+        "lv2": [
+          "為什麼研究人員強調希望疫苗的價格能讓一般市民負擔得起？這對全球健康有什麼重要意義？",
+          "疫苗在正式推出前為何需要經過臨床研究階段？這個過程有什麼作用？"
+        ],
+        "lv3": [
+          "有人認為藥廠應該以商業利益為先，訂定較高的藥物售價以回收研發成本；也有人認為藥物是基本人權，必須讓所有人負擔得起。你認為應如何在兩者之間取得平衡？",
+          "香港的科研機構與內地藥廠合作研發疫苗，這種跨境合作模式有什麼優點和潛在風險？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-11-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://stepaper.stheadline.com/",
+      "flag": "🇭🇰",
+      "date": "2026-11-11",
+      "adaptedFrom": "星島日報",
+      "title": "北環線造價862億元預計2034年通車 政府批出8幅土地予港鐵發展",
+      "summary": "政府宣布，連接新界北部的北環線鐵路項目最新建造費用為862億元，較早前預算減少約28%。工程採用「鐵路加物業」模式推進，即政府向港鐵批出沿線8幅土地，讓港鐵以物業發展收益支付部分建設費用。北環線預計最快於2034年正式通車，屆時將連接新界北都發展區，並與現有鐵路線接駁，方便居民出行及促進北部都會區的發展。運輸及房屋局官員表示，項目有助推動香港長遠規劃。",
+      "questions": {
+        "lv1": [
+          "北環線的最新建造費用是多少億元？",
+          "政府預計北環線在哪一年正式通車？"
+        ],
+        "lv2": [
+          "什麼是「鐵路加物業」模式？這種方式對政府和港鐵各有什麼好處？",
+          "北環線落成後，對新界北部居民的日常生活會帶來哪些改變？"
+        ],
+        "lv3": [
+          "有意見認為大型基建項目造價高昂，公帑應優先用於教育和醫療等民生項目；也有人認為改善交通基建是推動經濟和城市發展的必要投資。你認為政府應如何取捨？",
+          "「鐵路加物業」模式依賴地產發展來資助鐵路建設。如果樓市下滑，這種模式會帶來什麼風險？政府應如何應對？"
+        ]
+      }
+    }
+  ]
+}
