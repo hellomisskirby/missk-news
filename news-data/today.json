@@ -1,105 +1,105 @@
 {
-  "generated": "2026-11-11T10:28:31.572468+08:00",
-  "date": "2026-11-11",
+  "generated": "2026-11-12T11:32:37.243338+08:00",
+  "date": "2026-11-12",
   "count": 4,
   "articles": [
     {
-      "id": "2026-11-11-en-1",
+      "id": "2026-11-12-en-1",
       "lang": "en",
-      "source": "UN News / Reuters",
-      "sourceUrl": "https://news.un.org/en/story/2026/11/1168763",
+      "source": "Reuters",
+      "sourceUrl": "https://www.tbsnews.net/world/cop31-leaders-try-out-new-sales-pitch-climate-action-do-it-economy-1599971",
       "flag": "🌍",
-      "date": "2026-11-11",
-      "adaptedFrom": "UN News",
-      "title": "World Leaders Gather in Turkey Today for Major Climate Summit COP31",
-      "summary": "Today, world leaders from nearly 200 countries are meeting in Antalya, Turkey, for the COP31 climate summit — one of the biggest environmental meetings on Earth. The summit, which runs until 20 November, focuses on cutting pollution, switching to cleaner energy, and helping poorer countries deal with floods and heatwaves. A special Leaders' Summit takes place today and tomorrow, where heads of state are expected to make new promises on climate action. The United Nations warned that current plans are still not enough to stop temperatures from rising dangerously. Scientists say the world could warm by about 2.6°C if countries do not do more.",
+      "date": "2026-11-12",
+      "adaptedFrom": "Reuters",
+      "title": "World Leaders at COP31 Say Fighting Climate Change Is Good for the Economy",
+      "summary": "World leaders gathering at the COP31 climate summit in Antalya, Turkey, are using a fresh argument to push for stronger action against global warming: tackling climate change can help grow economies and lower the cost of everyday living. Representatives from nearly 200 countries are there to agree on new plans to use more clean electricity and reduce dependence on fossil fuels like coal and oil. The United Nations chief warned that the world is heading toward serious danger if countries do not act faster. Brazil and Turkey both urged that wars and trade problems should not be used as excuses to slow down climate efforts. Scientists say cutting emissions is more urgent than ever.",
       "questions": {
         "lv1": [
-          "Where is the COP31 climate summit being held this year? (今年的COP31氣候峰會在哪個城市舉行？)",
-          "How many countries are taking part in the COP31 summit? (有多少個國家參加COP31峰會？)"
+          "Where is the COP31 climate meeting being held? (COP31氣候會議在哪個城市舉行？)",
+          "What is the new reason leaders are giving for fighting climate change? (領袖們提出了什麼新理由來支持應對氣候變化？)"
         ],
         "lv2": [
-          "Why do you think world leaders need to gather together to talk about climate change instead of each country deciding on its own? (你認為為什麼世界各國領袖需要聚在一起討論氣候變化，而不是各自決定？)",
-          "What could happen to our planet if countries do not keep their promises to reduce pollution? (如果各國不履行減少污染的承諾，地球會發生什麼事？)"
+          "Why do you think some world leaders argue that fighting climate change is good for the economy? (你認為為什麼有些世界領袖認為應對氣候變化對經濟有好處？)",
+          "Why might wars and trade disputes make it harder for countries to focus on climate action? (為什麼戰爭和貿易爭端可能令各國更難專注於應對氣候變化？)"
         ],
         "lv3": [
-          "Some argue that wealthy countries should pay more to help poorer nations deal with climate change, while others say every country must share the burden equally. Which view do you agree with more, and why? (有人認為富裕國家應該為幫助貧窮國家應對氣候變化付出更多，也有人認為每個國家都應該平等分擔責任。你更同意哪個觀點？為什麼？)",
-          "Scientists warn that even if all current climate pledges are fully met, global temperatures may still rise by 2.6°C. Does this mean climate summits like COP31 are failing? What else could be done? (科學家警告，即使所有現有的氣候承諾都完全兌現，全球氣溫仍可能上升2.6°C。這是否意味著像COP31這樣的氣候峰會正在失敗？還有什麼其他可以做的？)"
+          "Some people believe that economic growth should come before environmental protection, especially in poorer countries. Do you agree or disagree? Explain your reasoning with examples. (有人認為，尤其是在較貧窮的國家，經濟發展應先於環境保護。你是否同意？請用例子說明你的立場。)",
+          "Should wealthy countries be required to pay more than developing countries to fight climate change? Who should decide how much each country contributes? (富裕國家是否應該比發展中國家承擔更多應對氣候變化的費用？應由誰來決定各國的貢獻份額？)"
         ]
       }
     },
     {
-      "id": "2026-11-11-en-2",
+      "id": "2026-11-12-en-2",
       "lang": "en",
-      "source": "Reuters / AFP",
-      "sourceUrl": "https://en.wikipedia.org/wiki/Portal:Current_events",
-      "flag": "🇦🇺",
-      "date": "2026-11-11",
-      "adaptedFrom": "Reuters / AFP via Wikipedia Portal: Current Events",
-      "title": "Australia Plans New Rules to Make Artificial Intelligence Companies Safer",
-      "summary": "Australia's Prime Minister Anthony Albanese has announced that the government will introduce new, mandatory safety rules for companies that develop artificial intelligence (AI). Under these plans, AI companies must report serious problems or accidents involving their systems, and their AI models will need to be checked by independent experts. A brand-new government body will also be created to make sure companies follow the rules. This is part of a growing global conversation about how governments should manage AI technology responsibly. Australia joins several other countries that are working on laws to ensure AI is used in ways that are safe and fair for everyone.",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/",
+      "flag": "🔬",
+      "date": "2026-11-10",
+      "adaptedFrom": "ScienceDaily",
+      "title": "Scientists Discover Giant Rodent Fossils in Thailand That Are 34 Million Years Old",
+      "summary": "Researchers have found fossils of a gigantic rodent in Thailand that lived around 34 million years ago. The ancient creature, named Yakamys sirindhornae, may have weighed approximately 66 kilograms — far heavier than most rodents alive today. This discovery surprised scientists because it shows that very large rodents evolved much earlier in history than experts had previously believed. The fossils were unearthed in Thailand, adding important new knowledge about how animals developed across Southeast Asia during prehistoric times. Scientists hope this find will help them better understand how the region's wildlife changed over millions of years and how animals adapted to their ancient environments.",
       "questions": {
         "lv1": [
-          "What is the name of Australia's Prime Minister who announced the new AI rules? (宣布新人工智能規定的澳洲總理叫什麼名字？)",
-          "What must AI companies do if something goes seriously wrong with their systems under the new rules? (根據新規定，如果人工智能系統出現嚴重問題，企業必須怎樣做？)"
+          "In which country were the giant rodent fossils discovered? (巨型囓齒動物化石是在哪個國家被發現的？)",
+          "How many millions of years ago did this ancient giant rodent live? (這隻古代巨型囓齒動物大約在多少百萬年前生活？)"
         ],
         "lv2": [
-          "Why do you think governments want independent experts to check AI systems, rather than letting the companies check themselves? (你認為為什麼政府希望由獨立專家來檢查人工智能系統，而不是讓企業自己檢查？)",
-          "How might these new AI safety rules affect students or schools that use AI tools for learning? (這些新的人工智能安全規定可能會如何影響使用人工智能工具學習的學生或學校？)"
+          "Why is it significant that giant rodents evolved earlier than scientists previously thought? (為什麼科學家發現巨型囓齒動物比以前認為的更早演化，這一點很重要？)",
+          "How do scientists learn about animals that lived millions of years ago if no one was around to observe them? (科學家如何研究數百萬年前生活的動物，當時根本沒有人能親眼觀察？)"
         ],
         "lv3": [
-          "Some tech companies argue that strict government rules will slow down AI innovation and put them at a disadvantage compared to countries with looser regulations. Do you think safety rules and innovation can coexist? How? (一些科技公司認為，嚴格的政府規定會拖慢人工智能創新，並使他們相對於法規較寬鬆的國家處於不利地位。你認為安全規定和創新可以並存嗎？如何做到？)",
-          "Who should ultimately be responsible when an AI system causes harm — the government, the company that built it, or the person who used it? Explain your reasoning. (當人工智能系統造成傷害時，誰應該最終負責——政府、開發它的公司，還是使用它的人？請解釋你的理由。)"
+          "Palaeontology — the study of ancient life through fossils — often receives less funding than other sciences. Do you think governments should invest more in fossil research? What might society gain from such discoveries? (古生物學——通過化石研究古代生命——往往獲得的資金比其他科學少。你認為政府應增加對化石研究的投資嗎？社會能從這些發現中得到什麼？)",
+          "This fossil was named after a Thai princess to honour her contribution to science. Should scientists have the right to name new species after living people, including politicians or royalty? What are the benefits and risks? (這塊化石以一位泰國公主的名字命名，以表彰她對科學的貢獻。科學家是否應有權以在世的人物，包括政治人物或皇室成員的名字為新物種命名？有什麼好處和風險？)"
         ]
       }
     },
     {
-      "id": "2026-11-11-zh-1",
+      "id": "2026-11-12-zh-1",
       "lang": "zh",
       "source": "明報",
       "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261111/s00002",
       "flag": "🇭🇰",
       "date": "2026-11-11",
       "adaptedFrom": "明報",
-      "title": "港浸大聯同諾獎得主研發全球首隻丙型肝炎疫苗 最快2028年展開臨床研究",
-      "summary": "香港浸會大學與一位諾貝爾獎得主合作，正共同研發全球首隻丙型肝炎（丙肝）疫苗。丙肝是一種由病毒引起的肝臟疾病，全球有數千萬人受感染。研究團隊已獲一家中國藥廠支持，計劃於2028年正式展開臨床研究，即在真人身上測試疫苗是否安全有效。研究人員希望未來疫苗的售價能夠讓一般市民負擔，造福更多有需要的病人。若研發成功，將是醫學上的重大突破，有助在全球消滅丙肝。",
+      "title": "北環線造價降至862億 港鐵獲批8幅土地抵銷建造費用",
+      "summary": "香港鐵路有限公司（港鐵）興建北環線的最新預算降至約862億港元，較早前估算減少約兩成八。政府表示，造價下降主要因為更新了鐵路建造標準。作為補償安排，政府同意批出8幅土地予港鐵，讓公司可透過物業發展收益抵銷部分建設開支。北環線是香港北部都會區發展計劃的重要組成部分，建成後將連接新界西北與深圳，預計大幅改善區內居民的出行便利。",
       "questions": {
         "lv1": [
-          "香港浸會大學正與什麼類型的著名科學家合作研發疫苗？",
-          "研究團隊計劃在哪一年開始正式在人類身上測試丙肝疫苗？"
+          "北環線最新預算造價是多少億港元？",
+          "政府批出多少幅土地予港鐵以抵銷建造費用？"
         ],
         "lv2": [
-          "為什麼研究人員強調希望疫苗的價格能讓一般市民負擔得起？這對全球健康有什麼重要意義？",
-          "疫苗在正式推出前為何需要經過臨床研究階段？這個過程有什麼作用？"
+          "為什麼政府要向港鐵批出土地，而不是直接提供金錢補貼？這種安排有什麼好處？",
+          "北環線建成後，對新界北部居民的日常生活會有哪些影響？"
         ],
         "lv3": [
-          "有人認為藥廠應該以商業利益為先，訂定較高的藥物售價以回收研發成本；也有人認為藥物是基本人權，必須讓所有人負擔得起。你認為應如何在兩者之間取得平衡？",
-          "香港的科研機構與內地藥廠合作研發疫苗，這種跨境合作模式有什麼優點和潛在風險？"
+          "有意見認為，大型基建項目的造價時常超支，令公帑浪費。你認為政府應如何更有效地監管鐵路工程的預算和開支？",
+          "香港北部都會區的發展計劃引發了關於城市擴張與保育農地的爭論。你認為城市發展與保護自然環境之間應如何取得平衡？"
         ]
       }
     },
     {
-      "id": "2026-11-11-zh-2",
+      "id": "2026-11-12-zh-2",
       "lang": "zh",
       "source": "星島日報",
-      "sourceUrl": "https://stepaper.stheadline.com/",
+      "sourceUrl": "https://www.singtao.co.uk/",
       "flag": "🇭🇰",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "adaptedFrom": "星島日報",
-      "title": "北環線造價862億元預計2034年通車 政府批出8幅土地予港鐵發展",
-      "summary": "政府宣布，連接新界北部的北環線鐵路項目最新建造費用為862億元，較早前預算減少約28%。工程採用「鐵路加物業」模式推進，即政府向港鐵批出沿線8幅土地，讓港鐵以物業發展收益支付部分建設費用。北環線預計最快於2034年正式通車，屆時將連接新界北都發展區，並與現有鐵路線接駁，方便居民出行及促進北部都會區的發展。運輸及房屋局官員表示，項目有助推動香港長遠規劃。",
+      "title": "詐騙網站FundHK冒用本港機構名義籌款 馬會及多個團體急發聲明澄清",
+      "summary": "香港近日出現一個名為「FundHK」的可疑網站，涉嫌冒用多個本地知名機構的名稱進行網上籌款活動。香港賽馬會、香港社會服務聯會及數家傳媒機構相繼發表聲明，強調與該網站毫無關係，並提醒市民切勿輕易捐款或提供個人資料。事件引發社會對網絡詐騙問題的高度關注，警方呼籲市民若收到相關籌款訊息，應先向相關機構查核，以免成為詐騙受害者。",
       "questions": {
         "lv1": [
-          "北環線的最新建造費用是多少億元？",
-          "政府預計北環線在哪一年正式通車？"
+          "「FundHK」網站被指做了什麼不誠實的行為？",
+          "香港賽馬會發表聲明的目的是什麼？"
         ],
         "lv2": [
-          "什麼是「鐵路加物業」模式？這種方式對政府和港鐵各有什麼好處？",
-          "北環線落成後，對新界北部居民的日常生活會帶來哪些改變？"
+          "為什麼詐騙者會選擇冒用知名機構的名義行騙？這樣做對騙徒有什麼好處？",
+          "市民在網上收到籌款訊息時，應如何分辨真偽，保護自己不受騙？"
         ],
         "lv3": [
-          "有意見認為大型基建項目造價高昂，公帑應優先用於教育和醫療等民生項目；也有人認為改善交通基建是推動經濟和城市發展的必要投資。你認為政府應如何取捨？",
-          "「鐵路加物業」模式依賴地產發展來資助鐵路建設。如果樓市下滑，這種模式會帶來什麼風險？政府應如何應對？"
+          "隨著網絡詐騙手法日趨複雜，有人認為政府應立法要求所有籌款平台強制登記及接受審查。你認為這樣做有哪些優點和缺點？",
+          "當一個機構的名譽被詐騙者冒用，即使機構本身並無過失，其公信力也可能受損。你認為社會、媒體和政府各自應承擔什麼責任，以保護公眾免受此類傷害？"
         ]
       }
     }
