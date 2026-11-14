@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-14T10:51:52.814217+08:00",
+  "date": "2026-11-14",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-14-en-1",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://www.geo.tv/latest/691032-us-homeland-security-chief-dismisses-link-between-faa-ground-stop-and-microsoft-outage",
+      "flag": "🇺🇸",
+      "date": "2026-11-14",
+      "adaptedFrom": "Reuters",
+      "title": "Microsoft Services Go Down Worldwide — But Company Says It Has Nothing to Do With Grounded US Flights",
+      "summary": "On 13–14 November 2026, millions of people around the world were unable to use popular Microsoft tools such as Outlook, Teams and Copilot after a major technical problem struck the company's servers. The trouble began when engineers made a change to the network that caused an unexpected failure. At the same time, all flights across the United States were ordered to stop departing because of a separate communications breakdown at air traffic control centres. Many people wondered if the two problems were connected. Microsoft quickly stated that the two events had nothing to do with each other. Engineers worked through the night to fix the server issue and gradually restored services.",
+      "questions": {
+        "lv1": [
+          "What Microsoft services stopped working during the outage? (微軟的哪些服務在故障期間停止運作？)",
+          "Did Microsoft say the flight ground stop was caused by their outage? (微軟有沒有說停飛令是由他們的故障引起的？)"
+        ],
+        "lv2": [
+          "Why do you think so many people around the world were affected when Microsoft's servers went down? (你認為為甚麼微軟的伺服器出現故障時，全球那麼多人受到影響？)",
+          "How might a communications failure at air traffic control centres cause problems for passengers at airports? (航空交通管制中心的通訊故障，會如何影響機場的乘客？)"
+        ],
+        "lv3": [
+          "If a single technology company's outage can disrupt governments, airlines and businesses worldwide, what does this tell us about how dependent modern society has become on a small number of technology firms? Should this dependence be reduced? (如果一家科技公司的故障能夠影響全球各地的政府、航空公司和企業，這說明了現代社會對少數科技公司的依賴程度如何？我們是否應該減少這種依賴？)",
+          "During a major technology outage, who do you think should be responsible for ensuring public safety — the technology company, the government, or the businesses that rely on the technology? Give reasons for your view. (在重大科技故障期間，你認為誰應該負責確保公眾安全——科技公司、政府，還是依賴該技術的企業？請說明你的理由。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-14-en-2",
+      "lang": "en",
+      "source": "NBC News",
+      "sourceUrl": "https://www.nbcnews.com/news/us-news/live-blog/live-updates-flights-grounded-faa-communications-outage-rcna609268",
+      "flag": "🇺🇸",
+      "date": "2026-11-14",
+      "adaptedFrom": "NBC News",
+      "title": "All US Flights Grounded for Hours After Air Traffic Control Communications Break Down",
+      "summary": "On Friday 13 November 2026, the United States Federal Aviation Administration (FAA) made the rare decision to order every airport in the country to stop letting planes take off. The reason was a serious communications problem affecting all air traffic control centres, which are the facilities that guide planes safely through the sky. Thousands of scheduled flights were cancelled or delayed, leaving passengers stranded at airports across the country. Officials said early investigations found no signs of a cyberattack. The ground stop was eventually lifted, but the disruption caused hours of chaos for travellers. Authorities promised a full investigation into how the communications systems failed.",
+      "questions": {
+        "lv1": [
+          "Why did the FAA order all flights to stop taking off? (美國聯邦航空管理局為甚麼下令所有航班停止起飛？)",
+          "Were officials worried that the ground stop was caused by a cyberattack? (官員有沒有擔心停飛令是由網絡攻擊引起的？)"
+        ],
+        "lv2": [
+          "Why is it so important for air traffic control centres to have reliable communications systems? (為甚麼空中交通管制中心擁有可靠的通訊系統如此重要？)",
+          "How might a nationwide flight ground stop affect people and businesses beyond just those travelling that day? (全國性的航班停飛令，除了對當天旅客的影響之外，還可能如何影響其他人和企業？)"
+        ],
+        "lv3": [
+          "Air travel relies heavily on complex technology systems. Should governments require airlines and aviation authorities to have stronger backup systems to prevent this kind of disruption? Who should pay for these improvements? (航空旅行非常依賴複雜的技術系統。政府是否應該要求航空公司和航空管理機構擁有更強大的備用系統，以防止此類混亂？誰應該承擔這些改善的費用？)",
+          "When a major event like a nationwide ground stop happens, news and social media spread information very quickly — but sometimes that information is wrong. How should the public decide what news to trust during a fast-moving crisis? (當全國性停飛令等重大事件發生時，新聞和社交媒體會非常迅速地傳播資訊——但有時這些資訊是錯誤的。公眾在快速發展的危機中應該如何判斷哪些新聞是可信的？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-14-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20261114/s00005/1794618180339/faa%E8%A7%A3%E9%99%A4%E5%81%9C%E9%A3%9B%E4%BB%A4-%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E4%B8%80%E5%BA%A6%E5%9B%A0%E9%80%9A%E8%A8%8A%E6%95%85%E9%9A%9C%E5%81%9C%E9%A3%9B",
+      "flag": "🇺🇸",
+      "date": "2026-11-14",
+      "adaptedFrom": "明報",
+      "title": "美全國航班一度緊急停飛　通訊故障釀逾4小時混亂",
+      "summary": "美國聯邦航空管理局（FAA）於11月13日向全美所有機場發出停飛令，原因是負責引導飛機在天空安全飛行的空中交通管制中心出現嚴重通訊故障。大批航班被迫取消或延誤，大量旅客滯留各大機場逾4小時。官員表示，初步調查未有發現網絡攻擊的迹象。FAA其後在社交媒體上形容事件為「暫時通訊故障」，強調為謹慎起見才發出停飛令。停飛令其後解除，當局承諾徹查事件原因。",
+      "questions": {
+        "lv1": [
+          "美國聯邦航空管理局為甚麼要發出停飛令？",
+          "今次停飛令令旅客在機場滯留了多少小時？"
+        ],
+        "lv2": [
+          "為甚麼空中交通管制中心的通訊系統一旦出現故障，就會影響全國所有航班？",
+          "你認為航空公司和相關部門應如何向受影響的旅客提供協助？"
+        ],
+        "lv3": [
+          "現代航空系統高度依賴電腦和通訊技術。若這些系統發生故障，誰應該承擔責任——政府、航空公司還是科技供應商？請說明你的看法。",
+          "有人認為政府應該投放更多資源為航空通訊系統建立備用設施，以防類似事故再次發生；亦有人認為這會增加公共開支負擔。你認為哪種意見更合理？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-14-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/2026/11/13/news/china/rain-bands-approach-hong-kong-heavy-showers/",
+      "flag": "🇭🇰",
+      "date": "2026-11-14",
+      "adaptedFrom": "星島日報",
+      "title": "天文台發特別天氣提示　雨帶逼近香港　市民需防大雨",
+      "summary": "香港天文台於11月14日（周六）凌晨零時發出特別天氣提示，指一個雨區正從珠江口以西及香港以南的海域逐漸靠近本港。天文台預料未來數小時本港雨勢有時頗大，呼籲市民密切留意最新天氣消息。若市民有戶外活動計劃，應提前做好準備，避免因大雨而發生意外。天文台亦提醒市民留意雨水對交通可能造成的影響，出行前先查閱最新路況。",
+      "questions": {
+        "lv1": [
+          "天文台在甚麼時間發出特別天氣提示？",
+          "雨區是從哪個方向靠近香港的？"
+        ],
+        "lv2": [
+          "為甚麼天文台要在凌晨發出特別天氣提示，而不是等到天亮才通知市民？",
+          "大雨會對香港市民的日常生活和交通帶來哪些影響？"
+        ],
+        "lv3": [
+          "隨著科技進步，天文台現在能夠更準確地預測天氣。你認為準確的天氣預報對社會有多重要？假如天氣預測出現錯誤，可能造成甚麼後果？",
+          "有意見認為氣候變化令極端天氣事件愈來愈頻繁，香港政府和市民應各自承擔甚麼責任來應對這一挑戰？"
+        ]
+      }
+    }
+  ]
+}

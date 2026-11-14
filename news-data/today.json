@@ -1,105 +1,105 @@
 {
-  "generated": "2026-11-13T11:05:38.778162+08:00",
-  "date": "2026-11-13",
+  "generated": "2026-11-14T10:51:52.814217+08:00",
+  "date": "2026-11-14",
   "count": 4,
   "articles": [
     {
-      "id": "2026-11-13-en-1",
+      "id": "2026-11-14-en-1",
       "lang": "en",
-      "source": "The Japan Times (Reuters)",
-      "sourceUrl": "https://www.japantimes.co.jp/news/2026/11/13/japan/defense-buildup-fiscal-constraints/",
-      "flag": "🇯🇵",
-      "date": "2026-11-13",
-      "adaptedFrom": "The Japan Times / Reuters",
-      "title": "Japan Plans to Spend Less on Military Than Some Officials Wanted",
-      "summary": "Japan's Finance Ministry has suggested spending between 50 and 60 trillion yen on its military over the five years starting in April 2027. This is more than the country's current plan, but much less than the 80 trillion yen that some defence officials and politicians had hoped for. The proposal could mean buying fewer missiles and aircraft, including American-made F-35 stealth fighter jets. The government is trying to balance increasing its defence strength with other promises, such as investing in economic growth and lowering food taxes, which would reduce the money available to spend.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.geo.tv/latest/691032-us-homeland-security-chief-dismisses-link-between-faa-ground-stop-and-microsoft-outage",
+      "flag": "🇺🇸",
+      "date": "2026-11-14",
+      "adaptedFrom": "Reuters",
+      "title": "Microsoft Services Go Down Worldwide — But Company Says It Has Nothing to Do With Grounded US Flights",
+      "summary": "On 13–14 November 2026, millions of people around the world were unable to use popular Microsoft tools such as Outlook, Teams and Copilot after a major technical problem struck the company's servers. The trouble began when engineers made a change to the network that caused an unexpected failure. At the same time, all flights across the United States were ordered to stop departing because of a separate communications breakdown at air traffic control centres. Many people wondered if the two problems were connected. Microsoft quickly stated that the two events had nothing to do with each other. Engineers worked through the night to fix the server issue and gradually restored services.",
       "questions": {
         "lv1": [
-          "How much money did Japan's Finance Ministry suggest spending on its military over five years? (日本財務省建議在五年內花多少錢在軍事上？)",
-          "What is one type of weapon that Japan might buy fewer of under the new plan? (根據新計劃，日本可能減少購買哪一種武器？)"
+          "What Microsoft services stopped working during the outage? (微軟的哪些服務在故障期間停止運作？)",
+          "Did Microsoft say the flight ground stop was caused by their outage? (微軟有沒有說停飛令是由他們的故障引起的？)"
         ],
         "lv2": [
-          "Why does Japan's government find it difficult to spend as much on defence as some officials want? (為什麼日本政府難以在國防上花費某些官員所希望的金額？)",
-          "Why do you think governments need to make choices about how to divide their money between different things like defence, health and education? (你認為為什麼政府需要在國防、醫療和教育等不同事項之間作出預算抉擇？)"
+          "Why do you think so many people around the world were affected when Microsoft's servers went down? (你認為為甚麼微軟的伺服器出現故障時，全球那麼多人受到影響？)",
+          "How might a communications failure at air traffic control centres cause problems for passengers at airports? (航空交通管制中心的通訊故障，會如何影響機場的乘客？)"
         ],
         "lv3": [
-          "Some people believe countries should spend more on their military to stay safe, while others think that money should go towards helping citizens at home. Which view do you agree with more, and why? (有人認為國家應增加軍費以保障安全，也有人認為這些錢應用於改善市民生活。你較認同哪種觀點？為什麼？)",
-          "Japan is a country that, after World War Two, promised to limit its military. Do you think it is right for Japan to increase its defence spending now? What factors should a country consider before building up its military? (日本在二戰後曾承諾限制其軍事力量。你認為日本現在增加軍費是否恰當？一個國家在擴充軍事力量前應考慮哪些因素？)"
+          "If a single technology company's outage can disrupt governments, airlines and businesses worldwide, what does this tell us about how dependent modern society has become on a small number of technology firms? Should this dependence be reduced? (如果一家科技公司的故障能夠影響全球各地的政府、航空公司和企業，這說明了現代社會對少數科技公司的依賴程度如何？我們是否應該減少這種依賴？)",
+          "During a major technology outage, who do you think should be responsible for ensuring public safety — the technology company, the government, or the businesses that rely on the technology? Give reasons for your view. (在重大科技故障期間，你認為誰應該負責確保公眾安全——科技公司、政府，還是依賴該技術的企業？請說明你的理由。)"
         ]
       }
     },
     {
-      "id": "2026-11-13-en-2",
+      "id": "2026-11-14-en-2",
       "lang": "en",
-      "source": "Islands Business (PACNEWS)",
-      "sourceUrl": "https://islandsbusiness.com/pacnews/pacnews-one-13-november-2026/",
-      "flag": "🌏",
-      "date": "2026-11-13",
-      "adaptedFrom": "Islands Business / PACNEWS",
-      "title": "Pacific Youth Warn: Weakening Climate Science at COP31 Is Dangerous",
-      "summary": "At the COP31 climate conference currently taking place in Antalya, Turkey, a young leader from the Pacific Islands has raised an urgent warning. Vishal Prasad, who represents Pacific Islands Students Fighting Climate Change, said that if world leaders question or ignore climate science during the talks, it will be harder to take action against global warming. Scientists have already warned that going above 1.5 degrees Celsius of warming — even briefly — could cause serious and possibly permanent harm to people and nature. Prasad stressed that science must stay at the heart of all decisions governments make about climate change.",
+      "source": "NBC News",
+      "sourceUrl": "https://www.nbcnews.com/news/us-news/live-blog/live-updates-flights-grounded-faa-communications-outage-rcna609268",
+      "flag": "🇺🇸",
+      "date": "2026-11-14",
+      "adaptedFrom": "NBC News",
+      "title": "All US Flights Grounded for Hours After Air Traffic Control Communications Break Down",
+      "summary": "On Friday 13 November 2026, the United States Federal Aviation Administration (FAA) made the rare decision to order every airport in the country to stop letting planes take off. The reason was a serious communications problem affecting all air traffic control centres, which are the facilities that guide planes safely through the sky. Thousands of scheduled flights were cancelled or delayed, leaving passengers stranded at airports across the country. Officials said early investigations found no signs of a cyberattack. The ground stop was eventually lifted, but the disruption caused hours of chaos for travellers. Authorities promised a full investigation into how the communications systems failed.",
       "questions": {
         "lv1": [
-          "Where is the COP31 climate conference being held? (COP31氣候會議在哪裡舉行？)",
-          "What temperature limit are scientists trying to keep global warming below? (科學家希望將全球暖化控制在多少攝氏度以下？)"
+          "Why did the FAA order all flights to stop taking off? (美國聯邦航空管理局為甚麼下令所有航班停止起飛？)",
+          "Were officials worried that the ground stop was caused by a cyberattack? (官員有沒有擔心停飛令是由網絡攻擊引起的？)"
         ],
         "lv2": [
-          "Why does Vishal Prasad think it is dangerous if governments ignore climate science at COP31? (為什麼Vishal Prasad認為，若各國政府在COP31上忽視氣候科學是危險的？)",
-          "Why might small Pacific Island nations be especially worried about global warming compared to larger countries? (與較大國家相比，為什麼太平洋小島國家可能對全球暖化特別憂慮？)"
+          "Why is it so important for air traffic control centres to have reliable communications systems? (為甚麼空中交通管制中心擁有可靠的通訊系統如此重要？)",
+          "How might a nationwide flight ground stop affect people and businesses beyond just those travelling that day? (全國性的航班停飛令，除了對當天旅客的影響之外，還可能如何影響其他人和企業？)"
         ],
         "lv3": [
-          "Some world leaders have argued that protecting their economies is more important than following strict climate targets. Do you think economic growth and fighting climate change can happen at the same time? Give reasons for your answer. (有些國家領導人認為保護經濟比遵守嚴格氣候目標更重要。你認為經濟增長與應對氣候變化能同時實現嗎？請說明你的理由。)",
-          "Young people like Vishal Prasad are playing a bigger role in climate negotiations. Do you think young people should have a formal vote or decision-making power at events like COP? Why or why not? (像Vishal Prasad這樣的年輕人在氣候談判中扮演更重要的角色。你認為年輕人是否應在COP等活動中擁有正式的投票或決策權？為什麼？)"
+          "Air travel relies heavily on complex technology systems. Should governments require airlines and aviation authorities to have stronger backup systems to prevent this kind of disruption? Who should pay for these improvements? (航空旅行非常依賴複雜的技術系統。政府是否應該要求航空公司和航空管理機構擁有更強大的備用系統，以防止此類混亂？誰應該承擔這些改善的費用？)",
+          "When a major event like a nationwide ground stop happens, news and social media spread information very quickly — but sometimes that information is wrong. How should the public decide what news to trust during a fast-moving crisis? (當全國性停飛令等重大事件發生時，新聞和社交媒體會非常迅速地傳播資訊——但有時這些資訊是錯誤的。公眾在快速發展的危機中應該如何判斷哪些新聞是可信的？)"
         ]
       }
     },
     {
-      "id": "2026-11-13-zh-1",
-      "lang": "zh",
-      "source": "星島頭條",
-      "sourceUrl": "https://www.stheadline.com/",
-      "flag": "🇭🇰",
-      "date": "2026-11-13",
-      "adaptedFrom": "星島頭條",
-      "title": "微軟服務今晨全球大故障　香港上班族電郵及會議受阻",
-      "summary": "微軟旗下雲端辦公平台Microsoft 365於11月13日凌晨發生大規模全球故障，旗下人工智能功能Copilot、電郵服務Outlook及通訊軟件Teams同時無法正常運作。微軟隨即緊急重啟伺服器，逐步恢復服務，但清晨時仍有數以萬計用戶回報出現問題。香港眾多企業及上班族受到影響，早上收發電郵及舉行網上會議均遇上困難。事件反映現代社會對雲端科技的高度依賴，一旦系統出現故障，影響可波及全球。",
-      "questions": {
-        "lv1": [
-          "今次微軟故障影響了哪三個主要服務？",
-          "香港上班族在今早受到了什麼影響？"
-        ],
-        "lv2": [
-          "為什麼微軟的服務出現故障會同時影響到全球這麼多用戶？",
-          "企業和學校依賴雲端服務有什麼好處和壞處？"
-        ],
-        "lv3": [
-          "現代社會愈來愈依賴少數大型科技公司提供的雲端服務。你認為這種高度集中的依賴會帶來什麼風險？政府或企業應如何應對？",
-          "有人認為學校和政府機構應避免過度依賴單一科技公司的產品，改用多元化或本地開發的系統。你是否同意這個看法？請說明理由。"
-        ]
-      }
-    },
-    {
-      "id": "2026-11-13-zh-2",
+      "id": "2026-11-14-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/section/20261112/s00001",
-      "flag": "🇭🇰",
-      "date": "2026-11-13",
+      "sourceUrl": "https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20261114/s00005/1794618180339/faa%E8%A7%A3%E9%99%A4%E5%81%9C%E9%A3%9B%E4%BB%A4-%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E4%B8%80%E5%BA%A6%E5%9B%A0%E9%80%9A%E8%A8%8A%E6%95%85%E9%9A%9C%E5%81%9C%E9%A3%9B",
+      "flag": "🇺🇸",
+      "date": "2026-11-14",
       "adaptedFrom": "明報",
-      "title": "港府刊憲教育修訂草案　教師須持執業證明書　犯國安罪者不得任教",
-      "summary": "香港政府於11月13日在憲報刊登《2026年教育（修訂）條例草案》，建議正式引入教師執業證明書制度。根據草案，教師須持有相關證明書方可在學校任教，而曾被裁定觸犯《國家安全法》相關罪行的人士，將被禁止在學校擔任教職。此舉旨在進一步規範本港教師專業資格及品格要求。草案刊憲後，將提交立法會審議。教育界人士關注新制度對現職教師的影響及審批程序的透明度。",
+      "title": "美全國航班一度緊急停飛　通訊故障釀逾4小時混亂",
+      "summary": "美國聯邦航空管理局（FAA）於11月13日向全美所有機場發出停飛令，原因是負責引導飛機在天空安全飛行的空中交通管制中心出現嚴重通訊故障。大批航班被迫取消或延誤，大量旅客滯留各大機場逾4小時。官員表示，初步調查未有發現網絡攻擊的迹象。FAA其後在社交媒體上形容事件為「暫時通訊故障」，強調為謹慎起見才發出停飛令。停飛令其後解除，當局承諾徹查事件原因。",
       "questions": {
         "lv1": [
-          "根據新草案，教師在學校任教前需要持有什麼？",
-          "哪一類人士根據草案將不可在學校任教？"
+          "美國聯邦航空管理局為甚麼要發出停飛令？",
+          "今次停飛令令旅客在機場滯留了多少小時？"
         ],
         "lv2": [
-          "政府為什麼要引入教師執業證明書制度？這對學生有什麼好處？",
-          "草案刊憲後，需要經過什麼程序才能正式成為法律？"
+          "為甚麼空中交通管制中心的通訊系統一旦出現故障，就會影響全國所有航班？",
+          "你認為航空公司和相關部門應如何向受影響的旅客提供協助？"
         ],
         "lv3": [
-          "有人認為，對教師設立額外的資格及品格審查要求有助提升教育質素；但也有人擔心此舉會令教師感到壓力或限制教學自由。你認為這項政策的利弊各是什麼？",
-          "教師的專業操守與其個人行為之間的界線應如何劃分？你認為政府在規管教師資格時，應考慮哪些原則？"
+          "現代航空系統高度依賴電腦和通訊技術。若這些系統發生故障，誰應該承擔責任——政府、航空公司還是科技供應商？請說明你的看法。",
+          "有人認為政府應該投放更多資源為航空通訊系統建立備用設施，以防類似事故再次發生；亦有人認為這會增加公共開支負擔。你認為哪種意見更合理？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-14-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/2026/11/13/news/china/rain-bands-approach-hong-kong-heavy-showers/",
+      "flag": "🇭🇰",
+      "date": "2026-11-14",
+      "adaptedFrom": "星島日報",
+      "title": "天文台發特別天氣提示　雨帶逼近香港　市民需防大雨",
+      "summary": "香港天文台於11月14日（周六）凌晨零時發出特別天氣提示，指一個雨區正從珠江口以西及香港以南的海域逐漸靠近本港。天文台預料未來數小時本港雨勢有時頗大，呼籲市民密切留意最新天氣消息。若市民有戶外活動計劃，應提前做好準備，避免因大雨而發生意外。天文台亦提醒市民留意雨水對交通可能造成的影響，出行前先查閱最新路況。",
+      "questions": {
+        "lv1": [
+          "天文台在甚麼時間發出特別天氣提示？",
+          "雨區是從哪個方向靠近香港的？"
+        ],
+        "lv2": [
+          "為甚麼天文台要在凌晨發出特別天氣提示，而不是等到天亮才通知市民？",
+          "大雨會對香港市民的日常生活和交通帶來哪些影響？"
+        ],
+        "lv3": [
+          "隨著科技進步，天文台現在能夠更準確地預測天氣。你認為準確的天氣預報對社會有多重要？假如天氣預測出現錯誤，可能造成甚麼後果？",
+          "有意見認為氣候變化令極端天氣事件愈來愈頻繁，香港政府和市民應各自承擔甚麼責任來應對這一挑戰？"
         ]
       }
     }
