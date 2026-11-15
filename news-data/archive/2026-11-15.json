@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-15T10:19:55.090639+08:00",
+  "date": "2026-11-15",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-15-en-1",
+      "lang": "en",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.com/news/articles/world-europe-aliaga-factory-explosion-2026",
+      "flag": "🇬🇧",
+      "date": "2026-11-15",
+      "adaptedFrom": "BBC News",
+      "title": "Deadly Factory Explosion in Turkey Kills 17 People",
+      "summary": "A powerful explosion tore through a factory in Aliağa, a coastal city in western Turkey, on November 15, 2026. At least 17 workers lost their lives and 12 more were injured in the blast. Emergency teams rushed to the scene to help survivors and search for anyone still trapped in the damaged building. Authorities have launched an investigation to find out what caused the explosion. Factory accidents like this remind us how important workplace safety rules are, and why governments and companies must work together to protect the people who work in industrial sites every day.",
+      "questions": {
+        "lv1": [
+          "Where did the factory explosion happen? (工廠爆炸事件發生在哪裡？)",
+          "How many people were killed in the explosion? (爆炸中有多少人喪生？)"
+        ],
+        "lv2": [
+          "Why is it important for governments to have safety rules for factories? (為什麼政府為工廠制定安全規則很重要？)",
+          "What kinds of people or organisations would be responsible for investigating a factory accident like this? (哪些人或機構會負責調查這類工廠事故？)"
+        ],
+        "lv3": [
+          "Who do you think should be held responsible when a deadly factory accident occurs — the factory owner, the government, or both? Explain your view. (當工廠發生致命事故時，你認為誰應該負責——工廠東主、政府，還是兩者皆是？請說明你的立場。)",
+          "Some people argue that stricter safety inspections slow down production and hurt businesses. Do you agree that economic growth should sometimes be prioritised over worker safety? Why or why not? (有人認為更嚴格的安全檢查會拖慢生產並影響企業。你是否同意有時應將經濟發展置於工人安全之上？為什麼？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-15-en-2",
+      "lang": "en",
+      "source": "The Straits Times",
+      "sourceUrl": "https://www.straitstimes.com/asia/se-asia/thailand-cabinet-approves-new-environmental-rules-for-ai-data-centres-2026",
+      "flag": "🇸🇬",
+      "date": "2026-11-15",
+      "adaptedFrom": "The Straits Times (AFP)",
+      "title": "Thailand Sets New Green Rules for AI Data Centres to Protect the Environment",
+      "summary": "Thailand's government has approved a new set of environmental rules aimed at making artificial intelligence data centres more eco-friendly. The regulations set limits on how much noise and heat these large computer facilities can produce, and require them to recycle the water used for cooling their machines. Facilities that use more than 20 megawatts of power must also be built in specially designated industrial areas. As AI technology grows rapidly across Asia, more and more huge data centres are being built, raising concerns about their energy use and environmental impact. Thailand's move shows that countries are beginning to take action to balance technological growth with environmental responsibility.",
+      "questions": {
+        "lv1": [
+          "What type of buildings do Thailand's new environmental rules apply to? (泰國的新環保規定適用於哪類建築？)",
+          "Name one environmental rule that AI data centres in Thailand must now follow. (說出泰國人工智能數據中心現在須遵守的一項環保規定。)"
+        ],
+        "lv2": [
+          "Why do you think large data centres can be harmful to the environment if they are not carefully managed? (你認為如果大型數據中心管理不當，為什麼會對環境有害？)",
+          "How might strict environmental rules for data centres affect the growth of AI technology in a country? (對數據中心實施嚴格環保規定，可能如何影響一個國家人工智能技術的發展？)"
+        ],
+        "lv3": [
+          "Some technology companies argue that strict environmental rules will make it too expensive to build data centres and could slow down AI progress. Do you think economic development or environmental protection should come first? (一些科技公司認為嚴格的環保規定會令數據中心建設成本過高，並可能減慢AI發展。你認為應先顧及經濟發展還是環境保護？)",
+          "As AI becomes more powerful, it requires more energy and more data centres. Should developing countries in Asia be allowed to set lower environmental standards to help their economies grow faster, or should all countries follow the same rules? Discuss. (隨著AI日益強大，它需要更多能源和數據中心。發展中的亞洲國家是否應該被允許設定較低的環保標準，以幫助其經濟更快增長，還是所有國家都應遵守相同規定？請討論。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-15-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/中國/section/20261114/s00013",
+      "flag": "🇭🇰",
+      "date": "2026-11-15",
+      "adaptedFrom": "明報",
+      "title": "深圳舉行APEC峰會　聚焦AI貿易　習近平主持工商領袖會議",
+      "summary": "2026年亞太經合組織（APEC）會議於11月13至19日在深圳舉行，各地領袖聚首一堂，重點討論人工智能（AI）與國際貿易的未來發展。中國國家主席習近平南下深圳，主持工商領導人峰會，中方希望各成員國能在會議上達成「深圳宣言」。深圳市政府為配合峰會，實施多項交通管制措施，並向市民致謝配合。APEC是亞太區重要的經濟合作平台，成員包括中國、美國、日本等多個主要經濟體。",
+      "questions": {
+        "lv1": [
+          "今年的APEC峰會在哪個城市舉行？",
+          "是次APEC峰會的重點討論議題是什麼？"
+        ],
+        "lv2": [
+          "為什麼舉辦像APEC這樣的國際峰會需要實施交通管制？",
+          "AI與貿易有什麼關係，為什麼各國領袖要在峰會上討論這個議題？"
+        ],
+        "lv3": [
+          "有人認為AI技術的發展有利全球貿易，但也可能令部分工人失業。你認為各國政府應如何平衡科技進步與保障工人就業？",
+          "APEC成員國之間在經濟發展水平上差距很大。你認為在制定AI或貿易相關政策時，不同發展程度的國家應一視同仁，還是應按各自情況作出不同安排？請說明理由。"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-15-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/2026/11/14/news/china/meta-ai-age-hong-kong-instagram/",
+      "flag": "🇭🇰",
+      "date": "2026-11-15",
+      "adaptedFrom": "星島日報",
+      "title": "Meta將AI年齡偵測技術引入香港Instagram　保護青少年用戶",
+      "summary": "社交媒體巨頭Meta宣布，將人工智能（AI）年齡估算技術擴展至香港的Instagram平台。系統能自動偵測懷疑虛報年齡的未成年用戶，一旦發現有關帳戶，便會自動啟動青少年保護措施，例如限制瀏覽某些內容及設定每日使用時間上限。Meta同時呼籲其他社交平台跟隨推行類似措施，共同保障青少年的網上安全。此舉反映科技公司日益重視青少年的數碼健康，香港社會亦關注年輕人在社交媒體上的安全問題。",
+      "questions": {
+        "lv1": [
+          "Meta將哪項新技術引入香港的Instagram？",
+          "AI年齡偵測技術的主要目的是什麼？"
+        ],
+        "lv2": [
+          "為什麼社交媒體平台需要特別為青少年設立保護措施？",
+          "如果青少年虛報年齡使用社交媒體，可能會面對哪些風險？"
+        ],
+        "lv3": [
+          "有人認為社交媒體公司有責任保護青少年用戶，但也有人認為這是家長和學校的責任。你認為誰應該負起最大的責任？請從不同角度討論。",
+          "AI能夠估算用戶年齡，但這項技術是否有可能侵犯用戶的私隱？科技帶來的保護與私隱之間應如何取得平衡？"
+        ]
+      }
+    }
+  ]
+}
