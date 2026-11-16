@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-16T10:31:34.569083+08:00",
+  "date": "2026-11-16",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-16-en-1",
+      "lang": "en",
+      "source": "The Japan Times",
+      "sourceUrl": "https://www.japantimes.co.jp/news/2026/11/16/asia-pacific/china-ai-native-generation/",
+      "flag": "🇯🇵",
+      "date": "2026-11-16",
+      "adaptedFrom": "The Japan Times",
+      "title": "China Wants Every Student to Grow Up Knowing How to Use AI",
+      "summary": "In Beijing, some students are already using artificial intelligence to build apps, program robots, and even practise flying simulators at school. China has set an ambitious goal: by the year 2030, every child in the country should understand AI — from the basics all the way to solving complex problems with it. Schools are adding coding workshops and AI tools to daily lessons. Supporters say AI helps students learn faster and more independently. But the plan raises big questions about fairness — not all schools across China have the same technology or resources to offer these opportunities.",
+      "questions": {
+        "lv1": [
+          "What do some students in Beijing use artificial intelligence to do at school? (北京的一些學生在學校用人工智能做什麼？)",
+          "By what year does China want all children to understand AI? (中國希望在哪一年前讓所有兒童了解人工智能？)"
+        ],
+        "lv2": [
+          "Why might learning AI skills be useful for students in the future? (為什麼學習人工智能技能對學生的未來可能有幫助？)",
+          "How could schools adding AI and coding lessons change the way children study every day? (學校加入人工智能和編程課程，可能如何改變學生每天的學習方式？)"
+        ],
+        "lv3": [
+          "If some schools have advanced AI tools and others do not, how might this create an unfair gap between students from different backgrounds? (如果部分學校擁有先進的人工智能工具，而其他學校卻沒有，這可能如何造成不同背景學生之間的不公平差距？)",
+          "Should AI be used as a teaching assistant in every classroom, or could it make students too dependent on technology instead of thinking for themselves? Explain your view. (人工智能應該在每間課室用作教學助理嗎？還是這樣做會令學生過度依賴科技而無法獨立思考？請說明你的看法。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-16-en-2",
+      "lang": "en",
+      "source": "The Straits Times (AFP)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "flag": "🌏",
+      "date": "2026-11-16",
+      "adaptedFrom": "The Straits Times (AFP)",
+      "title": "Thailand Sets Strict Green Rules for Data Centres Amid AI Boom",
+      "summary": "As the demand for AI technology grows rapidly around the world, more and more large data centres are being built to store and process information. Thailand's government has just approved new rules to make sure these facilities are kinder to the environment. The regulations set limits on how much noise and heat data centres can produce, require them to recycle cooling water, and place large facilities in special industrial zones. Thailand hopes this will help manage the environmental cost of the global AI boom while still welcoming technology investment into the country.",
+      "questions": {
+        "lv1": [
+          "What kind of new rules did Thailand's government approve for data centres? (泰國政府為數據中心批准了哪類新規定？)",
+          "Name one thing that data centres in Thailand must now do to protect the environment. (說出一件泰國數據中心現在必須做的環保事項。)"
+        ],
+        "lv2": [
+          "Why do you think more data centres are being built around the world right now? (你認為為什麼現在世界各地正在興建越來越多的數據中心？)",
+          "How might setting environmental rules for data centres help both people and nature in Thailand? (為數據中心制定環保規定，可能如何同時幫助泰國的人和自然環境？)"
+        ],
+        "lv3": [
+          "Some countries may choose not to regulate data centres strictly in order to attract more technology companies and investment. Do you think economic growth or environmental protection should come first? Justify your answer. (一些國家可能選擇不嚴格規管數據中心，以吸引更多科技公司和投資。你認為應先追求經濟增長還是保護環境？請說明你的理由。)",
+          "As AI becomes more powerful, it will require even more energy and water to run. Who should be responsible for managing this environmental impact — technology companies, governments, or ordinary users? (隨著人工智能日益強大，它需要更多能源和水來運作。誰應該負責管理這種對環境的影響——科技公司、政府，還是普通用戶？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-16-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/section/20261114/s00001",
+      "flag": "🇭🇰",
+      "date": "2026-11-16",
+      "adaptedFrom": "明報",
+      "title": "香港迪士尼遭網絡入侵　逾萬張電子門票疑外洩",
+      "summary": "香港迪士尼樂園早前發現電腦系統出現異常，懷疑遭黑客入侵，約1.7萬張電子門票的資料可能受影響。樂園隨即暫停網上售票及酒店預訂服務，並向警方報案。事件再次引發社會對個人資料保護及網絡安全的關注，提醒市民及機構妥善保管數碼資料，以防私隱外洩帶來損失。",
+      "questions": {
+        "lv1": [
+          "香港迪士尼樂園發現電腦系統出現什麼問題？",
+          "迪士尼在事件發生後採取了哪兩項即時行動？"
+        ],
+        "lv2": [
+          "為什麼機構的電腦系統遭到入侵會對普通市民造成影響？",
+          "樂園暫停網上售票服務對訪客有什麼好處和壞處？"
+        ],
+        "lv3": [
+          "當大型機構遭受網絡攻擊後，誰應該負上更大責任保護用戶資料——機構本身、政府，還是用戶個人？請提出你的論點。",
+          "隨著愈來愈多日常服務轉為數碼化，網絡安全問題會否變得更難處理？我們應如何在科技便利與個人資料保護之間取得平衡？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-16-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/2026/11/15/news/china/interpol-general-assembly-hong-kong-police-escort/",
+      "flag": "🇭🇰",
+      "date": "2026-11-16",
+      "adaptedFrom": "星島日報",
+      "title": "國際刑警大會首次移師香港　逾千名全球警隊首長出席",
+      "summary": "第94屆國際刑警組織全體大會將於11月底在香港舉行，預計有逾千名來自世界各地的警隊首長及政府高層與會。國際刑警組織成立逾百年，是全球規模最大的執法合作組織。今次是香港首次承辦此盛會，對提升本港國際地位具重要意義。警方護送組已積極籌備，確保各代表的行程安全順暢。",
+      "questions": {
+        "lv1": [
+          "今次國際刑警組織全體大會預計在哪裡舉行？",
+          "預計有多少名代表出席今次大會？"
+        ],
+        "lv2": [
+          "為什麼國際刑警組織的全球執法合作對打擊罪案非常重要？",
+          "香港首次承辦國際刑警大會，對香港有什麼潛在好處？"
+        ],
+        "lv3": [
+          "國際刑警組織在全球執法合作方面扮演重要角色，但不同國家的法律標準有所差異。你認為這會如何影響各國在打擊跨境罪案時的合作效果？",
+          "香港承辦大型國際會議能提升城市的形象和地位，但同時需要投入大量資源及加強安全措施。你認為這對香港市民來說利多於弊，還是弊多於利？"
+        ]
+      }
+    }
+  ]
+}

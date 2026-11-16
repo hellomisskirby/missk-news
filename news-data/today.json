@@ -1,105 +1,105 @@
 {
-  "generated": "2026-11-15T10:19:55.090639+08:00",
-  "date": "2026-11-15",
+  "generated": "2026-11-16T10:31:34.569083+08:00",
+  "date": "2026-11-16",
   "count": 4,
   "articles": [
     {
-      "id": "2026-11-15-en-1",
+      "id": "2026-11-16-en-1",
       "lang": "en",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.com/news/articles/world-europe-aliaga-factory-explosion-2026",
-      "flag": "🇬🇧",
-      "date": "2026-11-15",
-      "adaptedFrom": "BBC News",
-      "title": "Deadly Factory Explosion in Turkey Kills 17 People",
-      "summary": "A powerful explosion tore through a factory in Aliağa, a coastal city in western Turkey, on November 15, 2026. At least 17 workers lost their lives and 12 more were injured in the blast. Emergency teams rushed to the scene to help survivors and search for anyone still trapped in the damaged building. Authorities have launched an investigation to find out what caused the explosion. Factory accidents like this remind us how important workplace safety rules are, and why governments and companies must work together to protect the people who work in industrial sites every day.",
+      "source": "The Japan Times",
+      "sourceUrl": "https://www.japantimes.co.jp/news/2026/11/16/asia-pacific/china-ai-native-generation/",
+      "flag": "🇯🇵",
+      "date": "2026-11-16",
+      "adaptedFrom": "The Japan Times",
+      "title": "China Wants Every Student to Grow Up Knowing How to Use AI",
+      "summary": "In Beijing, some students are already using artificial intelligence to build apps, program robots, and even practise flying simulators at school. China has set an ambitious goal: by the year 2030, every child in the country should understand AI — from the basics all the way to solving complex problems with it. Schools are adding coding workshops and AI tools to daily lessons. Supporters say AI helps students learn faster and more independently. But the plan raises big questions about fairness — not all schools across China have the same technology or resources to offer these opportunities.",
       "questions": {
         "lv1": [
-          "Where did the factory explosion happen? (工廠爆炸事件發生在哪裡？)",
-          "How many people were killed in the explosion? (爆炸中有多少人喪生？)"
+          "What do some students in Beijing use artificial intelligence to do at school? (北京的一些學生在學校用人工智能做什麼？)",
+          "By what year does China want all children to understand AI? (中國希望在哪一年前讓所有兒童了解人工智能？)"
         ],
         "lv2": [
-          "Why is it important for governments to have safety rules for factories? (為什麼政府為工廠制定安全規則很重要？)",
-          "What kinds of people or organisations would be responsible for investigating a factory accident like this? (哪些人或機構會負責調查這類工廠事故？)"
+          "Why might learning AI skills be useful for students in the future? (為什麼學習人工智能技能對學生的未來可能有幫助？)",
+          "How could schools adding AI and coding lessons change the way children study every day? (學校加入人工智能和編程課程，可能如何改變學生每天的學習方式？)"
         ],
         "lv3": [
-          "Who do you think should be held responsible when a deadly factory accident occurs — the factory owner, the government, or both? Explain your view. (當工廠發生致命事故時，你認為誰應該負責——工廠東主、政府，還是兩者皆是？請說明你的立場。)",
-          "Some people argue that stricter safety inspections slow down production and hurt businesses. Do you agree that economic growth should sometimes be prioritised over worker safety? Why or why not? (有人認為更嚴格的安全檢查會拖慢生產並影響企業。你是否同意有時應將經濟發展置於工人安全之上？為什麼？)"
+          "If some schools have advanced AI tools and others do not, how might this create an unfair gap between students from different backgrounds? (如果部分學校擁有先進的人工智能工具，而其他學校卻沒有，這可能如何造成不同背景學生之間的不公平差距？)",
+          "Should AI be used as a teaching assistant in every classroom, or could it make students too dependent on technology instead of thinking for themselves? Explain your view. (人工智能應該在每間課室用作教學助理嗎？還是這樣做會令學生過度依賴科技而無法獨立思考？請說明你的看法。)"
         ]
       }
     },
     {
-      "id": "2026-11-15-en-2",
+      "id": "2026-11-16-en-2",
       "lang": "en",
-      "source": "The Straits Times",
-      "sourceUrl": "https://www.straitstimes.com/asia/se-asia/thailand-cabinet-approves-new-environmental-rules-for-ai-data-centres-2026",
-      "flag": "🇸🇬",
-      "date": "2026-11-15",
+      "source": "The Straits Times (AFP)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "flag": "🌏",
+      "date": "2026-11-16",
       "adaptedFrom": "The Straits Times (AFP)",
-      "title": "Thailand Sets New Green Rules for AI Data Centres to Protect the Environment",
-      "summary": "Thailand's government has approved a new set of environmental rules aimed at making artificial intelligence data centres more eco-friendly. The regulations set limits on how much noise and heat these large computer facilities can produce, and require them to recycle the water used for cooling their machines. Facilities that use more than 20 megawatts of power must also be built in specially designated industrial areas. As AI technology grows rapidly across Asia, more and more huge data centres are being built, raising concerns about their energy use and environmental impact. Thailand's move shows that countries are beginning to take action to balance technological growth with environmental responsibility.",
+      "title": "Thailand Sets Strict Green Rules for Data Centres Amid AI Boom",
+      "summary": "As the demand for AI technology grows rapidly around the world, more and more large data centres are being built to store and process information. Thailand's government has just approved new rules to make sure these facilities are kinder to the environment. The regulations set limits on how much noise and heat data centres can produce, require them to recycle cooling water, and place large facilities in special industrial zones. Thailand hopes this will help manage the environmental cost of the global AI boom while still welcoming technology investment into the country.",
       "questions": {
         "lv1": [
-          "What type of buildings do Thailand's new environmental rules apply to? (泰國的新環保規定適用於哪類建築？)",
-          "Name one environmental rule that AI data centres in Thailand must now follow. (說出泰國人工智能數據中心現在須遵守的一項環保規定。)"
+          "What kind of new rules did Thailand's government approve for data centres? (泰國政府為數據中心批准了哪類新規定？)",
+          "Name one thing that data centres in Thailand must now do to protect the environment. (說出一件泰國數據中心現在必須做的環保事項。)"
         ],
         "lv2": [
-          "Why do you think large data centres can be harmful to the environment if they are not carefully managed? (你認為如果大型數據中心管理不當，為什麼會對環境有害？)",
-          "How might strict environmental rules for data centres affect the growth of AI technology in a country? (對數據中心實施嚴格環保規定，可能如何影響一個國家人工智能技術的發展？)"
+          "Why do you think more data centres are being built around the world right now? (你認為為什麼現在世界各地正在興建越來越多的數據中心？)",
+          "How might setting environmental rules for data centres help both people and nature in Thailand? (為數據中心制定環保規定，可能如何同時幫助泰國的人和自然環境？)"
         ],
         "lv3": [
-          "Some technology companies argue that strict environmental rules will make it too expensive to build data centres and could slow down AI progress. Do you think economic development or environmental protection should come first? (一些科技公司認為嚴格的環保規定會令數據中心建設成本過高，並可能減慢AI發展。你認為應先顧及經濟發展還是環境保護？)",
-          "As AI becomes more powerful, it requires more energy and more data centres. Should developing countries in Asia be allowed to set lower environmental standards to help their economies grow faster, or should all countries follow the same rules? Discuss. (隨著AI日益強大，它需要更多能源和數據中心。發展中的亞洲國家是否應該被允許設定較低的環保標準，以幫助其經濟更快增長，還是所有國家都應遵守相同規定？請討論。)"
+          "Some countries may choose not to regulate data centres strictly in order to attract more technology companies and investment. Do you think economic growth or environmental protection should come first? Justify your answer. (一些國家可能選擇不嚴格規管數據中心，以吸引更多科技公司和投資。你認為應先追求經濟增長還是保護環境？請說明你的理由。)",
+          "As AI becomes more powerful, it will require even more energy and water to run. Who should be responsible for managing this environmental impact — technology companies, governments, or ordinary users? (隨著人工智能日益強大，它需要更多能源和水來運作。誰應該負責管理這種對環境的影響——科技公司、政府，還是普通用戶？)"
         ]
       }
     },
     {
-      "id": "2026-11-15-zh-1",
+      "id": "2026-11-16-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/pns/中國/section/20261114/s00013",
+      "sourceUrl": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/section/20261114/s00001",
       "flag": "🇭🇰",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "adaptedFrom": "明報",
-      "title": "深圳舉行APEC峰會　聚焦AI貿易　習近平主持工商領袖會議",
-      "summary": "2026年亞太經合組織（APEC）會議於11月13至19日在深圳舉行，各地領袖聚首一堂，重點討論人工智能（AI）與國際貿易的未來發展。中國國家主席習近平南下深圳，主持工商領導人峰會，中方希望各成員國能在會議上達成「深圳宣言」。深圳市政府為配合峰會，實施多項交通管制措施，並向市民致謝配合。APEC是亞太區重要的經濟合作平台，成員包括中國、美國、日本等多個主要經濟體。",
+      "title": "香港迪士尼遭網絡入侵　逾萬張電子門票疑外洩",
+      "summary": "香港迪士尼樂園早前發現電腦系統出現異常，懷疑遭黑客入侵，約1.7萬張電子門票的資料可能受影響。樂園隨即暫停網上售票及酒店預訂服務，並向警方報案。事件再次引發社會對個人資料保護及網絡安全的關注，提醒市民及機構妥善保管數碼資料，以防私隱外洩帶來損失。",
       "questions": {
         "lv1": [
-          "今年的APEC峰會在哪個城市舉行？",
-          "是次APEC峰會的重點討論議題是什麼？"
+          "香港迪士尼樂園發現電腦系統出現什麼問題？",
+          "迪士尼在事件發生後採取了哪兩項即時行動？"
         ],
         "lv2": [
-          "為什麼舉辦像APEC這樣的國際峰會需要實施交通管制？",
-          "AI與貿易有什麼關係，為什麼各國領袖要在峰會上討論這個議題？"
+          "為什麼機構的電腦系統遭到入侵會對普通市民造成影響？",
+          "樂園暫停網上售票服務對訪客有什麼好處和壞處？"
         ],
         "lv3": [
-          "有人認為AI技術的發展有利全球貿易，但也可能令部分工人失業。你認為各國政府應如何平衡科技進步與保障工人就業？",
-          "APEC成員國之間在經濟發展水平上差距很大。你認為在制定AI或貿易相關政策時，不同發展程度的國家應一視同仁，還是應按各自情況作出不同安排？請說明理由。"
+          "當大型機構遭受網絡攻擊後，誰應該負上更大責任保護用戶資料——機構本身、政府，還是用戶個人？請提出你的論點。",
+          "隨著愈來愈多日常服務轉為數碼化，網絡安全問題會否變得更難處理？我們應如何在科技便利與個人資料保護之間取得平衡？"
         ]
       }
     },
     {
-      "id": "2026-11-15-zh-2",
+      "id": "2026-11-16-zh-2",
       "lang": "zh",
       "source": "星島日報",
-      "sourceUrl": "https://www.singtaousa.com/2026/11/14/news/china/meta-ai-age-hong-kong-instagram/",
+      "sourceUrl": "https://www.singtaousa.com/2026/11/15/news/china/interpol-general-assembly-hong-kong-police-escort/",
       "flag": "🇭🇰",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "adaptedFrom": "星島日報",
-      "title": "Meta將AI年齡偵測技術引入香港Instagram　保護青少年用戶",
-      "summary": "社交媒體巨頭Meta宣布，將人工智能（AI）年齡估算技術擴展至香港的Instagram平台。系統能自動偵測懷疑虛報年齡的未成年用戶，一旦發現有關帳戶，便會自動啟動青少年保護措施，例如限制瀏覽某些內容及設定每日使用時間上限。Meta同時呼籲其他社交平台跟隨推行類似措施，共同保障青少年的網上安全。此舉反映科技公司日益重視青少年的數碼健康，香港社會亦關注年輕人在社交媒體上的安全問題。",
+      "title": "國際刑警大會首次移師香港　逾千名全球警隊首長出席",
+      "summary": "第94屆國際刑警組織全體大會將於11月底在香港舉行，預計有逾千名來自世界各地的警隊首長及政府高層與會。國際刑警組織成立逾百年，是全球規模最大的執法合作組織。今次是香港首次承辦此盛會，對提升本港國際地位具重要意義。警方護送組已積極籌備，確保各代表的行程安全順暢。",
       "questions": {
         "lv1": [
-          "Meta將哪項新技術引入香港的Instagram？",
-          "AI年齡偵測技術的主要目的是什麼？"
+          "今次國際刑警組織全體大會預計在哪裡舉行？",
+          "預計有多少名代表出席今次大會？"
         ],
         "lv2": [
-          "為什麼社交媒體平台需要特別為青少年設立保護措施？",
-          "如果青少年虛報年齡使用社交媒體，可能會面對哪些風險？"
+          "為什麼國際刑警組織的全球執法合作對打擊罪案非常重要？",
+          "香港首次承辦國際刑警大會，對香港有什麼潛在好處？"
         ],
         "lv3": [
-          "有人認為社交媒體公司有責任保護青少年用戶，但也有人認為這是家長和學校的責任。你認為誰應該負起最大的責任？請從不同角度討論。",
-          "AI能夠估算用戶年齡，但這項技術是否有可能侵犯用戶的私隱？科技帶來的保護與私隱之間應如何取得平衡？"
+          "國際刑警組織在全球執法合作方面扮演重要角色，但不同國家的法律標準有所差異。你認為這會如何影響各國在打擊跨境罪案時的合作效果？",
+          "香港承辦大型國際會議能提升城市的形象和地位，但同時需要投入大量資源及加強安全措施。你認為這對香港市民來說利多於弊，還是弊多於利？"
         ]
       }
     }
