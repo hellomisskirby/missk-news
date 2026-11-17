@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-17T12:55:52.700997+08:00",
+  "date": "2026-11-17",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-17-en-1",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://kathmandupost.com/world/2026/11/17/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit",
+      "flag": "🇬🇧",
+      "date": "2026-11-17",
+      "adaptedFrom": "Reuters",
+      "title": "World Leaders Gather in Manila for the 49th ASEAN Summit",
+      "summary": "The Philippines is hosting one of Asia's biggest meetings — the 49th ASEAN Summit — in Manila this week. Leaders from eleven Southeast Asian countries, as well as partners including China, Japan, South Korea, and India, have gathered to discuss trade, technology, and regional safety. US President Donald Trump is also flying to Manila to attend a special US-ASEAN session and meet Philippine President Ferdinand Marcos Jr. Before that, Trump plans to join a Quad meeting with leaders from Japan, Australia, and India. After Manila, Trump will travel to Shenzhen for the APEC summit, where a historic three-way meeting between the US, China, and Russia is also planned.",
+      "questions": {
+        "lv1": [
+          "Which city is hosting the 49th ASEAN Summit? (第49屆東盟峰會在哪個城市舉行？)",
+          "How many countries are members of ASEAN? (東盟共有多少個成員國？)"
+        ],
+        "lv2": [
+          "Why do you think leaders from so many different countries want to attend the ASEAN Summit? (你認為為什麼來自這麼多不同國家的領導人都想出席東盟峰會？)",
+          "What is the Quad, and why might its meeting be important for peace and safety in Asia? (什麼是「四方安全對話」（Quad），它的會議對亞洲的和平和安全有何重要意義？)"
+        ],
+        "lv3": [
+          "ASEAN tries to stay neutral and work with both the US and China. Do you think this is a smart or difficult approach for smaller countries? Why? (東盟試圖保持中立，同時與美國和中國合作。你認為這對較小的國家來說是明智還是困難的做法？為什麼？)",
+          "A historic trilateral meeting between the US, China, and Russia is planned at APEC. What opportunities and risks might arise from such a meeting? (美國、中國和俄羅斯之間的歷史性三邊會晤計劃在亞太經合組織峰會上舉行。這樣的會晤可能帶來哪些機遇和風險？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-17-en-2",
+      "lang": "en",
+      "source": "AP News",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2026_United_Nations_Climate_Change_Conference",
+      "flag": "🇬🇧",
+      "date": "2026-11-17",
+      "adaptedFrom": "AP News / international newswires (COP31 coverage)",
+      "title": "COP31 Climate Summit Focuses on Protecting the World's Oceans",
+      "summary": "The United Nations climate conference, known as COP31, is taking place in Antalya, Turkey, and today's discussions are dedicated to the world's oceans and seas. Scientists and government representatives are negotiating a new agreement on how countries can cut pollution and slow climate change. Experts have pointed out that oceans absorb a large share of the heat and carbon dioxide produced by human activity, yet ocean protection is often overlooked in climate talks. Delegates are calling for clearer plans to connect ocean health with wider climate action. The conference runs until 20 November, with countries hoping to reach a meaningful global deal before it closes.",
+      "questions": {
+        "lv1": [
+          "In which country is the COP31 climate conference being held? (第31屆聯合國氣候大會在哪個國家舉行？)",
+          "What topic is being specially discussed at COP31 today? (今天的氣候大會特別討論什麼議題？)"
+        ],
+        "lv2": [
+          "Why are oceans considered important in the fight against climate change? (為什麼海洋在對抗氣候變化的過程中被認為非常重要？)",
+          "Why is it difficult for so many different countries to agree on a single climate deal? (為什麼這麼多不同的國家很難就一項氣候協議達成共識？)"
+        ],
+        "lv3": [
+          "Some people argue that developing countries should not have to cut emissions as quickly as rich countries because they have contributed less to the problem. Do you agree? Why or why not? (有人認為，發展中國家不應該像富裕國家一樣迅速減少排放，因為它們對問題的貢獻較少。你同意嗎？為什麼？)",
+          "If governments fail to reach a strong agreement at COP31, what other ways could individuals, schools, or companies help slow down climate change? (如果各國政府未能在COP31達成有力協議，個人、學校或企業還可以通過哪些方式幫助減緩氣候變化？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-17-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/section/20261117/s00001",
+      "flag": "🇭🇰",
+      "date": "2026-11-17",
+      "adaptedFrom": "明報",
+      "title": "特首李家超赴深圳出席APEC　將在大灣區研討會發表演講",
+      "summary": "香港特首李家超今日啟程前往深圳，出席亞太經合組織（APEC）相關會議及活動，為期三日。他將在大灣區專題研討會上發表演講，向各地代表介紹粵港澳大灣區的發展機遇。今次APEC峰會由中國主辦，主題為「共建亞太命運共同體」，吸引多個經濟體領袖出席。為配合峰會安全安排，香港全港由11月17日起連續四日禁止小型飛機及直升機飛行，新界北部亦另行限制無人機等飛行器。",
+      "questions": {
+        "lv1": [
+          "李家超今次前往哪個城市出席APEC會議？",
+          "今次APEC峰會由哪個國家主辦？"
+        ],
+        "lv2": [
+          "為什麼政府要在APEC峰會期間限制香港上空的飛行活動？",
+          "李家超在研討會上介紹大灣區機遇，對香港有什麼好處？"
+        ],
+        "lv3": [
+          "香港作為大灣區的重要城市，在推動區內經濟合作方面扮演什麼角色？你認為這對香港年輕人有什麼影響？",
+          "國際大型峰會往往需要嚴格的安全措施，但這些措施會影響市民的日常生活。你認為應如何在安全與市民便利之間取得平衡？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-17-zh-2",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/section/20261117/s00001",
+      "flag": "🇭🇰",
+      "date": "2026-11-17",
+      "adaptedFrom": "明報／香港晨早新聞摘要",
+      "title": "公營機構接連爆資料外泄　考評局及都大學生個人資料遭洩露",
+      "summary": "香港近期有多間公營機構相繼發生個人資料外泄事件，涉及考評局及香港都會大學等。有報道指暗網上出現疑似都大學生的個人資料，包括姓名、身分證號碼及電話等私隱資料，估計可能影響多達五千名學生。立法會議員促請政府加強監管，要求相關機構盡快查明事件原因，並通知受影響人士採取保護措施。事件引發社會各界關注網絡安全及個人私隱保障的問題。",
+      "questions": {
+        "lv1": [
+          "今次資料外泄事件涉及哪兩間香港公營機構？",
+          "暗網上出現了哪些類型的學生個人資料？"
+        ],
+        "lv2": [
+          "個人資料外泄對受影響的學生可能造成哪些危險或問題？",
+          "機構應該如何保護學生的個人資料，防止外泄事件發生？"
+        ],
+        "lv3": [
+          "隨著愈來愈多個人資料被儲存在網絡系統中，你認為政府、機構和個人各自應承擔什麼責任來保護私隱？",
+          "有意見認為應立法要求機構在資料外泄後24小時內通知受影響人士，你認為這項建議是否可行？有哪些優點和困難？"
+        ]
+      }
+    }
+  ]
+}
