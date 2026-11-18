@@ -1,105 +1,105 @@
 {
-  "generated": "2026-11-17T12:55:52.700997+08:00",
-  "date": "2026-11-17",
+  "generated": "2026-11-18T11:59:56.915748+08:00",
+  "date": "2026-11-18",
   "count": 4,
   "articles": [
     {
-      "id": "2026-11-17-en-1",
+      "id": "2026-11-18-en-1",
+      "lang": "en",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.com/news/articles/technology-meta-italy-fine-2026",
+      "flag": "🇬🇧",
+      "date": "2026-11-18",
+      "adaptedFrom": "BBC News",
+      "title": "Italy Fines Meta Nearly €805 Million for Secretly Accessing Users' Photos",
+      "summary": "Italy's data protection authority has issued a massive fine of €805 million — roughly equivalent to US$887 million — against the American technology giant Meta. Investigators found that the Facebook app on Android devices had been accessing users' private photos and videos without clearly asking for permission or telling users. This breaks European privacy laws, which require companies to be transparent about what data they collect. Meta, which also owns Instagram and WhatsApp, has faced many privacy-related fines in Europe in recent years. This case reminds us that even very large technology companies must follow rules designed to keep people's personal information safe and private.",
+      "questions": {
+        "lv1": [
+          "Which company was fined by Italy for accessing users' photos without permission? (哪間公司因未經用戶許可而讀取照片，被意大利政府罰款？)",
+          "How much money did Italy fine Meta? (意大利向Meta罰款多少錢？)"
+        ],
+        "lv2": [
+          "Why is it important for technology companies to ask for permission before collecting personal data? (為甚麼科技公司在收集個人資料前，必須先取得用戶同意？)",
+          "How do you think this fine might change the way Meta runs its apps in the future? (你認為這次罰款會如何影響Meta未來管理其應用程式的方式？)"
+        ],
+        "lv3": [
+          "Some people argue that technology companies collect too much personal data without users truly understanding what they agree to. Do you think current privacy laws are strong enough to protect ordinary people? Why or why not? (有人認為科技公司在用戶不知情下收集過多個人資料。你認為現行私隱法律是否足以保護普通市民？請解釋你的立場。)",
+          "Should governments around the world cooperate to create a single global standard for data privacy, or should each country be allowed to set its own rules? Discuss the advantages and disadvantages of both approaches. (各國政府是否應合作制訂統一的全球數據私隱標準，還是每個國家應自行制定規則？請分析兩種做法的優點和缺點。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-18-en-2",
       "lang": "en",
       "source": "Reuters",
-      "sourceUrl": "https://kathmandupost.com/world/2026/11/17/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit",
+      "sourceUrl": "https://islandsbusiness.com/pacnews/pacnews-two-18-november-2026/",
       "flag": "🇬🇧",
-      "date": "2026-11-17",
-      "adaptedFrom": "Reuters",
-      "title": "World Leaders Gather in Manila for the 49th ASEAN Summit",
-      "summary": "The Philippines is hosting one of Asia's biggest meetings — the 49th ASEAN Summit — in Manila this week. Leaders from eleven Southeast Asian countries, as well as partners including China, Japan, South Korea, and India, have gathered to discuss trade, technology, and regional safety. US President Donald Trump is also flying to Manila to attend a special US-ASEAN session and meet Philippine President Ferdinand Marcos Jr. Before that, Trump plans to join a Quad meeting with leaders from Japan, Australia, and India. After Manila, Trump will travel to Shenzhen for the APEC summit, where a historic three-way meeting between the US, China, and Russia is also planned.",
+      "date": "2026-11-18",
+      "adaptedFrom": "Reuters / PACNEWS (Islands Business)",
+      "title": "Schoolchildren Help Scientists Track Ocean Species Using DNA Clues in the Water",
+      "summary": "Scientists around the world are using a clever new method called environmental DNA — or 'eDNA' — to discover which animals are living in the ocean without even seeing them. Every creature leaves tiny genetic traces in the water, and by collecting and testing water samples, researchers can identify which species are present. UNESCO's eDNA Expeditions programme is running this project at 25 ocean sites globally, with local communities and even school students helping to gather samples every three months. As ocean temperatures rise due to climate change, fish and other sea animals are moving into new areas. This data helps governments decide which parts of the ocean need the most protection.",
       "questions": {
         "lv1": [
-          "Which city is hosting the 49th ASEAN Summit? (第49屆東盟峰會在哪個城市舉行？)",
-          "How many countries are members of ASEAN? (東盟共有多少個成員國？)"
+          "What does 'eDNA' stand for, and what is it used for? (「eDNA」代表甚麼？科學家用它來做甚麼？)",
+          "How often do volunteers collect water samples in the UNESCO eDNA programme? (聯合國教科文組織的eDNA計劃中，義工多久收集一次水樣本？)"
         ],
         "lv2": [
-          "Why do you think leaders from so many different countries want to attend the ASEAN Summit? (你認為為什麼來自這麼多不同國家的領導人都想出席東盟峰會？)",
-          "What is the Quad, and why might its meeting be important for peace and safety in Asia? (什麼是「四方安全對話」（Quad），它的會議對亞洲的和平和安全有何重要意義？)"
+          "Why is it helpful to use eDNA instead of trying to directly observe ocean animals? (為甚麼使用eDNA比直接觀察海洋生物更有幫助？)",
+          "How might rising ocean temperatures make it harder for scientists to protect marine life, and how can eDNA data help? (海洋溫度上升如何令保護海洋生物變得更困難？eDNA數據又如何提供幫助？)"
         ],
         "lv3": [
-          "ASEAN tries to stay neutral and work with both the US and China. Do you think this is a smart or difficult approach for smaller countries? Why? (東盟試圖保持中立，同時與美國和中國合作。你認為這對較小的國家來說是明智還是困難的做法？為什麼？)",
-          "A historic trilateral meeting between the US, China, and Russia is planned at APEC. What opportunities and risks might arise from such a meeting? (美國、中國和俄羅斯之間的歷史性三邊會晤計劃在亞太經合組織峰會上舉行。這樣的會晤可能帶來哪些機遇和風險？)"
+          "The eDNA programme involves schoolchildren in scientific research. Do you think involving young people in real scientific projects is important? What benefits and challenges might this bring? (eDNA計劃讓學生參與真實的科學研究。你認為讓年輕人參與科研是否重要？這樣做有甚麼好處和挑戰？)",
+          "Some governments and businesses want to mine the deep seabed for valuable metals, while scientists warn this could destroy fragile ocean ecosystems. How should the world balance economic development with ocean conservation? (部分政府和企業希望在深海採礦以獲取珍貴金屬，但科學家警告這可能破壞脆弱的海洋生態系統。世界應如何在經濟發展與海洋保育之間取得平衡？)"
         ]
       }
     },
     {
-      "id": "2026-11-17-en-2",
-      "lang": "en",
-      "source": "AP News",
-      "sourceUrl": "https://en.wikipedia.org/wiki/2026_United_Nations_Climate_Change_Conference",
-      "flag": "🇬🇧",
-      "date": "2026-11-17",
-      "adaptedFrom": "AP News / international newswires (COP31 coverage)",
-      "title": "COP31 Climate Summit Focuses on Protecting the World's Oceans",
-      "summary": "The United Nations climate conference, known as COP31, is taking place in Antalya, Turkey, and today's discussions are dedicated to the world's oceans and seas. Scientists and government representatives are negotiating a new agreement on how countries can cut pollution and slow climate change. Experts have pointed out that oceans absorb a large share of the heat and carbon dioxide produced by human activity, yet ocean protection is often overlooked in climate talks. Delegates are calling for clearer plans to connect ocean health with wider climate action. The conference runs until 20 November, with countries hoping to reach a meaningful global deal before it closes.",
-      "questions": {
-        "lv1": [
-          "In which country is the COP31 climate conference being held? (第31屆聯合國氣候大會在哪個國家舉行？)",
-          "What topic is being specially discussed at COP31 today? (今天的氣候大會特別討論什麼議題？)"
-        ],
-        "lv2": [
-          "Why are oceans considered important in the fight against climate change? (為什麼海洋在對抗氣候變化的過程中被認為非常重要？)",
-          "Why is it difficult for so many different countries to agree on a single climate deal? (為什麼這麼多不同的國家很難就一項氣候協議達成共識？)"
-        ],
-        "lv3": [
-          "Some people argue that developing countries should not have to cut emissions as quickly as rich countries because they have contributed less to the problem. Do you agree? Why or why not? (有人認為，發展中國家不應該像富裕國家一樣迅速減少排放，因為它們對問題的貢獻較少。你同意嗎？為什麼？)",
-          "If governments fail to reach a strong agreement at COP31, what other ways could individuals, schools, or companies help slow down climate change? (如果各國政府未能在COP31達成有力協議，個人、學校或企業還可以通過哪些方式幫助減緩氣候變化？)"
-        ]
-      }
-    },
-    {
-      "id": "2026-11-17-zh-1",
+      "id": "2026-11-18-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/section/20261117/s00001",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261118/s00002",
       "flag": "🇭🇰",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "adaptedFrom": "明報",
-      "title": "特首李家超赴深圳出席APEC　將在大灣區研討會發表演講",
-      "summary": "香港特首李家超今日啟程前往深圳，出席亞太經合組織（APEC）相關會議及活動，為期三日。他將在大灣區專題研討會上發表演講，向各地代表介紹粵港澳大灣區的發展機遇。今次APEC峰會由中國主辦，主題為「共建亞太命運共同體」，吸引多個經濟體領袖出席。為配合峰會安全安排，香港全港由11月17日起連續四日禁止小型飛機及直升機飛行，新界北部亦另行限制無人機等飛行器。",
+      "title": "中大醫院手術失誤　女病人卵巢遭誤切　院方承諾嚴肅處分醫生",
+      "summary": "中大醫院發生嚴重醫療事故，一名45歲女病人接受腹腔鏡手術期間，負責醫生竟誤切除其雙側卵巢，對病人身體造成重大影響。衛生署早於今年9月已收到醫院的醫療風險警示呈報。事件曝光後，院方表示將對涉事醫生採取處分行動。有關事件引起社會廣泛關注，促使公眾重新審視本港醫療系統的監管機制，以及病人在手術前應如何充分了解手術風險、保障自身權益。",
       "questions": {
         "lv1": [
-          "李家超今次前往哪個城市出席APEC會議？",
-          "今次APEC峰會由哪個國家主辦？"
+          "中大醫院發生了甚麼醫療事故？",
+          "衛生署是在哪個月份收到醫院的醫療風險警示？"
         ],
         "lv2": [
-          "為什麼政府要在APEC峰會期間限制香港上空的飛行活動？",
-          "李家超在研討會上介紹大灣區機遇，對香港有什麼好處？"
+          "為甚麼醫院在發生醫療事故後，需要向衛生署呈報？這樣做有甚麼作用？",
+          "病人在接受手術前，可以採取哪些措施來保障自己的安全和權益？"
         ],
         "lv3": [
-          "香港作為大灣區的重要城市，在推動區內經濟合作方面扮演什麼角色？你認為這對香港年輕人有什麼影響？",
-          "國際大型峰會往往需要嚴格的安全措施，但這些措施會影響市民的日常生活。你認為應如何在安全與市民便利之間取得平衡？"
+          "醫療失誤會對病人及其家人造成深遠影響。你認為香港應如何改善醫療監管制度，才能有效減少類似事故的發生？",
+          "當醫生因失誤而傷害病人，社會應如何平衡對醫生的懲處與對醫護人員的合理保護，以免優秀人才因怕犯錯而不願從醫？"
         ]
       }
     },
     {
-      "id": "2026-11-17-zh-2",
+      "id": "2026-11-18-zh-2",
       "lang": "zh",
-      "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/section/20261117/s00001",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/2026/11/17/news/china/cloudy-weather-temperature-drop-hong-kong/",
       "flag": "🇭🇰",
-      "date": "2026-11-17",
-      "adaptedFrom": "明報／香港晨早新聞摘要",
-      "title": "公營機構接連爆資料外泄　考評局及都大學生個人資料遭洩露",
-      "summary": "香港近期有多間公營機構相繼發生個人資料外泄事件，涉及考評局及香港都會大學等。有報道指暗網上出現疑似都大學生的個人資料，包括姓名、身分證號碼及電話等私隱資料，估計可能影響多達五千名學生。立法會議員促請政府加強監管，要求相關機構盡快查明事件原因，並通知受影響人士採取保護措施。事件引發社會各界關注網絡安全及個人私隱保障的問題。",
+      "date": "2026-11-18",
+      "adaptedFrom": "星島日報",
+      "title": "冷鋒逼近香港　天文台預告氣溫大幅下跌　新界周末料跌至13度",
+      "summary": "香港天文台預測，本港天氣將於未來一兩天顯著轉涼。受強烈東北季候風及雲雨帶影響，周五及周六市區最低氣溫料跌至約15至16度，而新界部分地區更可能低兩三度，即約13度左右。華南沿岸下週初亦將受強風程度偏東氣流影響，天氣持續寒涼。市民應留意天氣變化，適時添衣保暖，長者及幼童尤需注意防寒，避免因氣溫驟降而影響健康。",
       "questions": {
         "lv1": [
-          "今次資料外泄事件涉及哪兩間香港公營機構？",
-          "暗網上出現了哪些類型的學生個人資料？"
+          "根據天文台預測，本週六新界的最低氣溫大約是多少度？",
+          "導致香港今次天氣轉涼的主要原因是甚麼？"
         ],
         "lv2": [
-          "個人資料外泄對受影響的學生可能造成哪些危險或問題？",
-          "機構應該如何保護學生的個人資料，防止外泄事件發生？"
+          "為甚麼新界的氣溫通常比市區更低？這與甚麼地理因素有關？",
+          "氣溫驟降對長者和幼童的健康有哪些潛在影響？我們可以如何預防？"
         ],
         "lv3": [
-          "隨著愈來愈多個人資料被儲存在網絡系統中，你認為政府、機構和個人各自應承擔什麼責任來保護私隱？",
-          "有意見認為應立法要求機構在資料外泄後24小時內通知受影響人士，你認為這項建議是否可行？有哪些優點和困難？"
+          "近年來，香港及全球各地的極端天氣事件越來越頻繁，包括更嚴酷的寒潮和更強烈的熱浪。你認為這與氣候變化有甚麼關係？政府和個人各自可以做甚麼來應對？",
+          "有人認為天氣預報科技日益進步，市民應更主動依賴科技預警系統來保護自己。但亦有人認為個人責任和社區互助同樣重要。你認為面對極端天氣，最有效的應對方式是甚麼？"
         ]
       }
     }
