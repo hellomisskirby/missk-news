@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-19T11:57:02.257825+08:00",
+  "date": "2026-11-19",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-19-en-1",
+      "lang": "en",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/hong-kong/health-environment/article/3374917/felt-nothing-happened-hongkonger-lauds-incision-free-kidney-cancer-therapy",
+      "flag": "🇭🇰",
+      "date": "2026-11-19",
+      "adaptedFrom": "South China Morning Post",
+      "title": "Hong Kong Uses Sound Waves to Destroy Kidney Tumours — No Surgery Needed",
+      "summary": "A 70-year-old man in Hong Kong has become one of the first patients in Asia to receive a groundbreaking cancer treatment that destroys kidney tumours using focused sound waves — without any cuts or needles. The procedure, called histotripsy, took less than an hour at Gleneagles Hospital. The patient said he felt almost nothing during the treatment and went home without pain. A team from the University of Hong Kong's medical faculty carried out the procedure. Billionaire Li Ka-shing is funding 30 trial places across three private hospitals to test whether the technique is safe and effective for more kidney cancer patients.",
+      "questions": {
+        "lv1": [
+          "What part of the body did doctors treat using sound waves in this story? (這個故事裏，醫生用聲波治療了身體哪個部位？)",
+          "How long did the new cancer treatment take at the hospital? (這個新的癌症治療在醫院花了多長時間？)"
+        ],
+        "lv2": [
+          "Why might a treatment that does not need cuts or needles be better for some patients than a normal operation? (為甚麼不需要開刀或針的治療方法，對某些病人來說可能比普通手術更好？)",
+          "Why is it important for doctors to carry out trials with 30 patients before offering a new treatment to everyone? (為甚麼醫生在向所有人提供新治療之前，要先對30名病人進行試驗？)"
+        ],
+        "lv3": [
+          "Should wealthy individuals like Li Ka-shing be responsible for funding medical trials that the public may benefit from, or should governments pay for this instead? What are the advantages and disadvantages of each approach? (像李嘉誠這樣的富豪，應否負責資助可讓公眾受益的醫療試驗，還是應由政府承擔？兩種方式各有什麼優缺點？)",
+          "If this sound-wave treatment proves successful, do you think it should be made affordable for all patients in Hong Kong, including those who cannot pay? How should healthcare costs be shared fairly in society? (如果這種聲波治療證實有效，你認為是否應讓香港所有病人都能負擔得起，包括無力支付的人？社會應如何公平分擔醫療費用？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-19-en-2",
+      "lang": "en",
+      "source": "The Standard",
+      "sourceUrl": "https://www.thestandard.com.hk/news/article/348947/Morning-Recap-November-19-2026",
+      "flag": "🌏",
+      "date": "2026-11-19",
+      "adaptedFrom": "The Standard / Reuters",
+      "title": "World Leaders Xi, Trump and Putin Hold Historic Three-Way Meeting at Shenzhen APEC",
+      "summary": "The leaders of three of the world's most powerful countries — China's President Xi Jinping, US President Donald Trump, and Russia's President Vladimir Putin — came together in Shenzhen, China on 19 November 2026 for a historic trilateral summit. This gathering, held on the sidelines of the Asia-Pacific Economic Cooperation (APEC) Leaders' Meeting, is the first time the heads of all three major nuclear powers have met at the same time. Hong Kong's Chief Executive John Lee also attended the APEC CEO Summit, saying Hong Kong is ready to help connect businesses across the world during a time of global uncertainty.",
+      "questions": {
+        "lv1": [
+          "In which city did the APEC Leaders' Meeting take place in 2026? (2026年APEC領導人會議在哪個城市舉行？)",
+          "Can you name two of the three world leaders who met in Shenzhen? (你能說出在深圳會面的三位世界領袖中的兩位嗎？)"
+        ],
+        "lv2": [
+          "Why do you think it is considered 'historic' for the leaders of China, the USA and Russia to meet together at the same time? (你認為為甚麼中國、美國和俄羅斯的領袖同時會面被視為「歷史性」的事件？)",
+          "How might a meeting between these three powerful leaders affect other countries in the Asia-Pacific region, including Hong Kong? (這三位強國領袖的會面，可能如何影響亞太地區其他國家，包括香港？)"
+        ],
+        "lv3": [
+          "Some people think that when powerful countries talk directly with each other, it makes the world safer. Others believe that such meetings can leave smaller nations feeling left out. Which view do you agree with more, and why? (有人認為強國直接對話可以使世界更安全；也有人認為這種會面會讓小國感到被排除在外。你更同意哪種觀點？為甚麼？)",
+          "APEC is a forum for economic cooperation, but political meetings also happen there. Do you think mixing business and politics at international summits is a good idea? What could be the benefits and risks? (APEC是經濟合作論壇，但政治會面也在那裡發生。你認為在國際峰會上將商業與政治結合是個好主意嗎？有甚麼好處和風險？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-19-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/section/20261119/s00011",
+      "flag": "🇭🇰",
+      "date": "2026-11-19",
+      "adaptedFrom": "明報",
+      "title": "視力僅剩一成　DSE狀元鄭子絃憑努力奪6科5**",
+      "summary": "2026年香港中學文憑試（DSE）狀元鄭子絃（Aiden）雖然視力只剩約一成，仍憑藉堅毅精神取得6科5**的優異成績。他就讀香港華仁書院，主修文科，選修歷史、地理及經濟。鄭同學表示，不會強迫自己長時間溫習，建議其他考生可透過散步來放鬆心情。他形容自己喜愛打乒乓球，更常以球賽精彩瞬間作為作文的靈感。他的故事鼓勵同學，無論面對甚麼困難，只要努力都能創出佳績。",
+      "questions": {
+        "lv1": [
+          "鄭子絃同學在DSE考試中取得了怎樣的成績？",
+          "鄭同學建議考生用甚麼方法來放鬆心情？"
+        ],
+        "lv2": [
+          "鄭子絃視力只剩一成，他是如何克服這個困難去應付考試的？你從他身上學到甚麼？",
+          "為甚麼保持良好的精神健康和適當休息，對於備試的同學來說十分重要？"
+        ],
+        "lv3": [
+          "香港的考試制度主要以成績評核學生。你認為這種方式是否公平？對有特殊學習需要或身體障礙的學生有甚麼挑戰？",
+          "有人認為「狀元」的故事給學生帶來正面啟發，也有人認為過度渲染頂尖成績會對一般學生造成壓力。你認同哪個說法？為甚麼？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-19-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
+      "flag": "🌏",
+      "date": "2026-11-19",
+      "adaptedFrom": "星島日報",
+      "title": "深圳APEC峰會：中方強調人工智能發展應造福全人類",
+      "summary": "2026年亞太經合組織（APEC）第33次領導人非正式會議於11月18至19日在深圳舉行。中國作為東道主，在峰會成果文件磋商中強調，人工智能（AI）的發展應以惠及全人類為目標，不應只服務少數國家或企業。峰會接待車隊全面採用國產品牌紅旗與騰勢，展現中國汽車工業的進步。各國領袖就建設亞太共同體、促進共同繁榮等核心議題交換意見，峰會成果備受全球關注。",
+      "questions": {
+        "lv1": [
+          "今年的APEC峰會在中國哪個城市舉行？",
+          "中方在峰會上強調人工智能的發展應該為誰帶來好處？"
+        ],
+        "lv2": [
+          "為甚麼各國領袖需要定期舉行像APEC這樣的國際會議，共同商討合作方向？",
+          "中方提出人工智能應「普惠全人類」，你認為這個目標在現實中容易實現嗎？有甚麼困難？"
+        ],
+        "lv3": [
+          "人工智能技術發展迅速，但目前主要由少數科技大國掌控。你認為應如何確保發展中國家和小型經濟體也能平等受惠於AI技術？",
+          "有意見認為，大型國際峰會成本高昂，實際成效有限；也有人認為面對面外交不可或缺。你認為APEC這類峰會對解決全球問題有多大作用？"
+        ]
+      }
+    }
+  ]
+}

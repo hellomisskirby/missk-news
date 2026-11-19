@@ -1,105 +1,105 @@
 {
-  "generated": "2026-11-18T11:59:56.915748+08:00",
-  "date": "2026-11-18",
+  "generated": "2026-11-19T11:57:02.257825+08:00",
+  "date": "2026-11-19",
   "count": 4,
   "articles": [
     {
-      "id": "2026-11-18-en-1",
+      "id": "2026-11-19-en-1",
       "lang": "en",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.com/news/articles/technology-meta-italy-fine-2026",
-      "flag": "🇬🇧",
-      "date": "2026-11-18",
-      "adaptedFrom": "BBC News",
-      "title": "Italy Fines Meta Nearly €805 Million for Secretly Accessing Users' Photos",
-      "summary": "Italy's data protection authority has issued a massive fine of €805 million — roughly equivalent to US$887 million — against the American technology giant Meta. Investigators found that the Facebook app on Android devices had been accessing users' private photos and videos without clearly asking for permission or telling users. This breaks European privacy laws, which require companies to be transparent about what data they collect. Meta, which also owns Instagram and WhatsApp, has faced many privacy-related fines in Europe in recent years. This case reminds us that even very large technology companies must follow rules designed to keep people's personal information safe and private.",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/hong-kong/health-environment/article/3374917/felt-nothing-happened-hongkonger-lauds-incision-free-kidney-cancer-therapy",
+      "flag": "🇭🇰",
+      "date": "2026-11-19",
+      "adaptedFrom": "South China Morning Post",
+      "title": "Hong Kong Uses Sound Waves to Destroy Kidney Tumours — No Surgery Needed",
+      "summary": "A 70-year-old man in Hong Kong has become one of the first patients in Asia to receive a groundbreaking cancer treatment that destroys kidney tumours using focused sound waves — without any cuts or needles. The procedure, called histotripsy, took less than an hour at Gleneagles Hospital. The patient said he felt almost nothing during the treatment and went home without pain. A team from the University of Hong Kong's medical faculty carried out the procedure. Billionaire Li Ka-shing is funding 30 trial places across three private hospitals to test whether the technique is safe and effective for more kidney cancer patients.",
       "questions": {
         "lv1": [
-          "Which company was fined by Italy for accessing users' photos without permission? (哪間公司因未經用戶許可而讀取照片，被意大利政府罰款？)",
-          "How much money did Italy fine Meta? (意大利向Meta罰款多少錢？)"
+          "What part of the body did doctors treat using sound waves in this story? (這個故事裏，醫生用聲波治療了身體哪個部位？)",
+          "How long did the new cancer treatment take at the hospital? (這個新的癌症治療在醫院花了多長時間？)"
         ],
         "lv2": [
-          "Why is it important for technology companies to ask for permission before collecting personal data? (為甚麼科技公司在收集個人資料前，必須先取得用戶同意？)",
-          "How do you think this fine might change the way Meta runs its apps in the future? (你認為這次罰款會如何影響Meta未來管理其應用程式的方式？)"
+          "Why might a treatment that does not need cuts or needles be better for some patients than a normal operation? (為甚麼不需要開刀或針的治療方法，對某些病人來說可能比普通手術更好？)",
+          "Why is it important for doctors to carry out trials with 30 patients before offering a new treatment to everyone? (為甚麼醫生在向所有人提供新治療之前，要先對30名病人進行試驗？)"
         ],
         "lv3": [
-          "Some people argue that technology companies collect too much personal data without users truly understanding what they agree to. Do you think current privacy laws are strong enough to protect ordinary people? Why or why not? (有人認為科技公司在用戶不知情下收集過多個人資料。你認為現行私隱法律是否足以保護普通市民？請解釋你的立場。)",
-          "Should governments around the world cooperate to create a single global standard for data privacy, or should each country be allowed to set its own rules? Discuss the advantages and disadvantages of both approaches. (各國政府是否應合作制訂統一的全球數據私隱標準，還是每個國家應自行制定規則？請分析兩種做法的優點和缺點。)"
+          "Should wealthy individuals like Li Ka-shing be responsible for funding medical trials that the public may benefit from, or should governments pay for this instead? What are the advantages and disadvantages of each approach? (像李嘉誠這樣的富豪，應否負責資助可讓公眾受益的醫療試驗，還是應由政府承擔？兩種方式各有什麼優缺點？)",
+          "If this sound-wave treatment proves successful, do you think it should be made affordable for all patients in Hong Kong, including those who cannot pay? How should healthcare costs be shared fairly in society? (如果這種聲波治療證實有效，你認為是否應讓香港所有病人都能負擔得起，包括無力支付的人？社會應如何公平分擔醫療費用？)"
         ]
       }
     },
     {
-      "id": "2026-11-18-en-2",
+      "id": "2026-11-19-en-2",
       "lang": "en",
-      "source": "Reuters",
-      "sourceUrl": "https://islandsbusiness.com/pacnews/pacnews-two-18-november-2026/",
-      "flag": "🇬🇧",
-      "date": "2026-11-18",
-      "adaptedFrom": "Reuters / PACNEWS (Islands Business)",
-      "title": "Schoolchildren Help Scientists Track Ocean Species Using DNA Clues in the Water",
-      "summary": "Scientists around the world are using a clever new method called environmental DNA — or 'eDNA' — to discover which animals are living in the ocean without even seeing them. Every creature leaves tiny genetic traces in the water, and by collecting and testing water samples, researchers can identify which species are present. UNESCO's eDNA Expeditions programme is running this project at 25 ocean sites globally, with local communities and even school students helping to gather samples every three months. As ocean temperatures rise due to climate change, fish and other sea animals are moving into new areas. This data helps governments decide which parts of the ocean need the most protection.",
+      "source": "The Standard",
+      "sourceUrl": "https://www.thestandard.com.hk/news/article/348947/Morning-Recap-November-19-2026",
+      "flag": "🌏",
+      "date": "2026-11-19",
+      "adaptedFrom": "The Standard / Reuters",
+      "title": "World Leaders Xi, Trump and Putin Hold Historic Three-Way Meeting at Shenzhen APEC",
+      "summary": "The leaders of three of the world's most powerful countries — China's President Xi Jinping, US President Donald Trump, and Russia's President Vladimir Putin — came together in Shenzhen, China on 19 November 2026 for a historic trilateral summit. This gathering, held on the sidelines of the Asia-Pacific Economic Cooperation (APEC) Leaders' Meeting, is the first time the heads of all three major nuclear powers have met at the same time. Hong Kong's Chief Executive John Lee also attended the APEC CEO Summit, saying Hong Kong is ready to help connect businesses across the world during a time of global uncertainty.",
       "questions": {
         "lv1": [
-          "What does 'eDNA' stand for, and what is it used for? (「eDNA」代表甚麼？科學家用它來做甚麼？)",
-          "How often do volunteers collect water samples in the UNESCO eDNA programme? (聯合國教科文組織的eDNA計劃中，義工多久收集一次水樣本？)"
+          "In which city did the APEC Leaders' Meeting take place in 2026? (2026年APEC領導人會議在哪個城市舉行？)",
+          "Can you name two of the three world leaders who met in Shenzhen? (你能說出在深圳會面的三位世界領袖中的兩位嗎？)"
         ],
         "lv2": [
-          "Why is it helpful to use eDNA instead of trying to directly observe ocean animals? (為甚麼使用eDNA比直接觀察海洋生物更有幫助？)",
-          "How might rising ocean temperatures make it harder for scientists to protect marine life, and how can eDNA data help? (海洋溫度上升如何令保護海洋生物變得更困難？eDNA數據又如何提供幫助？)"
+          "Why do you think it is considered 'historic' for the leaders of China, the USA and Russia to meet together at the same time? (你認為為甚麼中國、美國和俄羅斯的領袖同時會面被視為「歷史性」的事件？)",
+          "How might a meeting between these three powerful leaders affect other countries in the Asia-Pacific region, including Hong Kong? (這三位強國領袖的會面，可能如何影響亞太地區其他國家，包括香港？)"
         ],
         "lv3": [
-          "The eDNA programme involves schoolchildren in scientific research. Do you think involving young people in real scientific projects is important? What benefits and challenges might this bring? (eDNA計劃讓學生參與真實的科學研究。你認為讓年輕人參與科研是否重要？這樣做有甚麼好處和挑戰？)",
-          "Some governments and businesses want to mine the deep seabed for valuable metals, while scientists warn this could destroy fragile ocean ecosystems. How should the world balance economic development with ocean conservation? (部分政府和企業希望在深海採礦以獲取珍貴金屬，但科學家警告這可能破壞脆弱的海洋生態系統。世界應如何在經濟發展與海洋保育之間取得平衡？)"
+          "Some people think that when powerful countries talk directly with each other, it makes the world safer. Others believe that such meetings can leave smaller nations feeling left out. Which view do you agree with more, and why? (有人認為強國直接對話可以使世界更安全；也有人認為這種會面會讓小國感到被排除在外。你更同意哪種觀點？為甚麼？)",
+          "APEC is a forum for economic cooperation, but political meetings also happen there. Do you think mixing business and politics at international summits is a good idea? What could be the benefits and risks? (APEC是經濟合作論壇，但政治會面也在那裡發生。你認為在國際峰會上將商業與政治結合是個好主意嗎？有甚麼好處和風險？)"
         ]
       }
     },
     {
-      "id": "2026-11-18-zh-1",
+      "id": "2026-11-19-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261118/s00002",
+      "sourceUrl": "https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/section/20261119/s00011",
       "flag": "🇭🇰",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "adaptedFrom": "明報",
-      "title": "中大醫院手術失誤　女病人卵巢遭誤切　院方承諾嚴肅處分醫生",
-      "summary": "中大醫院發生嚴重醫療事故，一名45歲女病人接受腹腔鏡手術期間，負責醫生竟誤切除其雙側卵巢，對病人身體造成重大影響。衛生署早於今年9月已收到醫院的醫療風險警示呈報。事件曝光後，院方表示將對涉事醫生採取處分行動。有關事件引起社會廣泛關注，促使公眾重新審視本港醫療系統的監管機制，以及病人在手術前應如何充分了解手術風險、保障自身權益。",
+      "title": "視力僅剩一成　DSE狀元鄭子絃憑努力奪6科5**",
+      "summary": "2026年香港中學文憑試（DSE）狀元鄭子絃（Aiden）雖然視力只剩約一成，仍憑藉堅毅精神取得6科5**的優異成績。他就讀香港華仁書院，主修文科，選修歷史、地理及經濟。鄭同學表示，不會強迫自己長時間溫習，建議其他考生可透過散步來放鬆心情。他形容自己喜愛打乒乓球，更常以球賽精彩瞬間作為作文的靈感。他的故事鼓勵同學，無論面對甚麼困難，只要努力都能創出佳績。",
       "questions": {
         "lv1": [
-          "中大醫院發生了甚麼醫療事故？",
-          "衛生署是在哪個月份收到醫院的醫療風險警示？"
+          "鄭子絃同學在DSE考試中取得了怎樣的成績？",
+          "鄭同學建議考生用甚麼方法來放鬆心情？"
         ],
         "lv2": [
-          "為甚麼醫院在發生醫療事故後，需要向衛生署呈報？這樣做有甚麼作用？",
-          "病人在接受手術前，可以採取哪些措施來保障自己的安全和權益？"
+          "鄭子絃視力只剩一成，他是如何克服這個困難去應付考試的？你從他身上學到甚麼？",
+          "為甚麼保持良好的精神健康和適當休息，對於備試的同學來說十分重要？"
         ],
         "lv3": [
-          "醫療失誤會對病人及其家人造成深遠影響。你認為香港應如何改善醫療監管制度，才能有效減少類似事故的發生？",
-          "當醫生因失誤而傷害病人，社會應如何平衡對醫生的懲處與對醫護人員的合理保護，以免優秀人才因怕犯錯而不願從醫？"
+          "香港的考試制度主要以成績評核學生。你認為這種方式是否公平？對有特殊學習需要或身體障礙的學生有甚麼挑戰？",
+          "有人認為「狀元」的故事給學生帶來正面啟發，也有人認為過度渲染頂尖成績會對一般學生造成壓力。你認同哪個說法？為甚麼？"
         ]
       }
     },
     {
-      "id": "2026-11-18-zh-2",
+      "id": "2026-11-19-zh-2",
       "lang": "zh",
       "source": "星島日報",
-      "sourceUrl": "https://www.singtaousa.com/2026/11/17/news/china/cloudy-weather-temperature-drop-hong-kong/",
-      "flag": "🇭🇰",
-      "date": "2026-11-18",
+      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
+      "flag": "🌏",
+      "date": "2026-11-19",
       "adaptedFrom": "星島日報",
-      "title": "冷鋒逼近香港　天文台預告氣溫大幅下跌　新界周末料跌至13度",
-      "summary": "香港天文台預測，本港天氣將於未來一兩天顯著轉涼。受強烈東北季候風及雲雨帶影響，周五及周六市區最低氣溫料跌至約15至16度，而新界部分地區更可能低兩三度，即約13度左右。華南沿岸下週初亦將受強風程度偏東氣流影響，天氣持續寒涼。市民應留意天氣變化，適時添衣保暖，長者及幼童尤需注意防寒，避免因氣溫驟降而影響健康。",
+      "title": "深圳APEC峰會：中方強調人工智能發展應造福全人類",
+      "summary": "2026年亞太經合組織（APEC）第33次領導人非正式會議於11月18至19日在深圳舉行。中國作為東道主，在峰會成果文件磋商中強調，人工智能（AI）的發展應以惠及全人類為目標，不應只服務少數國家或企業。峰會接待車隊全面採用國產品牌紅旗與騰勢，展現中國汽車工業的進步。各國領袖就建設亞太共同體、促進共同繁榮等核心議題交換意見，峰會成果備受全球關注。",
       "questions": {
         "lv1": [
-          "根據天文台預測，本週六新界的最低氣溫大約是多少度？",
-          "導致香港今次天氣轉涼的主要原因是甚麼？"
+          "今年的APEC峰會在中國哪個城市舉行？",
+          "中方在峰會上強調人工智能的發展應該為誰帶來好處？"
         ],
         "lv2": [
-          "為甚麼新界的氣溫通常比市區更低？這與甚麼地理因素有關？",
-          "氣溫驟降對長者和幼童的健康有哪些潛在影響？我們可以如何預防？"
+          "為甚麼各國領袖需要定期舉行像APEC這樣的國際會議，共同商討合作方向？",
+          "中方提出人工智能應「普惠全人類」，你認為這個目標在現實中容易實現嗎？有甚麼困難？"
         ],
         "lv3": [
-          "近年來，香港及全球各地的極端天氣事件越來越頻繁，包括更嚴酷的寒潮和更強烈的熱浪。你認為這與氣候變化有甚麼關係？政府和個人各自可以做甚麼來應對？",
-          "有人認為天氣預報科技日益進步，市民應更主動依賴科技預警系統來保護自己。但亦有人認為個人責任和社區互助同樣重要。你認為面對極端天氣，最有效的應對方式是甚麼？"
+          "人工智能技術發展迅速，但目前主要由少數科技大國掌控。你認為應如何確保發展中國家和小型經濟體也能平等受惠於AI技術？",
+          "有意見認為，大型國際峰會成本高昂，實際成效有限；也有人認為面對面外交不可或缺。你認為APEC這類峰會對解決全球問題有多大作用？"
         ]
       }
     }
