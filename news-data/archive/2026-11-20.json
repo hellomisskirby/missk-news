@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-20T11:50:07.200535+08:00",
+  "date": "2026-11-20",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-20-en-1",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/cop31-ai-pledge-fails-to-lure-us-big-tech-5033626",
+      "flag": "🌍",
+      "date": "2026-11-20",
+      "adaptedFrom": "Reuters",
+      "title": "Big Tech Mostly Skips Climate Promise on AI — Only Alibaba Signs",
+      "summary": "At the COP31 climate conference in Antalya, Turkey, world leaders and businesses were asked to sign a special promise called the Antalya AI Pledge. The pledge asks companies and governments to use cleaner energy to power AI computers, reduce pollution, and help poorer countries benefit from AI technology. However, most major American tech companies — including Google, Meta, and Microsoft — did not sign. So far, China's Alibaba is the only big technology company to join. Some countries like South Korea also signed. Climate experts warned that the pledge will not make a big difference unless the largest tech companies make it a legal requirement, not just a choice.",
+      "questions": {
+        "lv1": [
+          "What is the name of the promise that companies were asked to sign at the COP31 climate meeting? (在COP31氣候會議上，各公司被邀請簽署的承諾叫甚麼名字？)",
+          "Which big technology company from China signed the AI climate pledge? (哪家中國大型科技公司簽署了人工智能氣候承諾？)"
+        ],
+        "lv2": [
+          "Why do you think large American technology companies chose not to sign the Antalya AI Pledge? (你認為為甚麼美國大型科技公司選擇不簽署《安塔利亞人工智能承諾》？)",
+          "How does running lots of AI computers create problems for the environment? (運行大量人工智能電腦會如何對環境造成問題？)"
+        ],
+        "lv3": [
+          "Should governments make it a law — not just a voluntary choice — for technology companies to use clean energy for AI? Give reasons for and against. (政府是否應該立法要求科技公司為人工智能使用清潔能源，而不只是自願選擇？請提出支持和反對的理由。)",
+          "Is it fair that developing countries may have less access to AI technology than richer nations? What could be done to close this gap? (發展中國家在使用人工智能技術方面可能不及富裕國家，這公平嗎？可以採取甚麼措施縮窄這一差距？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-20-en-2",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://www.usnews.com/news/world/articles/2026-11-08/cop31-to-open-in-turkey-with-climate-goals-under-pressure-from-war-and-ai",
+      "flag": "🌍",
+      "date": "2026-11-20",
+      "adaptedFrom": "Reuters",
+      "title": "COP31 Climate Talks End Today: Can the World Agree on a Deal?",
+      "summary": "The COP31 climate conference, held in Antalya, Turkey, wraps up today after two weeks of discussions. Nearly 200 countries sent representatives to talk about how to slow down global warming. This year's talks have been especially difficult because of rising energy use from AI technology and the absence of the United States, which skipped the talks for the second year in a row. Scientists at the conference warned that the Earth could temporarily get more than 1.5°C warmer than before — a level considered dangerous. World leaders are hoping to reach an agreement before the event closes tonight.",
+      "questions": {
+        "lv1": [
+          "In which country was the COP31 climate conference held this year? (今年的COP31氣候會議在哪個國家舉行？)",
+          "For how many years in a row has the United States skipped the UN climate talks? (美國連續缺席聯合國氣候談判多少年？)"
+        ],
+        "lv2": [
+          "Why is the 1.5°C warming limit so important for scientists and world leaders? (為甚麼1.5°C升溫上限對科學家和各國領袖如此重要？)",
+          "How might a country's absence from climate talks affect the final agreement reached by other nations? (一個國家缺席氣候談判，可能會如何影響其他國家達成的最終協議？)"
+        ],
+        "lv3": [
+          "Some argue that growing AI technology and climate action are in conflict with each other. Do you agree? How could technology companies balance their energy use with environmental responsibility? (有人認為人工智能的發展與氣候行動互相矛盾，你同意嗎？科技公司應如何在能源使用與環境責任之間取得平衡？)",
+          "If a powerful country decides not to join global climate agreements, should other countries be allowed to impose consequences on it? Discuss the advantages and disadvantages of such an approach. (如果一個強大的國家決定不參與全球氣候協議，其他國家是否應被允許對其施加後果？請討論這種做法的利與弊。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-20-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261120/s00002",
+      "flag": "🇭🇰",
+      "date": "2026-11-20",
+      "adaptedFrom": "明報",
+      "title": "香港首批恐龍化石今起全面公開展出　與內地珍貴化石同場亮相",
+      "summary": "香港於2024年首次在赤洲發現恐龍化石，是本港古生物學的重要里程碑。九龍公園香港文物探知館今日起將這批本地恐龍化石全部公開展出，同場更有來自內地共46組化石，當中不少被列為國家一級保護文物。市民可親眼欣賞億萬年前生活於這片土地上的生物遺骸，了解香港及華南地區的史前歷史。展覽旨在提升公眾對本地自然遺產的認識，激發年輕一代對古生物學及科學的興趣。",
+      "questions": {
+        "lv1": [
+          "香港的恐龍化石是在哪一年首次被發現的？",
+          "今次恐龍化石展覽在香港哪個地方舉行？"
+        ],
+        "lv2": [
+          "為甚麼在香港發現恐龍化石對科學家和歷史學家來說是一件重要的事？",
+          "展覽中的內地化石被列為「國家一級保護文物」，這代表甚麼意思？為甚麼需要保護這些文物？"
+        ],
+        "lv3": [
+          "有人認為珍貴化石應留在原出土地點保存，不應移到博物館展出；也有人認為博物館展覽能讓更多人認識歷史。你認為哪種做法更好？請提出理由。",
+          "香港作為現代都市，發現史前化石有甚麼意義？這對香港人的身份認同和對本地自然歷史的認識有何影響？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-20-zh-2",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261120/s00002",
+      "flag": "🇭🇰",
+      "date": "2026-11-20",
+      "adaptedFrom": "明報",
+      "title": "防止虐待兒童會：本年度懷疑虐兒個案按年增加　促盡早立法懲處知情不報",
+      "summary": "香港防止虐待兒童會公布最新數據，2025至26年度共接獲逾千宗熱線舉報及查詢，當中216宗屬懷疑虐兒個案，較上年度增加9宗。該會主席呼籲政府盡快制定「沒有保護罪」，針對明知兒童受虐卻不舉報的照顧者，讓他們承擔法律責任。現時香港法律未有明文規定照顧者必須舉報虐兒情況，倡議者認為立法能更有效保障兒童安全，防止悲劇發生。此議題引發社會各界對兒童保護制度的廣泛討論。",
+      "questions": {
+        "lv1": [
+          "根據報道，2025至26年度香港共接獲多少宗懷疑虐兒個案？",
+          "「沒有保護罪」是針對甚麼行為的法律？"
+        ],
+        "lv2": [
+          "為甚麼倡議者認為「沒有保護罪」對保護兒童十分重要？現時缺乏此法律會帶來甚麼問題？",
+          "除了立法之外，社會上還有哪些方法可以預防虐兒事件發生？"
+        ],
+        "lv3": [
+          "有意見認為，知情不報的照顧者應與施虐者同樣受到法律懲處；但也有人擔心此舉可能令家庭成員互相猜疑。你認為應如何在保護兒童與維護家庭關係之間取得平衡？",
+          "香港的兒童保護制度是否足夠完善？與其他地區相比，香港在立法保護兒童方面還有哪些可以改善的地方？"
+        ]
+      }
+    }
+  ]
+}

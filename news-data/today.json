@@ -1,105 +1,105 @@
 {
-  "generated": "2026-11-19T11:57:02.257825+08:00",
-  "date": "2026-11-19",
+  "generated": "2026-11-20T11:50:07.200535+08:00",
+  "date": "2026-11-20",
   "count": 4,
   "articles": [
     {
-      "id": "2026-11-19-en-1",
+      "id": "2026-11-20-en-1",
       "lang": "en",
-      "source": "South China Morning Post",
-      "sourceUrl": "https://www.scmp.com/news/hong-kong/health-environment/article/3374917/felt-nothing-happened-hongkonger-lauds-incision-free-kidney-cancer-therapy",
-      "flag": "🇭🇰",
-      "date": "2026-11-19",
-      "adaptedFrom": "South China Morning Post",
-      "title": "Hong Kong Uses Sound Waves to Destroy Kidney Tumours — No Surgery Needed",
-      "summary": "A 70-year-old man in Hong Kong has become one of the first patients in Asia to receive a groundbreaking cancer treatment that destroys kidney tumours using focused sound waves — without any cuts or needles. The procedure, called histotripsy, took less than an hour at Gleneagles Hospital. The patient said he felt almost nothing during the treatment and went home without pain. A team from the University of Hong Kong's medical faculty carried out the procedure. Billionaire Li Ka-shing is funding 30 trial places across three private hospitals to test whether the technique is safe and effective for more kidney cancer patients.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/cop31-ai-pledge-fails-to-lure-us-big-tech-5033626",
+      "flag": "🌍",
+      "date": "2026-11-20",
+      "adaptedFrom": "Reuters",
+      "title": "Big Tech Mostly Skips Climate Promise on AI — Only Alibaba Signs",
+      "summary": "At the COP31 climate conference in Antalya, Turkey, world leaders and businesses were asked to sign a special promise called the Antalya AI Pledge. The pledge asks companies and governments to use cleaner energy to power AI computers, reduce pollution, and help poorer countries benefit from AI technology. However, most major American tech companies — including Google, Meta, and Microsoft — did not sign. So far, China's Alibaba is the only big technology company to join. Some countries like South Korea also signed. Climate experts warned that the pledge will not make a big difference unless the largest tech companies make it a legal requirement, not just a choice.",
       "questions": {
         "lv1": [
-          "What part of the body did doctors treat using sound waves in this story? (這個故事裏，醫生用聲波治療了身體哪個部位？)",
-          "How long did the new cancer treatment take at the hospital? (這個新的癌症治療在醫院花了多長時間？)"
+          "What is the name of the promise that companies were asked to sign at the COP31 climate meeting? (在COP31氣候會議上，各公司被邀請簽署的承諾叫甚麼名字？)",
+          "Which big technology company from China signed the AI climate pledge? (哪家中國大型科技公司簽署了人工智能氣候承諾？)"
         ],
         "lv2": [
-          "Why might a treatment that does not need cuts or needles be better for some patients than a normal operation? (為甚麼不需要開刀或針的治療方法，對某些病人來說可能比普通手術更好？)",
-          "Why is it important for doctors to carry out trials with 30 patients before offering a new treatment to everyone? (為甚麼醫生在向所有人提供新治療之前，要先對30名病人進行試驗？)"
+          "Why do you think large American technology companies chose not to sign the Antalya AI Pledge? (你認為為甚麼美國大型科技公司選擇不簽署《安塔利亞人工智能承諾》？)",
+          "How does running lots of AI computers create problems for the environment? (運行大量人工智能電腦會如何對環境造成問題？)"
         ],
         "lv3": [
-          "Should wealthy individuals like Li Ka-shing be responsible for funding medical trials that the public may benefit from, or should governments pay for this instead? What are the advantages and disadvantages of each approach? (像李嘉誠這樣的富豪，應否負責資助可讓公眾受益的醫療試驗，還是應由政府承擔？兩種方式各有什麼優缺點？)",
-          "If this sound-wave treatment proves successful, do you think it should be made affordable for all patients in Hong Kong, including those who cannot pay? How should healthcare costs be shared fairly in society? (如果這種聲波治療證實有效，你認為是否應讓香港所有病人都能負擔得起，包括無力支付的人？社會應如何公平分擔醫療費用？)"
+          "Should governments make it a law — not just a voluntary choice — for technology companies to use clean energy for AI? Give reasons for and against. (政府是否應該立法要求科技公司為人工智能使用清潔能源，而不只是自願選擇？請提出支持和反對的理由。)",
+          "Is it fair that developing countries may have less access to AI technology than richer nations? What could be done to close this gap? (發展中國家在使用人工智能技術方面可能不及富裕國家，這公平嗎？可以採取甚麼措施縮窄這一差距？)"
         ]
       }
     },
     {
-      "id": "2026-11-19-en-2",
+      "id": "2026-11-20-en-2",
       "lang": "en",
-      "source": "The Standard",
-      "sourceUrl": "https://www.thestandard.com.hk/news/article/348947/Morning-Recap-November-19-2026",
-      "flag": "🌏",
-      "date": "2026-11-19",
-      "adaptedFrom": "The Standard / Reuters",
-      "title": "World Leaders Xi, Trump and Putin Hold Historic Three-Way Meeting at Shenzhen APEC",
-      "summary": "The leaders of three of the world's most powerful countries — China's President Xi Jinping, US President Donald Trump, and Russia's President Vladimir Putin — came together in Shenzhen, China on 19 November 2026 for a historic trilateral summit. This gathering, held on the sidelines of the Asia-Pacific Economic Cooperation (APEC) Leaders' Meeting, is the first time the heads of all three major nuclear powers have met at the same time. Hong Kong's Chief Executive John Lee also attended the APEC CEO Summit, saying Hong Kong is ready to help connect businesses across the world during a time of global uncertainty.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.usnews.com/news/world/articles/2026-11-08/cop31-to-open-in-turkey-with-climate-goals-under-pressure-from-war-and-ai",
+      "flag": "🌍",
+      "date": "2026-11-20",
+      "adaptedFrom": "Reuters",
+      "title": "COP31 Climate Talks End Today: Can the World Agree on a Deal?",
+      "summary": "The COP31 climate conference, held in Antalya, Turkey, wraps up today after two weeks of discussions. Nearly 200 countries sent representatives to talk about how to slow down global warming. This year's talks have been especially difficult because of rising energy use from AI technology and the absence of the United States, which skipped the talks for the second year in a row. Scientists at the conference warned that the Earth could temporarily get more than 1.5°C warmer than before — a level considered dangerous. World leaders are hoping to reach an agreement before the event closes tonight.",
       "questions": {
         "lv1": [
-          "In which city did the APEC Leaders' Meeting take place in 2026? (2026年APEC領導人會議在哪個城市舉行？)",
-          "Can you name two of the three world leaders who met in Shenzhen? (你能說出在深圳會面的三位世界領袖中的兩位嗎？)"
+          "In which country was the COP31 climate conference held this year? (今年的COP31氣候會議在哪個國家舉行？)",
+          "For how many years in a row has the United States skipped the UN climate talks? (美國連續缺席聯合國氣候談判多少年？)"
         ],
         "lv2": [
-          "Why do you think it is considered 'historic' for the leaders of China, the USA and Russia to meet together at the same time? (你認為為甚麼中國、美國和俄羅斯的領袖同時會面被視為「歷史性」的事件？)",
-          "How might a meeting between these three powerful leaders affect other countries in the Asia-Pacific region, including Hong Kong? (這三位強國領袖的會面，可能如何影響亞太地區其他國家，包括香港？)"
+          "Why is the 1.5°C warming limit so important for scientists and world leaders? (為甚麼1.5°C升溫上限對科學家和各國領袖如此重要？)",
+          "How might a country's absence from climate talks affect the final agreement reached by other nations? (一個國家缺席氣候談判，可能會如何影響其他國家達成的最終協議？)"
         ],
         "lv3": [
-          "Some people think that when powerful countries talk directly with each other, it makes the world safer. Others believe that such meetings can leave smaller nations feeling left out. Which view do you agree with more, and why? (有人認為強國直接對話可以使世界更安全；也有人認為這種會面會讓小國感到被排除在外。你更同意哪種觀點？為甚麼？)",
-          "APEC is a forum for economic cooperation, but political meetings also happen there. Do you think mixing business and politics at international summits is a good idea? What could be the benefits and risks? (APEC是經濟合作論壇，但政治會面也在那裡發生。你認為在國際峰會上將商業與政治結合是個好主意嗎？有甚麼好處和風險？)"
+          "Some argue that growing AI technology and climate action are in conflict with each other. Do you agree? How could technology companies balance their energy use with environmental responsibility? (有人認為人工智能的發展與氣候行動互相矛盾，你同意嗎？科技公司應如何在能源使用與環境責任之間取得平衡？)",
+          "If a powerful country decides not to join global climate agreements, should other countries be allowed to impose consequences on it? Discuss the advantages and disadvantages of such an approach. (如果一個強大的國家決定不參與全球氣候協議，其他國家是否應被允許對其施加後果？請討論這種做法的利與弊。)"
         ]
       }
     },
     {
-      "id": "2026-11-19-zh-1",
+      "id": "2026-11-20-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/section/20261119/s00011",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261120/s00002",
       "flag": "🇭🇰",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "adaptedFrom": "明報",
-      "title": "視力僅剩一成　DSE狀元鄭子絃憑努力奪6科5**",
-      "summary": "2026年香港中學文憑試（DSE）狀元鄭子絃（Aiden）雖然視力只剩約一成，仍憑藉堅毅精神取得6科5**的優異成績。他就讀香港華仁書院，主修文科，選修歷史、地理及經濟。鄭同學表示，不會強迫自己長時間溫習，建議其他考生可透過散步來放鬆心情。他形容自己喜愛打乒乓球，更常以球賽精彩瞬間作為作文的靈感。他的故事鼓勵同學，無論面對甚麼困難，只要努力都能創出佳績。",
+      "title": "香港首批恐龍化石今起全面公開展出　與內地珍貴化石同場亮相",
+      "summary": "香港於2024年首次在赤洲發現恐龍化石，是本港古生物學的重要里程碑。九龍公園香港文物探知館今日起將這批本地恐龍化石全部公開展出，同場更有來自內地共46組化石，當中不少被列為國家一級保護文物。市民可親眼欣賞億萬年前生活於這片土地上的生物遺骸，了解香港及華南地區的史前歷史。展覽旨在提升公眾對本地自然遺產的認識，激發年輕一代對古生物學及科學的興趣。",
       "questions": {
         "lv1": [
-          "鄭子絃同學在DSE考試中取得了怎樣的成績？",
-          "鄭同學建議考生用甚麼方法來放鬆心情？"
+          "香港的恐龍化石是在哪一年首次被發現的？",
+          "今次恐龍化石展覽在香港哪個地方舉行？"
         ],
         "lv2": [
-          "鄭子絃視力只剩一成，他是如何克服這個困難去應付考試的？你從他身上學到甚麼？",
-          "為甚麼保持良好的精神健康和適當休息，對於備試的同學來說十分重要？"
+          "為甚麼在香港發現恐龍化石對科學家和歷史學家來說是一件重要的事？",
+          "展覽中的內地化石被列為「國家一級保護文物」，這代表甚麼意思？為甚麼需要保護這些文物？"
         ],
         "lv3": [
-          "香港的考試制度主要以成績評核學生。你認為這種方式是否公平？對有特殊學習需要或身體障礙的學生有甚麼挑戰？",
-          "有人認為「狀元」的故事給學生帶來正面啟發，也有人認為過度渲染頂尖成績會對一般學生造成壓力。你認同哪個說法？為甚麼？"
+          "有人認為珍貴化石應留在原出土地點保存，不應移到博物館展出；也有人認為博物館展覽能讓更多人認識歷史。你認為哪種做法更好？請提出理由。",
+          "香港作為現代都市，發現史前化石有甚麼意義？這對香港人的身份認同和對本地自然歷史的認識有何影響？"
         ]
       }
     },
     {
-      "id": "2026-11-19-zh-2",
+      "id": "2026-11-20-zh-2",
       "lang": "zh",
-      "source": "星島日報",
-      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
-      "flag": "🌏",
-      "date": "2026-11-19",
-      "adaptedFrom": "星島日報",
-      "title": "深圳APEC峰會：中方強調人工智能發展應造福全人類",
-      "summary": "2026年亞太經合組織（APEC）第33次領導人非正式會議於11月18至19日在深圳舉行。中國作為東道主，在峰會成果文件磋商中強調，人工智能（AI）的發展應以惠及全人類為目標，不應只服務少數國家或企業。峰會接待車隊全面採用國產品牌紅旗與騰勢，展現中國汽車工業的進步。各國領袖就建設亞太共同體、促進共同繁榮等核心議題交換意見，峰會成果備受全球關注。",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/section/20261120/s00002",
+      "flag": "🇭🇰",
+      "date": "2026-11-20",
+      "adaptedFrom": "明報",
+      "title": "防止虐待兒童會：本年度懷疑虐兒個案按年增加　促盡早立法懲處知情不報",
+      "summary": "香港防止虐待兒童會公布最新數據，2025至26年度共接獲逾千宗熱線舉報及查詢，當中216宗屬懷疑虐兒個案，較上年度增加9宗。該會主席呼籲政府盡快制定「沒有保護罪」，針對明知兒童受虐卻不舉報的照顧者，讓他們承擔法律責任。現時香港法律未有明文規定照顧者必須舉報虐兒情況，倡議者認為立法能更有效保障兒童安全，防止悲劇發生。此議題引發社會各界對兒童保護制度的廣泛討論。",
       "questions": {
         "lv1": [
-          "今年的APEC峰會在中國哪個城市舉行？",
-          "中方在峰會上強調人工智能的發展應該為誰帶來好處？"
+          "根據報道，2025至26年度香港共接獲多少宗懷疑虐兒個案？",
+          "「沒有保護罪」是針對甚麼行為的法律？"
         ],
         "lv2": [
-          "為甚麼各國領袖需要定期舉行像APEC這樣的國際會議，共同商討合作方向？",
-          "中方提出人工智能應「普惠全人類」，你認為這個目標在現實中容易實現嗎？有甚麼困難？"
+          "為甚麼倡議者認為「沒有保護罪」對保護兒童十分重要？現時缺乏此法律會帶來甚麼問題？",
+          "除了立法之外，社會上還有哪些方法可以預防虐兒事件發生？"
         ],
         "lv3": [
-          "人工智能技術發展迅速，但目前主要由少數科技大國掌控。你認為應如何確保發展中國家和小型經濟體也能平等受惠於AI技術？",
-          "有意見認為，大型國際峰會成本高昂，實際成效有限；也有人認為面對面外交不可或缺。你認為APEC這類峰會對解決全球問題有多大作用？"
+          "有意見認為，知情不報的照顧者應與施虐者同樣受到法律懲處；但也有人擔心此舉可能令家庭成員互相猜疑。你認為應如何在保護兒童與維護家庭關係之間取得平衡？",
+          "香港的兒童保護制度是否足夠完善？與其他地區相比，香港在立法保護兒童方面還有哪些可以改善的地方？"
         ]
       }
     }
