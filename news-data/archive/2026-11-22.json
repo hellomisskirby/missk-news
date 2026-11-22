@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-22T10:47:16.367031+08:00",
+  "date": "2026-11-22",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-22-en-1",
+      "lang": "en",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.com/news/science-environment",
+      "flag": "🇬🇧",
+      "date": "2026-11-22",
+      "adaptedFrom": "BBC News / Wikipedia Portal:Current Events (citing BBC)",
+      "title": "Voyager 1 Becomes First Human-Made Object to Travel One Full Light-Day from Earth",
+      "summary": "An incredible milestone in space history was reached this week when NASA's Voyager 1 spacecraft travelled a distance of one full light-day away from Earth — that means it is now so far away that light itself would take a whole day to travel between us and the probe. Voyager 1 was launched back in 1977, nearly 50 years ago, making this the longest journey ever completed by any object built by humans. Scientists around the world are celebrating this achievement as a reminder of how far human curiosity and technology can reach, even into the deepest parts of space beyond our solar system.",
+      "questions": {
+        "lv1": [
+          "What is the name of the spacecraft that reached a distance of one light-day from Earth? （哪艘太空船到達距離地球一光日的地方？）",
+          "In what year was Voyager 1 launched into space? （旅行者一號是哪一年發射升空的？）"
+        ],
+        "lv2": [
+          "Why is it impressive that Voyager 1 has travelled one light-day from Earth, and what does the distance of a 'light-day' actually mean? （旅行者一號到達距地球一光日的距離為何令人印象深刻？「光日」這個距離單位代表甚麼？）",
+          "How does Voyager 1's journey show the importance of long-term scientific planning and investment? （旅行者一號的旅程如何體現長期科學規劃與投資的重要性？）"
+        ],
+        "lv3": [
+          "Should governments continue to spend large amounts of money on deep-space exploration missions like Voyager, when there are many urgent problems on Earth that also need funding? Why or why not? （當地球上有許多迫切問題需要資金解決時，各國政府是否仍應投入大量金錢在深空探索任務上？為甚麼？）",
+          "As Voyager 1 moves further into interstellar space, what ethical responsibilities, if any, do humans have about the objects and messages we send beyond our solar system? （隨著旅行者一號進入星際空間，人類對於向太陽系以外發送的物件和訊息，是否有任何道德責任？）"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-22-en-2",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/crowdstrike-talks-acquire-zscaler-sources-say/",
+      "flag": "🇬🇧",
+      "date": "2026-11-22",
+      "adaptedFrom": "Reuters",
+      "title": "Giant Cybersecurity Merger: CrowdStrike in Talks to Buy Zscaler in Huge Tech Deal",
+      "summary": "Two of the world's biggest cybersecurity companies may be joining forces. CrowdStrike, known for protecting businesses from hackers, is reportedly in talks to purchase Zscaler, another major online security firm. If the deal goes through, the combined company would be worth around 265 billion US dollars, creating one of the largest cybersecurity businesses ever seen. Shares in Zscaler jumped by more than 15 percent after the news broke. Cybersecurity has become increasingly important as more people and companies store their data online, making protection from digital attacks a growing priority for governments and businesses worldwide.",
+      "questions": {
+        "lv1": [
+          "What are the names of the two cybersecurity companies that are in talks to merge? （哪兩家網絡安全公司正在洽談合併？）",
+          "By roughly how much did Zscaler's share price rise after the merger news was announced? （合併消息公布後，Zscaler的股價大約上升了多少？）"
+        ],
+        "lv2": [
+          "Why do you think cybersecurity companies are becoming more valuable and important in today's world? （為甚麼你認為網絡安全公司在當今世界變得愈來愈有價值和重要？）",
+          "What could be the advantages and disadvantages of two very large cybersecurity companies merging into one? （兩家大型網絡安全公司合併成一家，可能有甚麼好處和壞處？）"
+        ],
+        "lv3": [
+          "When companies that protect digital security become extremely large and powerful, should governments step in to regulate or limit these mergers? What risks might arise if too much cybersecurity power is concentrated in just one or two companies? （當保護數碼安全的公司變得極為龐大和強大時，政府是否應該介入監管或限制這類合併？若網絡安全權力過度集中在一兩家公司手中，可能會帶來甚麼風險？）",
+          "How might a mega-merger like this between CrowdStrike and Zscaler affect smaller cybersecurity startups and competition in the technology industry? （CrowdStrike與Zscaler之間的大規模合併，可能如何影響規模較小的網絡安全初創企業及科技行業的競爭？）"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-22-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/ins/國際/article/20261122/s00005/1795310524503/日本東北北陸大雪-福島裏磐梯逾千人被困",
+      "flag": "🇭🇰",
+      "date": "2026-11-22",
+      "adaptedFrom": "明報",
+      "title": "日本大雪封路斷電　福島逾千居民及旅客被困山區",
+      "summary": "日本東北及北陸地區於11月20日及21日遭受嚴重大雪，導致多條道路被阻，福島縣北鹽原村受影響尤為嚴重。大雪令大量樹木倒塌，壓斷電線，村內約700戶家庭停電，通訊設施亦受損，連緊急報警熱線110也難以接通。受困於裏磐梯地區的居民約有948人，另有至少500名旅客滯留當地旅館。氣象部門指出，附近地區24小時內錄得約49厘米降雪量，救援工作因持續降雪而受到阻礙。",
+      "questions": {
+        "lv1": [
+          "日本福島裏磐梯地區有多少名居民被大雪困住？",
+          "今次大雪造成甚麼破壞，令村民難以求救？"
+        ],
+        "lv2": [
+          "為甚麼大雪會令通訊系統癱瘓，這對救援工作有甚麼影響？",
+          "若你是當地政府官員，你會採取甚麼措施，幫助被困的居民和旅客？"
+        ],
+        "lv3": [
+          "日本每年都面臨嚴重的自然災害，政府和市民應如何在日常生活中做好準備，以減低災害的影響？",
+          "氣候變化是否可能令極端天氣事件（如今次大雪）變得更加頻繁和嚴重？我們應如何應對這個挑戰？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-22-zh-2",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/ins/兩岸/article/20261122/s00004/1795311273032/美擬禁華電訊商直接獲美電話號碼-中國商務部批fcc濫用監管權力-中方堅決反對",
+      "flag": "🇭🇰",
+      "date": "2026-11-22",
+      "adaptedFrom": "明報",
+      "title": "美國擬禁止中國電訊商獲取美國電話號碼　中方強烈反對斥濫權",
+      "summary": "美國聯邦通訊委員會（FCC）於11月19日以國家安全為理由，通過決議禁止中國移動、中國電信及中國聯通等中國電訊企業，直接取得美國的電話號碼。對此，中國商務部於11月22日強烈回應，批評FCC濫用監管權力，將商業問題政治化，並指此舉違反公平競爭原則。中方表示，美方的做法破壞了兩國在電訊領域的穩定合作，並敦促美方立即撤銷有關措施，否則中方將採取必要行動保護自身利益。",
+      "questions": {
+        "lv1": [
+          "美國哪個機構通過了禁止中國電訊商獲取美國電話號碼的決定？",
+          "中國哪個政府部門就此事發表聲明表示反對？"
+        ],
+        "lv2": [
+          "美國以「國家安全」為由限制中國電訊公司，你認為這個理由是否合理？為甚麼？",
+          "當兩個國家在科技和通訊領域出現爭議時，通常可以透過甚麼方式解決？"
+        ],
+        "lv3": [
+          "中美之間在科技和電訊領域的矛盾不斷加深，這種「科技脫鈎」的趨勢對全球的互聯網發展和普通用戶有甚麼長遠影響？",
+          "香港作為國際城市，若中美科技對抗持續升溫，可能對香港的通訊及科技行業帶來甚麼機遇與挑戰？"
+        ]
+      }
+    }
+  ]
+}

@@ -1,105 +1,105 @@
 {
-  "generated": "2026-11-21T11:42:16.760266+08:00",
-  "date": "2026-11-21",
+  "generated": "2026-11-22T10:47:16.367031+08:00",
+  "date": "2026-11-22",
   "count": 4,
   "articles": [
     {
-      "id": "2026-11-21-en-1",
+      "id": "2026-11-22-en-1",
       "lang": "en",
-      "source": "The AsiaN",
-      "sourceUrl": "https://theasian.asia/archives/205610",
-      "flag": "🇰🇷",
-      "date": "2026-11-21",
-      "adaptedFrom": "The AsiaN (AJA Newsbites, November 21, 2026)",
-      "title": "South Korea Acts to Stop AI Cheating in Exams",
-      "summary": "South Korea's President Lee Jae-myung has ordered a major shake-up of the country's examination system after growing worries about students using artificial intelligence and high-tech devices to cheat. At a meeting with his top advisers on November 20, President Lee said that old ways of watching over students during tests are no longer working and that the entire system needs to be rebuilt. His government has been told to work with AI companies to create better cheating-detection tools, make exams more secure, and punish cheating more strictly. Around 800 different national tests will be reviewed. The President stressed that fairness in exams is essential for public trust.",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.com/news/science-environment",
+      "flag": "🇬🇧",
+      "date": "2026-11-22",
+      "adaptedFrom": "BBC News / Wikipedia Portal:Current Events (citing BBC)",
+      "title": "Voyager 1 Becomes First Human-Made Object to Travel One Full Light-Day from Earth",
+      "summary": "An incredible milestone in space history was reached this week when NASA's Voyager 1 spacecraft travelled a distance of one full light-day away from Earth — that means it is now so far away that light itself would take a whole day to travel between us and the probe. Voyager 1 was launched back in 1977, nearly 50 years ago, making this the longest journey ever completed by any object built by humans. Scientists around the world are celebrating this achievement as a reminder of how far human curiosity and technology can reach, even into the deepest parts of space beyond our solar system.",
       "questions": {
         "lv1": [
-          "What did South Korea's President ask the government to do about examinations? (南韓總統要求政府對考試制度做什麼？)",
-          "Why is the South Korean government worried about students using AI during exams? (為甚麼南韓政府擔心學生在考試中使用人工智能？)"
+          "What is the name of the spacecraft that reached a distance of one light-day from Earth? （哪艘太空船到達距離地球一光日的地方？）",
+          "In what year was Voyager 1 launched into space? （旅行者一號是哪一年發射升空的？）"
         ],
         "lv2": [
-          "Why might old methods of stopping cheating no longer be effective in the age of AI? (為甚麼傳統的防作弊方法在人工智能時代可能不再有效？)",
-          "How could working with AI companies help make exams fairer? (與人工智能公司合作，如何有助令考試更加公平？)"
+          "Why is it impressive that Voyager 1 has travelled one light-day from Earth, and what does the distance of a 'light-day' actually mean? （旅行者一號到達距地球一光日的距離為何令人印象深刻？「光日」這個距離單位代表甚麼？）",
+          "How does Voyager 1's journey show the importance of long-term scientific planning and investment? （旅行者一號的旅程如何體現長期科學規劃與投資的重要性？）"
         ],
         "lv3": [
-          "Some people argue that AI tools should be allowed in exams because they reflect real-world skills. Do you agree or disagree, and why? (有人認為應允許在考試中使用人工智能工具，因為這反映現實工作技能。你同意嗎？為甚麼？)",
-          "If a government bans AI in exams but cannot fully enforce it, what are the risks for students who follow the rules versus those who do not? (如果政府禁止在考試中使用人工智能卻無法徹底執行，守規與違規的學生各自面對甚麼風險？)"
+          "Should governments continue to spend large amounts of money on deep-space exploration missions like Voyager, when there are many urgent problems on Earth that also need funding? Why or why not? （當地球上有許多迫切問題需要資金解決時，各國政府是否仍應投入大量金錢在深空探索任務上？為甚麼？）",
+          "As Voyager 1 moves further into interstellar space, what ethical responsibilities, if any, do humans have about the objects and messages we send beyond our solar system? （隨著旅行者一號進入星際空間，人類對於向太陽系以外發送的物件和訊息，是否有任何道德責任？）"
         ]
       }
     },
     {
-      "id": "2026-11-21-en-2",
+      "id": "2026-11-22-en-2",
       "lang": "en",
       "source": "Reuters",
-      "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/11/21/2003868105",
-      "flag": "🇺🇸",
-      "date": "2026-11-21",
-      "adaptedFrom": "Reuters / Taipei Times, November 21, 2026",
-      "title": "Leaders of the US, China and Russia Hold Historic Three-Way Summit at APEC in Shenzhen",
-      "summary": "In a rare and historic moment, the leaders of three of the world's most powerful countries — United States President Donald Trump, Chinese President Xi Jinping, and Russian President Vladimir Putin — met face-to-face at the APEC summit held in Shenzhen, China. After returning to Washington, President Trump described the atmosphere at the meeting as very positive. He said the three leaders discussed nuclear non-proliferation, including an agreement that Iran should never be allowed to develop nuclear weapons. Trump added that his good relationships with Xi and Putin helped make the United States safer. The leaders also talked about reducing nuclear weapons around the world, though Trump admitted he was unsure whether that goal could ever be fully achieved.",
+      "sourceUrl": "https://www.reuters.com/technology/crowdstrike-talks-acquire-zscaler-sources-say/",
+      "flag": "🇬🇧",
+      "date": "2026-11-22",
+      "adaptedFrom": "Reuters",
+      "title": "Giant Cybersecurity Merger: CrowdStrike in Talks to Buy Zscaler in Huge Tech Deal",
+      "summary": "Two of the world's biggest cybersecurity companies may be joining forces. CrowdStrike, known for protecting businesses from hackers, is reportedly in talks to purchase Zscaler, another major online security firm. If the deal goes through, the combined company would be worth around 265 billion US dollars, creating one of the largest cybersecurity businesses ever seen. Shares in Zscaler jumped by more than 15 percent after the news broke. Cybersecurity has become increasingly important as more people and companies store their data online, making protection from digital attacks a growing priority for governments and businesses worldwide.",
       "questions": {
         "lv1": [
-          "Which three world leaders met at the APEC summit in Shenzhen? (哪三位世界領袖在深圳的APEC峰會上會面？)",
-          "What is one topic the three leaders discussed at their meeting? (三位領袖在會議上討論了甚麼議題？)"
+          "What are the names of the two cybersecurity companies that are in talks to merge? （哪兩家網絡安全公司正在洽談合併？）",
+          "By roughly how much did Zscaler's share price rise after the merger news was announced? （合併消息公布後，Zscaler的股價大約上升了多少？）"
         ],
         "lv2": [
-          "Why is a meeting between the leaders of the US, China and Russia considered historically significant? (為甚麼美國、中國和俄羅斯領袖的會面被認為具有重大歷史意義？)",
-          "What does 'nuclear non-proliferation' mean, and why is it an important issue for countries to discuss? (「核不擴散」是甚麼意思？為甚麼各國討論這個議題很重要？)"
+          "Why do you think cybersecurity companies are becoming more valuable and important in today's world? （為甚麼你認為網絡安全公司在當今世界變得愈來愈有價值和重要？）",
+          "What could be the advantages and disadvantages of two very large cybersecurity companies merging into one? （兩家大型網絡安全公司合併成一家，可能有甚麼好處和壞處？）"
         ],
         "lv3": [
-          "When powerful nations meet and agree on issues like nuclear weapons, can words and promises alone make the world safer? What else might be needed? (當強國就核武等議題達成共識時，言辭和承諾本身能令世界更安全嗎？還需要甚麼？)",
-          "Some critics argue that meeting with rivals gives them international legitimacy. Do you think world leaders should still meet even if they disagree on many issues? Why or why not? (有批評者認為與對手會面等於賦予其國際認受性。你認為即使各方存在分歧，領袖仍應會面嗎？為甚麼？)"
+          "When companies that protect digital security become extremely large and powerful, should governments step in to regulate or limit these mergers? What risks might arise if too much cybersecurity power is concentrated in just one or two companies? （當保護數碼安全的公司變得極為龐大和強大時，政府是否應該介入監管或限制這類合併？若網絡安全權力過度集中在一兩家公司手中，可能會帶來甚麼風險？）",
+          "How might a mega-merger like this between CrowdStrike and Zscaler affect smaller cybersecurity startups and competition in the technology industry? （CrowdStrike與Zscaler之間的大規模合併，可能如何影響規模較小的網絡安全初創企業及科技行業的競爭？）"
         ]
       }
     },
     {
-      "id": "2026-11-21-zh-1",
+      "id": "2026-11-22-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20261121/s00005/1795227770233/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E4%B8%89%E5%9C%8B%E5%85%83%E9%A6%96%E5%B3%B0%E6%9C%83%E6%9B%BE%E8%A8%8E%E8%AB%96%E6%A0%B8%E4%B8%8D%E6%93%B4%E6%95%A3%E8%AD%B0%E9%A1%8C",
+      "sourceUrl": "https://news.mingpao.com/ins/國際/article/20261122/s00005/1795310524503/日本東北北陸大雪-福島裏磐梯逾千人被困",
       "flag": "🇭🇰",
-      "date": "2026-11-21",
-      "adaptedFrom": "明報（2026年11月21日）",
-      "title": "深圳APEC三國峰會：特朗普稱氣氛極好，各方討論禁止核武擴散",
-      "summary": "美國總統特朗普出席深圳亞太經合組織（APEC）會議後，與中國國家主席習近平及俄羅斯總統普京舉行了三方元首峰會。特朗普返美後在白宮記者會上表示，峰會氣氛非常好，三方就核不擴散問題進行了討論，包括絕不允許伊朗擁有核武。他又說，三人良好的私人關係有助確保美國安全。三位領袖還就全球削減核武展開對話，但特朗普坦言不確定這一目標最終能否實現。此次三國元首峰會被視為近年國際外交的重要里程碑。",
+      "date": "2026-11-22",
+      "adaptedFrom": "明報",
+      "title": "日本大雪封路斷電　福島逾千居民及旅客被困山區",
+      "summary": "日本東北及北陸地區於11月20日及21日遭受嚴重大雪，導致多條道路被阻，福島縣北鹽原村受影響尤為嚴重。大雪令大量樹木倒塌，壓斷電線，村內約700戶家庭停電，通訊設施亦受損，連緊急報警熱線110也難以接通。受困於裏磐梯地區的居民約有948人，另有至少500名旅客滯留當地旅館。氣象部門指出，附近地區24小時內錄得約49厘米降雪量，救援工作因持續降雪而受到阻礙。",
       "questions": {
         "lv1": [
-          "今次深圳APEC峰會有哪三個國家的領袖參與會面？",
-          "特朗普形容三國元首峰會的氣氛是怎樣的？"
+          "日本福島裏磐梯地區有多少名居民被大雪困住？",
+          "今次大雪造成甚麼破壞，令村民難以求救？"
         ],
         "lv2": [
-          "為甚麼美中俄三國領袖同時會面被認為是罕見而重要的外交事件？",
-          "「核不擴散」是甚麼意思？為甚麼各國領袖需要就此進行討論？"
+          "為甚麼大雪會令通訊系統癱瘓，這對救援工作有甚麼影響？",
+          "若你是當地政府官員，你會採取甚麼措施，幫助被困的居民和旅客？"
         ],
         "lv3": [
-          "有人認為大國領袖之間的友好關係有助維護世界和平，但也有人擔心這會忽視各國之間的根本分歧。你認為哪個觀點更有說服力？",
-          "如果強國之間達成削減核武的協議，但沒有任何獨立機構監察執行，這樣的協議是否足夠可靠？請解釋你的想法。"
+          "日本每年都面臨嚴重的自然災害，政府和市民應如何在日常生活中做好準備，以減低災害的影響？",
+          "氣候變化是否可能令極端天氣事件（如今次大雪）變得更加頻繁和嚴重？我們應如何應對這個挑戰？"
         ]
       }
     },
     {
-      "id": "2026-11-21-zh-2",
+      "id": "2026-11-22-zh-2",
       "lang": "zh",
-      "source": "東方日報",
-      "sourceUrl": "https://hk.on.cc/hk/bkn/cnt/news/20261121/bkn-20261121033010399-1121_00822_001.html",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/ins/兩岸/article/20261122/s00004/1795311273032/美擬禁華電訊商直接獲美電話號碼-中國商務部批fcc濫用監管權力-中方堅決反對",
       "flag": "🇭🇰",
-      "date": "2026-11-21",
-      "adaptedFrom": "東方日報（2026年11月21日）",
-      "title": "宏福苑大火後政府擬修例：加強樓宇大維修監管，僭建罰則大增",
-      "summary": "香港政府因應早前大埔宏福苑發生的嚴重火災，計劃修訂《建築物條例》，以加強對舊樓維修工程的監管。新建議包括將大型維修工程納入新的工程類別，並提高施工承建商的資格要求，確保工程質素。政府亦建議加重僭建物的罰則，其中地庫等嚴重違規的「指明僭建物」，業主最高可被罰款三百萬元及監禁三年。當局強調，修例目的是保障市民居住安全，防止同類悲劇再次發生。",
+      "date": "2026-11-22",
+      "adaptedFrom": "明報",
+      "title": "美國擬禁止中國電訊商獲取美國電話號碼　中方強烈反對斥濫權",
+      "summary": "美國聯邦通訊委員會（FCC）於11月19日以國家安全為理由，通過決議禁止中國移動、中國電信及中國聯通等中國電訊企業，直接取得美國的電話號碼。對此，中國商務部於11月22日強烈回應，批評FCC濫用監管權力，將商業問題政治化，並指此舉違反公平競爭原則。中方表示，美方的做法破壞了兩國在電訊領域的穩定合作，並敦促美方立即撤銷有關措施，否則中方將採取必要行動保護自身利益。",
       "questions": {
         "lv1": [
-          "政府為甚麼要修訂《建築物條例》？",
-          "新法例建議對嚴重僭建物的業主施以甚麼懲罰？"
+          "美國哪個機構通過了禁止中國電訊商獲取美國電話號碼的決定？",
+          "中國哪個政府部門就此事發表聲明表示反對？"
         ],
         "lv2": [
-          "為甚麼提高承建商的資格要求，有助減少舊樓維修工程的安全風險？",
-          "「僭建物」是甚麼意思？它為甚麼會對樓宇安全構成威脅？"
+          "美國以「國家安全」為由限制中國電訊公司，你認為這個理由是否合理？為甚麼？",
+          "當兩個國家在科技和通訊領域出現爭議時，通常可以透過甚麼方式解決？"
         ],
         "lv3": [
-          "有人認為加重罰則是保障市民安全的有效方法，但也有人指出貧困業主根本無力負擔維修費用，單靠罰款並不公平。你認為政府應如何平衡這兩方面的考慮？",
-          "香港有不少舊樓存在結構老化及僭建問題，你認為政府、業主和社區各自應承擔哪些責任，才能有效防止類似火災悲劇發生？"
+          "中美之間在科技和電訊領域的矛盾不斷加深，這種「科技脫鈎」的趨勢對全球的互聯網發展和普通用戶有甚麼長遠影響？",
+          "香港作為國際城市，若中美科技對抗持續升溫，可能對香港的通訊及科技行業帶來甚麼機遇與挑戰？"
         ]
       }
     }
