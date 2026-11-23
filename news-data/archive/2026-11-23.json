@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-23T11:26:15.809382+08:00",
+  "date": "2026-11-23",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-23-en-1",
+      "lang": "en",
+      "source": "Indo-Pacific Insights",
+      "sourceUrl": "https://indopacificinsights.substack.com/p/indo-pacific-5x5-november-23rd-2026",
+      "flag": "🇨🇳",
+      "date": "2026-11-23",
+      "adaptedFrom": "Indo-Pacific Insights (November 23, 2026)",
+      "title": "China Plans Giant Space Network Between Earth and the Moon",
+      "summary": "Scientists at a major deep-space conference in China have announced an exciting new project called the Cislunar CubeSat Constellation, or C3. This plan involves placing a large network of small satellites in the space between Earth and the Moon. Unlike current systems that only observe space from time to time, this network would watch that region continuously. Researchers from around the world — including those from developing countries — are invited to join. The project is supported by China's Deep Space Exploration Laboratory and the Asia-Pacific Space Cooperation Organization, and could one day help keep astronauts safe during crewed Moon landings.",
+      "questions": {
+        "lv1": [
+          "What is the name of the new satellite network that China plans to build between Earth and the Moon? (中國計劃在地球和月球之間建立的新衛星網絡叫甚麼名字？)",
+          "Which organisation in China is helping to lead this space project? (中國哪個組織正帶領這個太空項目？)"
+        ],
+        "lv2": [
+          "Why is it helpful to have satellites watching the space between Earth and the Moon all the time, rather than just sometimes? (為甚麼持續監測地球和月球之間的太空，比間歇性觀測更有幫助？)",
+          "Why do you think the scientists invited developing countries to join this project? (你認為科學家為甚麼邀請發展中國家參與這個項目？)"
+        ],
+        "lv3": [
+          "Some people believe that space exploration projects led by one country could give that country an unfair advantage. Do you agree? Should space projects always be international? (有人認為由單一國家主導的太空探索計劃可能給該國帶來不公平的優勢。你同意嗎？太空項目是否應該永遠由國際合作主導？)",
+          "If you were a scientist from a small developing country invited to join the C3 programme, what would be the biggest benefit and the biggest challenge for your country? (假如你是來自小型發展中國家的科學家，獲邀加入C3計劃，對你的國家而言，最大的好處和最大的挑戰分別是甚麼？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-23-en-2",
+      "lang": "en",
+      "source": "Newsquawk",
+      "sourceUrl": "https://www.newsquawk.com/headlines/newsquawk-daily-asia-pac-opening-news---23rd-november-2026",
+      "flag": "🇹🇭",
+      "date": "2026-11-23",
+      "adaptedFrom": "Newsquawk Asia-Pacific Opening News, November 23, 2026",
+      "title": "Thailand to Ban Toxic Mining Chemicals After Arsenic Found in Rivers",
+      "summary": "Thailand has announced it will stop allowing certain chemicals used in rare-earth mining from being exported or transported through the country. This decision came after dangerous levels of arsenic — a harmful substance — were discovered in rivers in the northern part of Thailand. Arsenic can be very poisonous to people, animals, and plants that rely on clean river water. The Thai government in Bangkok said it will also work together with China and Myanmar to try to clean up the pollution and prevent it from getting worse. This is an important reminder of how mining activities can affect the natural environment far beyond the mine itself.",
+      "questions": {
+        "lv1": [
+          "What harmful substance was found in rivers in northern Thailand? (在泰國北部河流中發現了哪種有害物質？)",
+          "What has Thailand decided to do with the chemicals used in rare-earth mining? (泰國決定如何處理用於稀土開採的化學品？)"
+        ],
+        "lv2": [
+          "Why might arsenic in rivers be dangerous for people living nearby, even if they do not work in the mines? (即使不在礦場工作，河流中的砷對附近居民為何仍可能造成危險？)",
+          "Why do you think Thailand needs to work with China and Myanmar to solve this pollution problem, rather than dealing with it alone? (你認為泰國為甚麼需要與中國及緬甸合作解決污染問題，而不是獨自處理？)"
+        ],
+        "lv3": [
+          "Rare-earth minerals are essential for making smartphones, electric cars and many modern technologies. Should countries be allowed to mine them even if doing so causes serious environmental damage? (稀土礦物是製造智能手機、電動車及許多現代科技產品的重要原料。即使開採會造成嚴重的環境損害，國家是否應該被允許繼續開採？)",
+          "Who do you think should be responsible for paying to clean up the arsenic pollution — the mining companies, the governments, or the countries where the pollution originated? Give reasons for your answer. (你認為誰應該負責支付清理砷污染的費用——採礦公司、各國政府，還是污染源頭的國家？請說明你的理由。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-23-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20261123/s00005/1795396038335/cop31%E5%BB%B6%E6%9C%9F%E5%85%A9%E6%97%A5%E9%96%89%E5%B9%95-%E6%9C%AA%E8%83%BD%E5%B0%B1%E6%94%BF%E6%B2%BB%E6%B1%BA%E5%AE%9A%E9%81%94%E6%88%90%E5%85%B1%E8%AD%98",
+      "flag": "🌍",
+      "date": "2026-11-23",
+      "adaptedFrom": "明報（2026年11月23日）",
+      "title": "COP31氣候峰會延期兩天結束　各國未能達成共同協議",
+      "summary": "聯合國氣候變化大會COP31在預定閉幕日期後延遲兩天，終於在22日落幕，但各成員國未能就重要的氣候政策決定達成一致共識，大會主席宣布相關文本無法通過。聯合國秘書長古特雷斯對此表示深感失望，指出各國政府未有充分回應氣候危機的迫切需要。全球氣候問題日益嚴峻，今次峰會未能取得突破性成果，令關注環境的人士感到沮喪，亦引起國際社會對未來氣候行動的憂慮。",
+      "questions": {
+        "lv1": [
+          "COP31峰會比原定計劃延遲了多少天才閉幕？",
+          "聯合國秘書長古特雷斯對峰會結果有何感受？"
+        ],
+        "lv2": [
+          "為甚麼各國在氣候峰會上難以達成共同協議？你認為有哪些主要困難？",
+          "若氣候峰會未能達成協議，對地球環境可能造成甚麼影響？"
+        ],
+        "lv3": [
+          "有人認為，富裕國家應該承擔更多責任和費用來應對氣候變化，因為它們歷史上排放了更多溫室氣體。你同意這個觀點嗎？為甚麼？",
+          "如果你是某個國家的代表出席COP31，你會提出甚麼建議，以協助各國達成共識？這些建議又可能面對甚麼阻礙？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-23-zh-2",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
+      "flag": "🇭🇰",
+      "date": "2026-11-23",
+      "adaptedFrom": "星島日報（2026年11月23日）",
+      "title": "港鐵東鐵綫推跨境抽獎　李家超深圳APEC簽多項協議",
+      "summary": "港鐵今日（23日）起推出為期八星期的「搭東鐵跨境 每周抽勁獎」活動，市民只需透過MTR Mobile登記並乘搭指定過境車程，即有機會贏取全年免費通行證及單程車票，鼓勵更多人使用東鐵綫往返內地。與此同時，行政長官李家超在深圳出席APEC領導人峰會後，宣布多項成果，包括香港與智利簽署工作假期計劃協議，為香港青年提供前往智利一年的工作及旅遊簽證機會，有助擴闊香港年輕人的國際視野。",
+      "questions": {
+        "lv1": [
+          "港鐵東鐵綫的抽獎活動由哪一天開始？",
+          "香港與哪個國家簽署了工作假期計劃協議？"
+        ],
+        "lv2": [
+          "港鐵推出抽獎活動鼓勵市民使用東鐵綫跨境，你認為這對香港和內地的交流有甚麼好處？",
+          "工作假期計劃讓香港青年到外國工作和旅遊一年，你認為這對年輕人有哪些益處和挑戰？"
+        ],
+        "lv3": [
+          "有意見認為，政府應該為年輕人提供更多海外交流機會，以擴闊他們的視野；但亦有人擔心這會令更多人才離開香港。你認為應如何平衡這兩種考慮？",
+          "APEC峰會是亞太區重要的經濟合作平台。你認為香港積極參與APEC對本港的經濟和國際地位有何長遠意義？"
+        ]
+      }
+    }
+  ]
+}

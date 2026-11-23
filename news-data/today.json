@@ -1,105 +1,105 @@
 {
-  "generated": "2026-11-22T10:47:16.367031+08:00",
-  "date": "2026-11-22",
+  "generated": "2026-11-23T11:26:15.809382+08:00",
+  "date": "2026-11-23",
   "count": 4,
   "articles": [
     {
-      "id": "2026-11-22-en-1",
+      "id": "2026-11-23-en-1",
       "lang": "en",
-      "source": "BBC News",
-      "sourceUrl": "https://www.bbc.com/news/science-environment",
-      "flag": "🇬🇧",
-      "date": "2026-11-22",
-      "adaptedFrom": "BBC News / Wikipedia Portal:Current Events (citing BBC)",
-      "title": "Voyager 1 Becomes First Human-Made Object to Travel One Full Light-Day from Earth",
-      "summary": "An incredible milestone in space history was reached this week when NASA's Voyager 1 spacecraft travelled a distance of one full light-day away from Earth — that means it is now so far away that light itself would take a whole day to travel between us and the probe. Voyager 1 was launched back in 1977, nearly 50 years ago, making this the longest journey ever completed by any object built by humans. Scientists around the world are celebrating this achievement as a reminder of how far human curiosity and technology can reach, even into the deepest parts of space beyond our solar system.",
+      "source": "Indo-Pacific Insights",
+      "sourceUrl": "https://indopacificinsights.substack.com/p/indo-pacific-5x5-november-23rd-2026",
+      "flag": "🇨🇳",
+      "date": "2026-11-23",
+      "adaptedFrom": "Indo-Pacific Insights (November 23, 2026)",
+      "title": "China Plans Giant Space Network Between Earth and the Moon",
+      "summary": "Scientists at a major deep-space conference in China have announced an exciting new project called the Cislunar CubeSat Constellation, or C3. This plan involves placing a large network of small satellites in the space between Earth and the Moon. Unlike current systems that only observe space from time to time, this network would watch that region continuously. Researchers from around the world — including those from developing countries — are invited to join. The project is supported by China's Deep Space Exploration Laboratory and the Asia-Pacific Space Cooperation Organization, and could one day help keep astronauts safe during crewed Moon landings.",
       "questions": {
         "lv1": [
-          "What is the name of the spacecraft that reached a distance of one light-day from Earth? （哪艘太空船到達距離地球一光日的地方？）",
-          "In what year was Voyager 1 launched into space? （旅行者一號是哪一年發射升空的？）"
+          "What is the name of the new satellite network that China plans to build between Earth and the Moon? (中國計劃在地球和月球之間建立的新衛星網絡叫甚麼名字？)",
+          "Which organisation in China is helping to lead this space project? (中國哪個組織正帶領這個太空項目？)"
         ],
         "lv2": [
-          "Why is it impressive that Voyager 1 has travelled one light-day from Earth, and what does the distance of a 'light-day' actually mean? （旅行者一號到達距地球一光日的距離為何令人印象深刻？「光日」這個距離單位代表甚麼？）",
-          "How does Voyager 1's journey show the importance of long-term scientific planning and investment? （旅行者一號的旅程如何體現長期科學規劃與投資的重要性？）"
+          "Why is it helpful to have satellites watching the space between Earth and the Moon all the time, rather than just sometimes? (為甚麼持續監測地球和月球之間的太空，比間歇性觀測更有幫助？)",
+          "Why do you think the scientists invited developing countries to join this project? (你認為科學家為甚麼邀請發展中國家參與這個項目？)"
         ],
         "lv3": [
-          "Should governments continue to spend large amounts of money on deep-space exploration missions like Voyager, when there are many urgent problems on Earth that also need funding? Why or why not? （當地球上有許多迫切問題需要資金解決時，各國政府是否仍應投入大量金錢在深空探索任務上？為甚麼？）",
-          "As Voyager 1 moves further into interstellar space, what ethical responsibilities, if any, do humans have about the objects and messages we send beyond our solar system? （隨著旅行者一號進入星際空間，人類對於向太陽系以外發送的物件和訊息，是否有任何道德責任？）"
+          "Some people believe that space exploration projects led by one country could give that country an unfair advantage. Do you agree? Should space projects always be international? (有人認為由單一國家主導的太空探索計劃可能給該國帶來不公平的優勢。你同意嗎？太空項目是否應該永遠由國際合作主導？)",
+          "If you were a scientist from a small developing country invited to join the C3 programme, what would be the biggest benefit and the biggest challenge for your country? (假如你是來自小型發展中國家的科學家，獲邀加入C3計劃，對你的國家而言，最大的好處和最大的挑戰分別是甚麼？)"
         ]
       }
     },
     {
-      "id": "2026-11-22-en-2",
+      "id": "2026-11-23-en-2",
       "lang": "en",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/crowdstrike-talks-acquire-zscaler-sources-say/",
-      "flag": "🇬🇧",
-      "date": "2026-11-22",
-      "adaptedFrom": "Reuters",
-      "title": "Giant Cybersecurity Merger: CrowdStrike in Talks to Buy Zscaler in Huge Tech Deal",
-      "summary": "Two of the world's biggest cybersecurity companies may be joining forces. CrowdStrike, known for protecting businesses from hackers, is reportedly in talks to purchase Zscaler, another major online security firm. If the deal goes through, the combined company would be worth around 265 billion US dollars, creating one of the largest cybersecurity businesses ever seen. Shares in Zscaler jumped by more than 15 percent after the news broke. Cybersecurity has become increasingly important as more people and companies store their data online, making protection from digital attacks a growing priority for governments and businesses worldwide.",
+      "source": "Newsquawk",
+      "sourceUrl": "https://www.newsquawk.com/headlines/newsquawk-daily-asia-pac-opening-news---23rd-november-2026",
+      "flag": "🇹🇭",
+      "date": "2026-11-23",
+      "adaptedFrom": "Newsquawk Asia-Pacific Opening News, November 23, 2026",
+      "title": "Thailand to Ban Toxic Mining Chemicals After Arsenic Found in Rivers",
+      "summary": "Thailand has announced it will stop allowing certain chemicals used in rare-earth mining from being exported or transported through the country. This decision came after dangerous levels of arsenic — a harmful substance — were discovered in rivers in the northern part of Thailand. Arsenic can be very poisonous to people, animals, and plants that rely on clean river water. The Thai government in Bangkok said it will also work together with China and Myanmar to try to clean up the pollution and prevent it from getting worse. This is an important reminder of how mining activities can affect the natural environment far beyond the mine itself.",
       "questions": {
         "lv1": [
-          "What are the names of the two cybersecurity companies that are in talks to merge? （哪兩家網絡安全公司正在洽談合併？）",
-          "By roughly how much did Zscaler's share price rise after the merger news was announced? （合併消息公布後，Zscaler的股價大約上升了多少？）"
+          "What harmful substance was found in rivers in northern Thailand? (在泰國北部河流中發現了哪種有害物質？)",
+          "What has Thailand decided to do with the chemicals used in rare-earth mining? (泰國決定如何處理用於稀土開採的化學品？)"
         ],
         "lv2": [
-          "Why do you think cybersecurity companies are becoming more valuable and important in today's world? （為甚麼你認為網絡安全公司在當今世界變得愈來愈有價值和重要？）",
-          "What could be the advantages and disadvantages of two very large cybersecurity companies merging into one? （兩家大型網絡安全公司合併成一家，可能有甚麼好處和壞處？）"
+          "Why might arsenic in rivers be dangerous for people living nearby, even if they do not work in the mines? (即使不在礦場工作，河流中的砷對附近居民為何仍可能造成危險？)",
+          "Why do you think Thailand needs to work with China and Myanmar to solve this pollution problem, rather than dealing with it alone? (你認為泰國為甚麼需要與中國及緬甸合作解決污染問題，而不是獨自處理？)"
         ],
         "lv3": [
-          "When companies that protect digital security become extremely large and powerful, should governments step in to regulate or limit these mergers? What risks might arise if too much cybersecurity power is concentrated in just one or two companies? （當保護數碼安全的公司變得極為龐大和強大時，政府是否應該介入監管或限制這類合併？若網絡安全權力過度集中在一兩家公司手中，可能會帶來甚麼風險？）",
-          "How might a mega-merger like this between CrowdStrike and Zscaler affect smaller cybersecurity startups and competition in the technology industry? （CrowdStrike與Zscaler之間的大規模合併，可能如何影響規模較小的網絡安全初創企業及科技行業的競爭？）"
+          "Rare-earth minerals are essential for making smartphones, electric cars and many modern technologies. Should countries be allowed to mine them even if doing so causes serious environmental damage? (稀土礦物是製造智能手機、電動車及許多現代科技產品的重要原料。即使開採會造成嚴重的環境損害，國家是否應該被允許繼續開採？)",
+          "Who do you think should be responsible for paying to clean up the arsenic pollution — the mining companies, the governments, or the countries where the pollution originated? Give reasons for your answer. (你認為誰應該負責支付清理砷污染的費用——採礦公司、各國政府，還是污染源頭的國家？請說明你的理由。)"
         ]
       }
     },
     {
-      "id": "2026-11-22-zh-1",
+      "id": "2026-11-23-zh-1",
       "lang": "zh",
       "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/ins/國際/article/20261122/s00005/1795310524503/日本東北北陸大雪-福島裏磐梯逾千人被困",
-      "flag": "🇭🇰",
-      "date": "2026-11-22",
-      "adaptedFrom": "明報",
-      "title": "日本大雪封路斷電　福島逾千居民及旅客被困山區",
-      "summary": "日本東北及北陸地區於11月20日及21日遭受嚴重大雪，導致多條道路被阻，福島縣北鹽原村受影響尤為嚴重。大雪令大量樹木倒塌，壓斷電線，村內約700戶家庭停電，通訊設施亦受損，連緊急報警熱線110也難以接通。受困於裏磐梯地區的居民約有948人，另有至少500名旅客滯留當地旅館。氣象部門指出，附近地區24小時內錄得約49厘米降雪量，救援工作因持續降雪而受到阻礙。",
+      "sourceUrl": "https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20261123/s00005/1795396038335/cop31%E5%BB%B6%E6%9C%9F%E5%85%A9%E6%97%A5%E9%96%89%E5%B9%95-%E6%9C%AA%E8%83%BD%E5%B0%B1%E6%94%BF%E6%B2%BB%E6%B1%BA%E5%AE%9A%E9%81%94%E6%88%90%E5%85%B1%E8%AD%98",
+      "flag": "🌍",
+      "date": "2026-11-23",
+      "adaptedFrom": "明報（2026年11月23日）",
+      "title": "COP31氣候峰會延期兩天結束　各國未能達成共同協議",
+      "summary": "聯合國氣候變化大會COP31在預定閉幕日期後延遲兩天，終於在22日落幕，但各成員國未能就重要的氣候政策決定達成一致共識，大會主席宣布相關文本無法通過。聯合國秘書長古特雷斯對此表示深感失望，指出各國政府未有充分回應氣候危機的迫切需要。全球氣候問題日益嚴峻，今次峰會未能取得突破性成果，令關注環境的人士感到沮喪，亦引起國際社會對未來氣候行動的憂慮。",
       "questions": {
         "lv1": [
-          "日本福島裏磐梯地區有多少名居民被大雪困住？",
-          "今次大雪造成甚麼破壞，令村民難以求救？"
+          "COP31峰會比原定計劃延遲了多少天才閉幕？",
+          "聯合國秘書長古特雷斯對峰會結果有何感受？"
         ],
         "lv2": [
-          "為甚麼大雪會令通訊系統癱瘓，這對救援工作有甚麼影響？",
-          "若你是當地政府官員，你會採取甚麼措施，幫助被困的居民和旅客？"
+          "為甚麼各國在氣候峰會上難以達成共同協議？你認為有哪些主要困難？",
+          "若氣候峰會未能達成協議，對地球環境可能造成甚麼影響？"
         ],
         "lv3": [
-          "日本每年都面臨嚴重的自然災害，政府和市民應如何在日常生活中做好準備，以減低災害的影響？",
-          "氣候變化是否可能令極端天氣事件（如今次大雪）變得更加頻繁和嚴重？我們應如何應對這個挑戰？"
+          "有人認為，富裕國家應該承擔更多責任和費用來應對氣候變化，因為它們歷史上排放了更多溫室氣體。你同意這個觀點嗎？為甚麼？",
+          "如果你是某個國家的代表出席COP31，你會提出甚麼建議，以協助各國達成共識？這些建議又可能面對甚麼阻礙？"
         ]
       }
     },
     {
-      "id": "2026-11-22-zh-2",
+      "id": "2026-11-23-zh-2",
       "lang": "zh",
-      "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/ins/兩岸/article/20261122/s00004/1795311273032/美擬禁華電訊商直接獲美電話號碼-中國商務部批fcc濫用監管權力-中方堅決反對",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
       "flag": "🇭🇰",
-      "date": "2026-11-22",
-      "adaptedFrom": "明報",
-      "title": "美國擬禁止中國電訊商獲取美國電話號碼　中方強烈反對斥濫權",
-      "summary": "美國聯邦通訊委員會（FCC）於11月19日以國家安全為理由，通過決議禁止中國移動、中國電信及中國聯通等中國電訊企業，直接取得美國的電話號碼。對此，中國商務部於11月22日強烈回應，批評FCC濫用監管權力，將商業問題政治化，並指此舉違反公平競爭原則。中方表示，美方的做法破壞了兩國在電訊領域的穩定合作，並敦促美方立即撤銷有關措施，否則中方將採取必要行動保護自身利益。",
+      "date": "2026-11-23",
+      "adaptedFrom": "星島日報（2026年11月23日）",
+      "title": "港鐵東鐵綫推跨境抽獎　李家超深圳APEC簽多項協議",
+      "summary": "港鐵今日（23日）起推出為期八星期的「搭東鐵跨境 每周抽勁獎」活動，市民只需透過MTR Mobile登記並乘搭指定過境車程，即有機會贏取全年免費通行證及單程車票，鼓勵更多人使用東鐵綫往返內地。與此同時，行政長官李家超在深圳出席APEC領導人峰會後，宣布多項成果，包括香港與智利簽署工作假期計劃協議，為香港青年提供前往智利一年的工作及旅遊簽證機會，有助擴闊香港年輕人的國際視野。",
       "questions": {
         "lv1": [
-          "美國哪個機構通過了禁止中國電訊商獲取美國電話號碼的決定？",
-          "中國哪個政府部門就此事發表聲明表示反對？"
+          "港鐵東鐵綫的抽獎活動由哪一天開始？",
+          "香港與哪個國家簽署了工作假期計劃協議？"
         ],
         "lv2": [
-          "美國以「國家安全」為由限制中國電訊公司，你認為這個理由是否合理？為甚麼？",
-          "當兩個國家在科技和通訊領域出現爭議時，通常可以透過甚麼方式解決？"
+          "港鐵推出抽獎活動鼓勵市民使用東鐵綫跨境，你認為這對香港和內地的交流有甚麼好處？",
+          "工作假期計劃讓香港青年到外國工作和旅遊一年，你認為這對年輕人有哪些益處和挑戰？"
         ],
         "lv3": [
-          "中美之間在科技和電訊領域的矛盾不斷加深，這種「科技脫鈎」的趨勢對全球的互聯網發展和普通用戶有甚麼長遠影響？",
-          "香港作為國際城市，若中美科技對抗持續升溫，可能對香港的通訊及科技行業帶來甚麼機遇與挑戰？"
+          "有意見認為，政府應該為年輕人提供更多海外交流機會，以擴闊他們的視野；但亦有人擔心這會令更多人才離開香港。你認為應如何平衡這兩種考慮？",
+          "APEC峰會是亞太區重要的經濟合作平台。你認為香港積極參與APEC對本港的經濟和國際地位有何長遠意義？"
         ]
       }
     }
