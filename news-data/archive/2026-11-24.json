@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-24T14:40:23.967871+08:00",
+  "date": "2026-11-24",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-24-en-1",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/science/china-to-launch-shenzhou-24-spaceship-with-first-foreign-astronaut-2026-11-24/",
+      "flag": "🇬🇧",
+      "date": "2026-11-24",
+      "adaptedFrom": "Reuters",
+      "title": "China Prepares to Launch First-Ever Foreign Astronaut to Its Space Station",
+      "summary": "China is getting ready to send a very special crew into space. On Wednesday, the Shenzhou-24 rocket is set to blast off carrying three astronauts, including Pakistani space traveller Muhammad Zeeshan Ali. He will become the very first person from another country to visit China's Tiangong space station. Flying alongside him are Chinese commander Tang Hongbo and flight engineer Wu Yi. The mission is a result of a space cooperation agreement between China and Pakistan signed in 2025. After spending about a week on the station conducting science experiments, Ali is expected to return to Earth aboard the Shenzhou-23 spacecraft.",
+      "questions": {
+        "lv1": [
+          "What is the name of the Pakistani astronaut flying on Shenzhou-24? (巴基斯坦太空人叫什麼名字？)",
+          "Which country's space station will the crew visit? (太空人將前往哪個國家的太空站？)"
+        ],
+        "lv2": [
+          "Why is this mission considered a historic moment for both China and Pakistan? (為什麼這次任務對中國和巴基斯坦都是歷史性時刻？)",
+          "How does international space cooperation, like this mission, benefit countries involved? (像這次任務的國際太空合作，對相關國家有什麼好處？)"
+        ],
+        "lv3": [
+          "China is now welcoming foreign astronauts to its space station while competing with the USA in a space race. What are the advantages and risks of countries competing vs. cooperating in space exploration? (中國現在歡迎外國太空人進入其太空站，同時與美國展開太空競賽。國家在太空探索方面競爭與合作各有什麼利與弊？)",
+          "Should space exploration be a shared global effort open to all nations, or is it acceptable for powerful countries to use it as a tool of political influence? Give reasons for your view. (太空探索應否成為所有國家共同參與的全球事業？還是大國利用它作為政治影響力的工具是可以接受的？請說明你的立場。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-24-zh-1",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://std.stheadline.com/realtime/hongkong/",
+      "flag": "🇭🇰",
+      "date": "2026-11-24",
+      "adaptedFrom": "星島日報",
+      "title": "港成立前沿科技發展聯盟　推動人工智能在港落地",
+      "summary": "香港今日正式成立「前沿科技發展聯盟」，由政府、企業、學術界及研究機構代表共同參與，於峰會上啟動。聯盟旨在推動人工智能及各項科研成果在香港落實應用，助力香港發展成為國際創新科技中心。與此同時，香港科研實力持續獲國際認可，多所大學學者在全球科學家影響力排行榜上名列前茅。香港正積極把握科技發展機遇，提升城市競爭力。",
+      "questions": {
+        "lv1": [
+          "今日香港成立了什麼新聯盟？",
+          "這個聯盟的成員主要來自哪些界別？"
+        ],
+        "lv2": [
+          "為什麼香港要成立「前沿科技發展聯盟」？這對香港有什麼好處？",
+          "人工智能在香港「落地應用」是什麼意思？可以舉出哪些實際例子？"
+        ],
+        "lv3": [
+          "香港要發展成為國際創新科技中心，需要面對哪些挑戰？與其他城市如深圳或新加坡相比，香港有哪些優勢與劣勢？",
+          "政府、企業和大學合作推動科技發展，這種合作模式有哪些潛在問題？例如在資源分配或科研自主性方面可能出現什麼矛盾？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-24-en-2",
+      "lang": "en",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.com/news/articles/world-cop31-antalya-climate-collapse-2026",
+      "flag": "🇬🇧",
+      "date": "2026-11-24",
+      "adaptedFrom": "BBC News",
+      "title": "Global Climate Talks End Without a Deal, Disappointing World Leaders",
+      "summary": "A major international climate conference known as COP31 has ended in failure. The meeting, held in Antalya, Turkey, was supposed to run from 9 to 20 November 2026, but talks dragged on for two extra days as countries argued about fossil fuels. On 22 November, the United Nations announced that the summit had completely broken down without reaching any agreement. European countries said they were deeply disappointed by the outcome. Scientists and environmental groups worry this setback will slow down global efforts to reduce carbon emissions and tackle climate change before temperatures rise to dangerous levels.",
+      "questions": {
+        "lv1": [
+          "Where was the COP31 climate conference held? (COP31氣候峰會在哪個城市舉行？)",
+          "Did the countries at COP31 manage to reach an agreement? (與會各國有沒有達成協議？)"
+        ],
+        "lv2": [
+          "Why do you think countries found it so difficult to agree on a deal about fossil fuels at COP31? (你認為各國為何難以在化石燃料問題上達成共識？)",
+          "What might happen to our planet if global leaders keep failing to agree on reducing carbon emissions? (如果全球領袖持續未能就減少碳排放達成共識，地球可能會面臨什麼後果？)"
+        ],
+        "lv3": [
+          "Some countries rely heavily on fossil fuels for their economy and energy supply. Is it fair to ask these countries to give up coal and oil at the same speed as richer, more developed nations? Discuss both sides. (部分國家的經濟和能源嚴重依賴化石燃料。要求這些國家與較富裕的發達國家以同樣速度放棄煤炭和石油，是否公平？請從兩方面討論。)",
+          "Some argue that climate conferences like COP are no longer effective and a different approach is needed. Do you agree? What alternatives might work better? (有人認為像COP這樣的氣候峰會已不再有效，需要採取不同的方法。你同意嗎？有什麼替代方案可能更有效？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-24-zh-2",
+      "lang": "zh",
+      "source": "香港01",
+      "sourceUrl": "https://www.hk01.com/zone/1/%E6%B8%AF%E8%81%9E",
+      "flag": "🇭🇰",
+      "date": "2026-11-24",
+      "adaptedFrom": "香港01",
+      "title": "小一自行分配學位今日放榜　成功率創歷史新高達56.5%",
+      "summary": "香港小學一年級「自行分配學位」計劃今日公布結果，全港成功獲派學位的學生比例高達56.5%，創下歷史新高。然而，不少家長反映，由於高才通計劃吸引大批外來家庭來港，競爭比以往更激烈。有家長為子女報讀名校，每月花費逾兩萬元讓子女參加各類興趣班，以增加入學機會。教育界人士提醒家長，子女升學應以興趣和個人發展為先，過度操練或對兒童身心造成壓力。",
+      "questions": {
+        "lv1": [
+          "今日公布的是哪個學位計劃的結果？",
+          "今年小一自行分配學位的成功率是多少？"
+        ],
+        "lv2": [
+          "為什麼今年小一入學競爭比以往更激烈？有哪些原因導致這個現象？",
+          "家長花大量金錢讓子女報讀興趣班，目的是什麼？這樣做有什麼利與弊？"
+        ],
+        "lv3": [
+          "香港的小學入學制度是否公平？富裕家庭的孩子是否比基層家庭的孩子有更多優勢？應如何改善這個問題？",
+          "過分著重子女的學業成績和入讀名校，會對香港社會帶來什麼長遠影響？家長、學校和政府各應承擔什麼責任？"
+        ]
+      }
+    }
+  ]
+}
