@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-26T12:39:14.228797+08:00",
+  "date": "2026-11-26",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-26-en-1",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://wkzo.com/2026/11/25/hong-kong-wildlife-groups-push-for-tighter-exotic-pet-rules-after-3-7-million-imports/",
+      "flag": "🇭🇰",
+      "date": "2026-11-26",
+      "adaptedFrom": "Reuters",
+      "title": "Hong Kong Imports Millions of Wild Animals — Conservation Groups Call for Stricter Rules",
+      "summary": "Every single hour, around 80 live exotic animals arrive in Hong Kong from countries around the world. Between 2020 and 2025, the city imported a total of 3.7 million live exotic animals from 86 countries, making it the world's biggest importer of endangered reptile species. Animal conservation groups are now worried that many of these animals could carry dangerous diseases and harmful organisms that might spread to people and local wildlife. At Hong Kong's Legislative Council, groups such as WWF-Hong Kong and Kadoorie Farm asked the government to create a \"Positive List\" — a set of rules naming only the animals that are safe and allowed to be imported and kept as pets. Neighbouring places like Singapore already have such rules in place.",
+      "questions": {
+        "lv1": [
+          "How many live exotic animals are brought into Hong Kong every hour? (每小時大約有多少隻外來野生動物被運到香港？)",
+          "What is a \"Positive List\" for exotic animals? (針對外來動物的「正面清單」是甚麼意思？)"
+        ],
+        "lv2": [
+          "Why are conservation groups worried about Hong Kong importing so many exotic animals, and what problems could this cause? (保育團體為何擔憂香港進口大量外來動物？這可能帶來甚麼問題？)",
+          "How does Singapore's approach to exotic pet rules differ from Hong Kong's current situation? (新加坡在規管外來寵物方面的做法，與香港目前的情況有何不同？)"
+        ],
+        "lv3": [
+          "Some people enjoy keeping exotic animals as pets, while others say it harms both wildlife and public health. Do you think Hong Kong should ban all exotic pet imports, or only regulate them more strictly? Give reasons for your view. (有人喜歡飼養外來動物，但也有人認為這會損害野生動物及公共衛生。你認為香港應全面禁止進口外來寵物，還是只需要更嚴格的規管？請說明理由。)",
+          "If a \"Positive List\" is introduced, who should decide which animals are safe to keep — scientists, the government, or animal welfare groups? What might happen if different groups disagree? (如果引入「正面清單」制度，應由誰決定哪些動物適合飼養——科學家、政府還是動物福利團體？若各方意見不同，會有甚麼後果？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-26-en-2",
+      "lang": "en",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/asia/east-asia/article/3375836/ill-keep-fighting-until-day-i-die-data-centres-ignite-revolt-japan",
+      "flag": "🇯🇵",
+      "date": "2026-11-26",
+      "adaptedFrom": "South China Morning Post",
+      "title": "Giant Data Centres Move Next Door to Homes in Japan — Residents Fight Back",
+      "summary": "Japan has become one of the most popular places in Asia for companies to build large data centres — the giant buildings that store information for the internet and AI technology. Because Japan has relatively relaxed rules and a stable political environment, many firms have chosen to build these massive structures right next to people's homes. Residents in affected areas complain about noise and the looming size of the buildings, some as tall as ten-storey blocks. Industry experts say Japan's data centre market could grow from US$23.4 billion in 2024 to US$33.4 billion by 2030. Local governments and industry groups have started drawing up guidelines, but neighbours say more urgent action is needed to protect their communities.",
+      "questions": {
+        "lv1": [
+          "What is a data centre used for? (數據中心是用來做甚麼的？)",
+          "Why have many companies chosen to build data centres in Japan? (為甚麼許多公司選擇在日本興建數據中心？)"
+        ],
+        "lv2": [
+          "Why are some Japanese residents unhappy about data centres being built near their homes, and what are they doing about it? (為甚麼一些日本居民不滿數據中心在住宅附近興建？他們採取了甚麼行動？)",
+          "How does the rapid growth of AI technology connect to the increasing number of data centres being built in Japan and around the world? (人工智能技術的快速發展，與日本及全球興建愈來愈多數據中心有甚麼關係？)"
+        ],
+        "lv3": [
+          "Data centres support technologies that many people use every day, but they can disturb local communities. How should governments balance the need for technology infrastructure with protecting residents' quality of life? (數據中心支撐着人們日常使用的科技，但同時可能影響社區生活。政府應如何平衡科技基礎設施的需求與保護居民生活質素？)",
+          "If a large data centre were planned to be built next to your school or home, what arguments would you make for or against it? Who do you think should have the final say? (假如有計劃在你的學校或住所旁邊興建大型數據中心，你會提出哪些支持或反對的理由？你認為最終應由誰作決定？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-26-zh-1",
+      "lang": "zh",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
+      "flag": "🇨🇳",
+      "date": "2026-11-26",
+      "adaptedFrom": "星島日報",
+      "title": "神舟二十四號即將升空　首位巴基斯坦太空人將登上中國天宮空間站",
+      "summary": "中國載人航天工程辦公室宣布，神舟二十四號載人飛船將於今日明早正式發射，執行一次具歷史意義的任務。今次乘組由指令長湯洪波帶領，成員包括航天飛行工程師武毅，以及來自巴基斯坦的載荷專家穆罕默德·齊尚·阿里。阿里成為首位登上中國天宮空間站的外籍太空人，標誌着中國航天國際合作邁出重要一步。與此同時，神舟二十三號港產太空人黎家盈已在空間站駐留185天，預計下周一順利返回地球。",
+      "questions": {
+        "lv1": [
+          "神舟二十四號乘組中，來自哪個國家的太空人將首次登上中國空間站？",
+          "港產太空人黎家盈在太空站駐留了多少天？"
+        ],
+        "lv2": [
+          "中國邀請巴基斯坦太空人參與神舟二十四號任務，對兩國關係有甚麼意義？",
+          "太空人在太空站長時間駐留，可能面對哪些身體和心理上的挑戰？"
+        ],
+        "lv3": [
+          "中國近年積極推動航天國際合作，邀請外國太空人參與任務。你認為這對中國及參與國家各有甚麼好處和潛在風險？",
+          "隨着愈來愈多國家參與太空探索，你認為各國應建立共同的太空合作規則嗎？這些規則應由誰來制定？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-26-zh-2",
+      "lang": "zh",
+      "source": "香港電台",
+      "sourceUrl": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/11/26/1998135/",
+      "flag": "🇭🇰",
+      "date": "2026-11-26",
+      "adaptedFrom": "香港電台",
+      "title": "香港藝術節網站遭黑客入侵　初步估計數千名觀眾個人資料外洩",
+      "summary": "香港藝術節協會於本周一發現，旗下主要網站遭到不明人士非法入侵，懷疑有數千名觀眾的個人資料因此外洩。協會已即時向警方報案，並通報個人資料私隱專員公署，展開調查。事件令外界關注本港文化機構的網絡安全水平。近年網絡攻擊事件在全球各地頻繁發生，不少機構的用戶資料遭竊，提醒市民妥善保護個人私隱，包括定期更換密碼及留意可疑電郵或訊息。",
+      "questions": {
+        "lv1": [
+          "香港藝術節網站遭入侵後，哪一類人的資料懷疑外洩？",
+          "機構發現網站被入侵後，向哪兩個部門報告了事件？"
+        ],
+        "lv2": [
+          "為甚麼網絡安全對文化機構和其他組織來說愈來愈重要？",
+          "個人資料外洩可能對受影響的觀眾造成哪些實際影響？"
+        ],
+        "lv3": [
+          "網絡攻擊事件日益增加，你認為機構、政府和個人各自應承擔甚麼責任來保護個人資料？",
+          "有人認為，為了方便網上服務，市民難免需要提供個人資料；但也有人認為應盡量減少收集資料。你認為兩者應如何取得平衡？"
+        ]
+      }
+    }
+  ]
+}

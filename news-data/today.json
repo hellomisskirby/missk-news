@@ -1,105 +1,105 @@
 {
-  "generated": "2026-11-25T13:12:11.493917+08:00",
-  "date": "2026-11-25",
+  "generated": "2026-11-26T12:39:14.228797+08:00",
+  "date": "2026-11-26",
   "count": 4,
   "articles": [
     {
-      "id": "2026-11-25-en-1",
+      "id": "2026-11-26-en-1",
       "lang": "en",
       "source": "Reuters",
-      "sourceUrl": "https://theprint.in/world/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut/3108138/",
-      "flag": "🌍",
-      "date": "2026-11-25",
-      "adaptedFrom": "Reuters",
-      "title": "China Sends First Foreign Astronaut to Its Space Station on Shenzhou-24 Mission",
-      "summary": "China made history today when its Shenzhou-24 spacecraft blasted off from the Jiuquan Satellite Launch Centre in northwest China. On board was Muhammad Zeeshan Ali, a 40-year-old Pakistani Air Force pilot, who became the very first person from a foreign country ever to travel to China's Tiangong space station. He flew alongside two Chinese crew members, commander Tang Hongbo and engineer Wu Yi. The rocket lifted off at 8:18 in the morning local time and successfully reached orbit. Ali is expected to stay at the station for up to ten days, carrying out science experiments. This mission marks a proud moment for Pakistan's space programme.",
-      "questions": {
-        "lv1": [
-          "What is the name of the Pakistani astronaut who went to space today? (今天前往太空的巴基斯坦太空人叫什麼名字？)",
-          "Which country's space station did the Shenzhou-24 crew travel to? (神舟二十四號的太空人前往哪個國家的太空站？)"
-        ],
-        "lv2": [
-          "Why is Muhammad Zeeshan Ali's journey considered a historic moment for both China and Pakistan? (為什麼穆罕默德·齊山·阿里的太空之旅對中國和巴基斯坦來說都是歷史性時刻？)",
-          "How might sending foreign astronauts to Tiangong help China in the future, especially as the International Space Station may retire by 2030? (讓外國太空人進駐天宮，對中國未來有什麼幫助，特別是在國際太空站可能於2030年退役的情況下？)"
-        ],
-        "lv3": [
-          "Some people believe China is using the Tiangong space station to build international partnerships and compete with the United States in space. Do you think space exploration should be competitive or cooperative between nations? Give reasons for your view. (有人認為中國利用天宮太空站建立國際夥伴關係，與美國在太空領域競爭。你認為各國的太空探索應該競爭還是合作？請說明你的理由。)",
-          "Zeeshan Ali said he flies not just for himself, but for his entire country. Should astronauts be seen as national heroes or as global citizens representing all of humanity? Discuss both sides. (齊山·阿里表示他的飛行不只是為了自己，更是為了整個國家。你認為太空人應該被視為國家英雄，還是代表全人類的世界公民？請從兩個角度討論。)"
-        ]
-      }
-    },
-    {
-      "id": "2026-11-25-en-2",
-      "lang": "en",
-      "source": "Reuters",
-      "sourceUrl": "https://theglobaleye.it/2026/11/25/global-news-25-november-2026/",
-      "flag": "🌍",
-      "date": "2026-11-25",
-      "adaptedFrom": "Reuters",
-      "title": "US Court Finds Huawei Guilty of Fraud and Stealing Trade Secrets",
-      "summary": "A jury in New York has found Chinese technology giant Huawei guilty in a major criminal trial. The case, which started back in 2018, involved accusations that Huawei misled banks about its business dealings with Iran and stole private technology secrets from American companies. The US government had already placed Huawei on a trade blacklist years ago, restricting its access to US technology over national security worries. The court has not yet decided what penalty Huawei will face — sentencing is planned for 2027. Huawei has denied the accusations, calling the verdict unfair. This case is one of the biggest technology legal battles between the US and China in recent years.",
-      "questions": {
-        "lv1": [
-          "What two things was Huawei found guilty of in the US court? (華為在美國法庭被裁定犯有哪兩項罪行？)",
-          "In which city did the court trial take place? (這場審訊在哪個城市進行？)"
-        ],
-        "lv2": [
-          "Why do you think the United States government placed Huawei on a trade blacklist, and what effect might this have on the company? (你認為美國政府為什麼將華為列入貿易黑名單，這對公司可能有什麼影響？)",
-          "How might a verdict like this affect the relationship between the US and China in the technology industry? (這樣的裁決可能如何影響美國和中國在科技行業之間的關係？)"
-        ],
-        "lv3": [
-          "Huawei says the verdict has no legal or factual basis, while US authorities say the company poses a national security risk. How should governments balance the desire for free trade with concerns about national security when dealing with foreign technology companies? (華為表示裁決沒有法律或事實依據，而美國當局則稱該公司構成國家安全威脅。政府在處理外國科技公司時，應如何在自由貿易的願望與國家安全的考慮之間取得平衡？)",
-          "Some countries continue to use Huawei products despite US pressure to ban them, while others have removed them from their networks. Should countries follow their own judgement or international allies when deciding which technology companies to trust? Explain your thinking. (儘管美國施壓要求禁用，部分國家仍繼續使用華為產品，而另一些國家則已將其從網絡中移除。各國在決定信任哪些科技公司時，應該遵從自己的判斷還是國際盟友的立場？請解釋你的想法。)"
-        ]
-      }
-    },
-    {
-      "id": "2026-11-25-zh-1",
-      "lang": "zh",
-      "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/section/20261125/s00001",
+      "sourceUrl": "https://wkzo.com/2026/11/25/hong-kong-wildlife-groups-push-for-tighter-exotic-pet-rules-after-3-7-million-imports/",
       "flag": "🇭🇰",
-      "date": "2026-11-25",
-      "adaptedFrom": "明報",
-      "title": "香港兩電明年加電費　中電升1.8%、港燈升7.9%　議員指補貼力度不足",
-      "summary": "中華電力及香港電燈宣布，明年將分別上調電費1.8%及7.9%，兩家電力公司的加幅差距擴大至約23個百分點。政府動用「電費穩定基金」撥款，嘗試減輕加價幅度，但有立法會議員批評補貼力度不足，認為市民仍要承受較大的加費壓力。政府同時表示，將進一步提高本港零碳能源的使用比例，以配合長遠減碳目標。受國際燃料價格上升影響，兩電今年的燃料調整費均已顯著攀升。",
+      "date": "2026-11-26",
+      "adaptedFrom": "Reuters",
+      "title": "Hong Kong Imports Millions of Wild Animals — Conservation Groups Call for Stricter Rules",
+      "summary": "Every single hour, around 80 live exotic animals arrive in Hong Kong from countries around the world. Between 2020 and 2025, the city imported a total of 3.7 million live exotic animals from 86 countries, making it the world's biggest importer of endangered reptile species. Animal conservation groups are now worried that many of these animals could carry dangerous diseases and harmful organisms that might spread to people and local wildlife. At Hong Kong's Legislative Council, groups such as WWF-Hong Kong and Kadoorie Farm asked the government to create a \"Positive List\" — a set of rules naming only the animals that are safe and allowed to be imported and kept as pets. Neighbouring places like Singapore already have such rules in place.",
       "questions": {
         "lv1": [
-          "明年中電和港燈的電費分別加幅是多少？",
-          "政府用了哪個基金來嘗試減低加費的影響？"
+          "How many live exotic animals are brought into Hong Kong every hour? (每小時大約有多少隻外來野生動物被運到香港？)",
+          "What is a \"Positive List\" for exotic animals? (針對外來動物的「正面清單」是甚麼意思？)"
         ],
         "lv2": [
-          "為什麼中電和港燈的加幅差距那麼大？這對市民有什麼影響？",
-          "政府提出增加零碳能源比例，這與電費調整有什麼關係？"
+          "Why are conservation groups worried about Hong Kong importing so many exotic animals, and what problems could this cause? (保育團體為何擔憂香港進口大量外來動物？這可能帶來甚麼問題？)",
+          "How does Singapore's approach to exotic pet rules differ from Hong Kong's current situation? (新加坡在規管外來寵物方面的做法，與香港目前的情況有何不同？)"
         ],
         "lv3": [
-          "有議員認為政府的補貼力度不足，但政府指已盡力減輕市民負擔。你認為在電費管理上，政府的責任應該到哪裡為止？市民又應如何自行應對能源開支上漲？",
-          "香港依賴兩家私營電力公司供電，部分人士認為應引入競爭或由政府主導能源供應。你認為能源行業應該由私營還是公營機構主導？兩種模式各有什麼利弊？"
+          "Some people enjoy keeping exotic animals as pets, while others say it harms both wildlife and public health. Do you think Hong Kong should ban all exotic pet imports, or only regulate them more strictly? Give reasons for your view. (有人喜歡飼養外來動物，但也有人認為這會損害野生動物及公共衛生。你認為香港應全面禁止進口外來寵物，還是只需要更嚴格的規管？請說明理由。)",
+          "If a \"Positive List\" is introduced, who should decide which animals are safe to keep — scientists, the government, or animal welfare groups? What might happen if different groups disagree? (如果引入「正面清單」制度，應由誰決定哪些動物適合飼養——科學家、政府還是動物福利團體？若各方意見不同，會有甚麼後果？)"
         ]
       }
     },
     {
-      "id": "2026-11-25-zh-2",
+      "id": "2026-11-26-en-2",
+      "lang": "en",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/asia/east-asia/article/3375836/ill-keep-fighting-until-day-i-die-data-centres-ignite-revolt-japan",
+      "flag": "🇯🇵",
+      "date": "2026-11-26",
+      "adaptedFrom": "South China Morning Post",
+      "title": "Giant Data Centres Move Next Door to Homes in Japan — Residents Fight Back",
+      "summary": "Japan has become one of the most popular places in Asia for companies to build large data centres — the giant buildings that store information for the internet and AI technology. Because Japan has relatively relaxed rules and a stable political environment, many firms have chosen to build these massive structures right next to people's homes. Residents in affected areas complain about noise and the looming size of the buildings, some as tall as ten-storey blocks. Industry experts say Japan's data centre market could grow from US$23.4 billion in 2024 to US$33.4 billion by 2030. Local governments and industry groups have started drawing up guidelines, but neighbours say more urgent action is needed to protect their communities.",
+      "questions": {
+        "lv1": [
+          "What is a data centre used for? (數據中心是用來做甚麼的？)",
+          "Why have many companies chosen to build data centres in Japan? (為甚麼許多公司選擇在日本興建數據中心？)"
+        ],
+        "lv2": [
+          "Why are some Japanese residents unhappy about data centres being built near their homes, and what are they doing about it? (為甚麼一些日本居民不滿數據中心在住宅附近興建？他們採取了甚麼行動？)",
+          "How does the rapid growth of AI technology connect to the increasing number of data centres being built in Japan and around the world? (人工智能技術的快速發展，與日本及全球興建愈來愈多數據中心有甚麼關係？)"
+        ],
+        "lv3": [
+          "Data centres support technologies that many people use every day, but they can disturb local communities. How should governments balance the need for technology infrastructure with protecting residents' quality of life? (數據中心支撐着人們日常使用的科技，但同時可能影響社區生活。政府應如何平衡科技基礎設施的需求與保護居民生活質素？)",
+          "If a large data centre were planned to be built next to your school or home, what arguments would you make for or against it? Who do you think should have the final say? (假如有計劃在你的學校或住所旁邊興建大型數據中心，你會提出哪些支持或反對的理由？你認為最終應由誰作決定？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-26-zh-1",
       "lang": "zh",
       "source": "星島日報",
       "sourceUrl": "https://www.singtaousa.com/news/china-news/",
-      "flag": "🇭🇰",
-      "date": "2026-11-25",
+      "flag": "🇨🇳",
+      "date": "2026-11-26",
       "adaptedFrom": "星島日報",
-      "title": "神舟二十四號今早升空　巴基斯坦太空人首次進駐中國天宮站",
-      "summary": "中國神舟二十四號載人飛船今日清晨於酒泉衛星發射中心成功升空，順利進入預定軌道，航天員乘組狀態良好。今次任務最受矚目之處，是巴基斯坦空軍飛行員穆罕默德·齊山·阿里隨行，成為首位踏上中國天宮太空站的外國太空人。他將在站上逗留五至十天，執行科學實驗任務。隨着國際太空站預計於2030年前後退役，天宮站被視為未來重要的國際太空合作平台，今次任務標誌著中國太空計劃邁向更廣泛的國際合作新里程。",
+      "title": "神舟二十四號即將升空　首位巴基斯坦太空人將登上中國天宮空間站",
+      "summary": "中國載人航天工程辦公室宣布，神舟二十四號載人飛船將於今日明早正式發射，執行一次具歷史意義的任務。今次乘組由指令長湯洪波帶領，成員包括航天飛行工程師武毅，以及來自巴基斯坦的載荷專家穆罕默德·齊尚·阿里。阿里成為首位登上中國天宮空間站的外籍太空人，標誌着中國航天國際合作邁出重要一步。與此同時，神舟二十三號港產太空人黎家盈已在空間站駐留185天，預計下周一順利返回地球。",
       "questions": {
         "lv1": [
-          "今次神舟二十四號任務中，哪個國家的太空人首次登上天宮站？",
-          "神舟二十四號是從中國哪個地方發射升空的？"
+          "神舟二十四號乘組中，來自哪個國家的太空人將首次登上中國空間站？",
+          "港產太空人黎家盈在太空站駐留了多少天？"
         ],
         "lv2": [
-          "為什麼讓外國太空人參與神舟任務，對中國的太空計劃來說具有重要意義？",
-          "天宮站在國際太空站退役後，可能扮演什麼角色？這對全球太空探索有什麼影響？"
+          "中國邀請巴基斯坦太空人參與神舟二十四號任務，對兩國關係有甚麼意義？",
+          "太空人在太空站長時間駐留，可能面對哪些身體和心理上的挑戰？"
         ],
         "lv3": [
-          "中國邀請外國太空人進駐天宮站，有人認為這是推動太空國際合作的正面舉動，也有人認為是中國擴大地緣政治影響力的策略。你認為太空合作應以科學為本，還是難免受政治因素左右？請從不同角度分析。",
-          "隨著太空技術不斷進步，各國在太空領域的競爭日益激烈。你認為太空應該是一個所有國家共同開發的「全球公共資源」，還是允許個別國家或私人企業佔領和主導？請闡述你的立場。"
+          "中國近年積極推動航天國際合作，邀請外國太空人參與任務。你認為這對中國及參與國家各有甚麼好處和潛在風險？",
+          "隨着愈來愈多國家參與太空探索，你認為各國應建立共同的太空合作規則嗎？這些規則應由誰來制定？"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-26-zh-2",
+      "lang": "zh",
+      "source": "香港電台",
+      "sourceUrl": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/11/26/1998135/",
+      "flag": "🇭🇰",
+      "date": "2026-11-26",
+      "adaptedFrom": "香港電台",
+      "title": "香港藝術節網站遭黑客入侵　初步估計數千名觀眾個人資料外洩",
+      "summary": "香港藝術節協會於本周一發現，旗下主要網站遭到不明人士非法入侵，懷疑有數千名觀眾的個人資料因此外洩。協會已即時向警方報案，並通報個人資料私隱專員公署，展開調查。事件令外界關注本港文化機構的網絡安全水平。近年網絡攻擊事件在全球各地頻繁發生，不少機構的用戶資料遭竊，提醒市民妥善保護個人私隱，包括定期更換密碼及留意可疑電郵或訊息。",
+      "questions": {
+        "lv1": [
+          "香港藝術節網站遭入侵後，哪一類人的資料懷疑外洩？",
+          "機構發現網站被入侵後，向哪兩個部門報告了事件？"
+        ],
+        "lv2": [
+          "為甚麼網絡安全對文化機構和其他組織來說愈來愈重要？",
+          "個人資料外洩可能對受影響的觀眾造成哪些實際影響？"
+        ],
+        "lv3": [
+          "網絡攻擊事件日益增加，你認為機構、政府和個人各自應承擔甚麼責任來保護個人資料？",
+          "有人認為，為了方便網上服務，市民難免需要提供個人資料；但也有人認為應盡量減少收集資料。你認為兩者應如何取得平衡？"
         ]
       }
     }
