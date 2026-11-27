@@ -1,0 +1,107 @@
+{
+  "generated": "2026-11-27T12:42:52.184224+08:00",
+  "date": "2026-11-27",
+  "count": 4,
+  "articles": [
+    {
+      "id": "2026-11-27-en-1",
+      "lang": "en",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/sustainability/climate-energy/nepal-launches-glacial-flood-project-2026-11-26/",
+      "flag": "🇬🇧",
+      "date": "2026-11-27",
+      "adaptedFrom": "Reuters / IANS via The Shillong Times",
+      "title": "Nepal Launches Major Plan to Lower Dangerous Mountain Lakes and Prevent Deadly Floods",
+      "summary": "Nepal and the United Nations have teamed up on a nearly $50 million project to make four high-altitude Himalayan glacial lakes safer. The project, called GLOF Sanjibani, was officially launched in Kathmandu on 25 November 2026 and will run until 2033. Workers plan to lower the water levels of four specific lakes by using specially designed gate structures, reducing the risk that the lakes could suddenly burst and send huge floods rushing down into towns and villages below. The project will also set up better weather-monitoring equipment and early warning systems so that communities downstream have more time to get to safety if danger approaches.",
+      "questions": {
+        "lv1": [
+          "What is the name of the project Nepal launched to protect people from glacial floods? (尼泊爾推出了什麼項目來保護人們免受冰川洪水侵害？)",
+          "Which international organisation is working together with Nepal on this project? (哪個國際組織與尼泊爾合作推行這個項目？)"
+        ],
+        "lv2": [
+          "Why is it important to lower the water level of glacial lakes, and what could happen if nothing is done? (為什麼降低冰川湖的水位很重要？如果什麼都不做，會有什麼後果？)",
+          "How do early warning systems help protect people who live near dangerous glacial lakes? (預警系統如何幫助居住在危險冰川湖附近的人們？)"
+        ],
+        "lv3": [
+          "Who do you think should pay for projects that protect poor mountain communities from climate-related disasters — their own government, wealthy nations, or international organisations? Why? (你認為誰應該為保護貧困山區社區免受氣候災害的項目付費——本國政府、富裕國家還是國際組織？為什麼？)",
+          "As glaciers continue to melt due to climate change, is draining lakes a long-term solution, or should the world focus more on reducing the pollution that causes global warming in the first place? Discuss both sides. (隨著氣候變化導致冰川持續融化，排乾湖水是長遠解決辦法嗎？還是世界應更著重減少造成全球暖化的污染？請討論兩方觀點。)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-27-en-2",
+      "lang": "en",
+      "source": "東方日報 / on.cc",
+      "sourceUrl": "https://hk.on.cc/hk/bkn/cnt/news/20261127/bkn-20261127033035917-1127_00822_001.html",
+      "flag": "🇭🇰",
+      "date": "2026-11-27",
+      "adaptedFrom": "東方日報 (Oriental Daily) via on.cc",
+      "title": "A First in China: AI Technology Helps Doctors Successfully Save a Patient Whose Heart Stopped",
+      "summary": "Doctors in China have achieved a remarkable breakthrough: for the very first time in the country, artificial intelligence was used to help guide the treatment of a patient whose heart had suddenly stopped beating. Medical staff worked alongside an AI system that provided real-time instructions and analysis during the emergency, helping the team make faster and more accurate decisions. The patient was successfully saved. Experts say this event shows that AI is no longer just a tool for research or administration — it is now entering the emergency room and could one day help save many more lives in critical situations where every second counts.",
+      "questions": {
+        "lv1": [
+          "What type of medical emergency did the AI system help doctors treat in China? (人工智能系統幫助中國醫生處理了哪種醫療緊急情況？)",
+          "Was the patient in this story saved successfully? (故事中的病人最終成功獲救了嗎？)"
+        ],
+        "lv2": [
+          "Why might having an AI system to assist doctors during a cardiac arrest be better than relying on doctors alone? (為什麼在心臟驟停期間借助人工智能系統輔助醫生，可能比單靠醫生更好？)",
+          "What kinds of information might an AI system provide to doctors during a medical emergency that could help them act faster? (在醫療緊急情況下，人工智能系統可能向醫生提供哪些信息，幫助他們更快採取行動？)"
+        ],
+        "lv3": [
+          "If AI becomes widely used in hospitals to guide emergency treatment, what are the potential benefits and risks — for example, regarding privacy, dependence on technology, and accountability if something goes wrong? (如果人工智能在醫院急救中被廣泛使用，有什麼潛在的好處和風險？例如，關於私隱、對科技的依賴，以及出錯時的責任問題。)",
+          "Should doctors always have the final say in medical decisions, even when an AI system disagrees with their judgement? Who should be held responsible if an AI-guided treatment leads to a patient's death? (即使人工智能系統與醫生判斷不同，醫生是否應始終擁有最終決定權？若人工智能引導的治療導致病人死亡，誰應負責？)"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-27-zh-1",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20261127/s00001/1795747683139/%E9%9D%92%E8%A1%A3%E7%99%BC%E7%94%9F%E6%92%9E%E8%88%B9%E6%84%8F%E5%A4%96%E8%87%B3%E5%B0%9125%E4%BA%BA%E5%82%B7%E5%8C%85%E6%8B%AC2%E5%B0%8F%E7%AB%A5-%E7%95%B6%E4%B8%AD5%E4%BA%BA%E6%83%85%E5%86%B5%E5%9A%B4%E9%87%8D",
+      "flag": "🇭🇰",
+      "date": "2026-11-27",
+      "adaptedFrom": "明報",
+      "title": "青衣海面客輪碰撞船塢設施　至少25人受傷包括兩名小童",
+      "summary": "今日（27日）早上約九時半，一艘由上環前往蛇口的客輪，在青衣油庫附近海面疑似與船塢設施相撞，造成至少25名乘客受傷，當中包括兩名小童，另有五人傷勢較嚴重。消防處派出共15輛救護車及流動醫療車趕赴現場，部分傷者其後被送往瑪嘉烈醫院接受治療。事故原因仍在調查中，警方呼籲市民留意水上交通安全。",
+      "questions": {
+        "lv1": [
+          "今次撞船意外發生在香港哪個地方？",
+          "事故中共有多少人受傷，當中包括幾名小童？"
+        ],
+        "lv2": [
+          "為什麼客輪在繁忙的香港水域行駛時，特別需要注意安全？",
+          "消防處派出大量救護車到場，反映了怎樣的應急處理機制？"
+        ],
+        "lv3": [
+          "香港水上交通繁忙，你認為政府應採取哪些措施以減少海上意外的發生？請提出至少兩項建議並解釋原因。",
+          "當發生涉及公共交通的意外時，媒體、乘客與政府部門各自應承擔什麼責任？請從不同角度分析。"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-27-zh-2",
+      "lang": "zh",
+      "source": "明報",
+      "sourceUrl": "https://news.mingpao.com/ins/%E5%85%A9%E5%B2%B8/article/20261127/s00004/1795743299557/%E4%BA%BA%E8%A1%8C%E7%99%BC%E8%A1%8C2027%E7%BE%8A%E5%B9%B4%E8%B2%B4%E9%87%91%E5%B1%AC%E7%B4%80%E5%BF%B5%E5%B9%A3-%E9%87%91%E9%8A%80%E9%89%91%E5%85%B111%E6%AC%BE",
+      "flag": "🇨🇳",
+      "date": "2026-11-27",
+      "adaptedFrom": "明報",
+      "title": "中國人民銀行發行2027丁未羊年紀念幣　金銀鉑共11款",
+      "summary": "中國人民銀行於今日（27日）正式發行2027年丁未（羊）年賀歲貴金屬紀念幣，整套共有11枚，分別包括六枚金幣、四枚銀幣及一枚鉑幣，全部屬中國法定貨幣。賀歲紀念幣是中國傳統文化的重要組成部分，以十二生肖為主題，每年發行不同款式，深受收藏家及市民歡迎。羊在中國文化中象徵吉祥與和平，是廣受喜愛的生肖之一。",
+      "questions": {
+        "lv1": [
+          "今次人民銀行發行的紀念幣以哪種生肖動物為主題？",
+          "整套紀念幣共有多少枚，分別包括哪幾種金屬？"
+        ],
+        "lv2": [
+          "為什麼中國每年都會發行生肖紀念幣？這對保存中國傳統文化有什麼意義？",
+          "貴金屬紀念幣與普通流通硬幣有什麼分別？為何有人願意收藏它們？"
+        ],
+        "lv3": [
+          "有人認為發行貴金屬紀念幣只是給富有人士投資的工具，與普通市民關係不大；你是否同意？請提出支持及反對的理由。",
+          "隨著數字貨幣的普及，實體紀念幣的文化和收藏價值會否逐漸降低？科技發展如何影響人們對傳統貨幣文化的態度？"
+        ]
+      }
+    }
+  ]
+}
