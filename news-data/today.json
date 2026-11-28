@@ -1,105 +1,105 @@
 {
-  "generated": "2026-11-27T12:42:52.184224+08:00",
-  "date": "2026-11-27",
+  "generated": "2026-11-28T12:27:43.171496+08:00",
+  "date": "2026-11-28",
   "count": 4,
   "articles": [
     {
-      "id": "2026-11-27-en-1",
+      "id": "2026-11-28-en-1",
       "lang": "en",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/sustainability/climate-energy/nepal-launches-glacial-flood-project-2026-11-26/",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/asia/southeast-asia/article/3376073/cash-strapped-airasia-pushes-back-malaysian-paydays-axes-90-philippine-pilots",
       "flag": "🇬🇧",
       "date": "2026-11-27",
-      "adaptedFrom": "Reuters / IANS via The Shillong Times",
-      "title": "Nepal Launches Major Plan to Lower Dangerous Mountain Lakes and Prevent Deadly Floods",
-      "summary": "Nepal and the United Nations have teamed up on a nearly $50 million project to make four high-altitude Himalayan glacial lakes safer. The project, called GLOF Sanjibani, was officially launched in Kathmandu on 25 November 2026 and will run until 2033. Workers plan to lower the water levels of four specific lakes by using specially designed gate structures, reducing the risk that the lakes could suddenly burst and send huge floods rushing down into towns and villages below. The project will also set up better weather-monitoring equipment and early warning systems so that communities downstream have more time to get to safety if danger approaches.",
+      "adaptedFrom": "South China Morning Post",
+      "title": "Budget Airline AirAsia Delays Worker Pay and Cuts Pilot Jobs to Save Money",
+      "summary": "Southeast Asia's biggest low-cost airline, AirAsia, is going through financial difficulties. To save money, the company announced it will pay Malaysian staff salaries at the end of each month instead of earlier, as it used to do. The airline described this as an internal adjustment, not a cut to workers' pay. All wages will still be paid in full. At the same time, AirAsia's Philippine branch is removing around 90 pilot positions. The airline has been losing money and is working hard to manage its cash. These changes affect thousands of workers across the region.",
       "questions": {
         "lv1": [
-          "What is the name of the project Nepal launched to protect people from glacial floods? (尼泊爾推出了什麼項目來保護人們免受冰川洪水侵害？)",
-          "Which international organisation is working together with Nepal on this project? (哪個國際組織與尼泊爾合作推行這個項目？)"
+          "What did AirAsia change about how it pays its Malaysian workers? (亞洲航空對馬來西亞員工的薪酬安排作出了什麼改變？)",
+          "In which country did AirAsia cut around 90 pilot jobs? (亞洲航空在哪個國家裁減了約90名機師職位？)"
         ],
         "lv2": [
-          "Why is it important to lower the water level of glacial lakes, and what could happen if nothing is done? (為什麼降低冰川湖的水位很重要？如果什麼都不做，會有什麼後果？)",
-          "How do early warning systems help protect people who live near dangerous glacial lakes? (預警系統如何幫助居住在危險冰川湖附近的人們？)"
+          "Why might a company delay paying workers even if the total pay stays the same? Can you think of any reason a business would do this? (為什麼一間公司即使薪酬總額不變，也可能推遲向員工出糧？你能想到商業上這樣做的原因嗎？)",
+          "How do you think pilots who lost their jobs might feel, and what challenges could they face? (你認為失去工作的機師會有什麼感受，他們可能面對哪些挑戰？)"
         ],
         "lv3": [
-          "Who do you think should pay for projects that protect poor mountain communities from climate-related disasters — their own government, wealthy nations, or international organisations? Why? (你認為誰應該為保護貧困山區社區免受氣候災害的項目付費——本國政府、富裕國家還是國際組織？為什麼？)",
-          "As glaciers continue to melt due to climate change, is draining lakes a long-term solution, or should the world focus more on reducing the pollution that causes global warming in the first place? Discuss both sides. (隨著氣候變化導致冰川持續融化，排乾湖水是長遠解決辦法嗎？還是世界應更著重減少造成全球暖化的污染？請討論兩方觀點。)"
+          "When a company is losing money, is it fair to cut jobs or delay workers' pay to stay in business? Who should be protected first — the company or the employees? Explain your view. (當一間公司虧損時，為了維持營運而裁員或推遲出糧，這樣做是否公平？公司還是員工應該優先受到保障？請說明你的立場。)",
+          "Budget airlines offer cheap travel but sometimes struggle to stay profitable. Do you think governments should help struggling airlines, or should airlines be allowed to fail? What are the consequences of each choice? (廉價航空提供平價旅遊，但有時難以維持盈利。你認為政府應該協助陷入困境的航空公司，還是讓它們倒閉？兩種選擇各有什麼後果？)"
         ]
       }
     },
     {
-      "id": "2026-11-27-en-2",
+      "id": "2026-11-28-en-2",
       "lang": "en",
-      "source": "東方日報 / on.cc",
-      "sourceUrl": "https://hk.on.cc/hk/bkn/cnt/news/20261127/bkn-20261127033035917-1127_00822_001.html",
-      "flag": "🇭🇰",
-      "date": "2026-11-27",
-      "adaptedFrom": "東方日報 (Oriental Daily) via on.cc",
-      "title": "A First in China: AI Technology Helps Doctors Successfully Save a Patient Whose Heart Stopped",
-      "summary": "Doctors in China have achieved a remarkable breakthrough: for the very first time in the country, artificial intelligence was used to help guide the treatment of a patient whose heart had suddenly stopped beating. Medical staff worked alongside an AI system that provided real-time instructions and analysis during the emergency, helping the team make faster and more accurate decisions. The patient was successfully saved. Experts say this event shows that AI is no longer just a tool for research or administration — it is now entering the emergency room and could one day help save many more lives in critical situations where every second counts.",
+      "source": "Reuters",
+      "sourceUrl": "https://tradingview.com/news/reuters.com,2026:newsml_FWN47716L:0-hong-kong-seeks-to-lure-sovereign-wealth-funds-with-tax-breaks-ft-reports",
+      "flag": "🇬🇧",
+      "date": "2026-11-28",
+      "adaptedFrom": "Reuters",
+      "title": "Hong Kong Plans Special Tax Cuts to Attract Big Global Investors",
+      "summary": "Hong Kong is working on a plan to offer lower taxes to huge investment funds run by governments and pension organisations from around the world. These are called sovereign wealth funds and pension funds — they manage enormous amounts of money on behalf of countries and retired workers. By giving them tax benefits, Hong Kong hopes more of these powerful investors will choose the city as their base in Asia. This move is part of Hong Kong's wider effort to strengthen its position as a leading global financial centre and bring in more international business after a challenging few years.",
       "questions": {
         "lv1": [
-          "What type of medical emergency did the AI system help doctors treat in China? (人工智能系統幫助中國醫生處理了哪種醫療緊急情況？)",
-          "Was the patient in this story saved successfully? (故事中的病人最終成功獲救了嗎？)"
+          "What is Hong Kong offering to attract big investment funds from other countries? (香港正提供什麼優惠，以吸引來自其他國家的大型投資基金？)",
+          "What are sovereign wealth funds? (什麼是主權財富基金？)"
         ],
         "lv2": [
-          "Why might having an AI system to assist doctors during a cardiac arrest be better than relying on doctors alone? (為什麼在心臟驟停期間借助人工智能系統輔助醫生，可能比單靠醫生更好？)",
-          "What kinds of information might an AI system provide to doctors during a medical emergency that could help them act faster? (在醫療緊急情況下，人工智能系統可能向醫生提供哪些信息，幫助他們更快採取行動？)"
+          "Why would lower taxes make Hong Kong more attractive to foreign investors compared to other cities in Asia? (為什麼較低的稅率能令香港比亞洲其他城市對外國投資者更具吸引力？)",
+          "How might bringing more large investment funds to Hong Kong benefit ordinary people living in the city? (吸引更多大型投資基金來港，可能如何令香港普通市民受益？)"
         ],
         "lv3": [
-          "If AI becomes widely used in hospitals to guide emergency treatment, what are the potential benefits and risks — for example, regarding privacy, dependence on technology, and accountability if something goes wrong? (如果人工智能在醫院急救中被廣泛使用，有什麼潛在的好處和風險？例如，關於私隱、對科技的依賴，以及出錯時的責任問題。)",
-          "Should doctors always have the final say in medical decisions, even when an AI system disagrees with their judgement? Who should be held responsible if an AI-guided treatment leads to a patient's death? (即使人工智能系統與醫生判斷不同，醫生是否應始終擁有最終決定權？若人工智能引導的治療導致病人死亡，誰應負責？)"
+          "Some people think tax breaks for large funds are unfair because ordinary citizens and small businesses pay full taxes. Do you agree or disagree? Who should benefit most from tax policies? (有人認為向大型基金提供稅務優惠並不公平，因為普通市民和小企業須繳納全額稅款。你同意還是不同意？稅務政策應該最有利於誰？)",
+          "Hong Kong competes with cities like Singapore and Dubai to attract global finance. Is competition between cities for investment good or bad for the world economy? Who wins and who might lose? (香港與新加坡、杜拜等城市競爭吸引全球金融業。城市之間為吸引投資而競爭，對全球經濟是好事還是壞事？誰會得益，誰可能受損？)"
         ]
       }
     },
     {
-      "id": "2026-11-27-zh-1",
+      "id": "2026-11-28-zh-1",
       "lang": "zh",
-      "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20261127/s00001/1795747683139/%E9%9D%92%E8%A1%A3%E7%99%BC%E7%94%9F%E6%92%9E%E8%88%B9%E6%84%8F%E5%A4%96%E8%87%B3%E5%B0%9125%E4%BA%BA%E5%82%B7%E5%8C%85%E6%8B%AC2%E5%B0%8F%E7%AB%A5-%E7%95%B6%E4%B8%AD5%E4%BA%BA%E6%83%85%E5%86%B5%E5%9A%B4%E9%87%8D",
+      "source": "星島日報",
+      "sourceUrl": "https://www.singtaousa.com/news/china-news/",
       "flag": "🇭🇰",
-      "date": "2026-11-27",
-      "adaptedFrom": "明報",
-      "title": "青衣海面客輪碰撞船塢設施　至少25人受傷包括兩名小童",
-      "summary": "今日（27日）早上約九時半，一艘由上環前往蛇口的客輪，在青衣油庫附近海面疑似與船塢設施相撞，造成至少25名乘客受傷，當中包括兩名小童，另有五人傷勢較嚴重。消防處派出共15輛救護車及流動醫療車趕赴現場，部分傷者其後被送往瑪嘉烈醫院接受治療。事故原因仍在調查中，警方呼籲市民留意水上交通安全。",
+      "date": "2026-11-28",
+      "adaptedFrom": "星島日報",
+      "title": "兩電宣布明年電費加價　港燈加幅逾七成　居民憂成本上升",
+      "summary": "中電及港燈宣布，由明年元旦起調整電費，中電加幅約1.8%，港燈加幅則高達7.9%。由於國際燃料價格持續波動上升，兩家電力公司的燃料調整費均較年初大幅增加。港島居民和商戶擔心電費大幅上漲會令生活及營運成本增加。有學者指出，隨著能源成本長期偏高，兩電電費未來繼續上調將是大趨勢，市民應做好心理準備並考慮節約用電。",
       "questions": {
         "lv1": [
-          "今次撞船意外發生在香港哪個地方？",
-          "事故中共有多少人受傷，當中包括幾名小童？"
+          "中電和港燈的電費分別加幅多少？",
+          "電費加價將於哪一天起生效？"
         ],
         "lv2": [
-          "為什麼客輪在繁忙的香港水域行駛時，特別需要注意安全？",
-          "消防處派出大量救護車到場，反映了怎樣的應急處理機制？"
+          "為什麼國際燃料價格上升會導致香港電費增加？兩者有什麼關係？",
+          "電費上漲對普通家庭和小型商戶各有什麼影響？"
         ],
         "lv3": [
-          "香港水上交通繁忙，你認為政府應採取哪些措施以減少海上意外的發生？請提出至少兩項建議並解釋原因。",
-          "當發生涉及公共交通的意外時，媒體、乘客與政府部門各自應承擔什麼責任？請從不同角度分析。"
+          "香港電力市場由中電和港燈兩間公司分區壟斷供應。你認為這種壟斷模式對消費者公平嗎？引入競爭是否能幫助控制電費？",
+          "面對電費持續上漲，社會上有人建議政府加大推廣可再生能源，減少依賴化石燃料。你認為這個方向是否可行？香港發展可再生能源有哪些優勢和挑戰？"
         ]
       }
     },
     {
-      "id": "2026-11-27-zh-2",
+      "id": "2026-11-28-zh-2",
       "lang": "zh",
-      "source": "明報",
-      "sourceUrl": "https://news.mingpao.com/ins/%E5%85%A9%E5%B2%B8/article/20261127/s00004/1795743299557/%E4%BA%BA%E8%A1%8C%E7%99%BC%E8%A1%8C2027%E7%BE%8A%E5%B9%B4%E8%B2%B4%E9%87%91%E5%B1%AC%E7%B4%80%E5%BF%B5%E5%B9%A3-%E9%87%91%E9%8A%80%E9%89%91%E5%85%B111%E6%AC%BE",
-      "flag": "🇨🇳",
-      "date": "2026-11-27",
-      "adaptedFrom": "明報",
-      "title": "中國人民銀行發行2027丁未羊年紀念幣　金銀鉑共11款",
-      "summary": "中國人民銀行於今日（27日）正式發行2027年丁未（羊）年賀歲貴金屬紀念幣，整套共有11枚，分別包括六枚金幣、四枚銀幣及一枚鉑幣，全部屬中國法定貨幣。賀歲紀念幣是中國傳統文化的重要組成部分，以十二生肖為主題，每年發行不同款式，深受收藏家及市民歡迎。羊在中國文化中象徵吉祥與和平，是廣受喜愛的生肖之一。",
+      "source": "東方日報",
+      "sourceUrl": "https://hk.on.cc/hk/bkn/cnt/news/20261128/bkn-20261128033054505-1128_00822_001.html",
+      "flag": "🇭🇰",
+      "date": "2026-11-28",
+      "adaptedFrom": "東方日報",
+      "title": "AI助黑客入侵更猖獗　港多間機構資料外洩　私隱署促加強防護",
+      "summary": "近期香港接連發生資料外洩事故，多間大型公私營機構的電腦系統遭黑客入侵，大量客戶個人資料被盜取。私隱專員公署指出，人工智能（AI）技術的普及令黑客能夠更快、更有效地發動網絡攻擊，情況令人憂慮。有立法會議員提醒，即使機構將電腦系統外判予第三方公司管理，一旦發生資料外洩，原機構仍須承擔法律責任，不得將責任推卸給外判商，呼籲各界加強網絡保安意識及防護措施。",
       "questions": {
         "lv1": [
-          "今次人民銀行發行的紀念幣以哪種生肖動物為主題？",
-          "整套紀念幣共有多少枚，分別包括哪幾種金屬？"
+          "人工智能技術對黑客攻擊有什麼影響？",
+          "機構將資訊系統外判後，若發生資料外洩，法律責任由誰承擔？"
         ],
         "lv2": [
-          "為什麼中國每年都會發行生肖紀念幣？這對保存中國傳統文化有什麼意義？",
-          "貴金屬紀念幣與普通流通硬幣有什麼分別？為何有人願意收藏它們？"
+          "為什麼黑客會想要盜取普通市民的個人資料？他們可能用這些資料做什麼？",
+          "機構應該採取哪些措施來保護客戶的個人資料，防止被黑客入侵？"
         ],
         "lv3": [
-          "有人認為發行貴金屬紀念幣只是給富有人士投資的工具，與普通市民關係不大；你是否同意？請提出支持及反對的理由。",
-          "隨著數字貨幣的普及，實體紀念幣的文化和收藏價值會否逐漸降低？科技發展如何影響人們對傳統貨幣文化的態度？"
+          "人工智能是一把「雙刃劍」——它既可以幫助保護網絡安全，也可以被黑客利用來發動攻擊。你認為社會應該如何在推動AI發展與防範AI被濫用之間取得平衡？",
+          "有意見認為，香港應該立法要求所有機構必須在規定時間內向公眾披露資料外洩事故。你支持這項建議嗎？強制披露對機構和市民各有什麼利與弊？"
         ]
       }
     }
